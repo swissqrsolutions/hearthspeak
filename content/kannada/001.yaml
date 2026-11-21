@@ -69,6 +69,9 @@ speakers:
     pitch: +4Hz
     rate: +4%
 lines:
+  - chapter: Friday evening — Sam arrives
+  - section: 🚪 Arriving at the gate
+    learn: 'greetings · “I am …” with no verb · polite commands: banni, biḍi'
   - scene: At the gate of the Rao house, 7 p.m. Sam rings the bell.
   - who: sam
     t: ನಮಸ್ಕಾರ! ನಾನು ಸ್ಯಾಮ್. ಪಿಜಿ ರೂಮ್ ಬಗ್ಗೆ ಫೋನ್ ಮಾಡಿದ್ದೆ.
@@ -90,6 +93,8 @@ lines:
     t: ಲಕ್ಷ್ಮೀ! ಹುಡುಗ ಬಂದ, ನೋಡು!
     tr: Lakshmī! Huḍuga banda, nōḍu!
     en: Lakshmi! The boy is here, come and see!
+  - section: ☕ The first coffee
+    learn: offering & accepting · eṣṭu (how much) · -inda (from) · “where are you from?”
   - scene: The living room. A ceiling fan, a TV playing the news, jasmine in a steel vase.
   - who: amma
     t: ಬನ್ನಿ, ಕೂತ್ಕೊಳ್ಳಿ. ಕಾಫಿ ಕುಡೀತೀರಾ?
@@ -119,6 +124,8 @@ lines:
     t: ಓಹೋ, ಸ್ವಿಟ್ಜರ್ಲ್ಯಾಂಡ್! ಚಾಕಲೇಟ್ ದೇಶ!
     tr: Ōhō, Switzerland! Chocolate dēsha!
     en: Oho, Switzerland! The land of chocolate!
+  - section: 🏏 Meet Kiran
+    learn: 'family words (maga) · “what is …?” (andre ēnu) · Bengaluru slang: bro, maga'
   - scene: The door bangs open. Kiran, 19, walks in, sweaty, carrying a cricket bat.
   - who: kiran
     t: ಅಪ್ಪಾ, ನನ್ ಬ್ಯಾಟ್ ಗ್ರಿಪ್ ಎಲ್ಲಿ? … ಓ, ಹಾಯ್!
@@ -140,6 +147,8 @@ lines:
     t: ಅಯ್ಯೋ! ಬ್ರೋ, ಇವತ್ತೇ ನಿಮಗೆ ಆರ್‌ಸಿಬಿ ಕ್ಲಾಸ್!
     tr: Ayyō! Bro, ivattē nimge RCB klās!
     en: Ayyo! Bro, you're getting an RCB lesson tonight!
+  - section: 💻 Meet Shwetha
+    learn: “I’m learning” (-tā idīni) · ellrū (everyone) · present tense
   - scene: Shwetha, 26, comes home from work with a laptop bag and her office ID card still round her neck.
   - who: shwe
     t: ಅಮ್ಮಾ, ನಾನು ಬಂದೆ! ತುಂಬಾ ಟ್ರಾಫಿಕ್ ಇತ್ತು.
@@ -161,6 +170,8 @@ lines:
     t: ವಾವ್, ಸೂಪರ್! ಬೆಂಗಳೂರಲ್ಲಿ ಎಲ್ರೂ ಇಂಗ್ಲಿಷ್ ಮಾತಾಡ್ತಾರೆ. ನೀವು ನೋಡಿದ್ರೆ ಕನ್ನಡ ಕಲೀತಿದೀರಿ!
     tr: Vāv, sūpar! Bengaḷūralli ellrū English mātāḍtāre. Nīvu nōḍidre Kannaḍa kalītidīri!
     en: Wow, great! Everyone in Bengaluru speaks English. And look at you, learning Kannada!
+  - section: 👵 Ajji and the marriage question
+    learn: age & numbers · nīnu vs nīvu · āytu (has become) · past tense
   - scene: A slow voice comes from the back room. Ajji, 78, appears, leaning on the door frame.
   - who: ajji
     t: ಯಾರೋ ಅದು? ಏನು ಗಲಾಟೆ?
@@ -214,6 +225,8 @@ lines:
     t: ಶುರು ಆಯ್ತು… ಮದುವೆ ಎಪಿಸೋಡ್!
     tr: Shuru āytu… maduve episode!
     en: Here we go… the marriage episode!
+  - section: 🍛 The first dinner
+    learn: food words · khāra (spicy) · sāku (enough) · offering more food
   - scene: Dinner. Everyone sits at the dining table. Amma serves from steel vessels.
   - who: amma
     t: ಬನ್ನಿ, ಊಟಕ್ಕೆ. ಇವತ್ತು ಬಿಸಿಬೇಳೆಬಾತ್.
@@ -247,6 +260,8 @@ lines:
     t: ಸ್ಯಾಮ್, ಇದು ಕರ್ನಾಟಕ. ಇಲ್ಲಿ ‘ಸಾಕು’ ಅಂದ್ರೆ ‘ಇನ್ನೂ ಸ್ವಲ್ಪ’!
     tr: Sām, idu Karnāṭaka. Illi ‘sāku’ andre ‘innū swalpa’!
     en: Sam, this is Karnataka. Here ‘enough’ means ‘a little more’!
+  - section: 🌙 Overheard at night
+    learn: future -tāre · negation -alla · “who knows …” (-ō)
   - scene: Later. Sam is in his room, but the walls are thin. In the hall, Amma talks to Shwetha.
   - who: amma
     t: ಶ್ವೇತಾ, ಭಾನುವಾರ ಹುಡುಗನ ಮನೆಯವರು ಬರ್ತಾರೆ.
@@ -281,6 +296,9 @@ lines:
     t: ಐದೂವರೆ?! ಅಯ್ಯೋ!
     tr: Aidūvare?! Ayyō!
     en: Half past five?! Ayyo!
+  - chapter: Saturday morning — home, food and family
+  - section: 🔔 The 5:30 milkman
+    learn: 'waking up · telling the time · imperatives: eddēḷi'
   - scene: Half past five in the morning. The doorbell rings three times. Sam wakes up, confused.
   - who: kiran
     t: ಬ್ರೋ! ಎದ್ದೇಳಿ! ಹಾಲಿನವನು ಬಂದ!
@@ -310,6 +328,8 @@ lines:
     t: ಫಸ್ಟ್ ಡೇ ಎಕ್ಸ್‌ಪೀರಿಯನ್ಸ್, ಬ್ರೋ!
     tr: First day experience, bro!
     en: It's the first-day experience, bro!
+  - section: 🌸 Rangoli at the doorstep
+    learn: “can I try?” (-lā) · describing things · why rice flour
   - scene: Sam gives up on sleep and opens the front door. Amma is bent over the doorstep, drawing a pattern with white powder.
   - who: sam
     t: ಗುಡ್ ಮಾರ್ನಿಂಗ್, ಆಂಟಿ. ಇದೇನು?
@@ -347,6 +367,8 @@ lines:
     t: ಪರವಾಗಿಲ್ಲ! ಫಸ್ಟ್ ಟೈಮ್ ಅಲ್ವಾ. ನಿಧಾನವಾಗಿ ಕಲೀತೀರ.
     tr: Paravāgilla! Phasṭ ṭaim alvā. Nidhānavāgi kalītīra.
     en: Never mind! It's your first time, isn't it? You'll learn slowly.
+  - section: 🪔 Ajji’s morning puja
+    learn: right hand / left hand · prasada · temple manners
   - scene: The smell of incense. In the small prayer room, Ajji rings a little brass bell and sings softly.
   - who: ajji
     t: ಬಾರಪ್ಪ, ಬಾ. ಸ್ನಾನ ಆಯ್ತಾ?
@@ -388,6 +410,8 @@ lines:
     t: ದೇವ್ರು ಚೆನ್ನಾಗಿಟ್ಟಿರ್ಲಿ.
     tr: Dēvru chennāgiṭṭirli.
     en: May God keep you well.
+  - section: ☕ How to make filter coffee
+    learn: step-by-step instructions · measurements · first / then
   - scene: The kitchen. A steel coffee filter stands on the counter. Amma is boiling milk.
   - who: amma
     t: ಸ್ಯಾಮ್, ಬನ್ನಿ. ಫಿಲ್ಟರ್ ಕಾಫಿ ಹೇಗೆ ಮಾಡೋದು ಅಂತ ತೋರಿಸ್ತೀನಿ.
@@ -441,6 +465,8 @@ lines:
     t: ಹಹ! ಎಲ್ರೂ ಫಸ್ಟ್ ಟೈಮ್ ಹಾಗೇ. ಕಿರಣ್ ಇನ್ನೂ ಚೆಲ್ತಾನೆ!
     tr: Haha! Ellrū phasṭ ṭaim hāgē. Kiraṇ innū cheltāne!
     en: Haha! Everyone does that the first time. Kiran still spills it!
+  - section: 🥞 Breakfast with your hands
+    learn: eating etiquette · nīvu with elders · asking for more
   - scene: 'Breakfast at the dining table: hot masala dose, coconut chutney and sambar. No cutlery in sight.'
   - who: amma
     t: ಬಿಸಿ ಬಿಸಿ ಮಸಾಲೆ ದೋಸೆ! ತಿನ್ನಿ.
@@ -510,6 +536,8 @@ lines:
     t: ಹಾ! ಈ ಸಲ ‘ಸಾಕು’ ಅನ್ನಲಿಲ್ಲ!
     tr: Hā! Ī sala ‘sāku’ annalilla!
     en: Ha! This time you didn't say ‘enough’!
+  - section: 📷 The family photo album
+    learn: 'all the kinship words: chikkappa, doḍḍappa, atte, māva, attige, bhāva'
   - scene: After breakfast. Ajji sits on the sofa with a thick old photo album on her lap. Kiran flops down beside her.
   - who: ajji
     t: ಬಾ, ಕೂತ್ಕೋ. ನಮ್ ಫ್ಯಾಮಿಲಿ ತೋರಿಸ್ತೀನಿ.
@@ -587,6 +615,8 @@ lines:
     t: ಶ್… ಶ್ವೇತಾ ಕೇಳಿಸ್ಕೊಂಡ್ರೆ ಕೋಪ ಬರುತ್ತೆ.
     tr: Sh… Shwētā kēḷiskonḍre kōpa barutte.
     en: Shh… if Shwetha hears you, she'll get angry.
+  - section: 🧹 Manjula, the house help
+    learn: work & salary · asking for leave · polite requests
   - scene: Nine o'clock. The gate creaks. Manjula, the house help, walks in with her phone pressed to her ear.
   - who: manju
     t: ಹೂಂ, ಹೂಂ, ಆಮೇಲೆ ಫೋನ್ ಮಾಡ್ತೀನಿ… ನಮಸ್ಕಾರ ಅಮ್ಮಾ!
@@ -656,6 +686,8 @@ lines:
     t: ಥ್ಯಾಂಕ್ಸ್ ಅಮ್ಮಾ! ನೀವು ದೇವ್ರು.
     tr: Thanks Ammā! Nīvu dēvru.
     en: Thank you, Amma! You're an angel.
+  - section: 🛵 Bargaining at Gandhi Bazaar
+    learn: numbers & prices · kilos · bargaining · “a little less” (swalpa kammi)
   - scene: Ten o'clock. Kiran's scooter weaves through Saturday traffic towards Gandhi Bazaar, Sam clinging on behind him.
   - who: kiran
     t: ಬ್ರೋ, ಗಟ್ಟಿಯಾಗಿ ಹಿಡ್ಕೊಳ್ಳಿ! ಹೆಲ್ಮೆಟ್ ಹಾಕೊಂಡ್ರಾ?
@@ -765,6 +797,8 @@ lines:
     t: ಮೊಳಕ್ಕೆ ಇಪ್ಪತ್ತು. ನಲವತ್ತು ಕೊಡಿ, ಸಾರ್.
     tr: Moḷakke ippattu. Nalavattu koḍi, sār.
     en: Twenty per mola. That's forty, sir.
+  - section: 📞 A worrying phone call
+    learn: reported speech · “they said …” (-ante)
   - scene: Back home. Shwetha is pacing up and down the hall, her phone in her hand.
   - who: shwe
     t: ಕಿರಣ್! ಎಲ್ಲಿ ಹೋಗಿದ್ದೆ? ಅಮ್ಮ ಹತ್ತು ಸಲ ಫೋನ್ ಮಾಡಿದ್ಳು.
@@ -798,6 +832,9 @@ lines:
     t: ಅದೇ, ಕಿರಣ್. ಅದೇ ಸಮಸ್ಯೆ.
     tr: Adē, Kiraṇ. Adē samasye.
     en: Exactly, Kiran. That's exactly the problem.
+  - chapter: Saturday afternoon and night — work, marriage and gossip
+  - section: 🍚 Ragi mudde for lunch
+    learn: village food · must / must not (-bēku, -bāradu) · if (-idre)
   - scene: Saturday, one o'clock. Lunch at the dining table. Amma brings a steaming plate of grey-brown balls and a pot of thin, spicy gravy.
   - who: amma
     t: ಬನ್ನಿ, ಊಟ ರೆಡಿ. ಇವತ್ತು ರಾಗಿ ಮುದ್ದೆ, ಬಸ್ಸಾರು.
@@ -859,6 +896,8 @@ lines:
     t: ಸರಿ, ಸರಿ. ಬೇಗ ಕಲ್ತ್ಬಿಟ್ರಿ!
     tr: Sari, sari. Bēga kaltbiṭri!
     en: Alright, alright. You've learned fast!
+  - section: '💻 Terrace talk: work life in Bengaluru'
+    learn: office words · comparing countries · giving reasons (adikke)
   - scene: Four o'clock. The terrace. Shwetha sits with her laptop and a cup of tea. Sam comes up to hang his washing.
   - who: shwe
     t: ಶನಿವಾರ ಆದ್ರೂ ನೋಡಿ, ಲ್ಯಾಪ್‌ಟಾಪ್ ಬಿಡೋಕಾಗಲ್ಲ. ಸೋಮವಾರ ರಿಲೀಸ್ ಇದೆ.
@@ -980,6 +1019,8 @@ lines:
     t: ಹೋರೋಸ್ಕೋಪ್. ಹುಟ್ಟಿದ ದಿನ, ಟೈಮ್, ಊರು ನೋಡಿ ಮಾಡ್ತಾರೆ. ಈಗ್ಲೂ ತುಂಬಾ ಜನ ನೋಡ್ತಾರೆ. ಮ್ಯಾಟ್ರಿಮೊನಿ ಆ್ಯಪಲ್ಲೂ ಜಾತಕ ಅಪ್ಲೋಡ್ ಮಾಡ್ತಾರೆ.
     tr: Hōrōskōp. Huṭṭida dina, ṭaim, ūru nōḍi māḍtāre. Īglū tumbā jana nōḍtāre. Myāṭrimoni āpallū jātaka aplōḍ māḍtāre.
     en: A horoscope. It's made from your date, time and place of birth. Lots of people still use them. They even upload them on matrimony apps.
+  - section: 💍 How Amma and Appa got married
+    learn: telling stories in the past · hearsay -ante · horoscopes · arranged marriage
   - scene: Amma climbs the stairs with a plate of hot onion pakodas. She has heard everything.
   - who: amma
     t: ಏನು, ನನ್ ಮದುವೆ ಕಥೆ ಹೇಳ್ತಿದೀಯಾ? ಸರಿಯಾಗಿ ಹೇಳು ಮತ್ತೆ!
@@ -1026,6 +1067,8 @@ lines:
     t: ಅವತ್ತಿಂದ ಅವರು ನನಗೆ ಅತ್ತೆ ಅಲ್ಲ, ಅಮ್ಮ.
     tr: Avattinda avaru nange atte alla, amma.
     en: Since that day she hasn't been my mother-in-law. She's my mother.
+  - section: '👵 Ajji’s story: married at sixteen'
+    learn: “we used to …” (-tidvi) · joint family · life then and now
   - scene: Six o'clock. Ajji sits in her cane chair on the veranda, watching the street. Sam sits on the step beside her.
   - who: sam
     t: ಅಜ್ಜಿ, ನಿಮ್ ಮದುವೆ ಹೇಗಾಯ್ತು?
@@ -1099,6 +1142,8 @@ lines:
     t: ಶ್ವೇತಾಗೆ ನನ್ ಥರ ಆಗಬಾರದು. ಅವಳು ಓದಿದಾಳೆ, ಕೆಲಸ ಮಾಡ್ತಾಳೆ. ಅವಳು ಇಷ್ಟಪಟ್ಟವನನ್ನೇ ಮದುವೆ ಆಗಬೇಕು.
     tr: Shwētāge nan thara āgabāradu. Avaḷu ōdidāḷe, kelsa māḍtāḷe. Avaḷu iṣṭapaṭṭavanannē maduve āgabēku.
     en: It mustn't go for Shwetha the way it went for me. She's educated, she has a job. She should marry only someone she actually likes.
+  - section: 🗣 Vimala Aunty, the neighbour
+    learn: gossip · “people will talk” · rapid-fire questions
   - scene: The gate creaks. Vimala Aunty from next door marches in, holding a steel box.
   - who: vimala
     t: ಲಕ್ಷ್ಮೀ! ಇದ್ದೀಯಾ? ಸ್ವಲ್ಪ ಹೋಳಿಗೆ ತಂದಿದೀನಿ.
@@ -1164,6 +1209,8 @@ lines:
     t: ಅದಕ್ಕೇ ಯಾರೂ ಅವರಿಗೆ ಬೈಯಲ್ಲ.
     tr: Adakkē yārū avarige baiyalla.
     en: That's why nobody ever tells her off.
+  - section: 📋 Planning the bride-viewing
+    learn: “let’s …” (-ōṇa) · snacks & clothes · compromising
   - scene: Eight o'clock. The whole family is in the hall. Manjula, the maid, is finishing the dishes. It's time to plan Sunday.
   - who: appa
     t: ಸರಿ, ನಾಳೆಗೆ ಪ್ಲಾನ್ ಮಾಡೋಣ. ಅವರು ಎಷ್ಟು ಜನ ಬರ್ತಾರೆ?
@@ -1241,6 +1288,8 @@ lines:
     t: ಡೀಲ್.
     tr: Ḍīl.
     en: Deal.
+  - section: 🤫 Money worries in the kitchen
+    learn: wedding costs · conditionals “if they ask …”
   - scene: Later, in the kitchen. Appa speaks quietly to Amma. Sam is getting a glass of water and hears them.
   - who: appa
     t: ಲಕ್ಷ್ಮೀ, ಅವರು ಅಮೆರಿಕ ಫ್ಯಾಮಿಲಿ. ಮದುವೆ ಆದ್ರೆ ದೊಡ್ಡ ಛತ್ರ, ಸಾವಿರ ಜನಕ್ಕೆ ಊಟ… ಎಷ್ಟು ಖರ್ಚು ಆಗುತ್ತೆ ಗೊತ್ತಾ?
@@ -1258,6 +1307,8 @@ lines:
     t: ಶ್… ಮಕ್ಕಳು ಕೇಳಿಸ್ಕೊಳ್ತಾರೆ.
     tr: Sh… makkaḷu kēḷiskoḷtāre.
     en: Shh… the children will hear.
+  - section: 🌃 Shwetha explains dowry
+    learn: varadakṣiṇe · the law · talking about feelings
   - scene: Ten o'clock. The terrace again. Shwetha is alone, looking at the city lights. Sam comes up.
   - who: sam
     t: ಶ್ವೇತಾ? ಎಲ್ಲಾ ಓಕೆನಾ?
@@ -1311,6 +1362,8 @@ lines:
     t: …ಥ್ಯಾಂಕ್ಸ್, ಸ್ಯಾಮ್. ಕೇಳಿದ್ದಕ್ಕೆ.
     tr: …Thanks, Sām. Kēḷiddakke.
     en: …Thanks, Sam. For asking.
+  - section: ☎️ The phone call
+    learn: “apparently …” (-ante) · expectations
   - scene: Downstairs, the landline rings. Appa answers it. The whole house goes quiet.
   - who: appa
     t: ಹಲೋ? … ಹಾ, ನಮಸ್ಕಾರ ಶಾಸ್ತ್ರಿಗಳೇ. … ಹೌದು, ಎಲ್ಲಾ ರೆಡಿ.
@@ -1336,6 +1389,9 @@ lines:
     t: ಈಗ ಇದು ಮದುವೆ ಎಪಿಸೋಡ್ ಅಲ್ಲ… ಇದು ಕ್ಲೈಮ್ಯಾಕ್ಸ್.
     tr: Īga idu maduve episode alla… idu klaimyāks.
     en: This isn't the marriage episode any more… this is the climax.
+  - chapter: Sunday — the visit
+  - section: 🌀 Sunday morning chaos
+    learn: household commands · errands · teasing
   - scene: Sunday, eight in the morning. The Rao house is in total chaos.
   - who: amma
     t: ಕಿರಣ್! ಇನ್ನೂ ಮಲಗಿದೀಯಾ? ಎದ್ದೇಳೋ! ಹನ್ನೊಂದು ಗಂಟೆಗೆ ಅವ್ರು ಬರ್ತಾರೆ, ಮನೆ ನೋಡಿದ್ರೆ ಸಂತೆ ಥರ ಇದೆ!
@@ -1405,6 +1461,8 @@ lines:
     t: ಅರ್ಥ ಆಯ್ತು. ನಾನು ಗೋಡೆ ಮೇಲಿನ ಫೋಟೋ ಥರ ಇರ್ತೀನಿ.
     tr: Artha āytu. Nānu gōḍe mēlina phōṭō thara irtīni.
     en: Got it. I'll be like a photo on the wall.
+  - section: 👗 Shwetha and Ajji
+    learn: giving advice · then and now · courage
   - scene: In her room, Shwetha, in a simple kurta with jasmine in her hair, glances at the silk saree still lying on the bed. Ajji sits beside her.
   - who: shwe
     t: ಅಜ್ಜಿ, ಕುರ್ತಾ ಓಕೆ ತಾನೇ? ಅಮ್ಮ ಇನ್ನೂ ಆ ಸೀರೆ ಕಡೆನೇ ನೋಡ್ತಿದಾಳೆ.
@@ -1442,6 +1500,8 @@ lines:
     t: ಮಾಡ್ದೆ. ಅವಳು ನನ್ನ ಮುಖ ನೋಡಿ ಇನ್ನೂ ಹತ್ತು ರೂಪಾಯಿ ಜಾಸ್ತಿ ಮಾಡಿದ್ಲು.
     tr: Māḍde. Avaḷu nanna mukha nōḍi innū hattu rūpāyi jāsti māḍidlu.
     en: I did. She took one look at my face and added another ten rupees.
+  - section: 🚗 The groom’s family arrives
+    learn: hospitality rituals · formal politeness · traffic small talk
   - scene: Eleven twenty. A white Innova stops at the gate. The groom's parents, Shankar and Sumitra, step out.
   - who: kiran
     t: ಅಕ್ಕ, ಬಂದ್ರು! ದೊಡ್ಡ ಇನ್ನೋವಾ ಕಾರು. ಡ್ರೈವರ್ ಬೇರೆ!
@@ -1503,6 +1563,8 @@ lines:
     t: ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ, ಮೇಡಂ. ಕಲೀತಾ ಇದೀನಿ.
     tr: Swalpa swalpa, mēḍam. Kalītā idīni.
     en: Just a little, madam. I'm learning.
+  - section: 🗺 Small talk that is really a test
+    learn: native place · surname · gotra · caste hinted indirectly
   - scene: Everyone is seated. Coffee arrives. The small talk begins — but every question is also a test.
   - who: shankar
     t: ನಿಮ್ ಏರಿಯಾ ತುಂಬಾ ಹಸಿರಾಗಿದೆ. ಜಯನಗರ ಅಂದ್ರೆ ಜಯನಗರ! ನಮ್ ವೈಟ್‌ಫೀಲ್ಡ್ ಕಡೆ ಬರೀ ಕಾಂಕ್ರೀಟ್ ಕಾಡು.
@@ -1544,6 +1606,8 @@ lines:
     t: ಓ… ಸರಿ.
     tr: Ō… sari.
     en: Oh… okay.
+  - section: 📱 The groom on a video call
+    learn: tech & work talk · polite deflection
   - scene: Sumitra props her phone against the coffee flask. The groom, Pradeep, joins by video call from Seattle.
   - who: sumitra
     t: ಪ್ರದೀಪ್ ವಿಡಿಯೋ ಕಾಲ್‌ನಲ್ಲಿ ಬರ್ತಾನೆ. ಅಲ್ಲಿ ಈಗ ರಾತ್ರಿ ಹನ್ನೆರಡು ಗಂಟೆ, ಪಾಪ.
@@ -1605,6 +1669,8 @@ lines:
     t: ಆಮೇಲೆ ಮತ್ತೆ ಮಾಡ್ತಾನೆ ಬಿಡಿ.
     tr: Āmēle matte māḍtāne biḍi.
     en: Never mind, he'll call again later.
+  - section: 🍮 Questions for Shwetha
+    learn: cooking · job · salary · answering firmly but politely
   - scene: Amma brings out plates of uppittu and kesari bath. The questions turn to Shwetha.
   - who: amma
     t: ಉಪ್ಪಿಟ್ಟು, ಕೇಸರಿಬಾತ್ ತಗೊಳ್ಳಿ. ಶ್ವೇತಾನೇ ಮಾಡಿದ್ದು.
@@ -1650,6 +1716,8 @@ lines:
     t: ಅವನಿಗೆ ಡಾಲರ್‌ನಲ್ಲಿ ಬರುತ್ತೆ ಬಿಡಿ, ಹೋಲಿಕೆನೇ ಇಲ್ಲ.
     tr: Avanige ḍālarnalli barutte biḍi, hōlikenē illa.
     en: Well, he's paid in dollars — there's no comparison.
+  - section: 💰 “We want nothing, but …”
+    learn: indirect requests · saying no with respect · the dowry law
   - scene: Shankar puts down his cup. His voice becomes softer, slower, more careful.
   - who: shankar
     t: ರಮೇಶ್ ಅವ್ರೇ, ಒಂದು ವಿಷಯ ಮುಕ್ತವಾಗಿ ಮಾತಾಡ್ಬಿಡೋಣ. ಆಮೇಲೆ ಮನಸ್ತಾಪ ಬರಬಾರದು ನೋಡಿ.
@@ -1727,6 +1795,8 @@ lines:
     t: ನಾಲಿಗೆ ಉದ್ದ… ಪಟ್ಟಿ ಇನ್ನೂ ಉದ್ದ.
     tr: Nālige udda… paṭṭi innū udda.
     en: Long tongue… and an even longer list.
+  - section: 👵 Ajji speaks up
+    learn: storytelling · proverbs · strong emotion
   - scene: Silence. Then Ajji, who has said nothing all morning, slowly raises her hand.
   - who: ajji
     t: ಒಂದು ನಿಮಿಷ ಎಲ್ಲಾರೂ ಸುಮ್ಮನಿರಿ. ನಾನು ಏನೋ ಹೇಳ್ಬೇಕು.
@@ -1756,6 +1826,8 @@ lines:
     t: ನನ್ನ ಮೊಮ್ಮಗಳು ಮಾರಾಟಕ್ಕಿಲ್ಲ. ಹುಡುಗ ಒಳ್ಳೆಯವನಾದ್ರೆ, ಬರೀ ಕೈಯಲ್ಲಿ ಬಂದು ಅವಳ ಕೈ ಹಿಡೀಲಿ.
     tr: Nanna mommagaḷu mārāṭakkilla. Huḍuga oḷḷeyavanādre, barī kaiyalli bandu avaḷa kai hiḍīli.
     en: My granddaughter is not for sale. If the boy is a good man, let him come empty-handed and take her hand.
+  - section: 🚪 The guests leave
+    learn: stiff politeness · leave-taking rituals
   - scene: Nobody touches the sweets. Shankar looks at his watch and stands up.
   - who: shankar
     t: ಸರಿ… ನಮಗೆ ಲೇಟ್ ಆಯ್ತು. ಇನ್ನೊಂದು ಕಡೆ ಹೋಗ್ಬೇಕು. ನಾವು ಯೋಚನೆ ಮಾಡಿ ತಿಳಿಸ್ತೀವಿ.
@@ -1773,6 +1845,8 @@ lines:
     t: ಇರ್ಲಿ, ಇರ್ಲಿ. ಬರ್ತೀವಿ.
     tr: Irli, irli. Bartīvi.
     en: Never mind, never mind. We'll be off.
+  - section: 🌩 The family argument
+    learn: “what will people say” · “if I had known …” · “I should have …”
   - scene: The Innova drives away. Amma sits down heavily on the sofa. The storm breaks.
   - who: amma
     t: ಮುಗೀತು. ಎಲ್ಲಾ ಮುಗೀತು. ನಾಳೆ ಇಡೀ ಬೀದಿಗೆ ಗೊತ್ತಾಗುತ್ತೆ. ಜನ ಏನು ಅಂತಾರೆ?
@@ -1842,6 +1916,8 @@ lines:
     t: ಈ ಹುಡುಗನಿಂದ ನನಗೆ ಬಿಪಿ ಬರುತ್ತೆ!
     tr: Ī huḍuganinda nanage bīpi barutte!
     en: This boy is going to give me high blood pressure!
+  - section: 🇨🇭 Marriage in Switzerland
+    learn: comparing cultures · opinions · humour
   - scene: Evening. The family sits on the terrace with tea. Ajji turns to Sam.
   - who: ajji
     t: ಸ್ಯಾಮ್, ನೀನು ಇವತ್ತು ಎಲ್ಲಾ ನೋಡ್ತಾ ಇದ್ದೆ. ನಿಮ್ ದೇಶದಲ್ಲಿ ಮದುವೆ ಹೇಗೆ ಆಗುತ್ತೆ?
@@ -1895,6 +1971,8 @@ lines:
     t: ನಿಮ್ ಮನೆ ಒಂದು ಯೂನಿವರ್ಸಿಟಿ, ಅಂಕಲ್. ಪ್ರತಿ ಊಟದಲ್ಲೂ ಒಂದು ಕ್ಲಾಸ್!
     tr: Nim mane ondu yūnivarsiṭi, ankal. Prati ūṭadallū ondu klās!
     en: Your home is a university, Uncle. Every meal is a lesson!
+  - section: 🙏 Ajji’s blessing … and a message
+    learn: blessings · reading a message aloud · “I don’t know”
   - scene: Ajji calls Shwetha over and places her hand on her head.
   - who: ajji
     t: ಶ್ವೇತಾ, ಇಲ್ಲಿ ಬಾ. ನೀನು ಇವತ್ತು ಗೌರಿಗೋಸ್ಕರ ಮಾತಾಡಿದೆ. ಅವಳ ಆತ್ಮಕ್ಕೆ ಶಾಂತಿ ಸಿಕ್ತು ಅನ್ಸುತ್ತೆ.

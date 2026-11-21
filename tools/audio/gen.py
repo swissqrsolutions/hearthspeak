@@ -37,6 +37,11 @@ def decode(mp3):
     assert sr == SR, sr
     return wav
 
+def clean(t):
+    import re
+    t = re.sub(r"[^\w\s,.’'…—-]", "", t)          # drop emoji and fancy quotes
+    return re.sub(r"\s+", " ", t.replace("—", ",").replace("…", "")).strip(" ,")
+
 def silence(sec): return np.zeros(int(SR * sec), np.float32)
 
 def encode(wav, path):
@@ -53,7 +58,15 @@ async def main(yaml_path):
 
     episode = [decode(await tts(f"Episode {L['num']}. {L['title']['en']}.", **NARRATOR)), silence(1.0)]
     n = 0
+    sec = 0
     for item in L["lines"]:
+        if "chapter" in item:
+            episode += [silence(1.5), decode(await tts(clean(item["chapter"]), **NARRATOR)), silence(1.2)]
+            continue
+        if "section" in item:
+            sec += 1
+            episode += [silence(1.0), decode(await tts(f"Scene {sec}. {clean(item['section'])}.", **NARRATOR)), silence(0.8)]
+            continue
         if "part" in item:
             episode += [silence(1.2), decode(await tts(item["part"].replace("·", ",").replace("—", "."), **NARRATOR)), silence(1.2)]
             continue

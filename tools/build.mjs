@@ -30,8 +30,22 @@ function buildLesson(langKey, file) {
 
   const spoken = [];
   let html = '';
+  const toc = [];
+  let secNo = 0;
   for (const item of L.lines) {
     if (item.part) { html += `<h2 class="part">${md(item.part)}</h2>`; continue; }
+    if (item.chapter) {
+      const id = `ch-${toc.filter(t => t.chapter).length + 1}`;
+      toc.push({ chapter: item.chapter, id });
+      html += `<h2 class="chapter" id="${id}">${esc(item.chapter)}</h2>`; continue;
+    }
+    if (item.section) {
+      secNo++;
+      const id = `s-${secNo}`;
+      toc.push({ section: item.section, id, n: secNo, line: spoken.length + 1 });
+      html += `<div class="section" id="${id}"><h3><span class="secno">${secNo}</span>${esc(item.section)}</h3>${item.learn ? `<div class="learn">📘 ${esc(item.learn)}</div>` : ''}</div>`;
+      continue;
+    }
     if (item.scene) { html += `<div class="scenecap">🎬 ${md(item.scene)}</div>`; continue; }
     const i = spoken.length;
     const src = a(`line-${i + 1}.mp3`);
@@ -76,6 +90,10 @@ function buildLesson(langKey, file) {
   <div class="cast">${cast}</div>
   ${ep ? `<div class="epaudio"><span class="small">🎧 Whole lesson (screen-off listening)</span><audio controls preload="none" src="${ep}"></audio></div>` : ''}
 </section>
+
+${toc.length ? `<details class="card toc"><summary>📑 Contents · ${secNo} scenes</summary><ol class="toclist">${toc.map(t => t.chapter
+    ? `<li class="tocch"><a href="#${t.id}">${esc(t.chapter)}</a></li>`
+    : `<li><a href="#${t.id}"><span class="secno">${t.n}</span>${esc(t.section)}</a></li>`).join('')}</ol></details>` : ''}
 
 <section class="card listen">
   ${html}
