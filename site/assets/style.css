@@ -143,3 +143,10 @@ body.nav-open{overflow:hidden}
   body.nav-open{overflow:auto}
 }
 @media (prefers-reduced-motion: reduce){*{transition:none!important;scroll-behavior:auto!important}}
+/* brand: icon + name */
+.brand{display:flex;align-items:center;gap:8px;font-weight:800;font-size:16px;min-width:0}
+.brand img,.navhead img{width:28px;height:28px;border-radius:7px;flex:0 0 auto}
+.navhead{display:flex;align-items:center;gap:10px}
+.brand span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+@media (max-width:389px){.brand span{display:none}}
+@media (min-width:1100px){.top .brand{display:none}}

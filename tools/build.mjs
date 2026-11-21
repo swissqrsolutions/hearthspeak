@@ -112,14 +112,15 @@ function buildLesson(langKey, file) {
 <title>Hearthspeak · ${esc(meta.name)} ${L.num} · ${esc(L.title.en)}</title>
 <link rel="stylesheet" href="../../assets/style.css">
 <link rel="manifest" href="../../manifest.webmanifest">
-<link rel="icon" href="../../assets/icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../../assets/icon-192.png"><meta name="theme-color" content="#a8461f">
+<link rel="icon" href="../../assets/icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../../assets/icon-192.png"><meta name="theme-color" content="#2f4a3a">
 </head><body data-lang="${langKey}">
 <header class="top">
   <button id="navbtn" class="navbtn" aria-label="Lessons and scenes">${ICON.menu}</button>
+  <div class="brand"><img src="../../assets/icon.svg" alt="" width="28" height="28"><span>Hearthspeak</span></div>
   <div class="ctrl">
     <select id="speed" aria-label="Playback speed">
       <option value="0.25">0.25×</option><option value="0.5">0.5×</option><option value="0.75">0.75×</option>
-      <option value="1">Normal</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option>
+      <option value="1">1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option>
       <option value="1.75">1.75×</option><option value="2">2×</option>
     </select>
     <button id="tgEn" title="English: shown / tap to reveal / hidden">EN</button>
@@ -178,7 +179,7 @@ function navFor(cur) {
     return `<div class="navcourse">${esc(m.name)} <span class="script" dir="${m.dir}">${esc(m.native)}</span></div>
       ${ls.length ? `<ol class="navlessons">${items}</ol>` : '<div class="navsoon">Coming soon</div>'}`;
   }).join('');
-  return `<aside id="nav" class="nav"><div class="navhead">Hearthspeak</div>${courses}
+  return `<aside id="nav" class="nav"><div class="navhead"><img src="../../assets/icon.svg" alt="" width="28" height="28">Hearthspeak</div>${courses}
     <div class="navfoot"><button id="offline">Save all lessons for offline use</button><div id="offlineMsg" class="small"></div></div></aside>
   <div id="scrim" class="scrim"></div>`;
 }
