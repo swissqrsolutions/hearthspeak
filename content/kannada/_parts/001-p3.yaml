@@ -1,0 +1,152 @@
+# Kannada Episode 1 — Part 3 (B1). Fragment: merged into content/kannada/001.yaml
+lines:
+
+  - scene: "Saturday, one o'clock. Lunch at the dining table. Amma brings a steaming plate of grey-brown balls and a pot of thin, spicy gravy."
+  - { who: "amma", t: "ಬನ್ನಿ, ಊಟ ರೆಡಿ. ಇವತ್ತು ರಾಗಿ ಮುದ್ದೆ, ಬಸ್ಸಾರು.", tr: "Banni, ūṭa reḍi. Ivattu rāgi mudde, bassāru.", en: "Come, lunch is ready. Today it's ragi mudde with bassaru." }
+  - { who: "sam", t: "ಮುದ್ದೆ? ಇದು ಬಾಲ್ ಥರ ಇದೆ!", tr: "Mudde? Idu bāl thara ide!", en: "Mudde? It looks like a ball!" }
+  - { who: "kiran", t: "ಹೌದು ಬ್ರೋ. ಆದ್ರೆ ಇದನ್ನ ಅಗಿಯಬಾರದು, ನುಂಗಬೇಕು!", tr: "Haudu bro. Ādre idanna agiyabāradu, nungabēku!", en: "Yes bro. But you're not supposed to chew it. You swallow it!" }
+  - { who: "sam", t: "ನುಂಗಬೇಕಾ? ಯಾಕೆ?", tr: "Nungabēkā? Yāke?", en: "Swallow it? Why?" }
+  - { who: "ajji", t: "ಮುದ್ದೆ ಅಗಿದ್ರೆ ಬಾಯಿಗೆ ಅಂಟ್ಕೊಳ್ಳುತ್ತೆ. ಸಣ್ಣ ತುಂಡು ಮುರಿದು, ಸಾರಲ್ಲಿ ಅದ್ದಿ, ಹಾಗೇ ನುಂಗು.", tr: "Mudde agidre bāyige aṇṭkoḷḷutte. Saṇṇa tuṇḍu muridu, sāralli addi, hāgē nungu.", en: "If you chew mudde, it sticks to your mouth. Break off a small piece, dip it in the saaru, and just swallow it." }
+  - { who: "ajji", t: "ನಮ್ ಹಳ್ಳೀಲಿ ಹೊಲದಲ್ಲಿ ಕೆಲಸ ಮಾಡೋರು ದಿನಾ ಇದನ್ನೇ ತಿಂತಿದ್ರು. ಮುದ್ದೆ ತಿಂದ್ರೆ ಸಂಜೆ ತನಕ ಹಸಿವೇ ಆಗಲ್ಲ.", tr: "Nam haḷḷīli holadalli kelsa māḍōru dinā idannē tintidru. Mudde tindre sanje tanaka hasivē āgalla.", en: "In our village, the people who worked in the fields ate this every day. Eat mudde and you won't feel hungry till evening." }
+  - { who: "sam", t: "ಹ್ಮ್… ನುಂಗಿದೆ! ಸ್ವಲ್ಪ ವಿಚಿತ್ರ, ಆದ್ರೆ ಸಾರು ಸೂಪರ್.", tr: "Hmm… nungide! Swalpa vichitra, ādre sāru sūpar.", en: "Hmm… I swallowed it! A bit strange, but the saaru is great." }
+  - { who: "amma", t: "ಬಲಗೈಯಲ್ಲೇ ತಿನ್ನಿ, ಸ್ಯಾಮ್. ಎಡಗೈ ನೀರು ಕುಡಿಯೋಕೆ ಮಾತ್ರ.", tr: "Balagaiyallē tinni, Sām. Eḍagai nīru kuḍiyōke mātra.", en: "Eat with your right hand, Sam. The left hand is only for drinking water." }
+  - { who: "sam", t: "ಓ, ಸಾರಿ! ಸ್ವಿಟ್ಜರ್ಲ್ಯಾಂಡಲ್ಲಿ ಫೋರ್ಕ್, ನೈಫ್… ಇಲ್ಲಿ ಎಲ್ಲಾ ಕೈಯಲ್ಲೇ.", tr: "Ō, sāri! Switzerland-alli fork, knife… illi ellā kaiyallē.", en: "Oh, sorry! In Switzerland it's fork and knife… here everything's by hand." }
+  - { who: "appa", t: "ಕೈಯಲ್ಲಿ ತಿಂದ್ರೇನೇ ಊಟದ ರುಚಿ ಗೊತ್ತಾಗೋದು ಅಂತ ನಮ್ಮಪ್ಪ ಹೇಳ್ತಿದ್ರು.", tr: "Kaiyalli tindrēnē ūṭada ruchi gottāgōdu anta nammappa hēḷtidru.", en: "My father used to say you only really taste food when you eat it with your hand." }
+  - { who: "kiran", t: "ಅಪ್ಪ, ನೀವು ಪಿಜ್ಜಾನೂ ಕೈಯಲ್ಲೇ ತಿಂತೀರಿ!", tr: "Appa, nīvu pizzānū kaiyallē tintīri!", en: "Dad, you eat pizza with your hands too!" }
+  - { who: "appa", t: "ಪಿಜ್ಜಾ ಬೇರೆ ವಿಷಯ, ಮಗ.", tr: "Pizzā bēre viṣaya, maga.", en: "Pizza is a different matter, son." }
+  - { who: "amma", t: "ಸ್ಯಾಮ್, ಇನ್ನೊಂದು ಮುದ್ದೆ ಹಾಕ್ಲಾ?", tr: "Sām, innondu mudde hāklā?", en: "Sam, shall I give you another mudde?" }
+  - { who: "sam", t: "ಬೇಡ, ಬೇಡ! ಇವತ್ತು ‘ಸಾಕು’ ಅಂದ್ರೆ ನಿಜವಾಗ್ಲೂ ಸಾಕು!", tr: "Bēḍa, bēḍa! Ivattu ‘sāku’ andre nijavāglū sāku!", en: "No, no! Today ‘enough’ really means enough!" }
+  - { who: "amma", t: "ಸರಿ, ಸರಿ. ಬೇಗ ಕಲ್ತ್ಬಿಟ್ರಿ!", tr: "Sari, sari. Bēga kaltbiṭri!", en: "Alright, alright. You've learned fast!" }
+
+  - scene: "Four o'clock. The terrace. Shwetha sits with her laptop and a cup of tea. Sam comes up to hang his washing."
+  - { who: "shwe", t: "ಶನಿವಾರ ಆದ್ರೂ ನೋಡಿ, ಲ್ಯಾಪ್‌ಟಾಪ್ ಬಿಡೋಕಾಗಲ್ಲ. ಸೋಮವಾರ ರಿಲೀಸ್ ಇದೆ.", tr: "Shanivāra ādrū nōḍi, lyāpṭāp biḍōkāgalla. Sōmavāra rilīs ide.", en: "It's Saturday, but look, I can't put my laptop down. There's a release on Monday." }
+  - { who: "sam", t: "ನಿಮ್ ಆಫೀಸ್ ಎಲ್ಲಿದೆ?", tr: "Nim āfīs ellide?", en: "Where's your office?" }
+  - { who: "shwe", t: "ಔಟರ್ ರಿಂಗ್ ರೋಡಲ್ಲಿ, ಬೆಳ್ಳಂದೂರ್ ಹತ್ರ. ಇಲ್ಲಿಂದ ಹದಿನೈದು ಕಿಲೋಮೀಟರ್ ಅಷ್ಟೇ, ಆದ್ರೆ ಒಂದೂವರೆ ಗಂಟೆ ಆಗುತ್ತೆ.", tr: "Auṭar Riṅg Rōḍalli, Beḷḷandūr hatra. Illinda hadinaidu kilōmīṭar aṣṭē, ādre ondūvare gaṇṭe āgutte.", en: "On the Outer Ring Road, near Bellandur. It's only fifteen kilometres from here, but it takes an hour and a half." }
+  - { who: "sam", t: "ಒಂದೂವರೆ ಗಂಟೆ?! ಜ್ಯೂರಿಕಲ್ಲಿ ಹದಿನೈದು ಕಿಲೋಮೀಟರ್ ಅಂದ್ರೆ ಟ್ರೇನಲ್ಲಿ ಇಪ್ಪತ್ತು ನಿಮಿಷ.", tr: "Ondūvare gaṇṭe?! Zūrich-alli hadinaidu kilōmīṭar andre ṭrēnalli ippattu nimiṣa.", en: "An hour and a half?! In Zurich, fifteen kilometres is twenty minutes by train." }
+  - { who: "shwe", t: "ಅದಕ್ಕೇ ನಾವು ವಾರಕ್ಕೆ ಮೂರು ದಿನ ಆಫೀಸ್, ಎರಡು ದಿನ ವರ್ಕ್ ಫ್ರಂ ಹೋಮ್. ಕಂಪನಿ ರೂಲ್.", tr: "Adakkē nāvu vārakke mūru dina āfīs, eraḍu dina work from home. Kampani rūl.", en: "That's why we do three days a week in the office and two days working from home. Company rule." }
+  - { who: "sam", t: "ನನಗೂ ಹಾಗೇ. ಆದ್ರೆ ನನ್ ಟೀಮ್ ಸ್ವಿಟ್ಜರ್ಲ್ಯಾಂಡಲ್ಲಿದೆ, ಅದಕ್ಕೆ ಮೀಟಿಂಗ್ಸ್ ಸಂಜೆ.", tr: "Nangū hāgē. Ādre nan ṭīm Switzerland-allide, adakke mīṭiṅgs sanje.", en: "Same for me. But my team is in Switzerland, so my meetings are in the evening." }
+  - { who: "shwe", t: "ನಮ್ಗೆ ಅಮೆರಿಕ ಕ್ಲೈಂಟ್. ರಾತ್ರಿ ಹತ್ತು ಗಂಟೆಗೆ ಕಾಲ್, ಕೆಲವು ಸಲ ಹನ್ನೆರಡು ಗಂಟೆಗೆ.", tr: "Namge Amerika klaiṇṭ. Rātri hattu gaṇṭege kāl, kelavu sala hanneraḍu gaṇṭege.", en: "We have an American client. Calls at ten at night, sometimes at midnight." }
+  - { who: "shwe", t: "ಅಮ್ಮ ಬೈತಾರೆ, ‘ಇದೇನು ಕೆಲಸ, ರಾತ್ರಿ ಎಲ್ಲಾ ಮಾತಾಡ್ತಾ ಇರ್ತೀಯ’ ಅಂತ.", tr: "Amma baitāre, ‘idēnu kelsa, rātri ellā mātāḍtā irtīya’ anta.", en: "Mum scolds me: ‘What kind of job is this, you're on the phone all night!’" }
+  - { who: "sam", t: "ಪಾಪ! ನಿಮ್ ಮ್ಯಾನೇಜರ್ ಹೇಗೆ?", tr: "Pāpa! Nim myānējar hēge?", en: "Poor you! What's your manager like?" }
+  - { who: "shwe", t: "ಒಳ್ಳೆಯವರು, ಆದ್ರೆ ತುಂಬಾ ಪ್ರೆಶರ್. ಈ ವರ್ಷ ಅಪ್ರೈಸಲ್ ಇದೆ. ಹೈಕ್ ಸಿಗುತ್ತೋ ಇಲ್ವೋ ಗೊತ್ತಿಲ್ಲ.", tr: "Oḷḷeyavaru, ādre tumbā preshar. Ī varṣa aprēsal ide. Haik siguttō ilvō gottilla.", en: "A good person, but lots of pressure. The appraisal is this year. I don't know if I'll get a hike or not." }
+  - { who: "sam", t: "ಹೈಕ್ ಅಂದ್ರೆ… ಸ್ಯಾಲರಿ ಜಾಸ್ತಿ ಆಗೋದು?", tr: "Haik andre… syālari jāsti āgōdu?", en: "A hike means… your salary going up?" }
+  - { who: "shwe", t: "ಹೌದು. ಎಲ್ರೂ ಅದನ್ನೇ ಕಾಯ್ತಿರ್ತಾರೆ. ಆದ್ರೆ ಈಗ ಲೇಆಫ್ಸ್ ಭಯನೂ ಇದೆ. ಕಳೆದ ತಿಂಗಳು ನಮ್ ಫ್ಲೋರಲ್ಲಿ ಇಪ್ಪತ್ತು ಜನನ್ನ ತೆಗೆದ್ರು.", tr: "Haudu. Ellrū adannē kāytirtāre. Ādre īga lē-āfs bhayanū ide. Kaḷeda tiṅgaḷu nam flōralli ippattu jananna tegedru.", en: "Yes. Everyone waits for it. But now there's the fear of layoffs too. Last month they let twenty people go on our floor." }
+  - { who: "sam", t: "ಅಯ್ಯೋ. ಎಐ ಕಾರಣಕ್ಕಾ?", tr: "Ayyō. AI kāraṇakkā?", en: "Oh no. Because of AI?" }
+  - { who: "shwe", t: "ಸ್ವಲ್ಪ ಎಐ, ಸ್ವಲ್ಪ ಬಜೆಟ್. ಯಾರಿಗೂ ಸರಿಯಾಗಿ ಹೇಳಲ್ಲ. ಸೋಮವಾರ ಬೆಳಿಗ್ಗೆ ಒಂದು ಮೀಟಿಂಗ್ ಇನ್ವೈಟ್ ಬರುತ್ತೆ, ಅಷ್ಟೇ.", tr: "Swalpa AI, swalpa bajeṭ. Yārigū sariyāgi hēḷalla. Sōmavāra beḷigge ondu mīṭiṅg invaiṭ barutte, aṣṭē.", en: "Partly AI, partly budget. They never tell anyone properly. A meeting invite arrives on Monday morning, and that's it." }
+  - { who: "sam", t: "ಸ್ವಿಟ್ಜರ್ಲ್ಯಾಂಡಲ್ಲಿ ನೋಟೀಸ್ ಪೀರಿಯಡ್ ಉದ್ದ ಇರುತ್ತೆ. ಮೂರು ತಿಂಗಳು.", tr: "Switzerland-alli nōṭīs pīriyaḍ udda irutte. Mūru tiṅgaḷu.", en: "In Switzerland the notice period is long. Three months." }
+  - { who: "shwe", t: "ಮೂರು ತಿಂಗಳಾ? ಲಕ್ಕಿ! ಅಲ್ಲಿ ಬಾಡಿಗೆ ಎಷ್ಟು?", tr: "Mūru tiṅgaḷā? Lakki! Alli bāḍige eṣṭu?", en: "Three months? Lucky! How much is rent there?" }
+  - { who: "sam", t: "ತುಂಬಾ. ಒಂದು ಸಣ್ಣ ಫ್ಲ್ಯಾಟ್‌ಗೆ ತಿಂಗಳಿಗೆ ಸುಮಾರು ಎರಡು ಸಾವಿರ ಫ್ರಾಂಕ್.", tr: "Tumbā. Ondu saṇṇa flyāṭge tiṅgaḷige sumāru eraḍu sāvira frāṅk.", en: "A lot. About two thousand francs a month for a small flat." }
+  - { who: "shwe", t: "ಅಂದ್ರೆ… ಸುಮಾರು ಎರಡು ಲಕ್ಷ ರೂಪಾಯಿ?! ಕೋರಮಂಗಲದಲ್ಲಿ ಒಂದು ಬಿಎಚ್‌ಕೆಗೆ ನಲವತ್ತು ಸಾವಿರ ಅಂದ್ರೇನೇ ನಾವು ಅಳ್ತೀವಿ!", tr: "Andre… sumāru eraḍu lakṣa rūpāyi?! Kōramaṅgaladalli ondu BHK-ge nalavattu sāvira andrēnē nāvu aḷtīvi!", en: "That's… about two lakh rupees?! We cry when a one-BHK in Koramangala costs forty thousand!" }
+  - { who: "sam", t: "ಅದಕ್ಕೇ ನಾನು ಪಿಜಿ. ಊಟನೂ ಇದೆ, ಫ್ಯಾಮಿಲಿನೂ ಇದೆ!", tr: "Adakkē nānu PG. Ūṭanū ide, fyāmilinū ide!", en: "That's why I'm a PG. There's food, and there's a family!" }
+  - { who: "shwe", t: "ಫ್ಯಾಮಿಲಿ ಇದೆ, ಡ್ರಾಮಾನೂ ಇದೆ. ನಿನ್ನೆ ರಾತ್ರಿ ಕೇಳಿಸ್ತಾ?", tr: "Fyāmili ide, ḍrāmānū ide. Ninne rātri kēḷistā?", en: "There's a family, and there's drama too. Did you hear last night?" }
+  - { who: "sam", t: "ಸ್ವಲ್ಪ… ಭಾನುವಾರ ಯಾರೋ ಬರ್ತಾರಂತೆ?", tr: "Swalpa… Bhānuvāra yārō bartārante?", en: "A bit… someone's coming on Sunday, apparently?" }
+  - { who: "shwe", t: "ಹೂಂ. ಹುಡುಗನ ಮನೆಯವರು. ಇದಕ್ಕೆ ‘ಹುಡುಗಿ ನೋಡೋದು’ ಅಂತಾರೆ.", tr: "Hūṃ. Huḍugana maneyavaru. Idakke ‘huḍugi nōḍōdu’ antāre.", en: "Mm. The boy's family. It's called ‘huḍugi nōḍōdu’, ‘seeing the girl’." }
+  - { who: "sam", t: "ಹುಡುಗಿ ನೋಡೋದು? ಅವರು ನಿಮ್ಮನ್ನ ನೋಡೋಕೆ ಬರ್ತಾರಾ? ಇಂಟರ್ವ್ಯೂ ಥರ?", tr: "Huḍugi nōḍōdu? Avaru nimmanna nōḍōke bartārā? Iṇṭarvyū thara?", en: "Seeing the girl? They're coming to look at you? Like an interview?" }
+  - { who: "shwe", t: "ಸರಿಯಾಗಿ ಹೇಳಿದ್ರಿ. ಇಂಟರ್ವ್ಯೂನೇ. ಆದ್ರೆ ಇದರಲ್ಲಿ ಎಚ್‌ಆರ್ ರೌಂಡ್, ಟೆಕ್ನಿಕಲ್ ರೌಂಡ್, ಅಡುಗೆ ರೌಂಡ್ ಎಲ್ಲಾ ಇರುತ್ತೆ!", tr: "Sariyāgi hēḷidri. Iṇṭarvyūnē. Ādre idaralli HR rauṇḍ, ṭeknikal rauṇḍ, aḍuge rauṇḍ ellā irutte!", en: "Exactly right. It IS an interview. But this one has an HR round, a technical round, a cooking round, the lot!" }
+  - { who: "sam", t: "ನಿಮ್ ಅಪ್ಪ ಅಮ್ಮನೂ ಹೀಗೇ ಮದುವೆ ಆದ್ರಾ?", tr: "Nim appa ammanū hīgē maduve ādrā?", en: "Did your mum and dad get married like this too?" }
+  - { who: "shwe", t: "ಹೌದು. ತೊಂಬತ್ತಾರರಲ್ಲಿ. ಅಮ್ಮ ಅಪ್ಪನ್ನ ಮದುವೆಗೆ ಮುಂಚೆ ಒಂದೇ ಸಲ ನೋಡಿದ್ರಂತೆ. ಅದೂ ಎಲ್ಲಾ ನೆಂಟರ ಮುಂದೆ.", tr: "Haudu. Tombattāraralli. Amma appanna maduvege muñche ondē sala nōḍidrante. Adū ellā neṇṭara munde.", en: "Yes. In ninety-six. Apparently Mum saw Dad only once before the wedding. And that was in front of all the relatives." }
+  - { who: "sam", t: "ಒಂದೇ ಸಲ?!", tr: "Ondē sala?!", en: "Only once?!" }
+  - { who: "shwe", t: "ಮೊದಲು ಜಾತಕ ನೋಡಿದ್ರು. ಜ್ಯೋತಿಷಿ ‘ಮೂವತ್ತೆರಡು ಗುಣ ಹೊಂದುತ್ತೆ, ಒಳ್ಳೇ ಜೋಡಿ’ ಅಂದ್ರಂತೆ. ಅಷ್ಟೇ, ಮದುವೆ ಫಿಕ್ಸ್!", tr: "Modalu jātaka nōḍidru. Jyōtiṣi ‘mūvatteraḍu guṇa hondutte, oḷḷē jōḍi’ andrante. Aṣṭē, maduve fiks!", en: "First they compared horoscopes. The astrologer apparently said, ‘Thirty-two gunas match, a good pair.’ That was it. Wedding fixed!" }
+  - { who: "sam", t: "ಜಾತಕ ಅಂದ್ರೆ?", tr: "Jātaka andre?", en: "What's a jaataka?" }
+  - { who: "shwe", t: "ಹೋರೋಸ್ಕೋಪ್. ಹುಟ್ಟಿದ ದಿನ, ಟೈಮ್, ಊರು ನೋಡಿ ಮಾಡ್ತಾರೆ. ಈಗ್ಲೂ ತುಂಬಾ ಜನ ನೋಡ್ತಾರೆ. ಮ್ಯಾಟ್ರಿಮೊನಿ ಆ್ಯಪಲ್ಲೂ ಜಾತಕ ಅಪ್ಲೋಡ್ ಮಾಡ್ತಾರೆ.", tr: "Hōrōskōp. Huṭṭida dina, ṭaim, ūru nōḍi māḍtāre. Īglū tumbā jana nōḍtāre. Myāṭrimoni āpallū jātaka aplōḍ māḍtāre.", en: "A horoscope. It's made from your date, time and place of birth. Lots of people still use them. They even upload them on matrimony apps." }
+
+  - scene: "Amma climbs the stairs with a plate of hot onion pakodas. She has heard everything."
+  - { who: "amma", t: "ಏನು, ನನ್ ಮದುವೆ ಕಥೆ ಹೇಳ್ತಿದೀಯಾ? ಸರಿಯಾಗಿ ಹೇಳು ಮತ್ತೆ!", tr: "Ēnu, nan maduve kathe hēḷtidīyā? Sariyāgi hēḷu matte!", en: "What, are you telling the story of my wedding? Then tell it properly!" }
+  - { who: "amma", t: "ನಾನು ಅವರನ್ನ ಒಂದು ಸಲ ಅಲ್ಲ, ಎರಡು ಸಲ ನೋಡಿದ್ದೆ. ಒಂದು ಸಲ ಹುಡುಗಿ ನೋಡೋಕೆ ಬಂದಾಗ, ಇನ್ನೊಂದು ಸಲ ಮಲ್ಲೇಶ್ವರಂ ದೇವಸ್ಥಾನದಲ್ಲಿ, ದೂರದಿಂದ.", tr: "Nānu avaranna ondu sala alla, eraḍu sala nōḍidde. Ondu sala huḍugi nōḍōke bandāga, innondu sala Mallēshvaram dēvasthānadalli, dūradinda.", en: "I saw him not once but twice. Once when they came to see me, and once at the Malleshwaram temple, from a distance." }
+  - { who: "shwe", t: "ದೂರದಿಂದ ನೋಡಿದ್ದು ಲೆಕ್ಕಕ್ಕಿಲ್ಲ, ಅಮ್ಮ!", tr: "Dūradinda nōḍiddu lekkakkilla, Amma!", en: "Seeing him from a distance doesn't count, Mum!" }
+  - { who: "amma", t: "ಲೆಕ್ಕಕ್ಕಿದೆ! ಆಗ ಅವರಿಗೆ ತಲೇಲಿ ತುಂಬಾ ಕೂದಲಿತ್ತು. ಈಗ ನೋಡು.", tr: "Lekkakkide! Āga avarige talēli tumbā kūdalittu. Īga nōḍu.", en: "It counts! Back then he had plenty of hair on his head. Look at him now." }
+  - scene: "Appa's voice comes from the stairs."
+  - { who: "appa", t: "ನಾನು ಕೇಳಿಸ್ಕೊಂಡೆ, ಲಕ್ಷ್ಮೀ! ಕೂದಲು ಹೋಗಿದ್ದು ನಿನ್ನ ಜೊತೆ ಮೂವತ್ತು ವರ್ಷ ಸಂಸಾರ ಮಾಡಿದ್ದಕ್ಕೆ!", tr: "Nānu kēḷiskoṇḍe, Lakṣmī! Kūdalu hōgiddu ninna jote mūvattu varṣa saṁsāra māḍiddakke!", en: "I heard that, Lakshmi! I lost my hair from thirty years of married life with you!" }
+  - { who: "amma", t: "ನೋಡಿದ್ರಾ ಸ್ಯಾಮ್? ಇದೇ ಅರೇಂಜ್ಡ್ ಮ್ಯಾರೇಜ್. ಮೂವತ್ತು ವರ್ಷ ಆದ್ರೂ ಜಗಳ ನಿಲ್ಲಲ್ಲ, ಪ್ರೀತಿನೂ ಕಮ್ಮಿ ಆಗಲ್ಲ.", tr: "Nōḍidrā Sām? Idē arēñjḍ myārēj. Mūvattu varṣa ādrū jagaḷa nillalla, prītinū kammi āgalla.", en: "See, Sam? That's arranged marriage. Thirty years on, the bickering never stops, and the love never gets less either." }
+  - { who: "sam", t: "ನೀವು ಮದುವೆ ಆದಾಗ ಭಯ ಆಗಿತ್ತಾ?", tr: "Nīvu maduve ādāga bhaya āgittā?", en: "Were you scared when you got married?" }
+  - { who: "amma", t: "ತುಂಬಾ. ನನಗೆ ಇಪ್ಪತ್ತೆರಡು ವರ್ಷ. ಹೊಸ ಮನೆ, ಹೊಸ ಜನ, ಅತ್ತೆ… ಅಂದ್ರೆ ಅಜ್ಜಿ. ಮೊದಲ ದಿನ ಸಾಂಬಾರಲ್ಲಿ ಉಪ್ಪು ಜಾಸ್ತಿ ಹಾಕಿದ್ದೆ.", tr: "Tumbā. Nange ippatteraḍu varṣa. Hosa mane, hosa jana, atte… andre Ajji. Modala dina sāmbāralli uppu jāsti hākidde.", en: "Very. I was twenty-two. A new house, new people, a mother-in-law… that is, Ajji. On the very first day I put too much salt in the sambar." }
+  - { who: "shwe", t: "ಅಜ್ಜಿ ಏನಂದ್ರು?", tr: "Ajji ēnandru?", en: "What did Ajji say?" }
+  - { who: "amma", t: "ಏನೂ ಅನ್ನಲಿಲ್ಲ. ಸುಮ್ನೆ ತಿಂದ್ರು. ಮಾರನೇ ದಿನ ನನ್ ಜೊತೆ ಅಡುಗೆಮನೆಗೆ ಬಂದು, ನಿಧಾನವಾಗಿ ಎಲ್ಲಾ ಹೇಳಿಕೊಟ್ರು.", tr: "Ēnū annalilla. Sumne tindru. Māranē dina nan jote aḍugemanege bandu, nidhānavāgi ellā hēḷikoṭru.", en: "She said nothing. She just ate it. The next day she came into the kitchen with me and slowly taught me everything." }
+  - { who: "amma", t: "ಅವತ್ತಿಂದ ಅವರು ನನಗೆ ಅತ್ತೆ ಅಲ್ಲ, ಅಮ್ಮ.", tr: "Avattinda avaru nange atte alla, amma.", en: "Since that day she hasn't been my mother-in-law. She's my mother." }
+
+  - scene: "Six o'clock. Ajji sits in her cane chair on the veranda, watching the street. Sam sits on the step beside her."
+  - { who: "sam", t: "ಅಜ್ಜಿ, ನಿಮ್ ಮದುವೆ ಹೇಗಾಯ್ತು?", tr: "Ajji, nim maduve hēgāytu?", en: "Ajji, how did your wedding happen?" }
+  - { who: "ajji", t: "ನನ್ ಮದುವೆನಾ? ಅಯ್ಯೋ, ಅದು ಬೇರೆ ಕಾಲ, ಮಗ.", tr: "Nan maduvenā? Ayyō, adu bēre kāla, maga.", en: "My wedding? Ayyo, those were different times, son." }
+  - { who: "ajji", t: "ನನಗೆ ಹದಿನಾರು ವರ್ಷ. ಮಂಡ್ಯ ಹತ್ರ ಒಂದು ಸಣ್ಣ ಹಳ್ಳಿ. ನಾನು ಏಳನೇ ಕ್ಲಾಸ್ ತನಕ ಓದಿದ್ದೆ.", tr: "Nange hadināru varṣa. Maṇḍya hatra ondu saṇṇa haḷḷi. Nānu ēḷanē klās tanaka ōdidde.", en: "I was sixteen. A small village near Mandya. I'd studied up to seventh class." }
+  - { who: "ajji", t: "ಆಮೇಲೆ ನಮ್ಮಪ್ಪ ‘ಸಾಕು, ಹುಡುಗೀರು ಜಾಸ್ತಿ ಓದಬಾರದು’ ಅಂದ್ರು.", tr: "Āmēle nammappa ‘sāku, huḍugīru jāsti ōdabāradu’ andru.", en: "Then my father said, ‘Enough. Girls shouldn't study too much.’" }
+  - { who: "sam", t: "ಹದಿನಾರು?! ಅದು ತುಂಬಾ ಚಿಕ್ಕ ವಯಸ್ಸು.", tr: "Hadināru?! Adu tumbā chikka vayassu.", en: "Sixteen?! That's very young." }
+  - { who: "ajji", t: "ಹೌದು. ಆಗ ಅದು ಸಾಮಾನ್ಯ. ಅವರನ್ನ ನಾನು ಮದುವೆ ದಿನಾನೇ ಸರಿಯಾಗಿ ನೋಡಿದ್ದು.", tr: "Haudu. Āga adu sāmānya. Avaranna nānu maduve dinānē sariyāgi nōḍiddu.", en: "Yes. Back then it was normal. I only really saw him properly on the wedding day." }
+  - { who: "sam", t: "ಆಮೇಲೆ ಜೀವನ ಹೇಗಿತ್ತು?", tr: "Āmēle jīvana hēgittu?", en: "And what was life like after that?" }
+  - { who: "ajji", t: "ಕೂಡು ಕುಟುಂಬ. ಒಂದೇ ಮನೇಲಿ ಹದಿನೆಂಟು ಜನ. ಬೆಳಿಗ್ಗೆ ನಾಲ್ಕು ಗಂಟೆಗೆ ಎದ್ದು, ನೀರು ತಂದು, ಹಸು ಹಾಲು ಕರೆದು, ಎಲ್ಲರಿಗೂ ಅಡುಗೆ ಮಾಡ್ತಿದ್ವಿ.", tr: "Kūḍu kuṭumba. Ondē manēli hadineṇṭu jana. Beḷigge nālku gaṇṭege eddu, nīru tandu, hasu hālu karedu, ellarigū aḍuge māḍtidvi.", en: "A joint family. Eighteen people in one house. We'd get up at four, fetch water, milk the cow and cook for everyone." }
+  - { who: "sam", t: "ಹದಿನೆಂಟು ಜನ! ಕಷ್ಟ ಆಗ್ತಿರಲಿಲ್ವಾ?", tr: "Hadineṇṭu jana! Kaṣṭa āgtiralilvā?", en: "Eighteen people! Wasn't it hard?" }
+  - { who: "ajji", t: "ಕಷ್ಟ ಇತ್ತು. ಆದ್ರೆ ಒಬ್ಬರಿಗೆ ಜ್ವರ ಬಂದ್ರೆ ಹತ್ತು ಜನ ನೋಡ್ಕೊಳ್ತಿದ್ರು.", tr: "Kaṣṭa ittu. Ādre obbarige jvara bandre hattu jana nōḍkoḷtidru.", en: "It was hard. But if one person got a fever, ten people looked after them." }
+  - { who: "ajji", t: "ಈಗ ಎಲ್ರೂ ಫ್ಲ್ಯಾಟಲ್ಲಿ, ಒಬ್ಬೊಬ್ಬರೇ. ಯಾವುದು ಒಳ್ಳೇದು, ನನಗೆ ಗೊತ್ತಿಲ್ಲ.", tr: "Īga ellrū flyāṭalli, obbobbarē. Yāvudu oḷḷēdu, nange gottilla.", en: "Now everyone lives in flats, each on their own. Which is better, I don't know." }
+  - { who: "sam", t: "ತಾತ ಹೇಗಿದ್ರು?", tr: "Tāta hēgidru?", en: "What was Grandpa like?" }
+  - { who: "ajji", t: "ಕಡಿಮೆ ಮಾತು, ದೊಡ್ಡ ಮನಸ್ಸು. ಸ್ಕೂಲ್ ಮಾಸ್ಟರ್ ಆಗಿದ್ರು.", tr: "Kaḍime mātu, doḍḍa manassu. Skūl māsṭar āgidru.", en: "Few words, a big heart. He was a school teacher." }
+  - { who: "ajji", t: "ರಾತ್ರಿ ಲಾಂದ್ರದ ಬೆಳಕಲ್ಲಿ ನನಗೆ ಮತ್ತೆ ಓದೋದು ಕಲಿಸಿದ್ರು. ಅದಕ್ಕೇ ನಾನು ಇವತ್ತೂ ಪೇಪರ್ ಓದ್ತೀನಿ.", tr: "Rātri lāndrada beḷakalli nange matte ōdōdu kalisidru. Adakkē nānu ivattū pēpar ōdtīni.", en: "At night, by lantern light, he taught me to read again. That's why I still read the newspaper today." }
+  - { who: "ajji", t: "ಹತ್ತು ವರ್ಷ ಆಯ್ತು ಅವರು ಹೋಗಿ. ಈಗ್ಲೂ ಬೆಳಿಗ್ಗೆ ಎರಡು ಲೋಟ ಕಾಫಿ ಮಾಡೋಕೆ ಕೈ ಹೋಗುತ್ತೆ.", tr: "Hattu varṣa āytu avaru hōgi. Īglū beḷigge eraḍu lōṭa kāfi māḍōke kai hōgutte.", en: "It's been ten years since he passed. Even now, every morning, my hand reaches out to make two cups of coffee." }
+  - { who: "sam", t: "…ಸಾರಿ, ಅಜ್ಜಿ.", tr: "…Sāri, Ajji.", en: "…I'm sorry, Ajji." }
+  - { who: "ajji", t: "ಪರವಾಗಿಲ್ಲ, ಮಗ. ಜೀವನ ಅಂದ್ರೆ ಹಾಗೇ. ಆದ್ರೆ ಒಂದು ಹೇಳ್ತೀನಿ ಕೇಳು.", tr: "Paravāgilla, maga. Jīvana andre hāgē. Ādre ondu hēḷtīni kēḷu.", en: "It's alright, son. That's life. But let me tell you one thing." }
+  - { who: "ajji", t: "ಶ್ವೇತಾಗೆ ನನ್ ಥರ ಆಗಬಾರದು. ಅವಳು ಓದಿದಾಳೆ, ಕೆಲಸ ಮಾಡ್ತಾಳೆ. ಅವಳು ಇಷ್ಟಪಟ್ಟವನನ್ನೇ ಮದುವೆ ಆಗಬೇಕು.", tr: "Shwētāge nan thara āgabāradu. Avaḷu ōdidāḷe, kelsa māḍtāḷe. Avaḷu iṣṭapaṭṭavanannē maduve āgabēku.", en: "It mustn't go for Shwetha the way it went for me. She's educated, she has a job. She should marry only someone she actually likes." }
+
+  - scene: "The gate creaks. Vimala Aunty from next door marches in, holding a steel box."
+  - { who: "vimala", t: "ಲಕ್ಷ್ಮೀ! ಇದ್ದೀಯಾ? ಸ್ವಲ್ಪ ಹೋಳಿಗೆ ತಂದಿದೀನಿ.", tr: "Lakṣmī! Iddīyā? Swalpa hōḷige tandidīni.", en: "Lakshmi! Are you home? I've brought you some holige." }
+  - { who: "amma", t: "ಬನ್ನಿ ವಿಮಲಾ, ಬನ್ನಿ. ಯಾಕೆ ಇಷ್ಟು ಕಷ್ಟ ತಗೊಂಡ್ರಿ?", tr: "Banni Vimalā, banni. Yāke iṣṭu kaṣṭa tagoṇḍri?", en: "Come in, Vimala, come in. Why did you go to all this trouble?" }
+  - { who: "vimala", t: "ಕಷ್ಟ ಏನು? … ಓ! ಇವರೇನಾ ಆ ಫಾರಿನ್ ಹುಡುಗ? ಇಡೀ ರೋಡು ಇವರ ಬಗ್ಗೇನೇ ಮಾತಾಡ್ತಿದೆ!", tr: "Kaṣṭa ēnu? … Ō! Ivarēnā ā fārin huḍuga? Iḍī rōḍu ivara baggēnē mātāḍtide!", en: "What trouble? … Oh! So this is that foreign boy? The whole street is talking about him!" }
+  - { who: "sam", t: "ನಮಸ್ಕಾರ, ಆಂಟಿ. ನಾನು ಸ್ಯಾಮ್.", tr: "Namaskāra, āṇṭi. Nānu Sām.", en: "Hello, Aunty. I'm Sam." }
+  - { who: "vimala", t: "ಅಯ್ಯೋ, ಕನ್ನಡ ಮಾತಾಡ್ತಾರೆ! ಎಲ್ಲಿಂದ? ಸಂಬಳ ಎಷ್ಟು? ಮದುವೆ ಆಗಿದ್ಯಾ? ಹುಡುಗಿ ಯಾರಾದ್ರೂ ಇದಾರಾ?", tr: "Ayyō, Kannaḍa mātāḍtāre! Ellinda? Sambaḷa eṣṭu? Maduve āgidyā? Huḍugi yārādrū idārā?", en: "Ayyo, he speaks Kannada! Where from? What's the salary? Married? Is there a girl?" }
+  - { who: "sam", t: "ಅ… ಸ್ವಿಟ್ಜರ್ಲ್ಯಾಂಡ್… ಸಂಬಳ…?", tr: "A… Switzerland… sambaḷa…?", en: "Uh… Switzerland… salary…?" }
+  - { who: "kiran", t: "ಬ್ರೋ, ಸಂಬಳ ಹೇಳ್ಬೇಡಿ. ನಾಳೆ ಇಡೀ ಜಯನಗರಕ್ಕೆ ಗೊತ್ತಾಗುತ್ತೆ.", tr: "Bro, sambaḷa hēḷbēḍi. Nāḷe iḍī Jayanagarakke gottāgutte.", en: "Bro, don't tell her your salary. All of Jayanagar will know by tomorrow." }
+  - { who: "vimala", t: "ಏನು ಪಿಸುಪಿಸು, ಕಿರಣ? … ಲಕ್ಷ್ಮೀ, ನಾಳೆ ಶ್ವೇತಾನ ನೋಡೋಕೆ ಬರ್ತಾರಂತೆ? ನಮ್ ಕೆಲಸದವಳು ಹೇಳಿದ್ಲು.", tr: "Ēnu pisupisu, Kiraṇa? … Lakṣmī, nāḷe Shwētāna nōḍōke bartārante? Nam kelasadavaḷu hēḷidlu.", en: "What's all that whispering, Kiran? … Lakshmi, I hear they're coming to see Shwetha tomorrow? Our maid told me." }
+  - { who: "amma", t: "ಹೂಂ… ಬರ್ತಾರೆ. ಇನ್ನೂ ಏನೂ ಫಿಕ್ಸ್ ಆಗಿಲ್ಲ.", tr: "Hūṃ… bartāre. Innū ēnū fiks āgilla.", en: "Mm… they're coming. Nothing's been fixed yet." }
+  - { who: "vimala", t: "ಒಳ್ಳೇದು, ಒಳ್ಳೇದು. ಇಪ್ಪತ್ತಾರು ಆಯ್ತು. ಇನ್ನೂ ಲೇಟ್ ಮಾಡಿದ್ರೆ ಜನ ಮಾತಾಡ್ತಾರೆ, ಗೊತ್ತಲ್ಲ?", tr: "Oḷḷēdu, oḷḷēdu. Ippattāru āytu. Innū lēṭ māḍidre jana mātāḍtāre, gottalla?", en: "Good, good. She's twenty-six. Leave it any later and people will talk, you know?" }
+  - { who: "shwe", t: "ಜನ ಮಾತಾಡ್ಲಿ, ಆಂಟಿ. ಜನಕ್ಕೆ ಬೇರೆ ಕೆಲಸ ಇಲ್ಲ.", tr: "Jana mātāḍli, āṇṭi. Janakke bēre kelsa illa.", en: "Let them talk, Aunty. People have nothing better to do." }
+  - { who: "amma", t: "ಶ್ವೇತಾ!", tr: "Shwētā!", en: "Shwetha!" }
+  - { who: "vimala", t: "ಈಗಿನ ಹುಡುಗೀರು… ಸರಿ ಲಕ್ಷ್ಮೀ, ನಾನು ಹೊರಡ್ತೀನಿ. ಹುಡುಗ ಏನು ಮಾಡ್ತಾನೆ, ಎಷ್ಟು ಸಂಪಾದನೆ, ಎಲ್ಲಾ ಆಮೇಲೆ ಹೇಳು, ಆಯ್ತಾ!", tr: "Īgina huḍugīru… Sari Lakṣmī, nānu horaḍtīni. Huḍuga ēnu māḍtāne, eṣṭu sampādane, ellā āmēle hēḷu, āytā!", en: "Girls these days… Right, Lakshmi, I'm off. What the boy does, how much he earns, tell me everything later, okay!" }
+  - { who: "sam", t: "ಕಿರಣ್, ಇವರು ಯಾವಾಗ್ಲೂ ಹೀಗೇನಾ?", tr: "Kiraṇ, ivaru yāvāglū hīgēnā?", en: "Kiran, is she always like this?" }
+  - { who: "kiran", t: "ಯಾವಾಗ್ಲೂ. ಆದ್ರೆ ನೋಡಿ, ಅಜ್ಜಿಗೆ ಹುಷಾರಿಲ್ಲದಾಗ ರಾತ್ರಿ ಎರಡು ಗಂಟೆಗೆ ಮೊದಲು ಬಂದಿದ್ದು ಇವರೇ.", tr: "Yāvāglū. Ādre nōḍi, Ajjige huṣārilladāga rātri eraḍu gaṇṭege modalu bandiddu ivarē.", en: "Always. But listen. When Ajji was ill, she was the first one here, at two in the morning." }
+  - { who: "kiran", t: "ಅದಕ್ಕೇ ಯಾರೂ ಅವರಿಗೆ ಬೈಯಲ್ಲ.", tr: "Adakkē yārū avarige baiyalla.", en: "That's why nobody ever tells her off." }
+
+  - scene: "Eight o'clock. The whole family is in the hall. Manjula, the maid, is finishing the dishes. It's time to plan Sunday."
+  - { who: "appa", t: "ಸರಿ, ನಾಳೆಗೆ ಪ್ಲಾನ್ ಮಾಡೋಣ. ಅವರು ಎಷ್ಟು ಜನ ಬರ್ತಾರೆ?", tr: "Sari, nāḷege plān māḍōṇa. Avaru eṣṭu jana bartāre?", en: "Right, let's plan for tomorrow. How many of them are coming?" }
+  - { who: "amma", t: "ಹುಡುಗನ ಅಪ್ಪ ಅಮ್ಮ ಬರ್ತಾರೆ, ಅವನ ಅಕ್ಕ–ಭಾವನೂ ಬರಬಹುದು. ಹುಡುಗ ಅಮೆರಿಕದಲ್ಲಿದಾನಲ್ಲ, ವಿಡಿಯೋ ಕಾಲ್‌ನಲ್ಲಿ ಬರ್ತಾನಂತೆ.", tr: "Huḍugana appa amma bartāre, avana akka–bhāvanū barabahudu. Huḍuga Amerikadallidānalla, viḍiyō kāl-nalli bartānante.", en: "The boy's parents are coming, and maybe his elder sister and her husband, his bhaava. The boy is in America, so he'll join by video call, apparently." }
+  - { who: "sam", t: "ಭಾವ ಅಂದ್ರೆ?", tr: "Bhāva andre?", en: "What's a bhaava?" }
+  - { who: "kiran", t: "ಅಕ್ಕನ ಗಂಡ. ಕನ್ನಡದಲ್ಲಿ ಪ್ರತಿ ಸಂಬಂಧಕ್ಕೂ ಬೇರೆ ಪದ, ಬ್ರೋ. ‘ಕಸಿನ್’ ಅಂತ ಸುಲಭವಾಗಿ ಹೇಳೋಕಾಗಲ್ಲ.", tr: "Akkana gaṇḍa. Kannaḍadalli prati sambandhakkū bēre pada, bro. ‘Kasin’ anta sulabhavāgi hēḷōkāgalla.", en: "Your elder sister's husband. In Kannada every relationship has its own word, bro. You can't just say ‘cousin’." }
+  - { who: "appa", t: "ತಿಂಡಿಗೆ ಏನು ಮಾಡೋಣ?", tr: "Tiṇḍige ēnu māḍōṇa?", en: "What shall we make for snacks?" }
+  - { who: "ajji", t: "ಇನ್ನೇನು, ಉಪ್ಪಿಟ್ಟು–ಕೇಸರಿಬಾತ್! ಹುಡುಗಿ ನೋಡೋಕೆ ಬಂದಾಗ ಅದೇ ಸಂಪ್ರದಾಯ. ಚೌಚೌ ಬಾತ್ ಅಂತಾರೆ.", tr: "Innēnu, uppiṭṭu–kēsaribāt! Huḍugi nōḍōke bandāga adē sampradāya. Chauchau bāt antāre.", en: "What else? Uppittu and kesari bath! That's the tradition when they come to see the girl. They call it chow chow bath." }
+  - { who: "sam", t: "ಚೌಚೌ ಬಾತ್? ಯಾಕೆ ಅದೇ?", tr: "Chauchau bāt? Yāke adē?", en: "Chow chow bath? Why that one?" }
+  - { who: "kiran", t: "ಯಾಕಂದ್ರೆ ಒಂದು ಖಾರ, ಒಂದು ಸಿಹಿ. ಮದುವೆ ಥರ ಬ್ರೋ, ಸ್ವಲ್ಪ ಖಾರ, ಸ್ವಲ್ಪ ಸಿಹಿ!", tr: "Yākandre ondu khāra, ondu sihi. Maduve thara bro, swalpa khāra, swalpa sihi!", en: "Because one's spicy and one's sweet. Just like marriage, bro. A bit spicy, a bit sweet!" }
+  - { who: "appa", t: "ಇವನು ಕ್ರಿಕೆಟ್ ಬಿಟ್ಟು ಫಿಲಾಸಫಿ ಶುರು ಮಾಡಿದ.", tr: "Ivanu krikeṭ biṭṭu philāsaphi shuru māḍida.", en: "He's given up cricket and taken up philosophy." }
+  - { who: "manju", t: "ಅಮ್ಮ, ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಏಳು ಗಂಟೆಗೇ ಬರ್ತೀನಿ. ಮನೆ ಎಲ್ಲಾ ಕ್ಲೀನ್ ಮಾಡ್ಬೇಕಲ್ಲ.", tr: "Amma, nāḷe beḷigge ēḷu gaṇṭegē bartīni. Mane ellā klīn māḍbēkalla.", en: "Amma, I'll come at seven tomorrow morning. The whole house needs cleaning, doesn't it?" }
+  - { who: "amma", t: "ಥ್ಯಾಂಕ್ಸ್ ಮಂಜುಳಾ. ಆದ್ರೆ ಒಂದು ವಿಷಯ… ವಿಮಲಾ ಆಂಟಿಗೆ ಯಾರು ಹೇಳಿದ್ದು?", tr: "Thanks Mañjuḷā. Ādre ondu viṣaya… Vimalā āṇṭige yāru hēḷiddu?", en: "Thanks, Manjula. But one thing… who told Vimala Aunty?" }
+  - { who: "manju", t: "ನಾನಲ್ಲಮ್ಮ! ನಾನು ಅವರ ಕೆಲಸದವಳು ಸರೋಜಂಗೆ ಮಾತ್ರ ಹೇಳಿದ್ದು!", tr: "Nānallamma! Nānu avara kelasadavaḷu Sarōjaṅge mātra hēḷiddu!", en: "Not me, Amma! I only told their maid, Saroja!" }
+  - { who: "kiran", t: "ಅಂದ್ರೆ ನೀವೇ, ಮಂಜು ಆಂಟಿ!", tr: "Andre nīvē, Mañju āṇṭi!", en: "So it WAS you, Manju Aunty!" }
+  - { who: "amma", t: "ಶ್ವೇತಾ, ನಾಳೆ ಆ ಹಸಿರು ರೇಷ್ಮೆ ಸೀರೆ ಉಟ್ಕೋ. ನಿನ್ ಮಾವ ಕೊಟ್ಟಿದ್ದು.", tr: "Shwētā, nāḷe ā hasiru rēṣme sīre uṭkō. Nin māva koṭṭiddu.", en: "Shwetha, wear that green silk saree tomorrow. The one your uncle gave you." }
+  - { who: "shwe", t: "ಅಮ್ಮಾ, ಸೀರೆ ಬೇಡ. ನಾನು ಕುರ್ತಾ ಹಾಕ್ಕೊಳ್ತೀನಿ. ನಾನು ಹೇಗಿದೀನೋ ಹಾಗೇ ನೋಡಲಿ.", tr: "Ammā, sīre bēḍa. Nānu kurtā hākkoḷtīni. Nānu hēgidīnō hāgē nōḍali.", en: "Mum, no saree. I'll wear a kurta. Let them see me as I really am." }
+  - { who: "amma", t: "ಮೊದಲ ಸಲ ಬರ್ತಿದಾರೆ, ಶ್ವೇತಾ. ಸ್ವಲ್ಪ ಸಂಪ್ರದಾಯ ಇರಲಿ.", tr: "Modala sala bartidāre, Shwētā. Swalpa sampradāya irali.", en: "It's their first visit, Shwetha. Let's keep a little tradition." }
+  - { who: "ajji", t: "ಕುರ್ತಾ ಹಾಕ್ಲಿ, ಲಕ್ಷ್ಮೀ. ಸೀರೆ ಮುಖ್ಯ ಅಲ್ಲ, ಹುಡುಗಿ ಮುಖ್ಯ.", tr: "Kurtā hākli, Lakṣmī. Sīre mukhya alla, huḍugi mukhya.", en: "Let her wear a kurta, Lakshmi. The saree doesn't matter. The girl does." }
+  - { who: "amma", t: "ಸರಿ, ಸರಿ… ಕುರ್ತಾ. ಆದ್ರೆ ಮಲ್ಲಿಗೆ ಹೂವು ಮುಡ್ಕೋಬೇಕು. ಅದರಲ್ಲಿ ಕಾಂಪ್ರಮೈಸ್ ಇಲ್ಲ!", tr: "Sari, sari… kurtā. Ādre mallige hūvu muḍkōbēku. Adaralli kāmpramais illa!", en: "Fine, fine… a kurta. But you're wearing jasmine in your hair. No compromise on that!" }
+  - { who: "shwe", t: "ಡೀಲ್.", tr: "Ḍīl.", en: "Deal." }
+  - scene: "Later, in the kitchen. Appa speaks quietly to Amma. Sam is getting a glass of water and hears them."
+  - { who: "appa", t: "ಲಕ್ಷ್ಮೀ, ಅವರು ಅಮೆರಿಕ ಫ್ಯಾಮಿಲಿ. ಮದುವೆ ಆದ್ರೆ ದೊಡ್ಡ ಛತ್ರ, ಸಾವಿರ ಜನಕ್ಕೆ ಊಟ… ಎಷ್ಟು ಖರ್ಚು ಆಗುತ್ತೆ ಗೊತ್ತಾ?", tr: "Lakṣmī, avaru Amerika fyāmili. Maduve ādre doḍḍa chatra, sāvira janakke ūṭa… eṣṭu kharchu āgutte gottā?", en: "Lakshmi, they're an America family. If there's a wedding: a big hall, food for a thousand people… do you know what that will cost?" }
+  - { who: "amma", t: "ಗೊತ್ತು. ಶ್ವೇತಾ ಹುಟ್ಟಿದಾಗಿಂದ ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ಉಳಿಸಿದೀವಲ್ಲ. ಚಿನ್ನನೂ ಇದೆ.", tr: "Gottu. Shwētā huṭṭidāginda swalpa swalpa uḷisidīvalla. Chinnanū ide.", en: "I know. We've been saving bit by bit since Shwetha was born, haven't we? And there's the gold." }
+  - { who: "appa", t: "ಅದು ಮದುವೆಗೆ ಸಾಕು. ಆದ್ರೆ ಅವರು ಬೇರೆ ಏನಾದ್ರೂ ಕೇಳಿದ್ರೆ…", tr: "Adu maduvege sāku. Ādre avaru bēre ēnādrū kēḷidre…", en: "That's enough for the wedding. But if they ask for anything else…" }
+  - { who: "amma", t: "ಶ್… ಮಕ್ಕಳು ಕೇಳಿಸ್ಕೊಳ್ತಾರೆ.", tr: "Sh… makkaḷu kēḷiskoḷtāre.", en: "Shh… the children will hear." }
+
+  - scene: "Ten o'clock. The terrace again. Shwetha is alone, looking at the city lights. Sam comes up."
+  - { who: "sam", t: "ಶ್ವೇತಾ? ಎಲ್ಲಾ ಓಕೆನಾ?", tr: "Shwētā? Ellā ōkenā?", en: "Shwetha? Is everything okay?" }
+  - { who: "shwe", t: "ಗೊತ್ತಿಲ್ಲ, ಸ್ಯಾಮ್. ಅಪ್ಪ ಅಮ್ಮ ಮಾತಾಡ್ತಿದ್ದದ್ದು ಕೇಳಿಸ್ತು.", tr: "Gottilla, Sām. Appa amma mātāḍtiddaddu kēḷistu.", en: "I don't know, Sam. I heard what Mum and Dad were saying." }
+  - { who: "sam", t: "ನಿನ್ನೆ ನೀವು ‘ಅವರು ಏನೇನು ಕೇಳ್ತಾರೋ’ ಅಂದ್ರಿ. ಅದರ ಅರ್ಥ ಏನು?", tr: "Ninne nīvu ‘avaru ēnēnu kēḷtārō’ andri. Adara artha ēnu?", en: "Yesterday you said ‘who knows what they'll ask for’. What does that mean?" }
+  - { who: "shwe", t: "ವರದಕ್ಷಿಣೆ. ಡೌರಿ. ಹುಡುಗಿ ಮನೆಯವರು ಹುಡುಗನ ಮನೆಯವರಿಗೆ ದುಡ್ಡು, ಚಿನ್ನ, ಕಾರು… ಕೊಡೋದು.", tr: "Varadakṣiṇe. Ḍauri. Huḍugi maneyavaru huḍugana maneyavarige duḍḍu, chinna, kāru… koḍōdu.", en: "Varadakshine. Dowry. The girl's family giving the boy's family money, gold, a car…" }
+  - { who: "sam", t: "ಆದ್ರೆ… ಅದು ಇಲ್ಲೀಗಲ್ ಅಲ್ವಾ?", tr: "Ādre… adu illīgal alvā?", en: "But… isn't that illegal?" }
+  - { who: "shwe", t: "ಹೌದು. ಅರವತ್ತೊಂದರಿಂದಲೇ ಕಾನೂನು ಇದೆ. ಆದ್ರೆ ಈಗ ಯಾರೂ ‘ವರದಕ್ಷಿಣೆ’ ಅನ್ನಲ್ಲ.", tr: "Haudu. Aravattondarindalē kānūnu ide. Ādre īga yārū ‘varadakṣiṇe’ annalla.", en: "Yes. There's been a law against it since 1961. But nowadays nobody actually says ‘dowry’." }
+  - { who: "shwe", t: "‘ಗಿಫ್ಟ್’ ಅಂತಾರೆ. ‘ನಿಮ್ ಮಗಳಿಗೇ ತಾನೇ ಕೊಡ್ತಿದೀರಿ’ ಅಂತಾರೆ.", tr: "‘Gifṭ’ antāre. ‘Nim magaḷigē tānē koḍtidīri’ antāre.", en: "They call it a ‘gift’. They say, ‘After all, you're only giving it to your own daughter.’" }
+  - { who: "sam", t: "ಅವರು ಕೇಳಿದ್ರೆ ನೀವು ಏನು ಮಾಡ್ತೀರಿ?", tr: "Avaru kēḷidre nīvu ēnu māḍtīri?", en: "What will you do if they ask?" }
+  - { who: "shwe", t: "ನಾನು ಸ್ಪಷ್ಟವಾಗಿ ‘ಬೇಡ’ ಅಂತೀನಿ. ಆದ್ರೆ ನನ್ ಭಯ ಅಪ್ಪನ ಬಗ್ಗೆ. ಅವರು ನನಗೋಸ್ಕರ ಸಾಲ ಮಾಡೋಕೂ ರೆಡಿ.", tr: "Nānu spaṣṭavāgi ‘bēḍa’ antīni. Ādre nan bhaya appana bagge. Avaru nanagōskara sāla māḍōkū reḍi.", en: "I'll say a clear ‘no’. But it's Dad I'm worried about. He'd even take out a loan for my sake." }
+  - { who: "shwe", t: "ಅವರ ಮುಖ ನೋಡಿದ್ರೆ ‘ಬೇಡ’ ಅನ್ನೋದು ಕಷ್ಟ.", tr: "Avara mukha nōḍidre ‘bēḍa’ annōdu kaṣṭa.", en: "When I look at his face, it's hard to say ‘no’." }
+  - { who: "sam", t: "ನಾನು ಏನಾದ್ರೂ ಸಹಾಯ ಮಾಡ್ಲಾ?", tr: "Nānu ēnādrū sahāya māḍlā?", en: "Can I help somehow?" }
+  - { who: "shwe", t: "ನೀವು ನಾಳೆ ಉಪ್ಪಿಟ್ಟು ತಿನ್ನಿ, ‘ಚೆನ್ನಾಗಿದೆ’ ಅನ್ನಿ. ಅಷ್ಟೇ ಸಾಕು.", tr: "Nīvu nāḷe uppiṭṭu tinni, ‘chennāgide’ anni. Aṣṭē sāku.", en: "Tomorrow, just eat the uppittu and say it's delicious. That's enough." }
+  - { who: "shwe", t: "…ಥ್ಯಾಂಕ್ಸ್, ಸ್ಯಾಮ್. ಕೇಳಿದ್ದಕ್ಕೆ.", tr: "…Thanks, Sām. Kēḷiddakke.", en: "…Thanks, Sam. For asking." }
+
+  - scene: "Downstairs, the landline rings. Appa answers it. The whole house goes quiet."
+  - { who: "appa", t: "ಹಲೋ? … ಹಾ, ನಮಸ್ಕಾರ ಶಾಸ್ತ್ರಿಗಳೇ. … ಹೌದು, ಎಲ್ಲಾ ರೆಡಿ.", tr: "Halō? … Hā, namaskāra Shāstrigaḷē. … Haudu, ellā reḍi.", en: "Hello? … Ah, namaskara, Shastri-ji. … Yes, everything's ready." }
+  - { who: "appa", t: "ಹನ್ನೊಂದು ಗಂಟೆಗಾ? ಸರಿ… ಏನು? … ಅವರಿಗೆ ‘ಕೆಲವು ನಿರೀಕ್ಷೆಗಳು’ ಇದಾವಾ?", tr: "Hannondu gaṇṭegā? Sari… ēnu? … Avarige ‘kelavu nirīkṣegaḷu’ idāvā?", en: "At eleven? Okay… what? … They have ‘a few expectations’?" }
+  - { who: "amma", t: "ಏನಂತೆ?", tr: "Ēnante?", en: "What did he say?" }
+  - { who: "appa", t: "ನಾಳೆ ಹನ್ನೊಂದು ಗಂಟೆಗೆ ಬರ್ತಾರೆ. ಮತ್ತೆ… ‘ಕೆಲವು ವಿಷಯ ಮುಖಾಮುಖಿ ಮಾತಾಡ್ಬೇಕು’ ಅಂತೆ.", tr: "Nāḷe hannondu gaṇṭege bartāre. Matte… ‘kelavu viṣaya mukhāmukhi mātāḍbēku’ ante.", en: "They're coming at eleven tomorrow. And… apparently ‘some things need to be discussed face to face’." }
+  - { who: "ajji", t: "ಶುರು ಆಯ್ತು.", tr: "Shuru āytu.", en: "So it begins." }
+  - { who: "kiran", t: "ಈಗ ಇದು ಮದುವೆ ಎಪಿಸೋಡ್ ಅಲ್ಲ… ಇದು ಕ್ಲೈಮ್ಯಾಕ್ಸ್.", tr: "Īga idu maduve episode alla… idu klaimyāks.", en: "This isn't the marriage episode any more… this is the climax." }

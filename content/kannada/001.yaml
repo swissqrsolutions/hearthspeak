@@ -1,7 +1,7 @@
 # Kannada — Episode 1 of the "Mane" (Home) story
 lang: kannada
 num: 1
-level: Episode 1 · A1 → B2 · ~1 hour
+level: "A1 → B2 · ~1 hour"
 title:
   t: ಹೊಸ ಮನೆ
   tr: Hosa mane
@@ -21,7 +21,6 @@ speakers:
   ajji:  { name: Ajji,                voice: kn-IN-SapnaNeural, pitch: "-20Hz", rate: "-18%" }
 
 lines:
-  - part: "Part 1 · A1 — Friday evening: arrival"
   - scene: At the gate of the Rao house, 7 p.m. Sam rings the bell.
   - { who: sam,  t: "ನಮಸ್ಕಾರ! ನಾನು ಸ್ಯಾಮ್. ಪಿಜಿ ರೂಮ್ ಬಗ್ಗೆ ಫೋನ್ ಮಾಡಿದ್ದೆ.", tr: "Namaskāra! Nānu Sām. PG room bagge phōn māḍidde.", en: "Hello! I'm Sam. I called about the PG room." }
   - { who: appa, t: "ಓ, ಬನ್ನಿ ಬನ್ನಿ! ನಾನು ರಮೇಶ್. ಒಳಗೆ ಬನ್ನಿ.", tr: "Ō, banni banni! Nānu Ramēsh. Oḷage banni.", en: "Oh, come, come! I'm Ramesh. Please come in." }
@@ -89,5 +88,3 @@ lines:
   - { who: kiran, t: "ಗುಡ್ ನೈಟ್ ಬ್ರೋ! ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಐದೂವರೆಗೆ ಹಾಲಿನವನು ಬರ್ತಾನೆ. ಬೆಲ್ ಜೋರಾಗಿ ಹೊಡೀತಾನೆ!", tr: "Good night bro! Nāḷe beḷigge aidūvarege hālinavanu bartāne. Bell jōrāgi hoḍītāne!", en: "Good night bro! Tomorrow at half past five the milkman comes. He rings the bell really loudly!" }
   - { who: sam,  t: "ಐದೂವರೆ?! ಅಯ್ಯೋ!", tr: "Aidūvare?! Ayyō!", en: "Half past five?! Ayyo!" }
 
-next: >
-  **Next episode:** the milkman at dawn, Ajji's temple trip, and Sunday is coming. What will the boy's family "ask for"?

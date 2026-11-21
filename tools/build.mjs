@@ -69,12 +69,12 @@ function buildLesson(langKey, file) {
 </header>
 <main>
 <section class="hero">
-  <div class="lessonno">${esc(meta.name)} · Episode ${L.num}</div>
+  <div class="lessonno">${esc(meta.name)} · Lesson ${L.num}</div>
   <h1 dir="${dir}"><span class="script">${esc(L.title.t)}</span></h1>
   <div class="sub">${esc(L.title.tr)} — ${esc(L.title.en)}</div>
   <p class="scene">${md(L.intro)}</p>
   <div class="cast">${cast}</div>
-  ${ep ? `<div class="epaudio"><span class="small">🎧 Whole episode (screen-off listening)</span><audio controls preload="none" src="${ep}"></audio></div>` : ''}
+  ${ep ? `<div class="epaudio"><span class="small">🎧 Whole lesson (screen-off listening)</span><audio controls preload="none" src="${ep}"></audio></div>` : ''}
 </section>
 
 <section class="card listen">
@@ -83,7 +83,7 @@ function buildLesson(langKey, file) {
 ${L.next ? `<section class="card next">${md(L.next)}</section>` : ''}
 
 <section class="done">
-  <label><input type="checkbox" id="done"> I listened to this episode today</label>
+  <label><input type="checkbox" id="done"> I listened to this lesson today</label>
   <div id="streak" class="small"></div>
 </section>
 </main>
