@@ -116,12 +116,12 @@ function buildLesson(langKey, file) {
 <title>Hearthspeak · ${esc(meta.name)} ${L.num} · ${esc(L.title.en)}</title>
 <link rel="stylesheet" href="../../assets/style.css?v=${ASSETV.css}">
 <link rel="manifest" href="../../manifest.webmanifest">
-<link rel="icon" href="../../assets/icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../../assets/icon-192.png"><meta name="theme-color" content="#2f4a3a">
+<link rel="icon" href="../../assets/icon.svg?v=door" type="image/svg+xml"><link rel="apple-touch-icon" href="../../assets/icon-192.png?v=door"><meta name="theme-color" content="#8a3a1c">
 <script>try{var t=JSON.parse(localStorage.getItem('theme'));if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
 </head><body data-lang="${langKey}">
 <header class="top">
   <button id="navbtn" class="navbtn" aria-label="Lessons and scenes">${ICON.menu}</button>
-  <button id="brand" class="brand" aria-label="Home: all lessons"><img src="../../assets/icon.svg" alt="" width="28" height="28"><span>Hearthspeak</span></button>
+  <button id="brand" class="brand" aria-label="Home: all lessons"><img src="../../assets/icon.svg?v=door" alt="" width="28" height="28"><span>Hearthspeak</span></button>
   <div class="ctrl">
     <select id="speed" aria-label="Playback speed">
       <option value="0.25">0.25×</option><option value="0.5">0.5×</option><option value="0.75">0.75×</option>
@@ -189,7 +189,7 @@ function navFor(cur) {
     return `<div class="navcourse">${esc(m.name)} <span class="script" dir="${m.dir}">${esc(m.native)}</span></div>
       ${ls.length ? `<ol class="navlessons">${items}</ol>` : '<div class="navsoon">Coming soon</div>'}`;
   }).join('');
-  return `<aside id="nav" class="nav"><div class="navhead"><img src="../../assets/icon.svg" alt="" width="28" height="28"><span>Hearthspeak</span><button id="theme" class="themebtn" aria-label="Switch dark or light mode">${ICON.moon}${ICON.sun}</button></div>${courses}
+  return `<aside id="nav" class="nav"><div class="navhead"><img src="../../assets/icon.svg?v=door" alt="" width="28" height="28"><span>Hearthspeak</span><button id="theme" class="themebtn" aria-label="Switch dark or light mode">${ICON.moon}${ICON.sun}</button></div>${courses}
     <div class="navfoot"><button id="offline">Save all lessons for offline use</button><div id="offlineMsg" class="small"></div></div></aside>
   <div id="scrim" class="scrim"></div>`;
 }
@@ -199,7 +199,7 @@ for (const x of built) fs.writeFileSync(x.out, x.page.replace('<!--NAV-->', navF
 const first = built[0];
 fs.writeFileSync(path.join(SITE, 'index.html'), `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Hearthspeak</title><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="assets/icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="assets/icon-192.png">
+<title>Hearthspeak</title><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="assets/icon.svg?v=door" type="image/svg+xml"><link rel="apple-touch-icon" href="assets/icon-192.png?v=door">
 <script>
   var t = '${first ? `${first.langKey}/${pad(first.num)}/index.html` : ''}';
   try { var l = JSON.parse(localStorage.getItem('last')); if (l && l.href) t = l.href; } catch (e) {}
