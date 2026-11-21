@@ -181,7 +181,7 @@ function navFor(cur) {
           ? `<button class="navch" type="button">${esc(g.ch.chapter.replace(/^Chapter \d+ — /, ''))}<span class="navcount">${g.secs.length}</span></button>` : ''}
           <ol class="navsecs">${g.secs.map(t => `<li><a href="#${t.id}"><span class="secno">${t.n}</span>${esc(noEmoji(t.section))}</a></li>`).join('')}</ol></li>`).join('')}</ol>`;
       }
-      return `<li class="${here ? 'here' : ''}"><a class="navlesson" data-key="${k}-${x.num}" href="../../${k}/${pad(x.num)}/index.html"><b>${x.num}</b> <span>${esc(x.title.en)}</span></a>${here ? x.extra : ''}${toc}</li>`;
+      return `<li class="${here ? 'here' : ''}"><a class="navlesson" data-key="${k}-${x.num}" href="../../${k}/${pad(x.num)}/index.html"><b>${x.num}</b> <span>${esc(x.title.en)}</span></a>${toc}</li>`;
     }).join('');
     return `<div class="navcourse">${esc(m.name)} <span class="script" dir="${m.dir}">${esc(m.native)}</span></div>
       ${ls.length ? `<ol class="navlessons">${items}</ol>` : '<div class="navsoon">Coming soon</div>'}`;
