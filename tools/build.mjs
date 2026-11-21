@@ -112,6 +112,7 @@ function buildLesson(langKey, file) {
 <title>Hearthspeak · ${esc(meta.name)} ${L.num} · ${esc(L.title.en)}</title>
 <link rel="stylesheet" href="../../assets/style.css">
 <link rel="manifest" href="../../manifest.webmanifest">
+<link rel="icon" href="../../assets/icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../../assets/icon-192.png"><meta name="theme-color" content="#a8461f">
 </head><body data-lang="${langKey}">
 <header class="top">
   <button id="navbtn" class="navbtn" aria-label="Lessons and scenes">${ICON.menu}</button>
@@ -187,7 +188,7 @@ for (const x of built) fs.writeFileSync(x.out, x.page.replace('<!--NAV-->', navF
 const first = built[0];
 fs.writeFileSync(path.join(SITE, 'index.html'), `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Hearthspeak</title><link rel="manifest" href="manifest.webmanifest">
+<title>Hearthspeak</title><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="assets/icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="assets/icon-192.png">
 <script>
   var t = '${first ? `${first.langKey}/${pad(first.num)}/index.html` : ''}';
   try { var l = JSON.parse(localStorage.getItem('last')); if (l && l.href) t = l.href; } catch (e) {}
