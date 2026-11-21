@@ -1,0 +1,814 @@
+lines:
+  - chapter: Chapter 1 — Eighteen lakhs
+  - section: 🧮 The kitchen-table budget
+    learn: 'money words: sambaḷa, kharchu, uḷitāya, lekka · thousands and lakhs · habitual past -ttidde (I used to …) · causative kaṭṭisu (have a house built)'
+  - scene: January 2025, a Sunday night. A rented two-bedroom flat in Vijayanagar. Ananya is asleep. Ravi and Deepa sit at the kitchen table with a notebook, a calculator and two cups of tea.
+  - who: deepa
+    t: ಸರಿ, ಇವತ್ತು ಲೆಕ್ಕ ಮುಗಿಸೋಣ. ಎಷ್ಟು ದಿನ ಅಂತ “ಮುಂದಿನ ವಾರ, ಮುಂದಿನ ವಾರ” ಅಂತೀಯ?
+    tr: Sari, ivattu lekka mugisōṇa. Eṣṭu dina anta “mundina vāra, mundina vāra” antīya?
+    en: Right, let's finish the accounts tonight. How long are you going to keep saying “next week, next week”?
+  - who: ravi
+    t: ಆಯ್ತು, ಆಯ್ತು. ನೋಟ್‌ಬುಕ್ ಕೊಡು. ಮೊದಲು ಸಂಬಳ. ನನ್ನ ಕೈಗೆ ಬರೋದು ತಿಂಗಳಿಗೆ ತೊಂಬತ್ತೆಂಟು ಸಾವಿರ.
+    tr: Āytu, āytu. Nōṭbuk koḍu. Modalu sambaḷa. Nanna kaige barōdu tingaḷige tombatteṇṭu sāvira.
+    en: Okay, okay. Give me the notebook. Salary first. What I take home is ninety-eight thousand a month.
+  - who: deepa
+    t: ನನ್ನದು ನಲವತ್ತಾರು ಸಾವಿರ. ಈ ವರ್ಷ ಸ್ಕೂಲ್‌ನಲ್ಲಿ ಹೈಕ್ ಇಲ್ಲ ಅಂತ ಪ್ರಿನ್ಸಿಪಾಲ್ ಹೇಳಿದ್ರು. ಒಟ್ಟು ಒಂದು ಲಕ್ಷ ನಲವತ್ನಾಲ್ಕು ಸಾವಿರ.
+    tr: Nannadu nalavattāru sāvira. Ī varṣa skūl-nalli haik illa anta prinsipāl hēḷidru. Oṭṭu ondu lakṣa nalavatnālku sāvira.
+    en: Mine is forty-six thousand. The principal said there's no raise at school this year. Altogether, one lakh forty-four thousand.
+  - who: ravi
+    t: ಈಗ ಖರ್ಚು. ಬಾಡಿಗೆ ಇಪ್ಪತ್ತೆರಡು ಸಾವಿರ. ದಿನಸಿ, ಹಾಲು, ಕರೆಂಟ್ ಬಿಲ್, ಮನೆ ಖರ್ಚು ಎಲ್ಲಾ ಸೇರಿ ಸುಮಾರು ಮೂವತ್ತೈದು.
+    tr: Īga kharchu. Bāḍige ippatteraḍu sāvira. Dinasi, hālu, karaṇṭ bil, mane kharchu ellā sēri sumāru mūvattaidu.
+    en: Now the expenses. Rent is twenty-two thousand. Groceries, milk, the electricity bill, household costs, all together about thirty-five.
+  - who: deepa
+    t: ಅನನ್ಯಾ ಸ್ಕೂಲ್ ಫೀಸ್ ಮರೀಬೇಡ. ವರ್ಷಕ್ಕೆ ತೊಂಬತ್ತು ಸಾವಿರ, ಅಂದ್ರೆ ತಿಂಗಳಿಗೆ ಏಳೂವರೆ ಸಾವಿರ. ಸ್ಕೂಲ್ ವ್ಯಾನ್ ಬೇರೆ.
+    tr: Ananyā skūl fīs marībēḍa. Varṣakke tombattu sāvira, andre tingaḷige ēḷūvare sāvira. Skūl vyān bēre.
+    en: Don't forget Ananya's school fees. Ninety thousand a year, so seven and a half thousand a month. And the school van on top of that.
+  - who: ravi
+    t: ಅಪ್ಪನ ಮಾತ್ರೆ, ಅಮ್ಮನ ಡಾಕ್ಟರ್, ಪೆಟ್ರೋಲ್, ಇನ್ಶೂರೆನ್ಸ್… ಎಲ್ಲಾ ಕಳೆದ್ರೆ ತಿಂಗಳಿಗೆ ಉಳಿಯೋದು ಸುಮಾರು ನಲವತ್ತು ಸಾವಿರ.
+    tr: Appana mātre, ammana ḍākṭar, peṭrōl, inśūrens… ellā kaḷedre tingaḷige uḷiyōdu sumāru nalavattu sāvira.
+    en: Appa's tablets, Amma's doctor, petrol, insurance… take all that out, and what's left each month is about forty thousand.
+  - who: deepa
+    t: ನಲವತ್ತು ಈಗ. ಟ್ವೆಂಟಿ-ನೈನ್‌ಟೀನ್‌ನಲ್ಲಿ ಶುರು ಮಾಡಿದಾಗ ಹದಿನೈದು ಸಾವಿರ ಉಳಿಸೋದೂ ಕಷ್ಟ ಆಗ್ತಿತ್ತು, ನೆನಪಿದ್ಯಾ?
+    tr: Nalavattu īga. Ṭwenṭi-nainṭīn-nalli śuru māḍidāga hadinaidu sāvira uḷisōdū kaṣṭa āgtittu, nenapidyā?
+    en: Forty now. When we started in 2019, even saving fifteen thousand was a struggle. Remember?
+  - who: ravi
+    t: ನೆನಪಿದೆ. ಅನನ್ಯಾಗೆ ಆಗ ಒಂದು ವರ್ಷ. ಆಗ್ಲೇ ಅಂದ್ಕೊಂಡ್ವಿ, ಒಂದಲ್ಲ ಒಂದು ದಿನ ನಮ್ಮದೇ ಮನೆ ಕಟ್ಟಿಸ್ಬೇಕು ಅಂತ.
+    tr: Nenapide. Ananyāge āga ondu varṣa. Āglē andkoṇḍvi, ondalla ondu dina nammadē mane kaṭṭisbēku anta.
+    en: I remember. Ananya was one. That's when we decided that one day we'd have our own house built.
+  - who: deepa
+    t: “ಕಟ್ಟಿಸ್ಬೇಕು”, ಸರಿಯಾದ ಪದ. ನಾವೇ ಕಟ್ಟಲ್ಲ, ಕಟ್ಟಿಸ್ತೀವಿ. ಇಟ್ಟಿಗೆ ಹೊರೋದು ನಿನ್ನ ಕೈಯಲ್ಲಿ ಆಗಲ್ಲ.
+    tr: “Kaṭṭisbēku”, sariyāda pada. Nāvē kaṭṭalla, kaṭṭistīvi. Iṭṭige horōdu ninna kaiyalli āgalla.
+    en: “Have it built” is the right word. We won't build it ourselves, we'll have it built. You couldn't carry bricks if your life depended on it.
+  - who: ravi
+    t: ಸರಿ ಟೀಚರ್. ಈಗ ಉಳಿತಾಯ. ಎಫ್‌ಡಿಯಲ್ಲಿ ಒಂಬತ್ತು ಲಕ್ಷ ಇದೆ. ಆರ್‌ಡಿ ಡಿಸೆಂಬರ್‌ನಲ್ಲಿ ಮುಗೀತು, ನಾಲ್ಕೂವರೆ ಲಕ್ಷ ಬಂತು.
+    tr: Sari ṭīchar. Īga uḷitāya. Ef-ḍiyalli ombattu lakṣa ide. Ār-ḍi ḍisembar-nalli mugītu, nālkūvare lakṣa bantu.
+    en: Yes, teacher. Now the savings. There's nine lakh in the FD. The RD matured in December and paid out four and a half lakh.
+  - who: deepa
+    t: ಮತ್ತೆ ನನ್ನ ಚೀಟಿ ದುಡ್ಡು ಮೂರು ಲಕ್ಷ. ಸೇವಿಂಗ್ಸ್ ಅಕೌಂಟ್‌ನಲ್ಲಿ ಒಂದೂವರೆ. ಒಟ್ಟು… ಹದಿನೆಂಟು ಲಕ್ಷ.
+    tr: Matte nanna chīṭi duḍḍu mūru lakṣa. Sēvings akauṇṭ-nalli ondūvare. Oṭṭu… hadineṇṭu lakṣa.
+    en: Then my chit-fund money, three lakh. One and a half in the savings account. Total… eighteen lakh.
+  - who: ravi
+    t: ಹದಿನೆಂಟು ಲಕ್ಷ. ಆರು ವರ್ಷದ ದುಡಿಮೆ, ಒಂದೇ ಪೇಜ್‌ನಲ್ಲಿ.
+    tr: Hadineṇṭu lakṣa. Āru varṣada duḍime, ondē pēj-nalli.
+    en: Eighteen lakh. Six years of hard work, on a single page.
+  - who: deepa
+    t: ಆ ಚೀಟಿ ಸುಲಭ ಆಗಿರ್ಲಿಲ್ಲ. ಪ್ರತಿ ತಿಂಗಳು ಹತ್ತು ಸಾವಿರ ಕಟ್ತಿದ್ದೆ. ಡಿಸೆಂಬರ್‌ನಲ್ಲಿ ಹರಾಜಿನಲ್ಲಿ ಕೂಗಿ ತಗೊಂಡೆ. ಸ್ವಲ್ಪ ಲಾಸ್ ಆಯ್ತು, ಆದ್ರೂ ದುಡ್ಡು ಕೈಗೆ ಬಂತು.
+    tr: Ā chīṭi sulabha āgirlilla. Prati tingaḷu hattu sāvira kaṭtidde. Ḍisembar-nalli harājinalli kūgi tagoṇḍe. Swalpa lās āytu, ādrū duḍḍu kaige bantu.
+    en: That chit fund wasn't easy. I used to pay ten thousand every month. In December I bid for the pot at the auction and took it. I lost a little, but the money is in hand.
+  - who: ravi
+    t: ನಿಜ ಹೇಳ್ಲಾ? ಆ ಚೀಟಿ ಬಗ್ಗೆ ನನಗೆ ಯಾವಾಗ್ಲೂ ಭಯ ಇತ್ತು. ಮಾಗಡಿ ರೋಡ್‌ನಲ್ಲಿ ಒಬ್ಬ ಚೀಟಿ ನಡೆಸೋನು ಎಲ್ಲರ ದುಡ್ಡು ತಗೊಂಡು ಓಡ್ಹೋದ ಅಂತ ಸುದ್ದಿ ಬಂದಿತ್ತಲ್ಲ.
+    tr: Nija hēḷlā? Ā chīṭi bagge nanage yāvāglū bhaya ittu. Māgaḍi Rōḍ-nalli obba chīṭi naḍesōnu ellara duḍḍu tagoṇḍu ōḍhōda anta suddi bandittalla.
+    en: Shall I be honest? That chit fund always scared me. Remember the news about the chit organiser on Magadi Road who ran off with everyone's money?
+  - who: deepa
+    t: ಅದಕ್ಕೇ ರಿಜಿಸ್ಟರ್ ಆಗಿರೋ ಚಿಟ್ ಕಂಪನಿಗೆ ಮಾತ್ರ ಸೇರಿದ್ದು. ಪ್ರತಿ ಕಂತಿಗೂ ರಸೀದಿ ಕೊಡ್ತಿದ್ರು.
+    tr: Adakkē rijisṭar āgirō chiṭ kampanige mātra sēriddu. Prati kantigū rasīdi koḍtidru.
+    en: That's exactly why I only joined a registered chit company. They gave a receipt for every instalment.
+  - who: deepa
+    t: ಮತ್ತೆ ನನ್ನ ಒಡವೆ ಇದೆ, ಸುಮಾರು ನೂರು ಗ್ರಾಮ್ ಚಿನ್ನ. ಬೇಕಾದ್ರೆ ಗೋಲ್ಡ್ ಲೋನ್…
+    tr: Matte nanna oḍave ide, sumāru nūru grām chinna. Bēkādre gōlḍ lōn…
+    en: And there's my jewellery, about a hundred grams of gold. If we need to, a gold loan…
+  - who: ravi
+    t: ಬೇಡ, ದೀಪಾ. ಆ ಚಿನ್ನ ಮುಟ್ಟೋದು ಬೇಡ. ಅದು ನಿಮ್ಮಮ್ಮ ನಿನಗೆ ಕೊಟ್ಟಿದ್ದು. ಬೇರೆ ದಾರಿನೇ ಇಲ್ಲ ಅಂದ್ರೆ ಮಾತ್ರ.
+    tr: Bēḍa, Dīpā. Ā chinna muṭṭōdu bēḍa. Adu nimmamma ninage koṭṭiddu. Bēre dārinē illa andre mātra.
+    en: No, Deepa. Let's not touch that gold. Your mother gave it to you. Only if there's no other way.
+  - who: deepa
+    t: ಸರಿ. ಈಗ ಮುಖ್ಯ ಪ್ರಶ್ನೆ. ಹದಿನೆಂಟು ಲಕ್ಷಕ್ಕೆ ಬೆಂಗಳೂರಲ್ಲಿ ಸೈಟು ಸಿಗುತ್ತಾ? ಕೆಂಗೇರಿ ಕಡೆ ಮೂವತ್ತು-ನಲವತ್ತು ಸೈಟಿಗೆ ಐವತ್ತು ಲಕ್ಷದ ಮೇಲೆ ಹೇಳ್ತಿದಾರೆ.
+    tr: Sari. Īga mukhya praśne. Hadineṇṭu lakṣakke Bengaḷūralli saiṭu siguttā? Kengēri kaḍe mūvattu-nalavattu saiṭige aivattu lakṣada mēle hēḷtidāre.
+    en: Fine. Now the real question. Can we get a plot in Bengaluru for eighteen lakh? Out Kengeri way they're asking over fifty lakh for a thirty-by-forty site.
+  - who: ravi
+    t: ಸಿಗಲ್ಲ. ಅದಕ್ಕೇ ಲೋನ್ ತಗೋಬೇಕು. ಪ್ರತಿ ತಿಂಗಳು ಇಪ್ಪತ್ತೆರಡು ಸಾವಿರ ಬಾಡಿಗೆ ಹಾಗೇ ಹೋಗ್ತಿದೆ. ಅದೇ ದುಡ್ಡು ಇಎಂಐಗೆ ಹೋದ್ರೆ ಕೊನೆಗೆ ಒಂದು ಆಸ್ತಿ ನಮ್ಮ ಕೈಯಲ್ಲಿರುತ್ತೆ.
+    tr: Sigalla. Adakkē lōn tagōbēku. Prati tingaḷu ippatteraḍu sāvira bāḍige hāgē hōgtide. Adē duḍḍu Ī-Em-Aige hōdre konege ondu āsti namma kaiyallirutte.
+    en: No, we can't. That's why we need a loan. Twenty-two thousand in rent just disappears every month. If that same money went into an EMI, at the end we'd own a property.
+  - who: deepa
+    t: ಅದು ನಿಜ. ಆದ್ರೆ ಇಎಂಐ ಇಪ್ಪತ್ತೆರಡು ಸಾವಿರ ಅಲ್ಲ, ಅದರ ಎರಡರಷ್ಟು ಆಗಬಹುದು. ಮತ್ತೆ ಮನೆ ಕಟ್ಟಿಸೋವರೆಗೂ ಬಾಡಿಗೆನೂ ಕಟ್ಬೇಕು. ಎರಡೂ ಒಟ್ಟಿಗೆ.
+    tr: Adu nija. Ādre Ī-Em-Ai ippatteraḍu sāvira alla, adara eraḍaraṣṭu āgabahudu. Matte mane kaṭṭisōvaregū bāḍigenū kaṭbēku. Eraḍū oṭṭige.
+    en: True. But the EMI won't be twenty-two thousand. It could be twice that. And until the house is built, we'll have to keep paying rent too. Both at once.
+  - who: ravi
+    t: ಗೊತ್ತು. ಅದಕ್ಕೇ ನಾಳೆ ಬ್ಯಾಂಕ್‌ನಲ್ಲಿ ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್ ತಗೊಂಡಿದೀನಿ. ಆದ್ರೆ ಮೊದಲು… ಅಪ್ಪನಿಗೆ ಹೇಳ್ಬೇಕು.
+    tr: Gottu. Adakkē nāḷe byānk-nalli apāyinṭmenṭ tagoṇḍidīni. Ādre modalu… appanige hēḷbēku.
+    en: I know. That's why I've booked an appointment at the bank tomorrow. But first… we have to tell Appa.
+  - who: deepa
+    t: “ಲೋನ್” ಅನ್ನೋ ಪದ ಕೇಳಿದ ತಕ್ಷಣ ಅವರ ಮುಖ ನೋಡು.
+    tr: “Lōn” annō pada kēḷida takṣaṇa avara mukha nōḍu.
+    en: Watch his face the moment he hears the word “loan”.
+  - section: 👴 Appa and the fear of debt
+    learn: proverbs (gāde) · “even if” -ādrū · “until” -ōvaregū · nīvu to parents · sāla (loan) vs baḍḍi (interest)
+  - scene: Appa comes out of the bedroom for a glass of water and sees the notebook. Amma follows him.
+  - who: appa
+    t: ಇಷ್ಟು ರಾತ್ರಿ ಏನು ಲೆಕ್ಕ ಹಾಕ್ತಿದೀರಿ? ಯಾರಿಗಾದ್ರೂ ದುಡ್ಡು ಕೊಡ್ಬೇಕಾ?
+    tr: Iṣṭu rātri ēnu lekka hāktidīri? Yārigādrū duḍḍu koḍbēkā?
+    en: What are you two calculating so late at night? Do we owe someone money?
+  - who: ravi
+    t: ಇಲ್ಲಪ್ಪ. ಕೂತ್ಕೊಳ್ಳಿ. ನಾವು ಒಂದು ಸೈಟು ತಗೊಂಡು ಮನೆ ಕಟ್ಟಿಸ್ಬೇಕು ಅಂತ ಇದೀವಿ. ಹದಿನೆಂಟು ಲಕ್ಷ ಕೂಡಿಟ್ಟಿದೀವಿ.
+    tr: Illappa. Kūtkoḷḷi. Nāvu ondu saiṭu tagoṇḍu mane kaṭṭisbēku anta idīvi. Hadineṇṭu lakṣa kūḍiṭṭidīvi.
+    en: No, Appa. Sit down. We're planning to buy a plot and have a house built. We've put aside eighteen lakh.
+  - who: amma
+    t: ಸ್ವಂತ ಮನೆ? ದೇವರೇ! ಈ ಮಾತು ಕೇಳೋಕೆ ಎಷ್ಟು ವರ್ಷದಿಂದ ಕಾಯ್ತಿದೀನಿ.
+    tr: Swanta mane? Dēvarē! Ī mātu kēḷōke eṣṭu varṣadinda kāytidīni.
+    en: Our own house? Oh God! How many years I've waited to hear those words.
+  - who: appa
+    t: ಹದಿನೆಂಟು ಲಕ್ಷಕ್ಕೆ ಸೈಟು ಎಲ್ಲಿ ಸಿಗುತ್ತೆ? ಉಳಿದಿದ್ದು ಎಲ್ಲಿಂದ? … ಸಾಲನಾ?
+    tr: Hadineṇṭu lakṣakke saiṭu elli sigutte? Uḷididdu ellinda? … Sālanā?
+    en: Where will you find a plot for eighteen lakh? Where does the rest come from? … A loan?
+  - who: ravi
+    t: ಹೌದಪ್ಪ, ಬ್ಯಾಂಕ್ ಲೋನ್. ಇಪ್ಪತ್ತು ವರ್ಷಕ್ಕೆ.
+    tr: Haudappa, byānk lōn. Ippattu varṣakke.
+    en: Yes, Appa, a bank loan. Over twenty years.
+  - who: appa
+    t: ಇಪ್ಪತ್ತು ವರ್ಷ! ನಾನು ಮೂವತ್ತೆರಡು ವರ್ಷ ಕೆಎಸ್‌ಆರ್‌ಟಿಸಿ ಬಸ್‌ನಲ್ಲಿ ಟಿಕೆಟ್ ಕೊಟ್ಟೆ. ಒಂದೇ ಸಲ ಸಾಲ ಮಾಡಿದ್ದು, ನಿನ್ನ ಕಾಲೇಜ್ ಫೀಸ್‌ಗೆ. ಅದನ್ನ ತೀರಿಸೋವರೆಗೂ ನಾಲ್ಕು ವರ್ಷ ನನಗೆ ನಿದ್ದೆ ಬರ್ಲಿಲ್ಲ.
+    tr: Ippattu varṣa! Nānu mūvatteraḍu varṣa Ke-Es-Ār-Ṭi-Si bas-nalli ṭikeṭ koṭṭe. Ondē sala sāla māḍiddu, ninna kālēj fīs-ge. Adanna tīrisōvaregū nālku varṣa nanage nidde barlilla.
+    en: Twenty years! For thirty-two years I issued tickets on KSRTC buses. I borrowed only once, for your college fees. Until I'd paid it back, I couldn't sleep properly for four years.
+  - who: ravi
+    t: ಗೊತ್ತಪ್ಪ. ಆದ್ರೆ ಅದು ಬಡ್ಡಿ ಸಾಹುಕಾರನ ಹತ್ರ ತಗೊಂಡಿದ್ದು, ನೂರಕ್ಕೆ ತಿಂಗಳಿಗೆ ಮೂರು ರೂಪಾಯಿ ಬಡ್ಡಿ. ಇದು ಬ್ಯಾಂಕ್. ವರ್ಷಕ್ಕೆ ಸುಮಾರು ಎಂಟೂವರೆ ಪರ್ಸೆಂಟ್, ಎಲ್ಲಾ ಪೇಪರ್ ಮೇಲೆ.
+    tr: Gottappa. Ādre adu baḍḍi sāhukārana hatra tagoṇḍiddu, nūrakke tingaḷige mūru rūpāyi baḍḍi. Idu byānk. Varṣakke sumāru eṇṭūvare parsenṭ, ellā pēpar mēle.
+    en: I know, Appa. But that was from a moneylender, three rupees a month on every hundred. This is a bank. About eight and a half percent a year, and everything on paper.
+  - who: appa
+    t: ಬಡ್ಡಿ ಕಡಿಮೆ ಆದ್ರೂ ಸಾಲ ಸಾಲನೇ, ಮಗ. ನಿನ್ನ ಕೆಲಸ ಹೋದ್ರೆ? ಕೋವಿಡ್ ಟೈಮ್‌ನಲ್ಲಿ ನಿನ್ನ ಸಂಬಳ ಕಟ್ ಆಗಿದ್ದು ಮರೆತುಬಿಟ್ಯಾ?
+    tr: Baḍḍi kaḍime ādrū sāla sālanē, maga. Ninna kelasa hōdre? Kōviḍ ṭaim-nalli ninna sambaḷa kaṭ āgiddu maretubiṭyā?
+    en: Low interest or not, a loan is still a loan, son. What if you lose your job? Have you forgotten how your salary was cut during Covid?
+  - who: deepa
+    t: ಮರೆತಿಲ್ಲ, ಮಾವ. ಅದಕ್ಕೇ ಲೋನ್ ಇಬ್ರ ಹೆಸರಲ್ಲೂ ತಗೊಳ್ತೀವಿ. ಮತ್ತೆ ಆರು ತಿಂಗಳ ಇಎಂಐ ಅಷ್ಟು ದುಡ್ಡು ಯಾವಾಗ್ಲೂ ಬೇರೆ ಇಟ್ಟಿರ್ತೀವಿ, ಅದನ್ನ ಮುಟ್ಟಲ್ಲ.
+    tr: Maretilla, māva. Adakkē lōn ibra hesarallū tagoḷtīvi. Matte āru tingaḷa Ī-Em-Ai aṣṭu duḍḍu yāvāglū bēre iṭṭirtīvi, adanna muṭṭalla.
+    en: I haven't forgotten, Mava. That's why we'll take the loan in both our names. And we'll always keep six months' worth of EMIs aside and never touch it.
+  - who: appa
+    t: 'ಹ್ಮ್. ನಮ್ಮಪ್ಪ ಒಂದು ಮಾತು ಹೇಳ್ತಿದ್ರು: “ಹನಿ ಹನಿ ಗೂಡಿದರೆ ಹಳ್ಳ, ತೆನೆ ತೆನೆ ಗೂಡಿದರೆ ಬಳ್ಳ.”'
+    tr: 'Hm. Nammappa ondu mātu hēḷtidru: “Hani hani gūḍidare haḷḷa, tene tene gūḍidare baḷḷa.”'
+    en: 'Hmm. My father used to say: “Drop by drop, a stream; ear by ear of grain, a full measure.”'
+  - who: appa
+    t: ನೀವು ಆರು ವರ್ಷ ಹನಿ ಹನಿ ಕೂಡಿಟ್ಟಿದೀರಿ. ಅದು ಸಣ್ಣ ವಿಷಯ ಅಲ್ಲ, ನನಗೆ ಹೆಮ್ಮೆ ಇದೆ. ಆದ್ರೆ ಹಳ್ಳ ತುಂಬೋ ಮುಂಚೆ ಸಮುದ್ರಕ್ಕೆ ಹಾರಬೇಡಿ.
+    tr: Nīvu āru varṣa hani hani kūḍiṭṭidīri. Adu saṇṇa viṣaya alla, nanage hemme ide. Ādre haḷḷa tumbō munche samudrakke hārabēḍi.
+    en: You two have saved drop by drop for six years. That's no small thing, and I'm proud of you. But don't jump into the sea before the stream is full.
+  - who: ravi
+    t: ಅದಕ್ಕೇ ಮೊದಲು ಬ್ಯಾಂಕ್‌ಗೆ ಹೋಗಿ ಎಷ್ಟು ಲೋನ್ ಸಿಗುತ್ತೆ, ಇಎಂಐ ಎಷ್ಟು ಆಗುತ್ತೆ ಅಂತ ಕೇಳ್ತೀನಿ. ಆಮೇಲೆ ತೀರ್ಮಾನ.
+    tr: Adakkē modalu byānk-ge hōgi eṣṭu lōn sigutte, Ī-Em-Ai eṣṭu āgutte anta kēḷtīni. Āmēle tīrmāna.
+    en: That's why I'll go to the bank first and ask how much we can borrow and what the EMI would be. Then we decide.
+  - who: amma
+    t: ಸೈಟು ನೋಡೋವಾಗ ನಾನೂ ಬರ್ತೀನಿ. ಪೂರ್ವಕ್ಕೆ ಮುಖ ಇರಬೇಕು, ಅದನ್ನ ಮೊದಲು ನೋಡಿ. ವಾಸ್ತು ಸರಿ ಇಲ್ಲದ ಮನೇಲಿ ನೆಮ್ಮದಿ ಇರಲ್ಲ.
+    tr: Saiṭu nōḍōvāga nānū bartīni. Pūrvakke mukha irabēku, adanna modalu nōḍi. Vāstu sari illada manēli nemmadi iralla.
+    en: When you go to see plots, I'm coming too. It has to face east, so check that first. A house with bad Vastu never has peace.
+  - who: deepa
+    t: ಅತ್ತೆ, ಈಸ್ಟ್ ಫೇಸಿಂಗ್ ಸೈಟಿಗೆ ಸ್ಕ್ವೇರ್ ಫೀಟ್‌ಗೆ ಇನ್ನೂರು-ಮುನ್ನೂರು ರೂಪಾಯಿ ಜಾಸ್ತಿ ಹೇಳ್ತಾರೆ. ಸಾವಿರದ ಇನ್ನೂರು ಸ್ಕ್ವೇರ್ ಫೀಟ್ ಅಂದ್ರೆ ಸುಮಾರು ಮೂರು ಲಕ್ಷ ಜಾಸ್ತಿ.
+    tr: Atte, īsṭ phēsing saiṭige skvēr fīṭ-ge innūru-munnūru rūpāyi jāsti hēḷtāre. Sāvirada innūru skvēr fīṭ andre sumāru mūru lakṣa jāsti.
+    en: Atte, east-facing plots cost two or three hundred rupees more per square foot. On twelve hundred square feet, that's about three lakh extra.
+  - who: amma
+    t: ಇಪ್ಪತ್ತು ವರ್ಷದ ನೆಮ್ಮದಿಗೆ ಮೂರು ಲಕ್ಷ. ಅದು ಜಾಸ್ತಿ ಅಲ್ಲ.
+    tr: Ippattu varṣada nemmadige mūru lakṣa. Adu jāsti alla.
+    en: Three lakh for twenty years of peace of mind. That's not too much.
+  - who: appa
+    t: ನೋಡಿದ್ಯಾ ರವಿ? ಸೈಟು ಇನ್ನೂ ನೋಡಿಲ್ಲ, ಆಗ್ಲೇ ಎತ್ತು ಏರಿಗೆಳೀತು, ಕೋಣ ನೀರಿಗೆಳೀತು. ಒಬ್ರಿಗೆ ವಾಸ್ತು, ಒಬ್ರಿಗೆ ಲೆಕ್ಕ.
+    tr: Nōḍidyā Ravi? Saiṭu innū nōḍilla, āglē ettu ērigeḷītu, kōṇa nīrigeḷītu. Obrige vāstu, obrige lekka.
+    en: See that, Ravi? We haven't even seen a plot, and already the ox pulls up the bank while the buffalo pulls into the water. One cares about Vastu, the other about numbers.
+  - who: ravi
+    t: ಎರಡೂ ಬೇಕು, ಅಪ್ಪ. ವಾಸ್ತುನೂ, ಲೆಕ್ಕನೂ. ನಾಳೆ ಬ್ಯಾಂಕ್‌ನಿಂದ ಬಂದ ಮೇಲೆ ಎಲ್ಲಾ ಕೂತು ಮಾತಾಡೋಣ.
+    tr: Eraḍū bēku, appa. Vāstunū, lekkanū. Nāḷe byānk-ninda banda mēle ellā kūtu mātāḍōṇa.
+    en: We need both, Appa. The Vastu and the numbers. When I'm back from the bank tomorrow, we'll all sit down and talk.
+  - section: 🏦 At Canara Bank
+    learn: 'formal requests (bēkāgittu, tiḷkoḷḷōke bandvi) · loan words: plot loan, composite loan, down payment, CIBIL, EMI · percentages · “whichever is lower” (yāvudu kamminō)'
+  - scene: Monday, eleven in the morning. A Canara Bank branch in Vijayanagar. Ravi and Deepa sit across the desk from Vandana, the home-loan officer.
+  - who: bank
+    t: ನಮಸ್ಕಾರ, ಕೂತ್ಕೊಳ್ಳಿ. ಹೇಳಿ ಸಾರ್, ಏನು ಸಹಾಯ ಆಗಬೇಕು?
+    tr: Namaskāra, kūtkoḷḷi. Hēḷi sār, ēnu sahāya āgabēku?
+    en: Good morning, please sit down. Tell me, sir, how can I help?
+  - who: ravi
+    t: ನಮಸ್ಕಾರ ಮೇಡಂ. ಒಂದು ಸೈಟು ತಗೊಂಡು ಮನೆ ಕಟ್ಟಿಸೋಕೆ ನಮಗೆ ಲೋನ್ ಬೇಕಾಗಿತ್ತು. ಪ್ರೋಸೆಸ್ ಏನು, ಎಷ್ಟು ಸಿಗುತ್ತೆ ಅಂತ ತಿಳ್ಕೊಳ್ಳೋಕೆ ಬಂದ್ವಿ.
+    tr: Namaskāra mēḍam. Ondu saiṭu tagoṇḍu mane kaṭṭisōke namage lōn bēkāgittu. Prōses ēnu, eṣṭu sigutte anta tiḷkoḷḷōke bandvi.
+    en: Good morning, madam. We need a loan to buy a plot and have a house built. We've come to find out the process and how much we could get.
+  - who: bank
+    t: ಒಳ್ಳೇದು. ಮೊದಲು ಒಂದು ವಿಷಯ ಕ್ಲಿಯರ್ ಮಾಡ್ತೀನಿ. ಸೈಟಿಗೆ ಲೋನ್ ಕೊಡೋದು ಅಪ್ರೂವ್ಡ್ ಲೇಔಟ್‌ನಲ್ಲಿ ಮಾತ್ರ. ಬಿಡಿಎ, ಬಿಎಂಆರ್‌ಡಿಎ, ಅಥವಾ ಬೇರೆ ಪ್ಲಾನಿಂಗ್ ಅಥಾರಿಟಿ ಅನುಮೋದನೆ ಇರಬೇಕು.
+    tr: Oḷḷēdu. Modalu ondu viṣaya kliyar māḍtīni. Saiṭige lōn koḍōdu aprūvḍ lēauṭ-nalli mātra. Bi-Ḍi-E, Bi-Em-Ār-Ḍi-E, athavā bēre plāning athāriṭi anumōdane irabēku.
+    en: Good. First let me make one thing clear. We give plot loans only in approved layouts. The layout must have approval from the BDA, the BMRDA or another planning authority.
+  - who: deepa
+    t: ರೆವಿನ್ಯೂ ಸೈಟು, ಬಿ-ಖಾತಾ ಸೈಟು ಆದ್ರೆ?
+    tr: Revinyū saiṭu, Bi-khātā saiṭu ādre?
+    en: And if it's a revenue site, or a B-khata site?
+  - who: bank
+    t: ಅಂಥ ಸೈಟಿಗೆ ನಮ್ಮ ಬ್ಯಾಂಕ್ ಲೋನ್ ಕೊಡಲ್ಲ, ಮೇಡಂ. ಕೆಲವು ಫೈನಾನ್ಸ್ ಕಂಪನಿಗಳು ಕೊಡ್ತಾರೆ, ಆದ್ರೆ ಬಡ್ಡಿನೂ ಜಾಸ್ತಿ, ರಿಸ್ಕ್ ಕೂಡ ಜಾಸ್ತಿ. ಬ್ರೋಕರ್‌ಗಳು “ಲೋನ್ ಸಿಗುತ್ತೆ” ಅಂತಾರೆ, ನಂಬಬೇಡಿ.
+    tr: Antha saiṭige namma byānk lōn koḍalla, mēḍam. Kelavu faināns kampanigaḷu koḍtāre, ādre baḍḍinū jāsti, risk kūḍa jāsti. Brōkar-gaḷu “lōn sigutte” antāre, nambabēḍi.
+    en: Our bank doesn't lend on sites like that, madam. Some finance companies do, but the interest is higher and so is the risk. Brokers will tell you “you'll get a loan”. Don't believe them.
+  - who: ravi
+    t: ಸರಿ. ಸೈಟಿನ ಬೆಲೆಯಲ್ಲಿ ಎಷ್ಟು ಪರ್ಸೆಂಟ್ ಲೋನ್ ಸಿಗುತ್ತೆ?
+    tr: Sari. Saiṭina beleyalli eṣṭu parsenṭ lōn sigutte?
+    en: Right. What percentage of the plot price can we borrow?
+  - who: bank
+    t: ಪ್ಲಾಟ್ ಲೋನ್‌ಗೆ ಸಾಮಾನ್ಯವಾಗಿ ಎಪ್ಪತ್ತರಿಂದ ಎಪ್ಪತ್ತೈದು ಪರ್ಸೆಂಟ್. ಅದೂ ಸೇಲ್ ಡೀಡ್ ವ್ಯಾಲ್ಯೂ ಅಥವಾ ನಮ್ಮ ಎಂಜಿನಿಯರ್ ಮಾಡೋ ವ್ಯಾಲ್ಯುಯೇಶನ್, ಯಾವುದು ಕಮ್ಮಿನೋ ಅದರ ಮೇಲೆ. ಉಳಿದ ಇಪ್ಪತ್ತೈದು-ಮೂವತ್ತು ಪರ್ಸೆಂಟ್ ನೀವು ಡೌನ್ ಪೇಮೆಂಟ್ ಕೊಡಬೇಕು.
+    tr: Plāṭ lōn-ge sāmānyavāgi eppattarinda eppattaidu parsenṭ. Adū sēl ḍīḍ vyālyū athavā namma enjiniyar māḍō vyālyuyēśan, yāvudu kamminō adara mēle. Uḷida ippattaidu-mūvattu parsenṭ nīvu ḍaun pēmenṭ koḍabēku.
+    en: For a plot loan, usually seventy to seventy-five percent. And that's calculated on the sale-deed value or our engineer's valuation, whichever is lower. You pay the remaining twenty-five to thirty percent as the down payment.
+  - who: bank
+    t: ಇನ್ನೊಂದು. ಸ್ಟ್ಯಾಂಪ್ ಡ್ಯೂಟಿ, ರಿಜಿಸ್ಟ್ರೇಷನ್ ಫೀ, ಬ್ರೋಕರ್ ಕಮಿಷನ್, ಇವೆಲ್ಲಾ ಲೋನ್‌ನಲ್ಲಿ ಬರಲ್ಲ. ಅದು ನಿಮ್ಮ ಕೈಯಿಂದಲೇ ಹೋಗಬೇಕು.
+    tr: Innondu. Sṭyāmp ḍyūṭi, rijisṭrēśan fī, brōkar kamiśan, ivellā lōn-nalli baralla. Adu nimma kaiyindalē hōgabēku.
+    en: 'One more thing. Stamp duty, the registration fee, the broker''s commission: none of that is covered by the loan. It has to come out of your own pocket.'
+  - who: deepa
+    t: ಅಂದ್ರೆ ಐವತ್ತು ಲಕ್ಷದ ಸೈಟು ಆದ್ರೆ ಹನ್ನೆರಡೂವರೆ ಲಕ್ಷ ಡೌನ್ ಪೇಮೆಂಟ್, ಜೊತೆಗೆ ಸ್ಟ್ಯಾಂಪ್ ಡ್ಯೂಟಿ ಮೂರು-ಮೂರೂವರೆ ಲಕ್ಷ. ಹದಿನೆಂಟರಲ್ಲಿ ಹದಿನಾರು ಹೋಯ್ತು.
+    tr: Andre aivattu lakṣada saiṭu ādre hanneraḍūvare lakṣa ḍaun pēmenṭ, jotege sṭyāmp ḍyūṭi mūru-mūrūvare lakṣa. Hadineṇṭaralli hadināru hōytu.
+    en: '(quietly) So for a fifty-lakh plot: twelve and a half lakh down payment, plus three to three and a half lakh in stamp duty. Sixteen of our eighteen, gone.'
+  - who: ravi
+    t: ಮೇಡಂ, ಸೈಟು ತಗೊಂಡ ಮೇಲೆ ಮನೆ ಕಟ್ಟಿಸೋಕೆ ಬೇರೆ ಲೋನ್ ತಗೋಬೇಕಾ?
+    tr: Mēḍam, saiṭu tagoṇḍa mēle mane kaṭṭisōke bēre lōn tagōbēkā?
+    en: Madam, after we buy the plot, do we need a separate loan to build the house?
+  - who: bank
+    t: ಬೇಡ. ನಿಮಗೆ ಕಾಂಪೋಸಿಟ್ ಲೋನ್ ಸರಿಯಾಗುತ್ತೆ. ಒಂದೇ ಲೋನ್, ಎರಡು ಭಾಗ. ಮೊದಲು ಸೈಟಿನ ದುಡ್ಡು ನಾವೇ ನೇರವಾಗಿ ಸೆಲ್ಲರ್ ಅಕೌಂಟ್‌ಗೆ ಹಾಕ್ತೀವಿ. ಆಮೇಲೆ ಮನೆ ಕಟ್ಟೋವಾಗ ಸ್ಟೇಜ್ ಪ್ರಕಾರ, ಫೌಂಡೇಶನ್, ಸ್ಲ್ಯಾಬ್, ಫಿನಿಶಿಂಗ್, ಕಂತುಗಳಲ್ಲಿ ರಿಲೀಸ್ ಮಾಡ್ತೀವಿ.
+    tr: Bēḍa. Nimage kāmpōsiṭ lōn sariyāgutte. Ondē lōn, eraḍu bhāga. Modalu saiṭina duḍḍu nāvē nēravāgi sellar akauṇṭ-ge hāktīvi. Āmēle mane kaṭṭōvāga sṭēj prakāra, phaunḍēśan, slyāb, phiniśing, kantugaḷalli rilīs māḍtīvi.
+    en: 'No. A composite loan would suit you. One loan, two parts. First we pay the plot money directly into the seller''s account. Then, while the house is going up, we release money in instalments stage by stage: foundation, slab, finishing.'
+  - who: bank
+    t: ಆದ್ರೆ ಒಂದು ಷರತ್ತು ಇದೆ. ಸೈಟು ತಗೊಂಡು ಸುಮಾರು ಮೂರು ವರ್ಷದ ಒಳಗೆ ಮನೆ ಕೆಲಸ ಶುರು ಆಗಬೇಕು. ಮತ್ತೆ, ಮನೆ ಕಟ್ಟಿ ಮುಗಿಯೋವರೆಗೂ ಸೈಟಿನ ಬಡ್ಡಿಗೆ ಟ್ಯಾಕ್ಸ್ ಬೆನಿಫಿಟ್ ಸಿಗಲ್ಲ, ಅದೂ ಗೊತ್ತಿರಲಿ.
+    tr: Ādre ondu ṣarattu ide. Saiṭu tagoṇḍu sumāru mūru varṣada oḷage mane kelasa śuru āgabēku. Matte, mane kaṭṭi mugiyōvaregū saiṭina baḍḍige ṭyāks benifiṭ sigalla, adū gottirali.
+    en: But there's a condition. Construction has to start within about three years of buying the plot. And you should know that until the house is finished, there's no tax benefit on the plot interest.
+  - who: deepa
+    t: ಎಷ್ಟು ಲೋನ್ ಕೊಡ್ಬೇಕು ಅಂತ ಹೇಗೆ ಡಿಸೈಡ್ ಮಾಡ್ತೀರಿ? ನಮ್ಮ ಸಂಬಳದ ಮೇಲೇನಾ?
+    tr: Eṣṭu lōn koḍbēku anta hēge ḍisaiḍ māḍtīri? Namma sambaḷada mēlēnā?
+    en: How do you decide how much to lend us? Is it based on our salaries?
+  - who: bank
+    t: 'ಹೌದು. ಸಂಬಳ, ವಯಸ್ಸು, ಈಗಾಗಲೇ ಇರೋ ಸಾಲ, ಮತ್ತೆ ಸಿಬಿಲ್ ಸ್ಕೋರ್. ಸಿಬಿಲ್ ಅಂದ್ರೆ ನಿಮ್ಮ ಕ್ರೆಡಿಟ್ ಹಿಸ್ಟರಿ: ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಬಿಲ್, ಇಎಂಐ ಎಲ್ಲಾ ಟೈಮ್‌ಗೆ ಕಟ್ಟಿದೀರಾ ಇಲ್ವಾ ಅಂತ. ಏಳುನೂರೈವತ್ತರ ಮೇಲೆ ಇದ್ರೆ ಒಳ್ಳೇದು.'
+    tr: 'Haudu. Sambaḷa, vayassu, īgāgalē irō sāla, matte Sibil skōr. Sibil andre nimma kreḍiṭ hisṭari: kreḍiṭ kārḍ bil, Ī-Em-Ai ellā ṭaim-ge kaṭṭidīrā ilvā anta. Ēḷunūraivattara mēle idre oḷḷēdu.'
+    en: 'Yes. Salary, age, any existing loans, and your CIBIL score. CIBIL is your credit history: whether you''ve paid credit-card bills and EMIs on time. Above seven hundred and fifty is good.'
+  - who: bank
+    t: ನಿಮ್ಮ ಪ್ಯಾನ್ ಕೊಡಿ, ಚೆಕ್ ಮಾಡ್ತೀನಿ… ರವಿ ಅವರೇ, ನಿಮ್ಮದು ಏಳುನೂರ ಎಂಬತ್ತೆರಡು. ದೀಪಾ ಅವರದು ಏಳುನೂರ ಅರವತ್ತೈದು. ಇಬ್ರದೂ ಚೆನ್ನಾಗಿದೆ.
+    tr: Nimma pyān koḍi, chek māḍtīni… Ravi avarē, nimmadu ēḷunūra embatteraḍu. Dīpā avaradu ēḷunūra aravattaidu. Ibradū chennāgide.
+    en: Give me your PANs and I'll check… Ravi, yours is seven eighty-two. Deepa, yours is seven sixty-five. Both good.
+  - who: ravi
+    t: ಹಾಗಾದ್ರೆ ನಮಗೆ ಒಟ್ಟು ಎಷ್ಟು ಸಿಗಬಹುದು?
+    tr: Hāgādre namage oṭṭu eṣṭu sigabahudu?
+    en: So how much could we get in total?
+  - who: bank
+    t: ಇಬ್ರ ಸಂಬಳ ಸೇರಿ ಒಂದು ಲಕ್ಷ ನಲವತ್ನಾಲ್ಕು ಸಾವಿರ, ಬೇರೆ ಯಾವ ಇಎಂಐನೂ ಇಲ್ಲ. ಇಪ್ಪತ್ತು ವರ್ಷಕ್ಕೆ ಸುಮಾರು ಎಪ್ಪತ್ತು ಲಕ್ಷದವರೆಗೂ ಎಲಿಜಿಬಿಲಿಟಿ ಬರುತ್ತೆ. ಅಂದ್ರೆ ಸೈಟಿಗೆ ನಲವತ್ತು ಲಕ್ಷದವರೆಗೆ, ಉಳಿದಿದ್ದು ಮನೆಗೆ.
+    tr: Ibra sambaḷa sēri ondu lakṣa nalavatnālku sāvira, bēre yāva Ī-Em-Ainū illa. Ippattu varṣakke sumāru eppattu lakṣadavaregū elijibiliṭi barutte. Andre saiṭige nalavattu lakṣadavarege, uḷididdu manege.
+    en: Your two salaries together come to one lakh forty-four thousand, with no other EMIs. Over twenty years you're eligible for up to about seventy lakh. That means up to forty lakh for the plot, and the rest for the house.
+  - who: deepa
+    t: ಎಪ್ಪತ್ತು ಲಕ್ಷ ಪೂರ್ತಿ ತಗೊಂಡ್ರೆ ಇಎಂಐ ಎಷ್ಟು?
+    tr: Eppattu lakṣa pūrti tagoṇḍre Ī-Em-Ai eṣṭu?
+    en: If we take the full seventy lakh, what's the EMI?
+  - who: bank
+    t: 'ಈಗಿನ ರೇಟ್‌ನಲ್ಲಿ ಸುಮಾರು ಅರವತ್ತು ಸಾವಿರದ ಏಳುನೂರು. ಆದ್ರೆ ಇದು ಫ್ಲೋಟಿಂಗ್ ರೇಟ್. ಆರ್‌ಬಿಐ ರೆಪೋ ರೇಟ್ ಬದಲಾದ್ರೆ ನಿಮ್ಮ ಬಡ್ಡಿನೂ ಬದಲಾಗುತ್ತೆ. ನನ್ನ ಸಲಹೆ: ಎಲಿಜಿಬಿಲಿಟಿ ಎಷ್ಟಿದೆ ಅನ್ನೋದಕ್ಕಿಂತ, ನೀವು ಆರಾಮಾಗಿ ಎಷ್ಟು ಕಟ್ಟಬಹುದು ಅನ್ನೋದು ಮುಖ್ಯ.'
+    tr: 'Īgina rēṭ-nalli sumāru aravattu sāvirada ēḷunūru. Ādre idu phlōṭing rēṭ. Ār-Bi-Ai repō rēṭ badalādre nimma baḍḍinū badalāgutte. Nanna salahe: elijibiliṭi eṣṭide annōdakkinta, nīvu ārāmāgi eṣṭu kaṭṭabahudu annōdu mukhya.'
+    en: 'At today''s rate, about sixty thousand seven hundred. But this is a floating rate: if the RBI changes the repo rate, your interest changes too. My advice: what matters isn''t how much you''re eligible for, but how much you can comfortably pay.'
+  - who: ravi
+    t: ಡಾಕ್ಯುಮೆಂಟ್ಸ್ ಏನೇನು ಬೇಕು, ಮೇಡಂ?
+    tr: Ḍākyumenṭs ēnēnu bēku, mēḍam?
+    en: What documents do you need, madam?
+  - who: bank
+    t: ಇಬ್ರದೂ ಆಧಾರ್, ಪ್ಯಾನ್, ಕೊನೆ ಆರು ತಿಂಗಳ ಸ್ಯಾಲರಿ ಸ್ಲಿಪ್, ಬ್ಯಾಂಕ್ ಸ್ಟೇಟ್‌ಮೆಂಟ್, ಎರಡು ವರ್ಷದ ಫಾರ್ಮ್ ಸಿಕ್ಸ್‌ಟೀನ್ ಅಥವಾ ಐಟಿಆರ್. ಸೈಟು ಫೈನಲ್ ಆದ ಮೇಲೆ ಅದರ ಎಲ್ಲಾ ದಾಖಲೆಗಳು. ನಮ್ಮ ಲಾಯರ್ ಲೀಗಲ್ ವೆರಿಫಿಕೇಶನ್ ಮಾಡ್ತಾರೆ, ನಮ್ಮ ಎಂಜಿನಿಯರ್ ಬಂದು ಸೈಟು ನೋಡ್ತಾರೆ.
+    tr: Ibradū Ādhār, Pyān, kone āru tingaḷa syālari slip, byānk sṭēṭmenṭ, eraḍu varṣada phārm siksṭīn athavā Ai-Ṭi-Ār. Saiṭu phainal āda mēle adara ellā dākhalegaḷu. Namma lāyar līgal verifikēśan māḍtāre, namma enjiniyar bandu saiṭu nōḍtāre.
+    en: Aadhaar and PAN for both of you, the last six months' salary slips, bank statements, and two years of Form 16 or income-tax returns. Once the plot is final, all its documents. Our lawyer does the legal verification, and our engineer comes to inspect the site.
+  - who: bank
+    t: ಒಂದು ಸಲಹೆ, ಸಾರ್. ಯಾವ ಸೈಟಿಗೂ ಅಡ್ವಾನ್ಸ್ ಕೊಡೋ ಮುಂಚೆ ದಾಖಲೆಗಳ ಕಾಪಿ ನಮಗೆ ತೋರಿಸಿ. ಆಮೇಲೆ ಲೋನ್ ಸಿಗಲ್ಲ ಅಂದ್ರೆ ಅಡ್ವಾನ್ಸ್ ವಾಪಸ್ ಬರೋದು ಕಷ್ಟ.
+    tr: Ondu salahe, sār. Yāva saiṭigū aḍvāns koḍō munche dākhalegaḷa kāpi namage tōrisi. Āmēle lōn sigalla andre aḍvāns vāpas barōdu kaṣṭa.
+    en: One piece of advice, sir. Before you pay an advance on any plot, show us copies of the documents. If the loan falls through later, getting the advance back is hard.
+  - who: ravi
+    t: ತುಂಬಾ ಉಪಕಾರ ಆಯ್ತು, ಮೇಡಂ. ಸೈಟು ನೋಡಿ ಬರ್ತೀವಿ.
+    tr: Tumbā upakāra āytu, mēḍam. Saiṭu nōḍi bartīvi.
+    en: That's been a great help, madam. We'll go and look at plots and come back.
+  - scene: Outside on the pavement, in the noise of the Vijayanagar traffic.
+  - who: deepa
+    t: ಅರವತ್ತು ಸಾವಿರ ಇಎಂಐ, ಜೊತೆಗೆ ಇಪ್ಪತ್ತೆರಡು ಸಾವಿರ ಬಾಡಿಗೆ… ಮನೆ ಮುಗಿಯೋವರೆಗೂ ಹೊರಗೆ ಊಟ, ಸಿನಿಮಾ ಎಲ್ಲಾ ಮರೆತುಬಿಡಬೇಕು.
+    tr: Aravattu sāvira Ī-Em-Ai, jotege ippatteraḍu sāvira bāḍige… mane mugiyōvaregū horage ūṭa, sinimā ellā maretubiḍabēku.
+    en: Sixty thousand in EMI, plus twenty-two thousand in rent… until the house is finished, we can forget about eating out, films, all of it.
+  - who: ravi
+    t: ಮೊದಲ ದಿನದಿಂದಲೇ ಪೂರ್ತಿ ಅರವತ್ತು ಅಲ್ಲ. ಬ್ಯಾಂಕ್ ಎಷ್ಟು ರಿಲೀಸ್ ಮಾಡುತ್ತೋ ಅಷ್ಟಕ್ಕೆ ಮಾತ್ರ ಬಡ್ಡಿ. ಆದ್ರೂ… ಹೌದು, ಕೆಲವು ವರ್ಷ ಟೈಟ್ ಆಗುತ್ತೆ.
+    tr: Modala dinadindalē pūrti aravattu alla. Byānk eṣṭu rilīs māḍuttō aṣṭakke mātra baḍḍi. Ādrū… haudu, kelavu varṣa ṭaiṭ āgutte.
+    en: Not the full sixty from day one. We only pay interest on what the bank has released. Still… yes, things will be tight for a few years.
+  - who: deepa
+    t: ಟೈಟ್ ಆದ್ರೂ ಪರವಾಗಿಲ್ಲ. ನಮ್ಮ ಮನೆ ಅಂದ್ರೆ ನಮ್ಮ ಮನೆ.
+    tr: Ṭaiṭ ādrū paravāgilla. Namma mane andre namma mane.
+    en: Tight is fine. Our own house is our own house.
+  - chapter: Chapter 2 — The broker and two plots
+  - section: 📞 Calling a broker
+    learn: 'phone phrases · “is it A-khata or B-khata?” · polite firmness: -avarē, ḍīṭēlē mukhya'
+  - scene: February 2025. Ravi has found a plot listing online and calls the number. A brisk voice answers over traffic noise.
+  - who: broker
+    t: ಹಲೋ, ಲೋಕೇಶ್ ಮಾತಾಡ್ತಿರೋದು. ಹೇಳಿ ಸಾರ್.
+    tr: Halō, Lōkēś mātāḍtirōdu. Hēḷi sār.
+    en: Hello, Lokesh speaking. Go ahead, sir.
+  - who: ravi
+    t: ನಮಸ್ಕಾರ. ನಿಮ್ಮ ನಂಬರ್ ಆನ್‌ಲೈನ್ ಲಿಸ್ಟಿಂಗ್‌ನಲ್ಲಿ ಸಿಕ್ತು. ಮೂವತ್ತು-ನಲವತ್ತು ಸೈಟು ಹುಡುಕ್ತಿದೀವಿ, ಐವತ್ತು ಲಕ್ಷದ ಒಳಗೆ.
+    tr: Namaskāra. Nimma nambar ānlain lisṭing-nalli siktu. Mūvattu-nalavattu saiṭu huḍuktidīvi, aivattu lakṣada oḷage.
+    en: Hello. I got your number from an online listing. We're looking for a thirty-by-forty plot, under fifty lakh.
+  - who: broker
+    t: ಐವತ್ತರ ಒಳಗೆ… ಸಿಗುತ್ತೆ ಸಾರ್, ಯಾಕೆ ಸಿಗಲ್ಲ! ನನ್ನ ಹತ್ರ ಎರಡು ಆಪ್ಷನ್ ಇದೆ. ಒಂದು ಹೊಸಕೋಟೆ ಹತ್ರ, ಸಕ್ಕತ್ ಕಮ್ಮಿ ರೇಟ್. ಇನ್ನೊಂದು ಕೆಂಗೇರಿ ಹತ್ರ, ಪ್ರೀಮಿಯಂ, ಎ-ಖಾತಾ.
+    tr: Aivattara oḷage… sigutte sār, yāke sigalla! Nanna hatra eraḍu āpśan ide. Ondu Hosakōṭe hatra, sakkat kammi rēṭ. Innondu Kengēri hatra, prīmiyam, E-khātā.
+    en: 'Under fifty… we''ll find one, sir, why not! I''ve got two options. One near Hoskote, a really low rate. The other near Kengeri: premium, A-khata.'
+  - who: ravi
+    t: ಹೊಸಕೋಟೆ ಸೈಟು ಎ-ಖಾತಾನಾ, ಬಿ-ಖಾತಾನಾ?
+    tr: Hosakōṭe saiṭu E-khātānā, Bi-khātānā?
+    en: Is the Hoskote plot A-khata or B-khata?
+  - who: broker
+    t: ಅದು ಪಂಚಾಯತ್ ಏರಿಯಾ ಸಾರ್, ಇ-ಸ್ವತ್ತು ಇದೆ. ಅದೆಲ್ಲಾ ಡೀಟೇಲ್ ಆಮೇಲೆ, ನೀವು ಮೊದಲು ಬಂದು ನೋಡಿ. ಶನಿವಾರ ಬೆಳಿಗ್ಗೆ ಹೊಸಕೋಟೆ, ಸಂಜೆ ಕೆಂಗೇರಿ. ಓಕೆನಾ?
+    tr: Adu panchāyat ēriyā sār, I-Swattu ide. Adellā ḍīṭēl āmēle, nīvu modalu bandu nōḍi. Śanivāra beḷigge Hosakōṭe, sanje Kengēri. Ōkenā?
+    en: That's a panchayat area, sir. It has e-Swathu. Leave the details for later, come and see it first. Saturday morning Hoskote, evening Kengeri. Okay?
+  - who: ravi
+    t: ಸರಿ. ಆದ್ರೆ ಡೀಟೇಲ್ ಆಮೇಲೆ ಅಲ್ಲ, ಲೋಕೇಶ್ ಅವರೇ. ಡೀಟೇಲೇ ಮುಖ್ಯ. ಎರಡೂ ಸೈಟಿನ ದಾಖಲೆಗಳ ಕಾಪಿ ತಗೊಂಡು ಬನ್ನಿ.
+    tr: Sari. Ādre ḍīṭēl āmēle alla, Lōkēś avarē. Ḍīṭēlē mukhya. Eraḍū saiṭina dākhalegaḷa kāpi tagoṇḍu banni.
+    en: Fine. But the details aren't for later, Lokesh. The details are what matter. Bring copies of the documents for both plots.
+  - who: broker
+    t: ಓಹೋ, ಸಾರ್ ಹೋಮ್‌ವರ್ಕ್ ಮಾಡಿದಾರೆ! ಆಯ್ತು ಸಾರ್, ತರ್ತೀನಿ.
+    tr: Ōhō, sār hōmvark māḍidāre! Āytu sār, tartīni.
+    en: Oho, sir has done his homework! Alright, sir, I'll bring them.
+  - section: 🌾 The cheap plot near Hoskote
+    learn: 'comparing with -ginta · “they''ve applied” vs “it''s approved” · hearsay -ante · DC conversion, layout approval, GPA · proverb: ati āse gati kēḍu'
+  - scene: 'Saturday, ten in the morning. Beyond Hoskote, two kilometres off the highway. Red soil, rows of stone markers, and a big painted arch: ''Sri Lakshmi Green Enclave''. Ravi and Deepa follow Lokesh along a mud track.'
+  - who: broker
+    t: ನೋಡಿ ಸಾರ್! ಹೈವೇಯಿಂದ ಎರಡೇ ಕಿಲೋಮೀಟರ್. ಏರ್‌ಪೋರ್ಟ್‌ಗೆ ಮುಕ್ಕಾಲು ಗಂಟೆ. ಐದು ವರ್ಷದಲ್ಲಿ ಇಲ್ಲಿ ರೇಟ್ ಡಬಲ್ ಆಗುತ್ತೆ, ಬರೆದಿಟ್ಕೊಳ್ಳಿ.
+    tr: Nōḍi sār! Haivēyinda eraḍē kilōmīṭar. Ēr-pōrṭ-ge mukkālu gaṇṭe. Aidu varṣadalli illi rēṭ ḍabal āgutte, barediṭkoḷḷi.
+    en: Look, sir! Just two kilometres from the highway. Forty-five minutes to the airport. In five years the rate here will double. Write that down.
+  - who: deepa
+    t: ರೇಟ್ ಎಷ್ಟು?
+    tr: Rēṭ eṣṭu?
+    en: What's the rate?
+  - who: broker
+    t: ಸ್ಕ್ವೇರ್ ಫೀಟ್‌ಗೆ ಎರಡು ಸಾವಿರದ ಎಂಟುನೂರು ಮಾತ್ರ, ಮೇಡಂ. ಮೂವತ್ತು-ನಲವತ್ತು ಸೈಟು ಮೂವತ್ಮೂರು ಲಕ್ಷ ಅರವತ್ತು ಸಾವಿರ. ಕೆಂಗೇರಿಗಿಂತ ಇಪ್ಪತ್ತು ಲಕ್ಷ ಕಮ್ಮಿ!
+    tr: Skvēr fīṭ-ge eraḍu sāvirada eṇṭunūru mātra, mēḍam. Mūvattu-nalavattu saiṭu mūvatmūru lakṣa aravattu sāvira. Kengērigintha ippattu lakṣa kammi!
+    en: Only two thousand eight hundred a square foot, madam. A thirty-by-forty plot comes to thirty-three lakh sixty thousand. Twenty lakh less than Kengeri!
+  - who: deepa
+    t: ಮೂವತ್ಮೂರು ಲಕ್ಷ ಅಂದ್ರೆ ಲೋನ್ ತುಂಬಾ ಕಮ್ಮಿ ಸಾಕು…
+    tr: Mūvatmūru lakṣa andre lōn tumbā kammi sāku…
+    en: (to Ravi) Thirty-three lakh would mean a much smaller loan…
+  - who: ravi
+    t: ಲೋನ್ ಸಿಕ್ಕಿದ್ರೆ, ದೀಪಾ. ಲೋಕೇಶ್ ಅವರೇ, ಈ ಲೇಔಟ್‌ಗೆ ಯಾರ ಅಪ್ರೂವಲ್ ಇದೆ? ಬಿಎಂಆರ್‌ಡಿಎನಾ?
+    tr: Lōn sikkidre, Dīpā. Lōkēś avarē, ī lēauṭ-ge yāra aprūval ide? Bi-Em-Ār-Ḍi-E-nā?
+    en: If we get a loan at all, Deepa. Lokesh, whose approval does this layout have? The BMRDA's?
+  - who: broker
+    t: ಅಪ್ರೂವಲ್… ಅಪ್ಲೈ ಮಾಡಿದಾರೆ ಸಾರ್, ಪ್ರೋಸೆಸ್‌ನಲ್ಲಿದೆ. ಆದ್ರೆ ಪಂಚಾಯತ್ ಇ-ಸ್ವತ್ತು ಕೊಟ್ಟಿದೆ, ಟ್ಯಾಕ್ಸ್ ಕಟ್ತಿದಾರೆ. ಎಲ್ಲಾ ಲೀಗಲ್.
+    tr: Aprūval… aplai māḍidāre sār, prōses-nallide. Ādre panchāyat I-Swattu koṭṭide, ṭyāks kaṭtidāre. Ellā līgal.
+    en: The approval… they've applied for it, sir, it's in process. But the panchayat has issued e-Swathu and they're paying tax. All legal.
+  - who: ravi
+    t: “ಅಪ್ಲೈ ಮಾಡಿದಾರೆ” ಅಂದ್ರೆ ಅಪ್ರೂವ್ ಆಗಿಲ್ಲ ಅಂತ ಅರ್ಥ. ಈ ಜಮೀನು ಡಿಸಿ ಕನ್ವರ್ಷನ್ ಆಗಿದ್ಯಾ? ಕೃಷಿ ಭೂಮಿಯಿಂದ ವಸತಿಗೆ ಭೂ ಪರಿವರ್ತನೆ ಆದೇಶ ಇದ್ಯಾ?
+    tr: “Aplai māḍidāre” andre aprūv āgilla anta artha. Ī jamīnu Ḍi-Si kanvarśan āgidyā? Kṛṣi bhūmiyinda vasatige bhū parivartane ādēśa idyā?
+    en: “They've applied” means it isn't approved. Has this land had DC conversion? Is there an order converting it from farmland to residential use?
+  - who: broker
+    t: ಕನ್ವರ್ಷನ್… ಮಾಡಿಸ್ಬೇಕು ಸಾರ್. ಸರ್ಕಾರ ಮುಂದೆ ಒಂದು ಸ್ಕೀಮ್ ತರುತ್ತಂತೆ. ಗೈಡೆನ್ಸ್ ವ್ಯಾಲ್ಯೂದ ಐದು ಪರ್ಸೆಂಟ್ ಕಟ್ಟಿದ್ರೆ ಎಲ್ಲಾ ರೆಗ್ಯುಲರ್ ಆಗುತ್ತೆ ಅಂತ ಮಾತಿದೆ.
+    tr: Kanvarśan… māḍisbēku sār. Sarkāra munde ondu skīm taruttante. Gaiḍens vyālyūda aidu parsenṭ kaṭṭidre ellā regyular āgutte anta mātide.
+    en: The conversion… still has to be done, sir. Apparently the government is going to bring in a scheme. The talk is that if you pay five percent of the guidance value, everything gets regularised.
+  - who: deepa
+    t: ಐದು ಪರ್ಸೆಂಟ್ ಅಂದ್ರೆ ಎಷ್ಟು? ಇಲ್ಲಿ ಗೈಡೆನ್ಸ್ ವ್ಯಾಲ್ಯೂ ಎಷ್ಟು?
+    tr: Aidu parsenṭ andre eṣṭu? Illi gaiḍens vyālyū eṣṭu?
+    en: Five percent of what? What's the guidance value here?
+  - who: broker
+    t: ಸ್ಕ್ವೇರ್ ಫೀಟ್‌ಗೆ ಸಾವಿರದೈನೂರರಿಂದ ಎರಡು ಸಾವಿರ ಇರಬಹುದು, ಮೇಡಂ. ಅಂದ್ರೆ ಒಂದು ಲಕ್ಷದ ಸುತ್ತ. ಏನೂ ಅಲ್ಲ.
+    tr: Skvēr fīṭ-ge sāviradainūrarinda eraḍu sāvira irabahudu, mēḍam. Andre ondu lakṣada sutta. Ēnū alla.
+    en: Maybe fifteen hundred to two thousand a square foot, madam. So around one lakh. Nothing at all.
+  - who: ravi
+    t: “ಅಂತೆ” ಮೇಲೆ ನಾನು ಮೂವತ್ಮೂರು ಲಕ್ಷ ಹಾಕಲ್ಲ, ಲೋಕೇಶ್ ಅವರೇ. ಸ್ಕೀಮ್ ಬರುತ್ತೋ ಇಲ್ವೋ, ಬಂದ್ರೂ ಯಾವಾಗ, ಯಾರಿಗೂ ಗೊತ್ತಿಲ್ಲ.
+    tr: “Ante” mēle nānu mūvatmūru lakṣa hākalla, Lōkēś avarē. Skīm baruttō ilvō, bandrū yāvāga, yārigū gottilla.
+    en: I'm not putting thirty-three lakh on an “apparently”, Lokesh. Whether the scheme comes or not, and when, nobody knows.
+  - who: ravi
+    t: ಮತ್ತೆ, ಈ ಸೈಟಿನ ಓನರ್ ಯಾರು? ಅವರು ಎಲ್ಲಿದಾರೆ?
+    tr: Matte, ī saiṭina ōnar yāru? Avaru ellidāre?
+    en: And who owns this plot? Where is the owner?
+  - who: broker
+    t: ಓನರ್ ದುಬೈನಲ್ಲಿದಾರೆ ಸಾರ್. ಅವರ ಭಾವಮೈದನ ಹತ್ರ ಜಿಪಿಎ ಇದೆ. ಅವರೇ ಸೈನ್ ಮಾಡ್ತಾರೆ, ಏನೂ ಪ್ರಾಬ್ಲಮ್ ಇಲ್ಲ.
+    tr: Ōnar Dubainallidāre sār. Avara bhāvamaidana hatra Ji-Pi-E ide. Avarē sain māḍtāre, ēnū prāblam illa.
+    en: The owner's in Dubai, sir. His brother-in-law holds a GPA. He'll do the signing, no problem at all.
+  - who: ravi
+    t: ಜಿಪಿಎ ಮೇಲೆ ಮಾರಾಟ… ಅದರಿಂದ ಟೈಟಲ್ ಸರಿಯಾಗಿ ವರ್ಗಾವಣೆ ಆಗಲ್ಲ ಅಂತ ಸುಪ್ರೀಂ ಕೋರ್ಟೇ ಹೇಳಿದೆ. ಸಾರಿ, ಇದು ನಮಗೆ ಬೇಡ.
+    tr: Ji-Pi-E mēle mārāṭa… adarinda ṭaiṭal sariyāgi vargāvaṇe āgalla anta Suprīm Kōrṭē hēḷide. Sāri, idu namage bēḍa.
+    en: A sale on a GPA… the Supreme Court itself has said that doesn't properly transfer the title. Sorry, this isn't for us.
+  - who: broker
+    t: ಸಾರ್, ಒಂದು ನಿಮಿಷ. ಇಲ್ಲಿ ಎಷ್ಟು ಜನ ಮನೆ ಕಟ್ಟಿದಾರೆ ನೋಡಿ. ಅವರಿಗೆ ಏನಾದ್ರೂ ಆಗಿದ್ಯಾ?
+    tr: Sār, ondu nimiṣa. Illi eṣṭu jana mane kaṭṭidāre nōḍi. Avarige ēnādrū āgidyā?
+    en: Sir, one minute. Look how many people have built houses here. Has anything happened to them?
+  - who: deepa
+    t: ಇವತ್ತಿನವರೆಗೂ ಆಗಿಲ್ಲ. ಆದ್ರೆ ಪೇಪರ್ ಓದ್ತೀರಾ? ಅನುಮತಿ ಇಲ್ಲದೆ ಕಟ್ಟಿದ ಮನೆಗಳಿಗೆ ಕರೆಂಟ್, ನೀರಿನ ಕನೆಕ್ಷನ್ ಕೊಡೋದೇ ಕಷ್ಟ ಆಗ್ತಿದೆ ಅಂತ ಸುದ್ದಿ ಬರ್ತಿದೆ. ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಏನೋ ಆರ್ಡರ್ ಮಾಡಿದೆಯಂತೆ.
+    tr: Ivattinavaregū āgilla. Ādre pēpar ōdtīrā? Anumati illade kaṭṭida manegaḷige karaṇṭ, nīrina kanekśan koḍōdē kaṣṭa āgtide anta suddi bartide. Suprīm Kōrṭ ēnō ārḍar māḍideyante.
+    en: Nothing so far. But do you read the papers? There's news that houses built without permission are struggling even to get power and water connections. Apparently the Supreme Court has passed some order.
+  - who: broker
+    t: ಅದೆಲ್ಲಾ ಪೇಪರ್‌ನವರ ಗಲಾಟೆ, ಮೇಡಂ. ಎರಡು ತಿಂಗಳಲ್ಲಿ ಎಲ್ಲಾ ಸರಿ ಹೋಗುತ್ತೆ.
+    tr: Adellā pēpar-navara galāṭe, mēḍam. Eraḍu tingaḷalli ellā sari hōgutte.
+    en: That's just the newspapers making noise, madam. It'll all settle down in two months.
+  - scene: Walking back to the car, out of Lokesh's hearing.
+  - who: ravi
+    t: ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು ಅಂತ ಅಪ್ಪ ಹೇಳ್ತಾರೆ. ಇಪ್ಪತ್ತು ಲಕ್ಷ ಉಳಿಸೋಕೆ ಹೋಗಿ ಮೂವತ್ಮೂರು ಲಕ್ಷ ಕಳ್ಕೊಳ್ಳೋದು ಬೇಡ.
+    tr: Ati āse gati kēḍu anta appa hēḷtāre. Ippattu lakṣa uḷisōke hōgi mūvatmūru lakṣa kaḷkoḷḷōdu bēḍa.
+    en: Appa always says too much greed leads to ruin. Let's not try to save twenty lakh and end up losing thirty-three.
+  - who: deepa
+    t: ಒಪ್ಕೊಳ್ತೀನಿ. ಬೆಲೆ ಇಷ್ಟು ಕಮ್ಮಿ ಇದೆ ಅಂದ್ರೆ ಅದಕ್ಕೆ ಏನೋ ಕಾರಣ ಇರುತ್ತೆ.
+    tr: Opkoḷtīni. Bele iṣṭu kammi ide andre adakke ēnō kāraṇa irutte.
+    en: Agreed. When a price is this low, there's always a reason.
+  - section: 🧭 Site No. 47, near Kengeri
+    learn: 'site-visit questions · distances: eṣṭu dūra? · relative clauses (kaṭṭida manegaḷu, keḷage irō jāga) · measuring: aḷate, aḍi'
+  - scene: 'Saturday, five in the evening. A BMRDA-approved layout off Mysuru Road, past Kengeri, inside the BBMP limits. Tarred thirty-foot roads, streetlights, manhole covers, and about a third of the plots already built on. Lokesh stops at a plot with stone markers at its corners and a small board: ''Site No. 47''.'
+  - who: broker
+    t: ಇದೇ ಸಾರ್, ನಲವತ್ತೇಳನೇ ನಂಬರ್ ಸೈಟು. ಮೂವತ್ತು-ನಲವತ್ತು, ಈಸ್ಟ್ ಫೇಸಿಂಗ್. ಮುಂದೆ ಮೂವತ್ತು ಅಡಿ ರೋಡು. ಎ-ಖಾತಾ, ಇ-ಖಾತಾ ರೆಡಿ ಇದೆ.
+    tr: Idē sār, nalavattēḷanē nambar saiṭu. Mūvattu-nalavattu, īsṭ phēsing. Munde mūvattu aḍi rōḍu. E-khātā, i-khātā reḍi ide.
+    en: This is it, sir. Site number forty-seven. Thirty by forty, east-facing, with a thirty-foot road in front. A-khata, and the e-khata is ready.
+  - who: ravi
+    t: ಲೇಔಟ್ ಅಪ್ರೂವಲ್?
+    tr: Lēauṭ aprūval?
+    en: Layout approval?
+  - who: broker
+    t: ಬಿಎಂಆರ್‌ಡಿಎ ಅಪ್ರೂವ್ಡ್, ಎರಡು ಸಾವಿರದ ಆರರಲ್ಲಿ. ಆಮೇಲೆ ಈ ಹಳ್ಳಿ ಬಿಬಿಎಂಪಿಗೆ ಸೇರ್ತು, ಅದಕ್ಕೇ ಈಗ ಬಿಬಿಎಂಪಿ ಎ-ಖಾತಾ. ರಿಲೀಸ್ ಆರ್ಡರ್, ಕನ್ವರ್ಷನ್ ಆರ್ಡರ್ ಕಾಪಿ ಎಲ್ಲಾ ತಂದಿದೀನಿ. ನೀವು ಕೇಳಿದ್ರಲ್ಲ.
+    tr: Bi-Em-Ār-Ḍi-E aprūvḍ, eraḍu sāvirada āraralli. Āmēle ī haḷḷi Bi-Bi-Em-Pi-ge sērtu, adakkē īga Bi-Bi-Em-Pi E-khātā. Rilīs ārḍar, kanvarśan ārḍar kāpi ellā tandidīni. Nīvu kēḷidralla.
+    en: BMRDA-approved, back in 2006. Later this village was absorbed into the BBMP, which is why it's a BBMP A-khata now. I've brought copies of the release order and the conversion order. You asked, didn't you?
+  - who: deepa
+    t: ರಿಲೀಸ್ ಆರ್ಡರ್ ಅಂದ್ರೆ?
+    tr: Rilīs ārḍar andre?
+    en: What's a release order?
+  - who: ravi
+    t: ಲೇಔಟ್ ಮಾಡಿದವರು ರೋಡು, ಪಾರ್ಕ್, ಸಿಎ ಸೈಟು ಎಲ್ಲಾ ಸರ್ಕಾರಕ್ಕೆ ಬಿಟ್ಟುಕೊಟ್ಟ ಮೇಲೆ, ಯಾವ ಸೈಟುಗಳನ್ನ ಮಾರಬಹುದು ಅಂತ ಅಥಾರಿಟಿ ಕೊಡೋ ಆದೇಶ. ನಮ್ಮ ಸೈಟಿನ ನಂಬರ್ ಅದರಲ್ಲಿ ಇರಬೇಕು.
+    tr: Lēauṭ māḍidavaru rōḍu, pārk, Si-E saiṭu ellā sarkārakke biṭṭukoṭṭa mēle, yāva saiṭugaḷanna mārabahudu anta athāriṭi koḍō ādēśa. Namma saiṭina nambar adaralli irabēku.
+    en: Once the developer has handed the roads, parks and civic-amenity sites over to the government, the authority issues an order saying which plots may be sold. Our plot's number has to be on it.
+  - who: broker
+    t: ಇದೆ ಸಾರ್, ನೋಡಿ. ನಲವತ್ತೇಳು, ಇಲ್ಲಿದೆ.
+    tr: Ide sār, nōḍi. Nalavattēḷu, illide.
+    en: It's there, sir, look. Forty-seven, right here.
+  - who: deepa
+    t: ರೇಟ್ ಎಷ್ಟು ಹೇಳ್ತಿದಾರೆ?
+    tr: Rēṭ eṣṭu hēḷtidāre?
+    en: What price is the owner asking?
+  - who: broker
+    t: ಸ್ಕ್ವೇರ್ ಫೀಟ್‌ಗೆ ನಾಲ್ಕು ಸಾವಿರದ ಐನೂರು. ಈಸ್ಟ್ ಫೇಸಿಂಗ್ ಪ್ರೀಮಿಯಂ ಸೇರಿ ಓನರ್ ಐವತ್ತಾರು ಲಕ್ಷ ಹೇಳ್ತಿದಾರೆ.
+    tr: Skvēr fīṭ-ge nālku sāvirada ainūru. Īsṭ phēsing prīmiyam sēri ōnar aivattāru lakṣa hēḷtidāre.
+    en: Four thousand five hundred a square foot. With the east-facing premium, the owner is asking fifty-six lakh.
+  - who: deepa
+    t: ಐವತ್ತಾರು! ನಮ್ಮ ಬಜೆಟ್ ಐವತ್ತು ಅಂತ ಫೋನ್‌ನಲ್ಲೇ ಹೇಳಿದ್ವಿ.
+    tr: Aivattāru! Namma bajeṭ aivattu anta phōn-nallē hēḷidvi.
+    en: Fifty-six! We told you on the phone our budget was fifty.
+  - who: broker
+    t: ಮೇಡಂ, ಈ ಏರಿಯಾದಲ್ಲಿ ಎ-ಖಾತಾ ಸೈಟು ಐವತ್ತರ ಒಳಗೆ ಯಾರೂ ಕೊಡಲ್ಲ. ಪಕ್ಕದ ಲೇಔಟ್‌ನಲ್ಲಿ ಐದು ಸಾವಿರಕ್ಕೆ ಹೋಗ್ತಿದೆ. ಮಾತಾಡೋಣ, ಸ್ವಲ್ಪ ಅಡ್ಜಸ್ಟ್ ಮಾಡಿಸ್ತೀನಿ.
+    tr: Mēḍam, ī ēriyādalli E-khātā saiṭu aivattara oḷage yārū koḍalla. Pakkada lēauṭ-nalli aidu sāvirakke hōgtide. Mātāḍōṇa, swalpa aḍjasṭ māḍistīni.
+    en: Madam, nobody sells an A-khata plot in this area for under fifty. In the next layout they're going for five thousand. We'll talk. I'll get the owner to adjust a bit.
+  - who: ravi
+    t: ರೇಟ್ ಆಮೇಲೆ. ಮೊದಲು ಕೆಲವು ಪ್ರಶ್ನೆ. ಇಲ್ಲಿ ಯುಜಿಡಿ ಇದ್ಯಾ? ಒಳಚರಂಡಿ ಲೈನ್?
+    tr: Rēṭ āmēle. Modalu kelavu praśne. Illi Yu-Ji-Ḍi idyā? Oḷacharaṇḍi lain?
+    en: The price can wait. First, a few questions. Is there UGD here? An underground drainage line?
+  - who: broker
+    t: ಇದೆ ಸಾರ್. ಆ ಮ್ಯಾನ್‌ಹೋಲ್ ಮುಚ್ಚಳ ನೋಡಿ. ಮಳೆ ನೀರಿಗೆ ರೋಡ್ ಪಕ್ಕ ಬೇರೆ ಚರಂಡಿ ಇದೆ.
+    tr: Ide sār. Ā myānhōl muchchaḷa nōḍi. Maḷe nīrige rōḍ pakka bēre charaṇḍi ide.
+    en: Yes, sir. See that manhole cover. And there's a separate drain along the road for rainwater.
+  - who: ravi
+    t: ಕಾವೇರಿ ನೀರು?
+    tr: Kāvēri nīru?
+    en: Cauvery water?
+  - who: broker
+    t: ಪೈಪ್‌ಲೈನ್ ಹಾಕಿದಾರೆ ಸಾರ್. ಕನೆಕ್ಷನ್ ಇನ್ನೂ ಶುರು ಆಗಿಲ್ಲ, ಈ ವರ್ಷ ಕೊಡ್ತಾರಂತೆ. ಅಲ್ಲಿವರೆಗೂ ಎಲ್ಲರಿಗೂ ಬೋರ್‌ವೆಲ್ ಇದೆ.
+    tr: Paip-lain hākidāre sār. Kanekśan innū śuru āgilla, ī varṣa koḍtārante. Allivaregū ellarigū bōrvel ide.
+    en: They've laid the pipeline, sir. Connections haven't started yet. Apparently this year. Until then, everyone has a borewell.
+  - who: deepa
+    t: ಮಳೆಗಾಲದಲ್ಲಿ ಇಲ್ಲಿ ನೀರು ನಿಲ್ಲುತ್ತಾ? ಫ್ಲಡ್ ಆಗುತ್ತಾ?
+    tr: Maḷegāladalli illi nīru nilluttā? Phlaḍ āguttā?
+    en: Does water collect here in the monsoon? Does it flood?
+  - who: broker
+    t: ಇಲ್ಲ ಮೇಡಂ, ಇದು ಸ್ವಲ್ಪ ಎತ್ತರದ ಜಾಗ. ನೀರೆಲ್ಲಾ ಆ ಕಡೆ ಕೆರೆಗೆ ಹರಿದು ಹೋಗುತ್ತೆ.
+    tr: Illa mēḍam, idu swalpa ettarada jāga. Nīrellā ā kaḍe kerege haridu hōgutte.
+    en: No, madam, this is slightly higher ground. All the water runs off that way, into the lake.
+  - who: ravi
+    t: ಕೆರೆ? ಕೆರೆ ಎಷ್ಟು ದೂರ? ಕೆರೆಯ ಬಫರ್ ಜೋನ್‌ನಲ್ಲಿ ಕಟ್ಟಿದ ಮನೆಗಳನ್ನ ಬಿಬಿಎಂಪಿ ಒಡೆದು ಹಾಕಿದ್ದು ನೋಡಿದೀವಿ.
+    tr: Kere? Kere eṣṭu dūra? Kereya baphar jōn-nalli kaṭṭida manegaḷanna Bi-Bi-Em-Pi oḍedu hākiddu nōḍidīvi.
+    en: A lake? How far is the lake? We've seen the BBMP knock down houses built in lake buffer zones.
+  - who: broker
+    t: ಸುಮಾರು ನಾಲ್ಕುನೂರು ಮೀಟರ್ ಸಾರ್. ಬಫರ್ ಮೂವತ್ತು ಮೀಟರ್ ತಾನೇ. ನಾವು ತುಂಬಾ ದೂರ ಇದೀವಿ.
+    tr: Sumāru nālkunūru mīṭar sār. Baphar mūvattu mīṭar tānē. Nāvu tumbā dūra idīvi.
+    en: About four hundred metres, sir. The buffer is only thirty metres, isn't it? We're well clear of it.
+  - who: ravi
+    t: ನೀವು ಹೇಳಿದ್ರೆ ಸಾಲದು. ಅದನ್ನ ಮಾಸ್ಟರ್ ಪ್ಲಾನ್ ಮ್ಯಾಪ್‌ನಲ್ಲಿ ಚೆಕ್ ಮಾಡಿಸ್ತೀನಿ. ಮತ್ತೆ ಅಲ್ಲಿ ಆ ದೊಡ್ಡ ಟವರ್‌ಗಳು, ಹೈ-ಟೆನ್ಷನ್ ಲೈನ್ ಅಲ್ವಾ?
+    tr: Nīvu hēḷidre sāladu. Adanna māsṭar plān myāp-nalli chek māḍistīni. Matte alli ā doḍḍa ṭavar-gaḷu, hai-ṭenśan lain alvā?
+    en: Your word isn't enough. I'll have it checked on the Master Plan map. And those big towers over there, that's a high-tension line, isn't it?
+  - who: broker
+    t: ಹೌದು ಸಾರ್, ಆದ್ರೆ ಇನ್ನೂರು ಮೀಟರ್ ದೂರ. ಲೈನ್ ಕೆಳಗೆ ಇರೋ ಜಾಗ ಲೇಔಟ್‌ನಲ್ಲೇ ಇಲ್ಲ, ಅದನ್ನ ಬೇರೆ ಬಿಟ್ಟಿದಾರೆ. ನಿಮ್ಮ ಸೈಟಿನ ಮೇಲೆ ಏನೂ ಹೋಗಲ್ಲ.
+    tr: Haudu sār, ādre innūru mīṭar dūra. Lain keḷage irō jāga lēauṭ-nallē illa, adanna bēre biṭṭidāre. Nimma saiṭina mēle ēnū hōgalla.
+    en: Yes, sir, but it's two hundred metres away. The land under the line isn't part of the layout at all; they've left it out. Nothing passes over your plot.
+  - who: ravi
+    t: ಮೆಟ್ರೋ ಎಷ್ಟು ದೂರ?
+    tr: Meṭrō eṣṭu dūra?
+    en: How far is the metro?
+  - who: broker
+    t: ಕೆಂಗೇರಿ ಮೆಟ್ರೋ ಸ್ಟೇಷನ್ ಮೂರು ಕಿಲೋಮೀಟರ್. ನೈಸ್ ರೋಡ್ ಐದು ನಿಮಿಷ. ನಿಮ್ಮ ಆಫೀಸ್ ಪೀಣ್ಯ ಅಲ್ವಾ? ನೈಸ್ ರೋಡಲ್ಲಿ ನಲವತ್ತು ನಿಮಿಷ.
+    tr: Kengēri meṭrō sṭēśan mūru kilōmīṭar. Nais rōḍ aidu nimiṣa. Nimma āphīs Pīṇya alvā? Nais rōḍalli nalavattu nimiṣa.
+    en: Kengeri metro station is three kilometres away. The NICE Road is five minutes. Your office is in Peenya, right? Forty minutes on the NICE Road.
+  - who: deepa
+    t: ಲೇಔಟ್‌ನಲ್ಲಿ ಎಷ್ಟು ಮನೆ ಆಗಿದೆ?
+    tr: Lēauṭ-nalli eṣṭu mane āgide?
+    en: How many houses are there in the layout?
+  - who: broker
+    t: ಮೂರನೇ ಒಂದು ಭಾಗ ಸೈಟಲ್ಲಿ ಮನೆ ಕಟ್ಟಿದಾರೆ, ಮೇಡಂ. ಜನ ವಾಸ ಇದಾರೆ, ರಾತ್ರಿ ಲೈಟ್ ಇರುತ್ತೆ, ಸೇಫ್.
+    tr: Mūranē ondu bhāga saiṭalli mane kaṭṭidāre, mēḍam. Jana vāsa idāre, rātri laiṭ irutte, sēph.
+    en: About a third of the plots have houses on them, madam. People live here, the lights are on at night. It's safe.
+  - who: ravi
+    t: ಮೂವತ್ತು ಅಡಿ ರೋಡಲ್ಲಿ ಎಷ್ಟು ಫ್ಲೋರ್ ಕಟ್ಟಬಹುದು? ನಮಗೆ ಕೆಳಗೆ ನಮ್ಮ ಮನೆ, ಮೇಲೆ ಎರಡು ಬಾಡಿಗೆ ಮನೆ ಬೇಕು.
+    tr: Mūvattu aḍi rōḍalli eṣṭu phlōr kaṭṭabahudu? Namage keḷage namma mane, mēle eraḍu bāḍige mane bēku.
+    en: On a thirty-foot road, how many floors can you build? We want our own home downstairs and two rental flats above.
+  - who: broker
+    t: ಜಿ ಪ್ಲಸ್ ಟು ಆರಾಮಾಗಿ, ಸಾರ್. ಈ ಲೇಔಟ್‌ನಲ್ಲಿ ಕೆಲವರು ಸ್ಟಿಲ್ಟ್ ಪ್ಲಸ್ ತ್ರೀ ಕೂಡ ಕಟ್ತಿದಾರೆ!
+    tr: Ji plas ṭu ārāmāgi, sār. Ī lēauṭ-nalli kelavaru sṭilṭ plas thrī kūḍa kaṭtidāre!
+    en: G plus two, easily, sir. Some people in this layout are even building stilt plus three!
+  - who: ravi
+    t: ಕಟ್ತಿದಾರೆ ಅನ್ನೋದು ಬೇರೆ, ಪ್ಲಾನ್‌ಗೆ ಅನುಮತಿ ಸಿಗುತ್ತೆ ಅನ್ನೋದು ಬೇರೆ. ಅದನ್ನ ಆರ್ಕಿಟೆಕ್ಟ್ ಹತ್ರ ಕೇಳ್ತೀನಿ.
+    tr: Kaṭtidāre annōdu bēre, plān-ge anumati sigutte annōdu bēre. Adanna ārkiṭekṭ hatra kēḷtīni.
+    en: People building it is one thing; getting the plan approved is another. I'll ask an architect about that.
+  - who: ravi
+    t: ನಾನು ಟೇಪ್ ತಂದಿದೀನಿ. ಒಂದ್ಸಲ ಅಳತೆ ನೋಡೋಣ. ದೀಪಾ, ಆ ಗಡಿ ಕಲ್ಲಿನ ಹತ್ರ ಟೇಪ್ ಹಿಡ್ಕೋ.
+    tr: Nānu ṭēp tandidīni. Ondsala aḷate nōḍōṇa. Dīpā, ā gaḍi kallina hatra ṭēp hiḍkō.
+    en: I've brought a tape. Let's check the measurements once. Deepa, hold the tape at that boundary stone.
+  - who: deepa
+    t: ಮುಂದೆ ಮೂವತ್ತು ಅಡಿ, ಸರಿ ಇದೆ. ಈ ಬದಿ ನಲವತ್ತು… ಆ ಬದಿ ಮೂವತ್ತೊಂಬತ್ತೂವರೆ ಅಡಿ ಅಷ್ಟೇ ಬರ್ತಿದೆ.
+    tr: Munde mūvattu aḍi, sari ide. Ī badi nalavattu… ā badi mūvattombattūvare aḍi aṣṭē bartide.
+    en: Thirty feet at the front, that's right. This side is forty… but that side only comes to thirty-nine and a half feet.
+  - who: broker
+    t: ಅರ್ಧ ಅಡಿ ಸಾರ್, ಕಲ್ಲು ಸ್ವಲ್ಪ ಸರಿದಿರಬೇಕು. ಏನೂ ಪ್ರಾಬ್ಲಮ್ ಇಲ್ಲ.
+    tr: Ardha aḍi sār, kallu swalpa saridirabēku. Ēnū prāblam illa.
+    en: Half a foot, sir. The stone must have shifted a little. No problem at all.
+  - who: ravi
+    t: ಅರ್ಧ ಅಡಿ ಆದ್ರೂ ಪ್ರಾಬ್ಲಮ್ಮೇ. ಡೀಡ್‌ನಲ್ಲಿ ಇರೋ ಅಳತೆ ಜಾಗದಲ್ಲೂ ಇರಬೇಕು. ದೀಪಾ, ನೋಟ್ ಮಾಡ್ಕೋ.
+    tr: Ardha aḍi ādrū prāblammē. Ḍīḍ-nalli irō aḷate jāgadallū irabēku. Dīpā, nōṭ māḍkō.
+    en: Even half a foot is a problem. The measurements in the deed have to be there on the ground too. Deepa, make a note.
+  - who: ravi
+    t: ಕೊನೆ ಪ್ರಶ್ನೆ. ಓನರ್ ಯಾರು? ಜಿಪಿಎ ಅಲ್ಲ ತಾನೇ?
+    tr: Kone praśne. Ōnar yāru? Ji-Pi-E alla tānē?
+    en: Last question. Who's the owner? It isn't a GPA, is it?
+  - who: broker
+    t: ಇಲ್ಲ ಸಾರ್, ಇದು ಡೈರೆಕ್ಟ್ ಓನರ್. ಚಂದ್ರಶೇಖರ್ ಅಂತ, ಅರವತ್ತೆಂಟು ವರ್ಷ. ಎರಡು ಸಾವಿರದ ಏಳರಲ್ಲಿ ತಗೊಂಡಿದ್ರು, ಸೇಲ್ ಡೀಡ್ ಅವರ ಹೆಸರಲ್ಲೇ ಇದೆ. ಸ್ವಲ್ಪ ಅರ್ಜೆಂಟ್‌ನಲ್ಲಿ ಮಾರ್ತಿದಾರೆ.
+    tr: Illa sār, idu ḍairekṭ ōnar. Chandraśēkhar anta, aravatteṇṭu varṣa. Eraḍu sāvirada ēḷaralli tagoṇḍidru, sēl ḍīḍ avara hesarallē ide. Swalpa arjenṭ-nalli mārtidāre.
+    en: No, sir, it's the owner himself. Chandrashekar, sixty-eight years old. He bought it in 2007, and the sale deed is in his own name. He's selling in a bit of a hurry.
+  - who: deepa
+    t: ಯಾಕೆ ಅರ್ಜೆಂಟ್?
+    tr: Yāke arjenṭ?
+    en: Why the hurry?
+  - who: broker
+    t: ಅದು ಅವರ ಫ್ಯಾಮಿಲಿ ವಿಷಯ, ಮೇಡಂ. ನಾನು ಹೇಳೋದು ಸರಿ ಅಲ್ಲ. ಬೇಕಾದ್ರೆ ನೀವೇ ಮಾತಾಡಿ.
+    tr: Adu avara phyāmili viṣaya, mēḍam. Nānu hēḷōdu sari alla. Bēkādre nīvē mātāḍi.
+    en: That's a family matter of his, madam. It's not my place to say. Talk to him yourself if you like.
+  - section: 🤝 Price, commission and a “cash” idea
+    learn: 'bargaining: “final price?”, “split the difference” · commission · white vs black money · giving reasons: modalanēdāgi, eraḍanēdāgi (firstly, secondly)'
+  - scene: By Lokesh's car as the sun goes down. Lokesh lowers his voice.
+  - who: ravi
+    t: ಲೋಕೇಶ್ ಅವರೇ, ನೇರವಾಗಿ ಹೇಳ್ತೀನಿ. ಸೈಟು ಇಷ್ಟ ಆಯ್ತು. ಆದ್ರೆ ಐವತ್ತಾರು ಆಗಲ್ಲ. ಐವತ್ತೆರಡು ಅಂದ್ರೆ ಮಾತಾಡೋಣ.
+    tr: Lōkēś avarē, nēravāgi hēḷtīni. Saiṭu iṣṭa āytu. Ādre aivattāru āgalla. Aivatteraḍu andre mātāḍōṇa.
+    en: Lokesh, I'll be straight with you. We like the plot. But fifty-six won't work. At fifty-two, we can talk.
+  - who: broker
+    t: ಐವತ್ತೆರಡು?! ಸಾರ್, ಓನರ್ ಫೋನ್ ಕಟ್ ಮಾಡ್ತಾರೆ. ಐವತ್ತೈದು ಅಂದ್ರೆ ನಾನು ಟ್ರೈ ಮಾಡ್ತೀನಿ.
+    tr: Aivatteraḍu?! Sār, ōnar phōn kaṭ māḍtāre. Aivattaidu andre nānu ṭrai māḍtīni.
+    en: Fifty-two?! Sir, the owner will hang up on me. Say fifty-five, and I'll try.
+  - who: deepa
+    t: ಮತ್ತೆ ನಿಮ್ಮ ಕಮಿಷನ್ ಎಷ್ಟು?
+    tr: Matte nimma kamiśan eṣṭu?
+    en: And how much is your commission?
+  - who: broker
+    t: ಮಾಮೂಲಿ ರೇಟ್, ಮೇಡಂ. ಒಂದು ಪರ್ಸೆಂಟ್. ಬೈಯರ್ ಕಡೆಯಿಂದ ಒಂದು, ಸೆಲ್ಲರ್ ಕಡೆಯಿಂದ ಒಂದು. ರಿಜಿಸ್ಟ್ರೇಷನ್ ದಿನ ಕೊಟ್ರೆ ಸಾಕು.
+    tr: Māmūli rēṭ, mēḍam. Ondu parsenṭ. Baiyar kaḍeyinda ondu, sellar kaḍeyinda ondu. Rijisṭrēśan dina koṭre sāku.
+    en: The usual rate, madam. One percent. One from the buyer, one from the seller. You can pay on the day of registration.
+  - who: ravi
+    t: ಸರಿ, ಒಂದು ಪರ್ಸೆಂಟ್. ಆದ್ರೆ ರಿಜಿಸ್ಟ್ರೇಷನ್ ಮುಗಿದ ಮೇಲೆ, ಬ್ಯಾಂಕ್ ಟ್ರಾನ್ಸ್‌ಫರ್‌ನಲ್ಲಿ, ರಸೀದಿ ಜೊತೆ.
+    tr: Sari, ondu parsenṭ. Ādre rijisṭrēśan mugida mēle, byānk ṭrānsfar-nalli, rasīdi jote.
+    en: Fine, one percent. But after the registration is done, by bank transfer, with a receipt.
+  - who: broker
+    t: ಸಾರ್, ಒಂದು ಐಡಿಯಾ. ಸೇಲ್ ಡೀಡ್‌ನಲ್ಲಿ ಗೈಡೆನ್ಸ್ ವ್ಯಾಲ್ಯೂ ಅಷ್ಟೇ ತೋರಿಸೋಣ, ಸುಮಾರು ನಲವತ್ತೈದು ಲಕ್ಷ. ಉಳಿದಿದ್ದು ಕ್ಯಾಶ್‌ನಲ್ಲಿ ಕೊಟ್ರೆ ನಿಮಗೆ ಸ್ಟ್ಯಾಂಪ್ ಡ್ಯೂಟಿಯಲ್ಲೇ ಐವತ್ತು ಸಾವಿರದ ಮೇಲೆ ಉಳಿಯುತ್ತೆ. ಎಲ್ಲರೂ ಮಾಡ್ತಾರೆ.
+    tr: Sār, ondu aiḍiyā. Sēl ḍīḍ-nalli gaiḍens vyālyū aṣṭē tōrisōṇa, sumāru nalavattaidu lakṣa. Uḷididdu kyāś-nalli koṭre nimage sṭyāmp ḍyūṭiyallē aivattu sāvirada mēle uḷiyutte. Ellarū māḍtāre.
+    en: Sir, here's an idea. Let's show just the guidance value in the sale deed, about forty-five lakh. If you pay the rest in cash, you save over fifty thousand on stamp duty alone. Everybody does it.
+  - who: ravi
+    t: ಇಲ್ಲ. ಎಲ್ಲರೂ ಮಾಡ್ತಾರೆ ಅಂದ ತಕ್ಷಣ ಅದು ಸರಿ ಆಗಲ್ಲ. ಮೊದಲನೇದಾಗಿ, ಬ್ಯಾಂಕ್ ಲೋನ್ ಡೀಡ್ ವ್ಯಾಲ್ಯೂ ಮೇಲೆ ಬರುತ್ತೆ. ನಲವತ್ತೈದು ತೋರಿಸಿದ್ರೆ ಲೋನ್ ಕೂಡ ಕಮ್ಮಿ ಸಿಗುತ್ತೆ.
+    tr: Illa. Ellarū māḍtāre anda takṣaṇa adu sari āgalla. Modalanēdāgi, byānk lōn ḍīḍ vyālyū mēle barutte. Nalavattaidu tōrisidre lōn kūḍa kammi sigutte.
+    en: No. Everybody doing it doesn't make it right. Firstly, the bank lends on the deed value. Show forty-five and the loan shrinks too.
+  - who: ravi
+    t: ಎರಡನೇದಾಗಿ, ಎಂಟು ಲಕ್ಷ ಕ್ಯಾಶ್ ನನ್ನ ಹತ್ರ ಇಲ್ಲ, ಇದ್ರೂ ಕೊಡಲ್ಲ. ನಾಳೆ ಏನಾದ್ರೂ ತಕರಾರು ಬಂದ್ರೆ ನಾನು ಕೊಟ್ಟ ದುಡ್ಡಿಗೆ ಯಾವ ದಾಖಲೆನೂ ಇರಲ್ಲ. ಪ್ರತಿ ರೂಪಾಯಿ ಬ್ಯಾಂಕ್ ಮೂಲಕನೇ.
+    tr: Eraḍanēdāgi, eṇṭu lakṣa kyāś nanna hatra illa, idrū koḍalla. Nāḷe ēnādrū takarāru bandre nānu koṭṭa duḍḍige yāva dākhalenū iralla. Prati rūpāyi byānk mūlakanē.
+    en: Secondly, I don't have eight lakh in cash, and even if I did, I wouldn't pay it. If a dispute came up tomorrow, there'd be no record of the money I'd paid. Every rupee goes through the bank.
+  - who: broker
+    t: 'ಸರಿ ಸಾರ್, ಸರಿ. ನಿಮ್ಮಿಷ್ಟ. ನಾನು ಸುಮ್ನೆ ಹೇಳಿದೆ ಅಷ್ಟೇ. ಆದ್ರೆ ಒಂದು ವಿಷಯ: ಇನ್ನೊಂದು ಪಾರ್ಟಿ ಕೂಡ ಈ ಸೈಟು ನೋಡಿದಾರೆ. ಟೋಕನ್ ಅಡ್ವಾನ್ಸ್ ಕೊಟ್ರೆ ಬೇರೆಯವರಿಗೆ ತೋರಿಸಲ್ಲ.'
+    tr: 'Sari sār, sari. Nimmiṣṭa. Nānu sumne hēḷide aṣṭē. Ādre ondu viṣaya: innondu pārṭi kūḍa ī saiṭu nōḍidāre. Ṭōkan aḍvāns koṭre bēreyavarige tōrisalla.'
+    en: 'Fine, sir, fine. As you wish. I only mentioned it. But one thing: another party has seen this plot too. Give me a token advance and I won''t show it to anyone else.'
+  - who: ravi
+    t: ಟೋಕನ್ ಇಲ್ಲ, ಲೋಕೇಶ್ ಅವರೇ. ನಾಳೆ ಭಾನುವಾರ ನನ್ನ ಅಪ್ಪ-ಅಮ್ಮ ಬಂದು ನೋಡ್ತಾರೆ. ಆಮೇಲೆ ಲಾಯರ್ ಎಲ್ಲಾ ದಾಖಲೆ ನೋಡಬೇಕು. ಅಷ್ಟರಲ್ಲಿ ಆ ಪಾರ್ಟಿ ತಗೊಂಡ್ರೆ, ಅದು ಅವರ ಅದೃಷ್ಟ.
+    tr: Ṭōkan illa, Lōkēś avarē. Nāḷe Bhānuvāra nanna appa-amma bandu nōḍtāre. Āmēle lāyar ellā dākhale nōḍabēku. Aṣṭaralli ā pārṭi tagoṇḍre, adu avara adṛṣṭa.
+    en: No token, Lokesh. Tomorrow, Sunday, my father and mother will come and see it. After that a lawyer has to go through all the documents. If that other party buys it in the meantime, good luck to them.
+  - who: broker
+    t: ನಿಮ್ಮಂಥ ಕಸ್ಟಮರ್ ಸಿಗೋದು ಕಷ್ಟ ಸಾರ್, ಒಳ್ಳೆ ಅರ್ಥದಲ್ಲಿ. ಆಯ್ತು, ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಓನರ್‌ನೂ ಕರ್ಕೊಂಡು ಬರ್ತೀನಿ. ಅಲ್ಲೇ ಮುಖಾಮುಖಿ ಮಾತಾಡಿ.
+    tr: Nimmantha kasṭamar sigōdu kaṣṭa sār, oḷḷe arthadalli. Āytu, nāḷe beḷigge ōnar-nū karkoṇḍu bartīni. Allē mukhāmukhi mātāḍi.
+    en: Customers like you are hard to find, sir. In a good way. Alright, tomorrow morning I'll bring the owner along too. You can talk face to face right there.
+  - scene: In the car, driving home along Mysuru Road.
+  - who: deepa
+    t: ಐವತ್ಮೂರು, ಹೆಚ್ಚು ಅಂದ್ರೆ ಐವತ್ಮೂರೂವರೆ. ಅಷ್ಟೇ ನಮಗೆ ಆಗೋದು, ರವಿ. ಅದಕ್ಕಿಂತ ಮೇಲೆ ಹೋದ್ರೆ ಸ್ಟ್ಯಾಂಪ್ ಡ್ಯೂಟಿ ಕಟ್ಟಿದ ಮೇಲೆ ನಮ್ಮ ಹತ್ರ ಒಂದು ರೂಪಾಯಿನೂ ಉಳಿಯಲ್ಲ.
+    tr: Aivatmūru, hechchu andre aivatmūrūvare. Aṣṭē namage āgōdu, Ravi. Adakkinta mēle hōdre sṭyāmp ḍyūṭi kaṭṭida mēle namma hatra ondu rūpāyinū uḷiyalla.
+    en: Fifty-three, fifty-three and a half at most. That's all we can manage, Ravi. Any higher, and after stamp duty we won't have a single rupee left.
+  - who: ravi
+    t: ಗೊತ್ತು. ನಾಳೆ ನೋಡೋಣ. ಆ ಸೈಟು ನಮ್ಮದಾಗಬೇಕು ಅಂತ ಇದ್ರೆ ಆಗುತ್ತೆ.
+    tr: Gottu. Nāḷe nōḍōṇa. Ā saiṭu nammadāgabēku anta idre āgutte.
+    en: I know. Let's see tomorrow. If that plot is meant to be ours, it will be.
+  - chapter: Chapter 3 — The family sees the plot
+  - section: 🌅 Sunday morning at Site 47
+    learn: 'Vastu directions: pūrva, īśānya, āgnēya, nairṛtya · “let''s” -ōṇa · liking vs affording: iṣṭa āda takṣaṇa sākāgalla · proverb: beḷḷagirōdellā hālalla'
+  - scene: The next morning, Sunday, eight o'clock. The whole family climbs out of a hired car at Site 47. Ananya runs straight into the middle of the plot. Amma has brought a small compass from home.
+  - who: ananya
+    t: ಅಪ್ಪಾ! ಇದೇನಾ ನಮ್ಮ ಮನೆ? ಮನೆ ಎಲ್ಲಿ?
+    tr: Appā! Idēnā namma mane? Mane elli?
+    en: Appa! Is this our house? Where's the house?
+  - who: ravi
+    t: ಇನ್ನೂ ಮನೆ ಇಲ್ಲ, ಪುಟ್ಟಿ. ಇದು ಖಾಲಿ ಜಾಗ, ಸೈಟು. ಇಲ್ಲಿ ಮನೆ ಕಟ್ಟಿಸ್ಬೇಕು. ಅದಕ್ಕೆ ಒಂದು-ಒಂದೂವರೆ ವರ್ಷ ಆಗುತ್ತೆ.
+    tr: Innū mane illa, puṭṭi. Idu khāli jāga, saiṭu. Illi mane kaṭṭisbēku. Adakke ondu-ondūvare varṣa āgutte.
+    en: There's no house yet, sweetheart. This is empty land, a plot. We have to get a house built here. That'll take a year, a year and a half.
+  - who: ananya
+    t: ಆಗ ನಂಗೆ ಒಂದು ಸಪರೇಟ್ ರೂಮ್ ಬೇಕು. ಕಿಟಕಿ ಇರೋದು.
+    tr: Āga nange ondu saparēṭ rūm bēku. Kiṭaki irōdu.
+    en: Then I want my own room. One with a window.
+  - who: amma
+    t: ಇರು ಪುಟ್ಟಿ, ಮೊದಲು ದಿಕ್ಕು ನೋಡ್ತೀನಿ… ಹಾ, ರೋಡು ಪೂರ್ವಕ್ಕೆ ಇದೆ. ಬೆಳಿಗ್ಗೆ ಸೂರ್ಯ ನೇರವಾಗಿ ಮನೆ ಬಾಗಿಲಿಗೆ ಬರ್ತಾನೆ. ಒಳ್ಳೇದು.
+    tr: Iru puṭṭi, modalu dikku nōḍtīni… Hā, rōḍu pūrvakke ide. Beḷigge sūrya nēravāgi mane bāgilige bartāne. Oḷḷēdu.
+    en: Wait, dear, let me check the direction first… Yes, the road is on the east. The morning sun will come straight to the front door. Good.
+  - who: amma
+    t: ಈ ಮೂಲೆ, ಈಶಾನ್ಯ. ಇಲ್ಲಿ ಸಂಪ್ ಬರಬೇಕು. ನೀರು ಈಶಾನ್ಯದಲ್ಲಿ ಇದ್ರೆ ಮನೆಗೆ ಒಳ್ಳೇದು. ಅಡುಗೆಮನೆ ಆಗ್ನೇಯದಲ್ಲಿ, ಆ ಮೂಲೆ. ದೊಡ್ಡ ಬೆಡ್‌ರೂಮ್ ನೈಋತ್ಯದಲ್ಲಿ.
+    tr: Ī mūle, īśānya. Illi samp barabēku. Nīru īśānyadalli idre manege oḷḷēdu. Aḍugemane āgnēyadalli, ā mūle. Doḍḍa beḍrūm nairṛtyadalli.
+    en: This corner, the northeast. The sump has to go here. Water in the northeast is good for a house. The kitchen in the southeast, that corner. The master bedroom in the southwest.
+  - who: deepa
+    t: ಅತ್ತೆ, ಅದೆಲ್ಲಾ ಆರ್ಕಿಟೆಕ್ಟ್ ಜೊತೆ ಕೂತು ಮಾಡೋಣ. ಮೊದಲು ಈ ಸೈಟು ತಗೋಬೇಕಾ ಬೇಡ್ವಾ ಅಂತ ತೀರ್ಮಾನ ಮಾಡೋಣ.
+    tr: Atte, adellā ārkiṭekṭ jote kūtu māḍōṇa. Modalu ī saiṭu tagōbēkā bēḍvā anta tīrmāna māḍōṇa.
+    en: Atte, let's work all that out with an architect. First let's decide whether to buy this plot at all.
+  - who: amma
+    t: ತೀರ್ಮಾನ ಮಾಡೋಕೆ ಇನ್ನೇನಿದೆ? ಪೂರ್ವ ಮುಖ, ಅಗಲವಾದ ರೋಡು, ಸುತ್ತಾ ಮನೆಗಳು… ನನಗೆ ಇಷ್ಟ ಆಯ್ತು.
+    tr: Tīrmāna māḍōke innēnide? Pūrva mukha, agalavāda rōḍu, suttā manegaḷu… nanage iṣṭa āytu.
+    en: What's left to decide? It faces east, the road is wide, there are houses all around… I like it.
+  - who: deepa
+    t: ನನಗೂ ಇಷ್ಟ, ಅತ್ತೆ. ಆದ್ರೆ ಇಷ್ಟ ಆದ ತಕ್ಷಣ ಸಾಕಾಗಲ್ಲ. ಐವತ್ತಾರು ಲಕ್ಷ ಕೇಳ್ತಿದಾರೆ. ಅದರ ಮೇಲೆ ಸ್ಟ್ಯಾಂಪ್ ಡ್ಯೂಟಿ, ರಿಜಿಸ್ಟ್ರೇಷನ್ ಸೇರಿ ಸುಮಾರು ಆರೂವರೆ ಪರ್ಸೆಂಟ್, ಕಮಿಷನ್ ಒಂದು ಪರ್ಸೆಂಟ್, ಲಾಯರ್ ಫೀಸ್… ಅರವತ್ತು ಲಕ್ಷದ ಹತ್ರ ಆಗುತ್ತೆ.
+    tr: Nanagū iṣṭa, atte. Ādre iṣṭa āda takṣaṇa sākāgalla. Aivattāru lakṣa kēḷtidāre. Adara mēle sṭyāmp ḍyūṭi, rijisṭrēśan sēri sumāru ārūvare parsenṭ, kamiśan ondu parsenṭ, lāyar fīs… aravattu lakṣada hatra āgutte.
+    en: I like it too, Atte. But liking it isn't enough. They're asking fifty-six lakh. On top of that, stamp duty and registration, about six and a half percent; one percent commission; the lawyer's fee… it comes close to sixty lakh.
+  - who: amma
+    t: ಅಯ್ಯೋ, ಅರವತ್ತು ಲಕ್ಷ! ನಮ್ಮೂರಲ್ಲಿ ಇಷ್ಟು ದುಡ್ಡಿಗೆ ಹತ್ತು ಎಕರೆ ಜಮೀನು ಬರುತ್ತೆ.
+    tr: Ayyō, aravattu lakṣa! Nammūralli iṣṭu duḍḍige hattu ekare jamīnu barutte.
+    en: Ayyo, sixty lakh! Back in our village that much money would buy ten acres of farmland.
+  - who: appa
+    t: ಊರಿನ ಲೆಕ್ಕ ಬೆಂಗಳೂರಲ್ಲಿ ನಡೆಯಲ್ಲ, ಶಾರದಾ. ರವಿ, ಈ ಚರಂಡಿ ಚೆನ್ನಾಗಿ ಕಟ್ಟಿದಾರೆ. ರೋಡು ಟಾರ್ ಆಗಿದೆ, ಬೀದಿ ದೀಪ ಇದೆ. ಇದು ನಿಜವಾದ ಲೇಔಟ್.
+    tr: Ūrina lekka Bengaḷūralli naḍeyalla, Śāradā. Ravi, ī charaṇḍi chennāgi kaṭṭidāre. Rōḍu ṭār āgide, bīdi dīpa ide. Idu nijavāda lēauṭ.
+    en: Village sums don't work in Bengaluru, Sharada. Ravi, this drain has been built properly. The road is tarred, there are streetlights. This is a real layout.
+  - who: appa
+    t: 'ಆದ್ರೆ ಒಂದು ನೆನಪಿಟ್ಕೋ: ಬೆಳ್ಳಗಿರೋದೆಲ್ಲಾ ಹಾಲಲ್ಲ. ಹೊರಗಡೆ ಚೆನ್ನಾಗಿ ಕಾಣೋದು ಮುಖ್ಯ ಅಲ್ಲ. ಪೇಪರ್ ಸರಿ ಇರಬೇಕು.'
+    tr: 'Ādre ondu nenapiṭkō: beḷḷagirōdellā hālalla. Horagaḍe chennāgi kāṇōdu mukhya alla. Pēpar sari irabēku.'
+    en: 'But remember one thing: all that is white isn''t milk. Looking good from outside isn''t what counts. The papers have to be right.'
+  - who: ravi
+    t: ಅದಕ್ಕೇ ಲಾಯರ್‌ಗೆ ತೋರಿಸ್ತೀನಿ, ಅಪ್ಪ. ರಾಘವೇಂದ್ರ ರಾವ್ ಅಂತ ಒಬ್ರು ಅಡ್ವೊಕೇಟ್ ಇದಾರೆ. ನನ್ನ ಕೊಲೀಗ್ ಸೈಟು ತಗೊಂಡಾಗ ಅವರೇ ನೋಡಿದ್ರು. ಮೂವತ್ತು ವರ್ಷದ ದಾಖಲೆ ಎಲ್ಲಾ ಚೆಕ್ ಮಾಡ್ತಾರೆ.
+    tr: Adakkē lāyar-ge tōristīni, appa. Rāghavēndra Rāv anta obru aḍvokēṭ idāre. Nanna kolīg saiṭu tagoṇḍāga avarē nōḍidru. Mūvattu varṣada dākhale ellā chek māḍtāre.
+    en: That's why I'll show everything to a lawyer, Appa. There's an advocate called Raghavendra Rao. He's the one who checked when my colleague bought a plot. He'll go through thirty years of records.
+  - who: deepa
+    t: ಮೇಲಿನ ಎರಡು ಫ್ಲೋರ್ ಬಾಡಿಗೆಗೆ ಕೊಟ್ರೆ, ಇಲ್ಲಿ ಟೂ ಬಿಎಚ್‌ಕೆಗೆ ಹದಿನೇಳು-ಹದಿನೆಂಟು ಸಾವಿರ ಬರುತ್ತಂತೆ. ಎರಡು ಸೇರಿ ಸುಮಾರು ಮೂವತ್ತೈದು ಸಾವಿರ. ಇಎಂಐನ ಅರ್ಧಕ್ಕಿಂತ ಜಾಸ್ತಿ ಅದರಲ್ಲೇ ಹೋಗುತ್ತೆ.
+    tr: Mēlina eraḍu phlōr bāḍigege koṭre, illi ṭū Bi-Ech-Ke-ge hadinēḷu-hadineṇṭu sāvira baruttante. Eraḍu sēri sumāru mūvattaidu sāvira. Ī-Em-Aina ardhakkinta jāsti adarallē hōgutte.
+    en: (quietly, to Ravi) If we rent out the two upper floors, apparently a 2BHK here fetches seventeen or eighteen thousand. Both together, about thirty-five thousand. That would cover more than half the EMI.
+  - who: ravi
+    t: ಆ ಲೆಕ್ಕ ನಾನೂ ಹಾಕಿದೀನಿ. ಆದ್ರೆ ಅದು ಮನೆ ಕಟ್ಟಿ ಮುಗಿದ ಮೇಲೆ. ಅಲ್ಲಿವರೆಗೂ ಬಾಡಿಗೆನೂ ಕಟ್ಬೇಕು, ಇಎಂಐನೂ ಕಟ್ಬೇಕು.
+    tr: Ā lekka nānū hākidīni. Ādre adu mane kaṭṭi mugida mēle. Allivaregū bāḍigenū kaṭbēku, Ī-Em-Ainū kaṭbēku.
+    en: I've done that sum too. But that's after the house is finished. Until then we pay the rent and the EMI both.
+  - section: 👴 The neighbour, Krishnappa
+    learn: 'hearsay: -ante, “I''ve heard that …” (anta kēḷidīni) · used to: -ttittu · water words: bōrvel, ṭyāṅkar, sampu, maḷenīru koylu · gaḍi (boundary), rāji (settlement)'
+  - scene: An old man in a white dhoti comes out of the house across the road with a steel tumbler of coffee and watches them for a while.
+  - who: neighbour
+    t: ಯಾರಪ್ಪ ನೀವು? ಸೈಟು ನೋಡೋಕೆ ಬಂದಿದೀರಾ?
+    tr: Yārappa nīvu? Saiṭu nōḍōke bandidīrā?
+    en: Who are you folks? Come to look at the plot?
+  - who: appa
+    t: ನಮಸ್ಕಾರ ಸ್ವಾಮಿ. ಹೌದು, ನನ್ನ ಮಗ ತಗೋಬೇಕು ಅಂತಿದಾನೆ. ನಾನು ನಾಗರಾಜ್. ನೀವು ಇಲ್ಲೇ ಇರೋದಾ?
+    tr: Namaskāra swāmi. Haudu, nanna maga tagōbēku antidāne. Nānu Nāgarāj. Nīvu illē irōdā?
+    en: Namaskara, sir. Yes, my son is thinking of buying it. I'm Nagaraj. Do you live right here?
+  - who: neighbour
+    t: ಹದಿನೈದು ವರ್ಷದಿಂದ ಇಲ್ಲೇ. ನಾನು ಕೃಷ್ಣಪ್ಪ. ಈ ಲೇಔಟ್‌ನಲ್ಲಿ ಮೊದಲು ಮನೆ ಕಟ್ಟಿಸಿದ್ದೇ ನಾನು. ಆಗ ಇಲ್ಲಿ ಬರೀ ರಾಗಿ ಹೊಲ, ರಾತ್ರಿ ನರಿ ಕೂಗ್ತಿತ್ತು.
+    tr: Hadinaidu varṣadinda illē. Nānu Kṛṣṇappa. Ī lēauṭ-nalli modalu mane kaṭṭisiddē nānu. Āga illi barī rāgi hola, rātri nari kūgtittu.
+    en: Right here for fifteen years. I'm Krishnappa. I was the first to have a house built in this layout. Back then it was all ragi fields, and you'd hear jackals howling at night.
+  - who: ravi
+    t: ಸಾರ್, ನಿಮ್ಮ ಹತ್ರ ನೇರವಾಗಿ ಕೇಳ್ತೀನಿ. ಇಲ್ಲಿ ಇರೋದು ಹೇಗೆ? ಏನಾದ್ರೂ ತೊಂದರೆ ಇದ್ಯಾ?
+    tr: Sār, nimma hatra nēravāgi kēḷtīni. Illi irōdu hēge? Ēnādrū tondare idyā?
+    en: Sir, let me ask you straight. What's it like living here? Any problems?
+  - who: neighbour
+    t: ಇರೋದು ಚೆನ್ನಾಗಿದೆ. ಗಾಳಿ ಚೆನ್ನಾಗಿದೆ, ಜನ ಒಳ್ಳೆಯವರು. ಆದ್ರೆ ನೀರು, ಸ್ವಾಮಿ, ನೀರು. ಅದೇ ದೊಡ್ಡ ತೊಂದರೆ.
+    tr: Irōdu chennāgide. Gāḷi chennāgide, jana oḷḷeyavaru. Ādre nīru, swāmi, nīru. Adē doḍḍa tondare.
+    en: Living here is good. The air is good, the people are good. But water, sir. Water. That's the big problem.
+  - who: neighbour
+    t: ನನ್ನ ಬೋರ್‌ವೆಲ್ ಆರುನೂರು ಅಡಿ. ಎರಡು ಸಾವಿರದ ಇಪ್ಪತ್ನಾಲ್ಕರ ಬೇಸಿಗೆಯಲ್ಲಿ ಪೂರ್ತಿ ಒಣಗಿ ಹೋಯ್ತು. ಮೂರು ತಿಂಗಳು ಟ್ಯಾಂಕರ್ ನೀರು ತರಿಸಿದ್ವಿ. ಒಂದು ಲೋಡ್‌ಗೆ ಸಾವಿರದ ಇನ್ನೂರು, ಕೆಲವು ದಿನ ಎರಡು ಸಾವಿರ ಕೂಡ ಕೇಳಿದ್ರು.
+    tr: Nanna bōrvel ārunūru aḍi. Eraḍu sāvirada ippatnālkara bēsigeyalli pūrti oṇagi hōytu. Mūru tingaḷu ṭyānkar nīru tarisidvi. Ondu lōḍ-ge sāvirada innūru, kelavu dina eraḍu sāvira kūḍa kēḷidru.
+    en: My borewell is six hundred feet deep. In the summer of 2024 it dried up completely. For three months we had water brought in by tanker. Twelve hundred a load, and some days they even asked two thousand.
+  - who: deepa
+    t: ಕಾವೇರಿ ಪೈಪ್‌ಲೈನ್ ಹಾಕಿದಾರೆ ಅಂತ ಬ್ರೋಕರ್ ಹೇಳಿದ್ರು…
+    tr: Kāvēri paip-lain hākidāre anta brōkar hēḷidru…
+    en: The broker said they've laid a Cauvery pipeline…
+  - who: neighbour
+    t: ಪೈಪ್ ಹಾಕಿದಾರೆ, ಹೌದು. ನೀರು ಮಾತ್ರ ಇನ್ನೂ ಬಂದಿಲ್ಲ. “ಈ ವರ್ಷ ಬರುತ್ತೆ, ಮುಂದಿನ ವರ್ಷ ಬರುತ್ತೆ”, ಮೂರು ವರ್ಷದಿಂದ ಕೇಳ್ತಿದೀನಿ. ಮನೆ ಕಟ್ಟಿಸೋದಾದ್ರೆ ದೊಡ್ಡ ಸಂಪ್ ಕಟ್ಟಿಸಿ, ಮಳೆನೀರು ಕೊಯ್ಲು ಮಾಡಿಸಿ. ಮಳೆ ನೀರೇ ನಿಮ್ಮನ್ನ ಕಾಪಾಡೋದು.
+    tr: Paip hākidāre, haudu. Nīru mātra innū bandilla. “Ī varṣa barutte, mundina varṣa barutte”, mūru varṣadinda kēḷtidīni. Mane kaṭṭisōdādre doḍḍa samp kaṭṭisi, maḷenīru koylu māḍisi. Maḷe nīrē nimmanna kāpāḍōdu.
+    en: 'They''ve laid the pipes, yes. But the water hasn''t come yet. “It''ll come this year, it''ll come next year”: I''ve been hearing that for three years. If you''re building, have a big sump built and put in rainwater harvesting. It''s the rain that will save you.'
+  - who: amma
+    t: ದೊಡ್ಡ ಸಂಪ್, ಈಶಾನ್ಯದಲ್ಲಿ. ವಾಸ್ತುನೂ ಆಯ್ತು, ನೀರೂ ಆಯ್ತು.
+    tr: Doḍḍa samp, īśānyadalli. Vāstunū āytu, nīrū āytu.
+    en: A big sump, in the northeast. That takes care of the Vastu and the water.
+  - who: neighbour
+    t: ಇನ್ನೊಂದು ವಿಷಯ. ಇದನ್ನ ನಿಮಗೆ ಯಾರೂ ಹೇಳಿರಲ್ಲ. ಹತ್ತು ವರ್ಷದ ಹಿಂದೆ ಈ ಸೈಟಿಗೂ ಪಕ್ಕದ ನಲವತ್ತೆಂಟಕ್ಕೂ ಗಡಿ ಜಗಳ ಆಗಿತ್ತು.
+    tr: Innondu viṣaya. Idanna nimage yārū hēḷiralla. Hattu varṣada hinde ī saiṭigū pakkada nalavatteṇṭakkū gaḍi jagaḷa āgittu.
+    en: (lowering his voice) One more thing. Nobody will have told you this. Ten years ago there was a boundary dispute between this plot and number forty-eight next door.
+  - who: ravi
+    t: ಗಡಿ ಜಗಳ? ನಿನ್ನೆ ಅಳತೆ ಮಾಡಿದಾಗ ಆ ಬದಿ ಅರ್ಧ ಅಡಿ ಕಮ್ಮಿ ಇತ್ತು!
+    tr: Gaḍi jagaḷa? Ninne aḷate māḍidāga ā badi ardha aḍi kammi ittu!
+    en: A boundary dispute? When we measured yesterday, that side was half a foot short!
+  - who: neighbour
+    t: ಅದೇ. ನಲವತ್ತೆಂಟರವರು ಕಾಂಪೌಂಡ್ ಹಾಕಿಸುವಾಗ ಗಡಿ ಕಲ್ಲು ಸರಿಸಿದ್ರು ಅಂತ ಚಂದ್ರಶೇಖರ್ ಅವರು ಕಂಪ್ಲೇಂಟ್ ಕೊಟ್ಟಿದ್ರು. ಆಮೇಲೆ ಸರ್ವೆಯರ್ ಬಂದು ಅಳತೆ ಮಾಡಿ, ರಾಜಿ ಆಯ್ತು ಅಂತ ಕೇಳಿದೀನಿ. ಕೋರ್ಟ್‌ಗೆ ಹೋಯ್ತಾ ಇಲ್ವಾ, ನನಗೆ ಸರಿಯಾಗಿ ಗೊತ್ತಿಲ್ಲ.
+    tr: Adē. Nalavatteṇṭaravaru kāmpauṇḍ hākisuvāga gaḍi kallu sarisidru anta Chandraśēkhar avaru kamplēnṭ koṭṭidru. Āmēle sarvēyar bandu aḷate māḍi, rāji āytu anta kēḷidīni. Kōrṭ-ge hōytā ilvā, nanage sariyāgi gottilla.
+    en: That's it. Chandrashekar complained that when the owners of forty-eight were putting up their compound wall, they moved the boundary stone. Later a surveyor came and measured, and I heard they settled. Whether it went to court, I don't know for sure.
+  - who: appa
+    t: ತುಂಬಾ ಉಪಕಾರ ಆಯ್ತು, ಸ್ವಾಮಿ. ಇದು ಯಾವ ಪೇಪರ್‌ನಲ್ಲೂ ಸಿಗಲ್ಲ.
+    tr: Tumbā upakāra āytu, swāmi. Idu yāva pēpar-nallū sigalla.
+    en: That's a great help, sir. You won't find that in any document.
+  - who: neighbour
+    t: ನೋಡಿ, ನಾಳೆ ನೀವು ನನ್ನ ಎದುರು ಮನೆಯವರು ಆಗ್ತೀರಿ. ಮೊದಲ ದಿನವೇ ಸತ್ಯ ಗೊತ್ತಿದ್ರೆ ಒಳ್ಳೇದು. ನಿಮ್ಮ ಲಾಯರ್ ಹತ್ರ ಕೇಸ್ ಏನಾದ್ರೂ ಇದ್ಯಾ ಅಂತ ಚೆಕ್ ಮಾಡಿಸಿ, ಸರ್ವೆ ಸ್ಕೆಚ್ ತೆಗೆಸಿ ನೋಡಿ.
+    tr: Nōḍi, nāḷe nīvu nanna eduru maneyavaru āgtīri. Modala dinavē satya gottidre oḷḷēdu. Nimma lāyar hatra kēs ēnādrū idyā anta chek māḍisi, sarve skech tegesi nōḍi.
+    en: Look, one day you'll be my neighbours across the road. Better to know the truth from day one. Have your lawyer check whether there's any case, and get the survey sketch out and look at it.
+  - who: ravi
+    t: ಖಂಡಿತ ಮಾಡಿಸ್ತೀನಿ, ಸಾರ್. ಮತ್ತೆ ನಾವು ಇಲ್ಲಿ ಮನೆ ಕಟ್ಟಿಸಿದ್ರೆ, ಕೆಲಸದ ಟೈಮ್‌ನಲ್ಲಿ ಧೂಳು, ಶಬ್ದ ಎಲ್ಲಾ ಆಗುತ್ತೆ. ಮೊದಲೇ ಕ್ಷಮೆ ಕೇಳ್ತೀನಿ.
+    tr: Khaṇḍita māḍistīni, sār. Matte nāvu illi mane kaṭṭisidre, kelasada ṭaim-nalli dhūḷu, śabda ellā āgutte. Modalē kṣame kēḷtīni.
+    en: I'll certainly have that done, sir. And if we do build here, there'll be dust and noise while the work goes on. I apologise in advance.
+  - who: neighbour
+    t: ಮನೆ ಕಟ್ಟೋವಾಗ ಧೂಳು ಆಗದೇ ಇರುತ್ತಾ? ಸಂಜೆ ಆರರ ಮೇಲೆ ಕೆಲಸ ಮಾಡಿಸಬೇಡಿ, ಅಷ್ಟು ಸಾಕು.
+    tr: Mane kaṭṭōvāga dhūḷu āgadē iruttā? Sanje ārara mēle kelasa māḍisabēḍi, aṣṭu sāku.
+    en: Can a house go up without dust? Just don't have them working after six in the evening. That's all I ask.
+  - section: 🤝 Face to face with the seller
+    learn: 'negotiating politely with an elder · “split the difference” (ardha ardha) · mukkālu, kālu (¾, ¼) · conditions: “only if the lawyer clears it” · giving your word: mātu koḍu, mātige tappalla'
+  - scene: Half past nine. Lokesh's car pulls up. A thin, grey-haired man in a half-sleeved shirt gets out slowly. It is Chandrashekar, the owner.
+  - who: broker
+    t: ಸಾರ್, ಇವರೇ ಚಂದ್ರಶೇಖರ್ ಅವರು, ಓನರ್. ಸಾರ್, ಇವರು ರವಿ ಕುಮಾರ್, ಅವರ ಫ್ಯಾಮಿಲಿ.
+    tr: Sār, ivarē Chandraśēkhar avaru, ōnar. Sār, ivaru Ravi Kumār, avara phyāmili.
+    en: Sir, this is Mr Chandrashekar, the owner. Sir, this is Ravi Kumar and his family.
+  - who: seller
+    t: ನಮಸ್ಕಾರ. ನಮಸ್ಕಾರ ಸ್ವಾಮಿ. ಈ ಸೈಟು ನಾನು ಹದಿನೆಂಟು ವರ್ಷದ ಹಿಂದೆ ತಗೊಂಡಿದ್ದು. ಇಲ್ಲಿ ಮನೆ ಕಟ್ಟಿಸ್ಬೇಕು ಅಂತ ಆಸೆ ಇತ್ತು. ಆಗ್ಲಿಲ್ಲ.
+    tr: Namaskāra. Namaskāra swāmi. Ī saiṭu nānu hadineṇṭu varṣada hinde tagoṇḍiddu. Illi mane kaṭṭisbēku anta āse ittu. Āglilla.
+    en: Namaskara. Namaskara, sir. I bought this plot eighteen years ago. I'd hoped to have a house built here. It never happened.
+  - who: appa
+    t: ಕಾಲ ಕೂಡಿ ಬರಬೇಕು, ಸ್ವಾಮಿ. ನಿಮ್ಮ ಆಸೆ ಈಗ ನಮ್ಮ ಮಗನ ಕೈಯಲ್ಲಿ ಪೂರ್ತಿ ಆಗಲಿ.
+    tr: Kāla kūḍi barabēku, swāmi. Nimma āse īga namma magana kaiyalli pūrti āgali.
+    en: The time has to be right, sir. May your wish come true now, through our son.
+  - who: seller
+    t: ಹಾಗೇ ಆಗಲಿ. … ಲೋಕೇಶ್ ಹೇಳಿದ್ರು, ನೀವು ಐವತ್ತೆರಡು ಅಂದ್ರಂತೆ. ಅದು ತುಂಬಾ ಕಮ್ಮಿ, ಸ್ವಾಮಿ. ಪಕ್ಕದ ರೋಡಲ್ಲಿ ಹೋದ ತಿಂಗಳು ಒಂದು ಸೈಟು ಐವತ್ತೆಂಟಕ್ಕೆ ಹೋಯ್ತು.
+    tr: Hāgē āgali. … Lōkēś hēḷidru, nīvu aivatteraḍu andrante. Adu tumbā kammi, swāmi. Pakkada rōḍalli hōda tingaḷu ondu saiṭu aivatteṇṭakke hōytu.
+    en: So be it. … Lokesh tells me you said fifty-two. That's very low, sir. On the next road, a plot went for fifty-eight last month.
+  - who: ravi
+    t: ಅದು ಕಾರ್ನರ್ ಸೈಟು ಅಲ್ವಾ, ಸಾರ್? ಮತ್ತೆ ಈ ಸೈಟಿಗೆ ಹಿಂದೆ ಗಡಿ ತಕರಾರು ಇತ್ತು ಅಂತ ಈಗ ತಾನೇ ಗೊತ್ತಾಯ್ತು. ಒಂದು ಬದಿ ಅರ್ಧ ಅಡಿ ಕಮ್ಮಿ ಬರ್ತಿದೆ.
+    tr: Adu kārnar saiṭu alvā, sār? Matte ī saiṭige hinde gaḍi takarāru ittu anta īga tānē gottāytu. Ondu badi ardha aḍi kammi bartide.
+    en: Wasn't that a corner plot, sir? And I've only just learned that this plot had a boundary dispute in the past. One side is coming up half a foot short.
+  - who: seller
+    t: ಕೃಷ್ಣಪ್ಪ ಹೇಳಿದ್ರಾ? … ಹೌದು, ಇತ್ತು. ಎರಡು ಸಾವಿರದ ಹದಿನಾರರಲ್ಲಿ ಸರ್ವೆ ಮಾಡಿಸಿ ರಾಜಿ ಆಯ್ತು, ಕೋರ್ಟ್‌ಗೆ ಹೋಗಿಲ್ಲ. ರಾಜಿ ಪತ್ರ ನನ್ನ ಹತ್ರ ಇದೆ, ಸರ್ವೆ ಸ್ಕೆಚ್ ಕೂಡ ಇದೆ. ಕಲ್ಲು ಸರಿಯಾಗಿ ಹಾಕಿಸಿ ಕೊಡ್ತೀನಿ. ಅಳತೆ ಪೂರ್ತಿ ಮೂವತ್ತು-ನಲವತ್ತು ಇರುತ್ತೆ.
+    tr: Kṛṣṇappa hēḷidrā? … Haudu, ittu. Eraḍu sāvirada hadināraralli sarve māḍisi rāji āytu, kōrṭ-ge hōgilla. Rāji patra nanna hatra ide, sarve skech kūḍa ide. Kallu sariyāgi hākisi koḍtīni. Aḷate pūrti mūvattu-nalavattu irutte.
+    en: (sighs) Krishnappa told you? … Yes, there was. In 2016 we had a survey done and settled it. It never went to court. I have the settlement letter, and the survey sketch too. I'll have the stone put back where it belongs. It'll measure a full thirty by forty.
+  - who: ravi
+    t: ಧನ್ಯವಾದ, ಸಾರ್. ನೀವು ನೇರವಾಗಿ ಹೇಳಿದ್ದು ನನಗೆ ಇಷ್ಟ ಆಯ್ತು. ಹಾಗಾದ್ರೆ ನಾನೂ ನೇರವಾಗಿ ಹೇಳ್ತೀನಿ. ನಮ್ಮ ಹತ್ರ ಇರೋದು ಆರು ವರ್ಷದ ಉಳಿತಾಯ ಮತ್ತೆ ಬ್ಯಾಂಕ್ ಲೋನ್. ಐವತ್ಮೂರರ ಮೇಲೆ ನಮಗೆ ಕಷ್ಟ.
+    tr: Dhanyavāda, sār. Nīvu nēravāgi hēḷiddu nanage iṣṭa āytu. Hāgādre nānū nēravāgi hēḷtīni. Namma hatra irōdu āru varṣada uḷitāya matte byānk lōn. Aivatmūrara mēle namage kaṣṭa.
+    en: Thank you, sir. I appreciate you being straight with me. So let me be straight too. All we have is six years of savings and a bank loan. Anything above fifty-three is hard for us.
+  - who: seller
+    t: ಐವತ್ನಾಲ್ಕೂವರೆ. ಅದಕ್ಕಿಂತ ಕೆಳಗೆ ನನಗೂ ಆಗಲ್ಲ, ಸ್ವಾಮಿ. ನನಗೂ ದುಡ್ಡಿನ ಅವಶ್ಯಕತೆ ಇದೆ, ಅದಕ್ಕೇ ಮಾರ್ತಿರೋದು.
+    tr: Aivatnālkūvare. Adakkinta keḷage nanagū āgalla, swāmi. Nanagū duḍḍina avaśyakate ide, adakkē mārtirōdu.
+    en: Fifty-four and a half. I can't go below that either, sir. I need the money too. That's why I'm selling.
+  - who: broker
+    t: ಸಾರ್, ಮಧ್ಯೆ ಒಂದು ಮಾತು. ಐವತ್ಮೂರು, ಐವತ್ನಾಲ್ಕೂವರೆ… ಅರ್ಧ ಅರ್ಧ ಮಾಡ್ಕೊಳ್ಳಿ. ಐವತ್ಮೂರು ಮುಕ್ಕಾಲು?
+    tr: Sār, madhye ondu mātu. Aivatmūru, aivatnālkūvare… ardha ardha māḍkoḷḷi. Aivatmūru mukkālu?
+    en: Sirs, a word from the middle. Fifty-three, fifty-four and a half… split the difference. Fifty-three and three-quarters?
+  - who: appa
+    t: ಸ್ವಾಮಿ, ನಾನು ಮೂವತ್ತೆರಡು ವರ್ಷ ಕಂಡಕ್ಟರ್ ಆಗಿದ್ದೆ. ಚಿಲ್ಲರೆಗೋಸ್ಕರ ಜನ ಜಗಳ ಆಡೋದು ತುಂಬಾ ನೋಡಿದೀನಿ. ಕಾಲು ಲಕ್ಷಕ್ಕೆ ನಾವು ಜಗಳ ಆಡೋದು ಬೇಡ. ಐವತ್ಮೂರೂವರೆ. ನಿಮ್ಮ ಮಾತೂ ಉಳೀತು, ನಮ್ಮ ಲೆಕ್ಕನೂ ಉಳೀತು.
+    tr: Swāmi, nānu mūvatteraḍu varṣa kaṇḍakṭar āgidde. Chillaregōskara jana jagaḷa āḍōdu tumbā nōḍidīni. Kālu lakṣakke nāvu jagaḷa āḍōdu bēḍa. Aivatmūrūvare. Nimma mātū uḷītu, namma lekkanū uḷītu.
+    en: Sir, I was a bus conductor for thirty-two years. I've seen plenty of people fight over small change. Let's not quarrel over a quarter of a lakh. Fifty-three and a half. Your word is honoured, and our sums still work.
+  - who: seller
+    t: 'ಕಂಡಕ್ಟರ್ ಹತ್ರ ಚಿಲ್ಲರೆ ಲೆಕ್ಕದಲ್ಲಿ ಗೆಲ್ಲೋಕಾಗುತ್ತಾ? ಸರಿ. ಐವತ್ಮೂರೂವರೆ. ಆದ್ರೆ ಒಂದು ಷರತ್ತು: ಎರಡು ತಿಂಗಳ ಒಳಗೆ ರಿಜಿಸ್ಟ್ರೇಷನ್ ಮುಗೀಬೇಕು.'
+    tr: 'Kaṇḍakṭar hatra chillare lekkadalli gellōkāguttā? Sari. Aivatmūrūvare. Ādre ondu ṣarattu: eraḍu tingaḷa oḷage rijisṭrēśan mugībēku.'
+    en: '(a small smile) Who can beat a conductor at counting change? Alright. Fifty-three and a half. But one condition: the registration must be done within two months.'
+  - who: ravi
+    t: 'ಒಪ್ಪಿಗೆ, ಸಾರ್. ನನ್ನ ಕಡೆಯಿಂದಲೂ ಒಂದು ಷರತ್ತು: ನಮ್ಮ ಲಾಯರ್ ದಾಖಲೆ ಕ್ಲಿಯರ್ ಮಾಡಿದ್ರೆ ಮಾತ್ರ. ಮತ್ತೆ ಎಲ್ಲಾ ಪೇಮೆಂಟ್ ಬ್ಯಾಂಕ್ ಮೂಲಕ, ಡೀಡ್‌ನಲ್ಲಿ ಪೂರ್ತಿ ಐವತ್ಮೂರೂವರೆ ಲಕ್ಷ ತೋರಿಸಬೇಕು. ಕ್ಯಾಶ್ ಇಲ್ಲ.'
+    tr: 'Oppige, sār. Nanna kaḍeyindalū ondu ṣarattu: namma lāyar dākhale kliyar māḍidre mātra. Matte ellā pēmenṭ byānk mūlaka, ḍīḍ-nalli pūrti aivatmūrūvare lakṣa tōrisabēku. Kyāś illa.'
+    en: 'Agreed, sir. And one condition from my side: only if our lawyer clears the documents. Also, every payment goes through the bank, and the deed must show the full fifty-three and a half lakh. No cash.'
+  - who: seller
+    t: ಕ್ಯಾಶ್ ನನಗೂ ಬೇಡ, ನನ್ನ ಮಕ್ಕಳೂ ಅದನ್ನೇ ಹೇಳ್ತಾರೆ. ಎಲ್ಲಾ ಪೇಪರ್ ಕಾಪಿ ಬುಧವಾರದ ಒಳಗೆ ಲೋಕೇಶ್ ಕೈಯಲ್ಲಿ ಕಳಿಸ್ತೀನಿ. ಸೇಲ್ ಡೀಡ್, ಮದರ್ ಡೀಡ್, ಇಸಿ, ಇ-ಖಾತಾ, ಟ್ಯಾಕ್ಸ್ ರಸೀದಿ, ಲೇಔಟ್ ಪ್ಲಾನ್, ಎಲ್ಲಾ.
+    tr: Kyāś nanagū bēḍa, nanna makkaḷū adannē hēḷtāre. Ellā pēpar kāpi Budhavārada oḷage Lōkēś kaiyalli kaḷistīni. Sēl ḍīḍ, madar ḍīḍ, I-Si, i-khātā, ṭyāks rasīdi, lēauṭ plān, ellā.
+    en: I don't want cash either; my children say the same. I'll send copies of all the papers with Lokesh by Wednesday. The sale deed, the mother deed, the EC, the e-khata, the tax receipts, the layout plan, everything.
+  - who: broker
+    t: ಹಾಗಾದ್ರೆ ಟೋಕನ್…?
+    tr: Hāgādre ṭōkan…?
+    en: So, the token…?
+  - who: ravi
+    t: ಟೋಕನ್ ಇಲ್ಲ, ಲೋಕೇಶ್ ಅವರೇ. ಸಾರ್, ಹತ್ತು ದಿನ ಈ ಸೈಟು ಬೇರೆಯವರಿಗೆ ತೋರಿಸಬೇಡಿ. ಲಾಯರ್ ಓಕೆ ಅಂದ ತಕ್ಷಣ ಅಗ್ರಿಮೆಂಟ್ ಮಾಡ್ಕೊಂಡು ಅಡ್ವಾನ್ಸ್ ಕೊಡ್ತೀನಿ. ಮಾತು ಕೊಡ್ತೀನಿ.
+    tr: Ṭōkan illa, Lōkēś avarē. Sār, hattu dina ī saiṭu bēreyavarige tōrisabēḍi. Lāyar ōke anda takṣaṇa agrimenṭ māḍkoṇḍu aḍvāns koḍtīni. Mātu koḍtīni.
+    en: No token, Lokesh. Sir, please don't show this plot to anyone else for ten days. The moment the lawyer says okay, we'll sign the agreement and I'll pay the advance. You have my word.
+  - who: seller
+    t: ನಿಮ್ಮ ಮಾತೇ ಸಾಕು. ನಾನೂ ಮಾತಿಗೆ ತಪ್ಪಲ್ಲ.
+    tr: Nimma mātē sāku. Nānū mātige tappalla.
+    en: (shaking his hand) Your word is enough. And I don't go back on mine.
+  - scene: Lokesh drives Chandrashekar home. The family stands alone on the empty plot. The sun is higher now.
+  - who: amma
+    t: ಭೂಮಿ ತಾಯಿ, ನಮ್ಮನ್ನ ಒಪ್ಕೋಮ್ಮ.
+    tr: Bhūmi tāyi, nammanna opkōmma.
+    en: (touching the soil, then her forehead) Mother Earth, please accept us.
+  - who: deepa
+    t: ಐವತ್ಮೂರೂವರೆಗೆ ಎಪ್ಪತ್ತೈದು ಪರ್ಸೆಂಟ್ ಲೋನ್ ಅಂದ್ರೆ ನಲವತ್ತು ಲಕ್ಷದ ಹತ್ರ. ನಮ್ಮ ಕೈಯಿಂದ ಹದಿಮೂರೂವರೆ, ಸ್ಟ್ಯಾಂಪ್ ಡ್ಯೂಟಿ ಎಲ್ಲಾ ಸೇರಿ ಮೂರೂವರೆ, ಕಮಿಷನ್ ಅರ್ಧ ಲಕ್ಷ… ಹದಿನೆಂಟರಲ್ಲಿ ಸುಮಾರು ಹದಿನೇಳೂವರೆ ಹೋಗುತ್ತೆ.
+    tr: Aivatmūrūvarege eppattaidu parsenṭ lōn andre nalavattu lakṣada hatra. Namma kaiyinda hadimūrūvare, sṭyāmp ḍyūṭi ellā sēri mūrūvare, kamiśan ardha lakṣa… hadineṇṭaralli sumāru hadinēḷūvare hōgutte.
+    en: At fifty-three and a half, a seventy-five percent loan is close to forty lakh. Thirteen and a half from us, three and a half for stamp duty and the rest, half a lakh commission… out of eighteen, about seventeen and a half is gone.
+  - who: ravi
+    t: ಅಂದ್ರೆ ಸೈಟು ತಗೊಂಡ ದಿನ ನಮ್ಮ ಅಕೌಂಟ್‌ನಲ್ಲಿ ಅರ್ಧ ಲಕ್ಷ ಮಾತ್ರ ಉಳಿಯುತ್ತೆ.
+    tr: Andre saiṭu tagoṇḍa dina namma akauṇṭ-nalli ardha lakṣa mātra uḷiyutte.
+    en: Which means that on the day we buy the plot, only half a lakh will be left in our account.
+  - who: appa
+    t: ಹಾಸಿಗೆ ಇದ್ದಷ್ಟು ಕಾಲು ಚಾಚು ಅಂತಾರೆ. ನೀವು ಹಾಸಿಗೆಯ ಕೊನೆ ತನಕ ಕಾಲು ಚಾಚಿದೀರಿ, ಆದ್ರೆ ಒಂದು ಇಂಚೂ ಹೊರಗೆ ಹೋಗಿಲ್ಲ. … ಸರಿ. ಲಾಯರ್ ಒಪ್ಪಿದ್ರೆ, ನನ್ನ ಆಶೀರ್ವಾದ ಇದೆ.
+    tr: Hāsige iddaṣṭu kālu chāchu antāre. Nīvu hāsigeya kone tanaka kālu chāchidīri, ādre ondu iñchū horage hōgilla. … Sari. Lāyar oppidre, nanna āśīrvāda ide.
+    en: They say stretch your legs only as far as the mattress goes. You've stretched right to the edge of the mattress, but not an inch beyond. … Alright. If the lawyer approves, you have my blessing.
+  - who: amma
+    t: ನಲವತ್ತು ವರ್ಷ ಬಾಡಿಗೆ ಮನೆಯಲ್ಲೇ ಇದ್ವಿ, ರವಿ. ಹನ್ನೊಂದು ಸಲ ಮನೆ ಬದಲಾಯಿಸಿದೀವಿ. ಪ್ರತಿ ಸಲ ಓನರ್ “ಖಾಲಿ ಮಾಡಿ” ಅಂದಾಗ…
+    tr: Nalavattu varṣa bāḍige maneyallē idvi, Ravi. Hannondu sala mane badalāyisidīvi. Prati sala ōnar “khāli māḍi” andāga…
+    en: Forty years we've lived in rented houses, Ravi. We've moved eleven times. Every time an owner said “vacate”…
+  - who: ravi
+    t: ಗೊತ್ತಮ್ಮ. ದೇವರು ಒಳ್ಳೇದು ಮಾಡಿದ್ರೆ, ಇನ್ನು ಮುಂದೆ ಯಾರೂ ನಮಗೆ ಹಾಗೆ ಹೇಳಲ್ಲ.
+    tr: Gottamma. Dēvaru oḷḷēdu māḍidre, innu munde yārū namage hāge hēḷalla.
+    en: I know, Amma. God willing, nobody will ever say that to us again.
+  - who: ananya
+    t: ಅಪ್ಪಾ, ನನ್ನ ರೂಮ್ ಕಿಟಕಿ ಈ ಕಡೆ ಇರ್ಲಿ. ಸೂರ್ಯ ಬರೋ ಕಡೆ.
+    tr: Appā, nanna rūm kiṭaki ī kaḍe irli. Sūrya barō kaḍe.
+    en: Appa, put my room's window on this side. Where the sun comes in.
+  - who: deepa
+    t: ಪೂರ್ವಕ್ಕೆ. ನೋಡಿ ಅತ್ತೆ, ನಿಮ್ಮ ಮೊಮ್ಮಗಳಿಗೂ ವಾಸ್ತು ಗೊತ್ತು.
+    tr: Pūrvakke. Nōḍi atte, nimma mommagaḷigū vāstu gottu.
+    en: Facing east. See, Atte? Even your granddaughter knows her Vastu.
+  - who: ravi
+    t: ರಾಘವೇಂದ್ರ ರಾವ್ ಅವರಿಗೆ ಈಗಲೇ ಫೋನ್ ಮಾಡ್ತೀನಿ. ಬುಧವಾರ ಪೇಪರ್ ಬಂದ ತಕ್ಷಣ ಗುರುವಾರ ಅವರ ಆಫೀಸ್‌ಗೆ ತಗೊಂಡು ಹೋಗ್ತೀನಿ.
+    tr: Rāghavēndra Rāv avarige īgalē phōn māḍtīni. Budhavāra pēpar banda takṣaṇa Guruvāra avara āphīs-ge tagoṇḍu hōgtīni.
+    en: I'll call Raghavendra Rao right now. As soon as the papers come on Wednesday, I'll take them to his office on Thursday.

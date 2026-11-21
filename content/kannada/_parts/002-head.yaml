@@ -1,0 +1,31 @@
+lang: kannada
+num: 2
+level: "B1 → B2+ · ~1 h 30 min"
+title:
+  t: "ರವಿಯ ಮನೆ"
+  tr: "Raviya mane"
+  en: "Ravi's house"
+intro: "Ravi Kumar, 34, and his wife Deepa have saved for six years. Now they want their own house in Bengaluru. This lesson follows them for eighteen months: the bank, the broker, site visits, the lawyer and the Sub-Registrar, the architect and plan approval, BESCOM and BWSSB, the contractor and the mestri, one hard year of construction, and finally the tenants. Family talk is informal; offices and professionals are more formal. It builds on every word from Lesson 1 and adds the language of money, property, government offices and building."
+speakers:
+  ravi: { name: "Ravi", voice: kn-IN-GaganNeural, pitch: "+0Hz", rate: "-3%" }
+  deepa: { name: "Deepa", voice: kn-IN-SapnaNeural, pitch: "+2Hz", rate: "-2%" }
+  ananya: { name: "Ananya", voice: kn-IN-SapnaNeural, pitch: "+22Hz", rate: "+4%" }
+  appa: { name: "Appa · Nagaraj", voice: kn-IN-GaganNeural, pitch: "-16Hz", rate: "-10%" }
+  amma: { name: "Amma · Sharada", voice: kn-IN-SapnaNeural, pitch: "-12Hz", rate: "-8%" }
+  bank: { name: "Vandana (Canara Bank)", voice: kn-IN-SapnaNeural, pitch: "-4Hz", rate: "+2%" }
+  broker: { name: "Lokesh (broker)", voice: kn-IN-GaganNeural, pitch: "+6Hz", rate: "+10%" }
+  seller: { name: "Chandrashekar (seller)", voice: kn-IN-GaganNeural, pitch: "-20Hz", rate: "-6%" }
+  lawyer: { name: "Adv. Raghavendra Rao", voice: kn-IN-GaganNeural, pitch: "-10Hz", rate: "-4%" }
+  clerk: { name: "Document writer", voice: kn-IN-GaganNeural, pitch: "-4Hz", rate: "+6%" }
+  subreg: { name: "Sub-Registrar Latha", voice: kn-IN-SapnaNeural, pitch: "-8Hz", rate: "-2%" }
+  architect: { name: "Pallavi Hegde (architect)", voice: kn-IN-SapnaNeural, pitch: "+0Hz", rate: "+3%" }
+  aee: { name: "Sathish (AEE)", voice: kn-IN-GaganNeural, pitch: "-12Hz", rate: "-2%" }
+  bescom: { name: "Prakash (BESCOM AE)", voice: kn-IN-GaganNeural, pitch: "-8Hz", rate: "+0%" }
+  lineman: { name: "Ramu (lineman)", voice: kn-IN-GaganNeural, pitch: "+2Hz", rate: "+12%" }
+  bwssb: { name: "Kavitha (BWSSB AEE)", voice: kn-IN-SapnaNeural, pitch: "-6Hz", rate: "+0%" }
+  contractor: { name: "Shivakumar Gowda (contractor)", voice: kn-IN-GaganNeural, pitch: "-6Hz", rate: "+6%" }
+  mestri: { name: "Basavaraj (mestri)", voice: kn-IN-GaganNeural, pitch: "-14Hz", rate: "+4%" }
+  neighbour: { name: "Krishnappa (neighbour)", voice: kn-IN-GaganNeural, pitch: "-22Hz", rate: "-8%" }
+  arjun: { name: "Arjun (tenant)", voice: kn-IN-GaganNeural, pitch: "+8Hz", rate: "+4%" }
+  sneha: { name: "Sneha (tenant)", voice: kn-IN-SapnaNeural, pitch: "+6Hz", rate: "+2%" }
+  farooq: { name: "Farooq (tenant)", voice: kn-IN-GaganNeural, pitch: "-6Hz", rate: "+2%" }

@@ -1,0 +1,29 @@
+lang: kannada
+num: 3
+level: "B2 → B2+ · ~1 h 30 min"
+title:
+  t: "ಮೂರು ತಲೆಮಾರು"
+  tr: "Mūru talemāru"
+  en: "Three generations"
+intro: "One year after Lesson 1. Shwetha married Pradeep without a rupee of dowry, and in February 2026 she finds out she is pregnant. In August, Ajji collapses with a heart attack. This lesson follows the Rao family through doctors, the 108 ambulance, Jayadeva hospital, insurance desks, maternity leave, the seemantha, a difficult delivery and the naming ceremony — and Ajji's fight to hold her great-grandchild. Sam still lives with them, now speaking good Kannada."
+speakers:
+  sam: { name: "Sam", voice: kn-IN-GaganNeural, pitch: "+0Hz", rate: "-5%" }
+  ajji: { name: "Ajji · Saraswathamma", voice: kn-IN-SapnaNeural, pitch: "-20Hz", rate: "-18%" }
+  appa: { name: "Appa · Ramesh", voice: kn-IN-GaganNeural, pitch: "-14Hz", rate: "-8%" }
+  amma: { name: "Amma · Lakshmi", voice: kn-IN-SapnaNeural, pitch: "-6Hz", rate: "-5%" }
+  shwe: { name: "Shwetha", voice: kn-IN-SapnaNeural, pitch: "+4Hz", rate: "+0%" }
+  pradeep: { name: "Pradeep", voice: kn-IN-GaganNeural, pitch: "+4Hz", rate: "+4%" }
+  kiran: { name: "Kiran", voice: kn-IN-GaganNeural, pitch: "+10Hz", rate: "+8%" }
+  sumitra: { name: "Sumitra (Pradeep's mother)", voice: kn-IN-SapnaNeural, pitch: "-12Hz", rate: "+2%" }
+  shankar: { name: "Shankar (Pradeep's father)", voice: kn-IN-GaganNeural, pitch: "-18Hz", rate: "-4%" }
+  vimala: { name: "Vimala Aunty", voice: kn-IN-SapnaNeural, pitch: "-10Hz", rate: "+8%" }
+  gyn: { name: "Dr. Usha Rao (gynaecologist)", voice: kn-IN-SapnaNeural, pitch: "-4Hz", rate: "+0%" }
+  operator: { name: "108 operator", voice: kn-IN-SapnaNeural, pitch: "+0Hz", rate: "+8%" }
+  emt: { name: "Manjunath (ambulance)", voice: kn-IN-GaganNeural, pitch: "-4Hz", rate: "+8%" }
+  erdoc: { name: "Dr. Anand (emergency)", voice: kn-IN-GaganNeural, pitch: "-6Hz", rate: "+4%" }
+  cardio: { name: "Dr. Meera Kulkarni (cardiologist)", voice: kn-IN-SapnaNeural, pitch: "-8Hz", rate: "+0%" }
+  nurse: { name: "Rekha (nurse)", voice: kn-IN-SapnaNeural, pitch: "+2Hz", rate: "+6%" }
+  desk: { name: "Venkatesh (billing desk)", voice: kn-IN-GaganNeural, pitch: "-2Hz", rate: "+6%" }
+  manager: { name: "Nikhil (manager)", voice: kn-IN-GaganNeural, pitch: "+2Hz", rate: "+4%" }
+  paed: { name: "Dr. Farhan (paediatrician)", voice: kn-IN-GaganNeural, pitch: "-6Hz", rate: "+0%" }
+  purohit: { name: "Purohit", voice: kn-IN-GaganNeural, pitch: "-18Hz", rate: "-6%" }

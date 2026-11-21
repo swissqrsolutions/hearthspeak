@@ -152,3 +152,20 @@ html{scroll-behavior:smooth}
 .toolbar .stopbtn{background:#c0392b;border-color:#c0392b;color:#fff;font-weight:700;min-width:100px}
 .toolbar .stopbtn[hidden]{display:none}
 .pager{scroll-margin-top:60px}
+
+/* Lesson 2 characters */
+.c-ravi{color:#2e7d32}.c-deepa{color:#6a1b9a}.c-ananya{color:#ef6c00}.c-bank{color:#00838f}.c-broker{color:#5d4037}
+.c-seller{color:#455a64}.c-lawyer{color:#283593}.c-clerk{color:#616161}.c-subreg{color:#880e4f}.c-architect{color:#ad1457}
+.c-aee{color:#1565c0}.c-bescom{color:#f57f17}.c-lineman{color:#9e9d24}.c-bwssb{color:#0277bd}.c-contractor{color:#4e342e}
+.c-mestri{color:#bf360c}.c-neighbour{color:#6d4c41}.c-arjun{color:#00695c}.c-sneha{color:#c2185b}.c-farooq{color:#37474f}
+.line[data-who="ravi"]{background:var(--sam);box-shadow:inset 3px 0 0 var(--sam-edge)}
+@media (prefers-color-scheme: dark){.c-ravi{color:#81c784}.c-deepa{color:#ce93d8}.c-ananya{color:#ffb74d}.c-bank{color:#4dd0e1}.c-broker{color:#bcaaa4}
+.c-seller{color:#b0bec5}.c-lawyer{color:#9fa8da}.c-clerk{color:#bdbdbd}.c-subreg{color:#f48fb1}.c-architect{color:#f48fb1}.c-aee{color:#64b5f6}
+.c-bescom{color:#ffd54f}.c-lineman{color:#dce775}.c-bwssb{color:#4fc3f7}.c-contractor{color:#bcaaa4}.c-mestri{color:#ff8a65}.c-neighbour{color:#bcaaa4}
+.c-arjun{color:#80cbc4}.c-sneha{color:#f48fb1}.c-farooq{color:#b0bec5}}
+
+/* Lesson 3 characters */
+.c-gyn{color:#ad1457}.c-operator{color:#00838f}.c-emt{color:#e65100}.c-erdoc{color:#1565c0}.c-cardio{color:#6a1b9a}
+.c-nurse{color:#00897b}.c-desk{color:#5d4037}.c-manager{color:#37474f}.c-paed{color:#2e7d32}.c-purohit{color:#bf360c}
+@media (prefers-color-scheme: dark){.c-gyn{color:#f48fb1}.c-operator{color:#4dd0e1}.c-emt{color:#ffb74d}.c-erdoc{color:#64b5f6}
+.c-cardio{color:#ce93d8}.c-nurse{color:#80cbc4}.c-desk{color:#bcaaa4}.c-manager{color:#b0bec5}.c-paed{color:#81c784}.c-purohit{color:#ff8a65}}

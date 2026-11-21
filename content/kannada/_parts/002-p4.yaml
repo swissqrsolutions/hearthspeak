@@ -1,0 +1,871 @@
+lines:
+  - chapter: Chapter 9 — One year of building
+  - section: 🙏 After the bhoomi puja
+    learn: kaṭṭisu (to get built) vs kaṭṭu · -ōvaregū (until) · yajamānana kaṇṇu (the owner's eye)
+  - scene: 28 July 2025, later that morning, Kengeri. The priest has left. Coconut shells and turmeric lie at the northeast corner of the plot. Basavaraj's team is unloading tools.
+  - who: amma
+    t: ಈಶಾನ್ಯ ಮೂಲೆಯಲ್ಲಿ ಮೊದಲ ಗುದ್ದಲಿ ಬಿತ್ತು. ಇನ್ನು ಮನೆ ಮುಗಿಯೋವರೆಗೂ ಯಾವ ವಿಘ್ನನೂ ಬರದೇ ಇರಲಿ.
+    tr: Īśānya mūleyalli modala guddali bittu. Innu mane mugiyōvaregū yāva vighnanū baradē irali.
+    en: The first stroke of the pickaxe has fallen in the northeast corner. May no obstacle come now until the house is finished.
+  - who: appa
+    t: ಇವತ್ತಿಂದ ಈ ಸೈಟು ನಿನ್ನ ಎರಡನೇ ಆಫೀಸ್, ರವಿ. ಕೆಲಸಕ್ಕೆ ಹೋಗೋ ಮುಂಚೆ ಹತ್ತು ನಿಮಿಷ ಆದ್ರೂ ಇಲ್ಲಿ ಬಂದು ನೋಡು. ಯಜಮಾನನ ಕಣ್ಣು ಇದ್ರೆ ಕೆಲಸ ಸರಿಯಾಗಿ ನಡೆಯುತ್ತೆ.
+    tr: Ivattinda ī saiṭu ninna eraḍanē āphīs, Ravi. Kelasakke hōgō munche hattu nimiṣa ādrū illi bandu nōḍu. Yajamānana kaṇṇu idre kelasa sariyāgi naḍeyutte.
+    en: From today this site is your second office, Ravi. Before you go to work, come and look, even for ten minutes. When the owner's eye is on the work, the work goes right.
+  - who: ravi
+    t: ಗೊತ್ತು ಅಪ್ಪ. ನಾನು ಮನೆ ಕಟ್ತಿಲ್ಲ, ಕಟ್ಟಿಸ್ತಿದೀನಿ. ಆದ್ರೆ ಪ್ರತಿ ರೂಪಾಯಿಯ ಲೆಕ್ಕ ನನ್ನ ತಲೆ ಮೇಲೇ ಇದೆ.
+    tr: Gottu Appa. Nānu mane kaṭtilla, kaṭṭistidīni. Ādre prati rūpāyiya lekka nanna tale mēlē ide.
+    en: I know, Appa. I'm not building the house, I'm having it built. But the account of every rupee sits on my head.
+  - who: mestri
+    t: ಚಿಂತಿ ಮಾಡಬ್ಯಾಡ್ರಿ ಸಾಹೇಬ್ರ. ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಏಳು ಗಂಟೆಗೆ ಹುಡುಗರು ಬರ್ತಾರ್ರಿ. ಮೊದಲು ಮಾರ್ಕಿಂಗ್, ಆಮ್ಯಾಲೆ ಪಾಯ ತೆಗೆಯೂಣು.
+    tr: Chinti māḍabyāḍri sāhēbra. Nāḷe beḷigge ēḷu gaṇṭege huḍugaru bartārri. Modalu mārking, āmyāle pāya tegeyūṇu.
+    en: Don't worry, sir. The boys come tomorrow at seven. First the marking, then we dig the foundation trenches.
+  - who: deepa
+    t: ಬಸವರಾಜ್ ಅವರೇ, ಲೇಬರ್ ಶೆಡ್ಡಿಗೆ ತಗಡಿನ ಶೀಟ್ ಬಂದಿದೆ. ನೀರಿಗೆ ವಾರಕ್ಕೆ ಎರಡು ಸಲ ಟ್ಯಾಂಕರ್ ಬುಕ್ ಮಾಡಿದೀವಿ.
+    tr: Basavarāj avarē, lēbar śeḍḍige tagaḍina śīṭ bandide. Nīrige vārakke eraḍu sala ṭyānkar buk māḍidīvi.
+    en: Basavaraj, the tin sheets for the labour shed have arrived. We've booked a water tanker twice a week.
+  - who: mestri
+    t: ಭಾಳ ಛಲೋ ಆತ್ರಿ ಅಮ್ಮಾವ್ರ. ನೀರು ಇದ್ರ ಕೆಲಸ ನಿಲ್ಲೂದಿಲ್ಲ.
+    tr: Bhāḷa chalō ātri ammāvra. Nīru idra kelasa nillūdilla.
+    en: That's very good, madam. As long as there's water, the work won't stop.
+  - section: ⛏️ Soil report and digging
+    learn: 'soil words: gaṭṭi nela, mettagina maṇṇu · āḷa (depth) · PCC explained · modalē hēḷi (tell me beforehand)'
+  - scene: A week later. The trenches are dug. Ravi holds the soil-test report; contractor Shivakumar Gowda reads it with him.
+  - who: contractor
+    t: ರಿಪೋರ್ಟ್ ಪ್ರಕಾರ ಐದು ಅಡಿ ಕೆಳಗೆ ಗಟ್ಟಿ ನೆಲ ಸಿಗುತ್ತೆ ಸಾರ್. ಬೇರಿಂಗ್ ಕೆಪ್ಯಾಸಿಟಿ ಚೆನ್ನಾಗಿದೆ, ಅದಕ್ಕೆ ಐಸೊಲೇಟೆಡ್ ಫೂಟಿಂಗ್ ಸಾಕು.
+    tr: Riporṭ prakāra aidu aḍi keḷage gaṭṭi nela sigutte sār. Bēring kepyāsiṭi chennāgide, adakke aisolēṭeḍ fūṭing sāku.
+    en: According to the report, we hit hard ground five feet down, sir. The bearing capacity is good, so isolated footings are enough.
+  - who: ravi
+    t: ಸ್ಟ್ರಕ್ಚರಲ್ ಡ್ರಾಯಿಂಗ್‌ನಲ್ಲಿ ಹನ್ನೆರಡು ಕಾಲಂ ಇದೆ. ಎಲ್ಲಾ ಗುಂಡಿಗಳೂ ಅಷ್ಟೇ ಆಳ ಇದೆಯಾ?
+    tr: Sṭrakcharal ḍrāyingnalli hanneraḍu kālam ide. Ellā guṇḍigaḷū aṣṭē āḷa ideyā?
+    en: The structural drawing shows twelve columns. Are all the pits the same depth?
+  - who: mestri
+    t: ಒಂದು ಮೂಲ್ಯಾಗ ಸ್ವಲ್ಪ ಮೆತ್ತಗಿನ ಮಣ್ಣು ಐತ್ರಿ. ಅಲ್ಲಿ ಇನ್ನೂ ಒಂದು ಅಡಿ ತೆಗೆದು, ಪಿಸಿಸಿ ಹಾಕಿ ಗಟ್ಟಿ ಮಾಡ್ತೀನ್ರಿ.
+    tr: Ondu mūlyāga swalpa mettagina maṇṇu aitri. Alli innū ondu aḍi tegedu, PCC hāki gaṭṭi māḍtīnri.
+    en: There's some soft soil in one corner, sir. I'll dig one more foot there, lay PCC and make it firm.
+  - who: ravi
+    t: ಪಿಸಿಸಿ ಅಂದ್ರೆ?
+    tr: PCC andre?
+    en: What's PCC?
+  - who: contractor
+    t: ಪ್ಲೇನ್ ಸಿಮೆಂಟ್ ಕಾಂಕ್ರೀಟ್ ಸಾರ್ — ಕಂಬಿ ಇಲ್ಲದ ಕಾಂಕ್ರೀಟ್. ಮಣ್ಣು, ಕಂಬಿ ನೇರವಾಗಿ ಮುಟ್ಟಬಾರದು ಅಂತ ಫೂಟಿಂಗ್ ಕೆಳಗೆ ಮೂರು-ನಾಲ್ಕು ಇಂಚು ಹಾಕ್ತೀವಿ.
+    tr: Plēn simeṇṭ kānkrīṭ sār — kambi illada kānkrīṭ. Maṇṇu, kambi nēravāgi muṭṭabāradu anta fūṭing keḷage mūru-nālku inchu hāktīvi.
+    en: Plain cement concrete, sir — concrete without steel. We lay three or four inches under the footing so the soil and the steel never touch directly.
+  - who: ravi
+    t: ಸರಿ. ಹೆಚ್ಚುವರಿ ಆಳಕ್ಕೆ ಖರ್ಚು ಜಾಸ್ತಿ ಆದ್ರೆ ಮೊದಲೇ ಹೇಳಿ. ಬಿಲ್ ಬಂದ್ಮೇಲೆ ಗೊತ್ತಾಗೋದು ನನಗೆ ಇಷ್ಟ ಇಲ್ಲ.
+    tr: Sari. Heccuvari āḷakke kharcu jāsti ādre modalē hēḷi. Bil bandmēle gottāgōdu nanage iṣṭa illa.
+    en: Fine. If the extra depth costs more, tell me beforehand. I don't like finding out after the bill arrives.
+  - who: contractor
+    t: ಲೇಬರ್ ರೇಟ್ ಸ್ಕ್ವೇರ್ ಫೀಟ್ ಲೆಕ್ಕ ಸಾರ್, ಅದು ಬದಲಾಗಲ್ಲ. ಆದ್ರೆ ಸಿಮೆಂಟ್, ಜಲ್ಲಿ ನೀವೇ ತರಿಸೋದ್ರಿಂದ ಆ ಲೆಕ್ಕ ನಿಮ್ಮದೇ.
+    tr: Lēbar rēṭ skvēr fīṭ lekka sār, adu badalāgalla. Ādre simeṇṭ, jalli nīvē tarisōdrinda ā lekka nimmadē.
+    en: The labour rate is per square foot, sir; that doesn't change. But since you're having the cement and aggregate delivered yourself, that part of the account is yours.
+  - section: 🏚️ Krishnappa's complaint
+    learn: complaining politely · apologising and promising · tondare, dhūḷu, rāśi · -bāradu (must not)
+  - scene: August 2025, early morning. Krishnappa, the elderly neighbour, stands at the edge of the site in his dhoti, pointing at a heap of mud and broken stone in front of his gate.
+  - who: neighbour
+    t: ರವಿ ಅವರೇ, ಒಂದು ಮಾತು. ನಿಮ್ಮ ಮಣ್ಣು, ಜಲ್ಲಿ ಎಲ್ಲಾ ನನ್ನ ಗೇಟಿನ ಮುಂದೆ ಸುರಿದಿದಾರೆ. ನಿನ್ನೆ ನನ್ನ ಹೆಂಡತಿ ಅದರ ಮೇಲೆ ಜಾರಿ ಬೀಳೋದ್ರಲ್ಲಿದ್ರು.
+    tr: Ravi avarē, ondu mātu. Nimma maṇṇu, jalli ellā nanna gēṭina munde surididāre. Ninne nanna heṇḍati adara mēle jāri bīḷōdralliddru.
+    en: Ravi, a word. Your mud and gravel have all been dumped in front of my gate. Yesterday my wife nearly slipped and fell on it.
+  - who: neighbour
+    t: ಮೊದಲ ದಿನನೇ ಒಂದೇ ಮಾತು ಕೇಳಿದ್ದೆ — ಸಂಜೆ ಆರರ ಮೇಲೆ ಕೆಲಸ ಬೇಡ ಅಂತ. ಈಗ ನೋಡಿದ್ರೆ ಬೆಳಿಗ್ಗೆ ಆರು ಗಂಟೆಗೇ ಮಿಕ್ಸರ್ ಶುರು. ನನಗೆ ಬಿಪಿ, ಶುಗರ್ ಎಲ್ಲಾ ಇದೆ, ನಿದ್ದೆನೇ ಆಗ್ತಿಲ್ಲ. ಧೂಳು ಬೇರೆ, ಮನೆ ಒಳಗೆಲ್ಲಾ.
+    tr: Modala dinanē ondē mātu kēḷidde — sanje ārara mēle kelasa bēḍa anta. Īga nōḍidre beḷigge āru gaṇṭegē mikser śuru. Nanage BP, śugar ellā ide, niddenē āgtilla. Dhūḷu bēre, mane oḷagellā.
+    en: On the very first day I asked just one thing — no work after six in the evening. Now the mixer starts at six in the morning. I have BP, sugar, everything — I can't sleep at all. And on top of that, dust all through the house.
+  - who: ravi
+    t: ಕ್ಷಮಿಸಿ ಕೃಷ್ಣಪ್ಪನವರೇ, ನನಗೆ ಗೊತ್ತೇ ಇರಲಿಲ್ಲ. ಇದು ನಮ್ಮ ತಪ್ಪು. ಇವತ್ತೇ ಸರಿ ಮಾಡಿಸ್ತೀನಿ.
+    tr: Kṣamisi Kṛṣṇappanavarē, nanage gottē iralilla. Idu namma tappu. Ivattē sari māḍistīni.
+    en: I'm sorry, Krishnappa, I had no idea. This is our fault. I'll have it put right today.
+  - who: ravi
+    t: ಬಸವರಾಜ್ ಅವರೇ, ಈ ರಾಶಿನ ಮಧ್ಯಾಹ್ನದೊಳಗೆ ನಮ್ಮ ಸೈಟಿನ ಒಳಗೆ ಹಾಕಿಸಿ. ಇನ್ನು ಮೇಲೆ ಯಾವ ಲೋಡ್ ಬಂದ್ರೂ ರೋಡ್ ಮೇಲೆ, ಬೇರೆಯವರ ಗೇಟ್ ಮುಂದೆ ಇಳಿಸಬಾರದು.
+    tr: Basavarāj avarē, ī rāśina madhyāhnadoḷage namma saiṭina oḷage hākisi. Innu mēle yāva lōḍ bandrū rōḍ mēle, bēreyavara gēṭ munde iḷisabāradu.
+    en: Basavaraj, get this heap moved inside our site by noon. From now on, whatever load arrives must not be unloaded on the road or in front of anyone else's gate.
+  - who: mestri
+    t: ಆತ್ರಿ ಸಾಹೇಬ್ರ. ತಪ್ಪಾತ್ರಿ ಯಜಮಾನ್ರ — ಲಾರಿಯವ ರಾತ್ರಿ ಬಂದು ಇಳಿಸಿ ಹ್ವಾದ. ಇನ್ನು ಹಿಂಗ ಆಗೂದಿಲ್ಲ.
+    tr: Ātri sāhēbra. Tappātri yajamānra — lāriyava rātri bandu iḷisi hwāda. Innu hinga āgūdilla.
+    en: Yes, sir. Forgive us, elder — the lorry driver came at night, unloaded and left. It won't happen like this again.
+  - who: ravi
+    t: ಮತ್ತೆ ಮಿಕ್ಸರ್, ಕಟಿಂಗ್ ಮಷೀನ್ ಬೆಳಿಗ್ಗೆ ಎಂಟರಿಂದ ಸಂಜೆ ಆರರವರೆಗೆ ಮಾತ್ರ. ಧೂಳು ಬರದಂಗೆ ಹಸಿರು ನೆಟ್ ಹಾಕಿಸ್ತೀನಿ.
+    tr: Matte mikser, kaṭing maśīn beḷigge eṇṭarinda sanje āraravarege mātra. Dhūḷu baradange hasiru neṭ hākistīni.
+    en: And the mixer and the cutting machine only from eight in the morning to six in the evening. I'll have a green net put up so the dust doesn't blow over.
+  - who: neighbour
+    t: ನೋಡಿ, ನಾನು ಜಗಳಕ್ಕೆ ಬಂದಿಲ್ಲ. ನಾವೂ ಹದಿನೈದು ವರ್ಷದ ಹಿಂದೆ ಮನೆ ಕಟ್ಟಿಸಿದ್ವಿ, ಕಷ್ಟ ಗೊತ್ತು. ಆದ್ರೆ ಪಕ್ಕದವರನ್ನ ಕೇಳಿ ಮಾಡಿದ್ರೆ ಸಂಬಂಧ ಚೆನ್ನಾಗಿರುತ್ತೆ.
+    tr: Nōḍi, nānu jagaḷakke bandilla. Nāvū hadinaidu varṣada hinde mane kaṭṭisidvi, kaṣṭa gottu. Ādre pakkadavaranna kēḷi māḍidre sambandha chennāgirutte.
+    en: Look, I haven't come to pick a fight. We too had a house built fifteen years ago; I know how hard it is. But if you ask the neighbours before doing things, relations stay good.
+  - who: ravi
+    t: ಖಂಡಿತ. ನಿಮಗೆ ಏನೇ ತೊಂದರೆ ಆದ್ರೂ ನೇರವಾಗಿ ನನಗೆ ಫೋನ್ ಮಾಡಿ. ಸ್ಲ್ಯಾಬ್ ದಿನ ಮೊದಲೇ ಹೇಳ್ತೀನಿ — ಅವತ್ತು ಲಾರಿಗಳು ಜಾಸ್ತಿ ಬರುತ್ವೆ.
+    tr: Khaṇḍita. Nimage ēnē tondare ādrū nēravāgi nanage phōn māḍi. Slyāb dina modalē hēḷtīni — avattu lārigaḷu jāsti barutve.
+    en: Of course. Whatever trouble you have, call me directly. I'll tell you before slab day — lots of lorries will come that day.
+  - who: neighbour
+    t: ಸರಿ ಸರಿ. ನಿಮ್ಮ ತಂದೆಯವರು ಒಳ್ಳೆ ಸಂಸ್ಕಾರ ಕೊಟ್ಟಿದಾರೆ. ಗೃಹಪ್ರವೇಶಕ್ಕೆ ಕರೆಯೋದು ಮರೀಬೇಡಿ.
+    tr: Sari sari. Nimma tandeyavaru oḷḷe saṃskāra koṭṭidāre. Gṛhapravēśakke kareyōdu marībēḍi.
+    en: All right, all right. Your father has raised you well. Don't forget to invite me to the housewarming.
+  - section: 🔩 Columns and the engineer's check
+    learn: kambi, rings, spacing, cover block · tukku (rust) · -ōke munce (before) · supervision
+  - scene: Late August. The footings are cast, and the column steel stands up like iron reeds. Architect Pallavi Hegde has come with a measuring tape.
+  - who: architect
+    t: ಕಾಲಂ ಕಂಬಿ ಹನ್ನೆರಡು ಎಂಎಂ, ಆರು ಕಂಬಿ — ಡ್ರಾಯಿಂಗ್ ಪ್ರಕಾರ ಸರಿ ಇದೆ. ಆದ್ರೆ ಈ ರಿಂಗ್‌ಗಳ ಮಧ್ಯೆ ಅಂತರ ಎಂಟು ಇಂಚು ಇದೆ. ಆರು ಇಂಚು ಇರಬೇಕು.
+    tr: Kālam kambi hanneraḍu em-em, āru kambi — ḍrāying prakāra sari ide. Ādre ī ringgaḷa madhye antara eṇṭu inchu ide. Āru inchu irabēku.
+    en: The column steel is twelve mm, six bars — correct as per the drawing. But the spacing between these rings is eight inches. It should be six.
+  - who: mestri
+    t: ಖರೇ ಮೇಡಂ, ಹುಡುಗರು ಅವಸರದಾಗ ಕಟ್ಟ್ಯಾರ. ಇವತ್ತೇ ಬಿಚ್ಚಿ ಮತ್ತೆ ಕಟ್ಟಿಸ್ತೀನ್ರಿ.
+    tr: Kharē mēḍam, huḍugaru avasaradāga kaṭṭyāra. Ivattē bicci matte kaṭṭistīnri.
+    en: True, madam — the boys tied them in a hurry. I'll have them undone and re-tied today.
+  - who: architect
+    t: ಮತ್ತೆ ಕವರ್ ಬ್ಲಾಕ್ ಮರೀಬೇಡಿ. ಕಂಬಿ ಶಟರಿಂಗ್‌ಗೆ ಅಂಟಿಕೊಂಡ್ರೆ ಕಾಂಕ್ರೀಟ್ ಹೊದಿಕೆ ಇರಲ್ಲ, ಹತ್ತು ವರ್ಷದಲ್ಲಿ ತುಕ್ಕು ಹಿಡಿಯುತ್ತೆ.
+    tr: Matte kavar blāk marībēḍi. Kambi śaṭaringge aṇṭikoṇḍre kānkrīṭ hodike iralla, hattu varṣadalli tukku hiḍiyutte.
+    en: And don't forget the cover blocks. If the steel touches the shuttering, there's no concrete cover, and in ten years it will rust.
+  - who: ravi
+    t: ಪಲ್ಲವಿ ಅವರೇ, ಪ್ರತಿ ಸಲ ಕಾಂಕ್ರೀಟ್ ಹಾಕೋಕೆ ಮುಂಚೆ ನೀವು ಬಂದು ನೋಡ್ತೀರಾ? ಕಂಬಿ ಲೆಕ್ಕ ನನಗೆ ಅಷ್ಟು ಗೊತ್ತಾಗಲ್ಲ.
+    tr: Pallavi avarē, prati sala kānkrīṭ hākōke munce nīvu bandu nōḍtīrā? Kambi lekka nanage aṣṭu gottāgalla.
+    en: Pallavi, will you come and check every time before the concrete is poured? I don't really understand the steel calculations.
+  - who: architect
+    t: ಅದಕ್ಕೇ ನಮ್ಮ ಫೀಸ್‌ನಲ್ಲಿ ಸೂಪರ್‌ವಿಷನ್ ಸೇರಿಸಿದೀವಿ. ಸ್ಲ್ಯಾಬ್‌ಗೆ ಮುಂಚೆ ಸ್ಟ್ರಕ್ಚರಲ್ ಎಂಜಿನಿಯರ್ ಕೂಡ ಬರ್ತಾರೆ. ನಮ್ಮಿಬ್ಬರ ಸಹಿ ಇಲ್ಲದೆ ಕಾಂಕ್ರೀಟ್ ಹಾಕಬಾರದು.
+    tr: Adakkē namma fīsnalli sūparviṣan sērisidīvi. Slyābge munce sṭrakcharal enjiniyar kūḍa bartāre. Nammibbara sahi illade kānkrīṭ hākabāradu.
+    en: That's exactly why supervision is included in our fee. The structural engineer will come before the slab as well. No concrete is to be poured without both our signatures.
+  - who: mestri
+    t: ಛಲೋ ಐತ್ರಿ. ನೋಡೋರು ಇದ್ರ ನಮ್ಮ ಕೆಲಸಕ್ಕೂ ಬೆಲೆ ಬರ್ತದ.
+    tr: Chalō aitri. Nōḍōru idra namma kelasakkū bele bartada.
+    en: That's good. When someone is checking, our work gets its proper value too.
+  - section: 🌧️ The monsoon stops work
+    learn: 'weather and delays · -bēkāgutte (will have to) · counterfactual: śuru māḍiddidre … mugidirtittu'
+  - scene: Late August 2025. Three days of heavy rain. The trenches around the plinth are full of brown water. Ravi and Deepa stand under one umbrella with Basavaraj.
+  - who: mestri
+    t: ಮೂರು ದಿನದಿಂದ ಮಳಿ ನಿಂತಿಲ್ಲರಿ. ಪ್ಲಿಂತ್ ಸುತ್ತ ನೀರು ನಿಂತೈತಿ. ಮೋಟಾರ್ ಹಚ್ಚಿ ಹೊರಗ ಹಾಕಬೇಕಾಗ್ತದ.
+    tr: Mūru dinadinda maḷi nintillari. Plinth sutta nīru nintaiti. Mōṭār hacci horaga hākabēkāgtada.
+    en: It hasn't stopped raining for three days, sir. Water is standing all round the plinth. We'll have to run a motor and pump it out.
+  - who: deepa
+    t: ಹುಡುಗರು ಏನು ಮಾಡ್ತಿದಾರೆ? ಕೆಲಸ ಇಲ್ಲ ಅಂದ್ರೆ ಅವರಿಗೆ ಕೂಲಿನೂ ಇಲ್ಲ ಅಲ್ವಾ?
+    tr: Huḍugaru ēnu māḍtidāre? Kelasa illa andre avarige kūlinū illa alvā?
+    en: What are the boys doing? No work means no wages for them either, doesn't it?
+  - who: mestri
+    t: ಹೌದ್ರಿ ಅಮ್ಮಾವ್ರ. ಇಬ್ಬರು ಊರಿಗೆ ಹ್ವಾಗ್ಯಾರ — ಅಲ್ಲಿ ಬಿತ್ತನೆ ಕೆಲಸ ಐತಿ. ಉಳಿದವರು ಶೆಡ್ಡಿನ್ಯಾಗ ಕುಂತಾರ.
+    tr: Haudri ammāvra. Ibbaru ūrige hwāgyāra — alli bittane kelasa aiti. Uḷidavaru śeḍḍinyāga kuntāra.
+    en: Yes, madam. Two have gone back to the village — there's sowing to do there. The rest are sitting in the shed.
+  - who: ravi
+    t: ಅವರಿಗೆ ಅಕ್ಕಿ, ಬೇಳೆಗೆ ಸ್ವಲ್ಪ ಅಡ್ವಾನ್ಸ್ ಕೊಡ್ತೀನಿ, ಆಮೇಲೆ ಬಿಲ್‌ನಲ್ಲಿ ಅಡ್ಜಸ್ಟ್ ಮಾಡ್ಕೊಳ್ಳಿ. ಮಳೆಯಲ್ಲಿ ಕಾಂಕ್ರೀಟ್ ಕೆಲಸ ಬೇಡವೇ ಬೇಡ.
+    tr: Avarige akki, bēḷege swalpa aḍvāns koḍtīni, āmēle bilnalli aḍjasṭ māḍkoḷḷi. Maḷeyalli kānkrīṭ kelasa bēḍavē bēḍa.
+    en: I'll give them a small advance for rice and dal; adjust it in the bill later. No concrete work in the rain, absolutely not.
+  - who: deepa
+    t: ಜೂನ್‌ನಲ್ಲೇ ಶುರು ಮಾಡಿದ್ದಿದ್ರೆ ಮಳೆಗಾಲಕ್ಕೆ ಮುಂಚೆ ಪ್ಲಿಂತ್ ಮುಗಿದಿರ್ತಿತ್ತು. ಆದ್ರೆ ಮುಹೂರ್ತ ಜುಲೈನಲ್ಲೇ ಇತ್ತು, ಏನ್ಮಾಡೋದು.
+    tr: Jūnnallē śuru māḍiddidre maḷegālakke munce plinth mugidirtittu. Ādre muhūrta Julainallē ittu, ēnmāḍōdu.
+    en: If we had started in June, the plinth would have been finished before the rains. But the muhurta was in July — what can you do.
+  - who: ravi
+    t: ಸ್ಪ್ರೆಡ್‌ಶೀಟ್‌ನಲ್ಲಿ ಎರಡು ವಾರ ಡಿಲೇ ಅಂತ ಹಾಕು. ಮಳೆ ನಮ್ಮ ಕೈಯಲ್ಲಿಲ್ಲ.
+    tr: Spreḍśīṭnalli eraḍu vāra ḍilē anta hāku. Maḷe namma kaiyallilla.
+    en: Put a two-week delay in the spreadsheet. The rain isn't in our hands.
+  - section: 📰 BBMP becomes GBA — and good news
+    learn: 'news register: -lāgide (has been done) · vināyiti (exemption) · nagara pālike · hearsay -ante'
+  - scene: 10 September 2025, evening. Ravi reads the newspaper aloud at the dining table. Appa listens, glasses pushed up on his forehead.
+  - who: ravi
+    t: 'ಕೇಳಿ: ''ಸಾವಿರದ ಇನ್ನೂರು ಚದರಡಿವರೆಗಿನ ನಿವೇಶನಗಳಲ್ಲಿ ಮಂಜೂರಾದ ನಕ್ಷೆಯಂತೆ ನಿರ್ಮಿಸಲಾದ, ನೆಲ ಮತ್ತು ಎರಡು ಅಂತಸ್ತು ಅಥವಾ ಸ್ಟಿಲ್ಟ್ ಮತ್ತು ಮೂರು ಅಂತಸ್ತಿನ ವಸತಿ ಕಟ್ಟಡಗಳಿಗೆ ಸ್ವಾಧೀನಾನುಭವ ಪತ್ರದಿಂದ ವಿನಾಯಿತಿ ನೀಡಲಾಗಿದೆ.'''
+    tr: 'Kēḷi: ''Sāvirada innūru chadaraḍivaregina nivēśanagaḷalli mañjūrāda nakṣeyante nirmisalāda, nela mattu eraḍu antastu athavā sṭilṭ mattu mūru antastina vasati kaṭṭaḍagaḷige svādhīnānubhava patradinda vināyiti nīḍalāgide.'''
+    en: 'Listen: ''Residential buildings of ground plus two floors, or stilt plus three floors, built according to the sanctioned plan on sites of up to 1,200 square feet, have been exempted from the occupancy certificate.'''
+  - who: appa
+    t: ಅಂದ್ರೆ ನಮ್ಮಂಥವರಿಗೆ ಓಸಿ ಬೇಕಾಗಲ್ಲ ಅಂತಾನಾ? ಸರಳವಾಗಿ ಹೇಳೋ.
+    tr: Andre nammanthavarige OC bēkāgalla antānā? Saraḷavāgi hēḷō.
+    en: So that means people like us won't need an OC? Say it simply, son.
+  - who: ravi
+    t: ಹೌದು ಅಪ್ಪ. ನಮ್ಮ ಸೈಟು ಮೂವತ್ತು ಬೈ ನಲವತ್ತು — ಸರಿಯಾಗಿ ಸಾವಿರದ ಇನ್ನೂರು. ಪ್ಲಾನ್ ಪ್ರಕಾರ ಕಟ್ಟಿದ್ರೆ ಪರ್ಮನೆಂಟ್ ಕರೆಂಟ್, ನೀರು ಎರಡೂ ಸಿಗುತ್ತೆ. ಏಪ್ರಿಲ್‌ನಿಂದ ತಲೆ ಮೇಲಿದ್ದ ಭಾರ ಇಳೀತು.
+    tr: Haudu Appa. Namma saiṭu mūvattu bai nalavattu — sariyāgi sāvirada innūru. Plān prakāra kaṭṭidre parmanenṭ karaṇṭ, nīru eraḍū sigutte. Ēprilninda tale mēlidda bhāra iḷītu.
+    en: Yes, Appa. Our site is thirty by forty — exactly twelve hundred. If we build as per the plan, we'll get both permanent power and water. The weight that's been on my head since April is gone.
+  - who: deepa
+    t: ಅದಕ್ಕೇ ಪಲ್ಲವಿ 'ಒಂದು ಅಡಿನೂ ಜಾಸ್ತಿ ಕಟ್ಟಬೇಡಿ' ಅಂತ ಹೇಳ್ತಿದ್ರು. ಪಕ್ಕದ ಬೀದೀಲಿ ಮೂರನೇ ಫ್ಲೋರ್ ಎತ್ತಿದವರು ಈಗ ಒದ್ದಾಡ್ತಿದಾರೆ.
+    tr: Adakkē Pallavi 'ondu aḍinū jāsti kaṭṭabēḍi' anta hēḷtiddru. Pakkada bīdīli mūranē flōr ettidavaru īga oddāḍtidāre.
+    en: That's why Pallavi kept saying, 'Don't build even one foot extra.' The people on the next street who put up a third floor are struggling now.
+  - who: appa
+    t: ಮತ್ತೆ ಈ ಜಿಬಿಎ ಏನು? ಟಿವೀಲಿ ಬಿಬಿಎಂಪಿ ಇನ್ನಿಲ್ಲ ಅಂತ ಹೇಳ್ತಿದ್ರು.
+    tr: Matte ī GBA ēnu? Ṭivīli BBMP innilla anta hēḷtiddru.
+    en: And what's this GBA? On TV they were saying BBMP is no more.
+  - who: ravi
+    t: ಬಿಬಿಎಂಪಿ ಜಾಗಕ್ಕೆ ಗ್ರೇಟರ್ ಬೆಂಗಳೂರು ಪ್ರಾಧಿಕಾರ ಬಂದಿದೆ, ಅದರ ಕೆಳಗೆ ಐದು ನಗರ ಪಾಲಿಕೆಗಳು. ನಮ್ಮ ಕೆಂಗೇರಿ ಪಶ್ಚಿಮ ಪಾಲಿಕೆಗೆ ಬರುತ್ತಂತೆ. ಸತೀಶ್ ಅವರಿಗೆ ಫೋನ್ ಮಾಡಿದ್ದೆ — ಅವರೂ ಅಲ್ಲಿಗೇ ಹೋಗಿದಾರೆ, ಫೈಲ್‌ಗಳೂ ಅಲ್ಲಿಗೇ ಹೋಗ್ತಿವೆಯಂತೆ. ಕಳೆದ ವಾರ ಪ್ಲಿಂತ್ ಇನ್ಸ್‌ಪೆಕ್ಷನ್‌ಗೆ ಬಂದಿದ್ದ ಅವರ ಜೆಇ ‘ಎಲ್ಲಾ ಪ್ಲಾನ್ ಪ್ರಕಾರನೇ ಇದೆ’ ಅಂತ ಬರೆದುಕೊಟ್ಟಿದಾರೆ.
+    tr: BBMP jāgakke Grēṭar Bengaḷūru Prādhikāra bandide, adara keḷage aidu nagara pālikegaḷu. Namma Kengēri Paścima pālikege baruttante. Satīś avarige phōn māḍidde — avarū alligē hōgidāre, failgaḷū alligē hōgtiveyante. Kaḷeda vāra plinth inspekṣange bandidda avara JE ‘ellā plān prakāranē ide’ anta baredukoṭṭidāre.
+    en: In BBMP's place the Greater Bengaluru Authority has come, with five city corporations under it. Apparently our Kengeri falls under the West corporation. I called Sathish — he's moved there too, and apparently the files are moving there as well. Last week his JE came for the plinth inspection and wrote, 'Everything as per plan.'
+  - who: appa
+    t: ಹೆಸರು ಬದಲಾದ್ರೂ ಕಚೇರಿ ಸಾಲು ಬದಲಾಗಲ್ಲ ಬಿಡು. ಆದ್ರೂ ಒಳ್ಳೆ ಸುದ್ದಿ. ಶಾರದಾ, ದೇವರಿಗೆ ಒಂದು ದೀಪ ಹಚ್ಚು.
+    tr: Hesaru badalādrū kachēri sālu badalāgalla biḍu. Ādrū oḷḷe suddi. Śāradā, dēvarige ondu dīpa hacchu.
+    en: The name may change, but the queues at the office won't. Still, it's good news. Sharada, light a lamp for God.
+  - section: 🏦 The first construction instalment
+    learn: 'stage-wise release: kantu, hanta · passive-like rilīs āytu · reporting a formal call · baḍḍi śuru āgutte (interest begins)'
+  - scene: Mid-September 2025. A young engineer from Canara Bank has walked the site with a camera and a checklist. That evening Vandana calls Ravi.
+  - who: bank
+    t: ರವಿ ಅವರೇ, ನಮ್ಮ ಎಂಜಿನಿಯರ್ ರಿಪೋರ್ಟ್ ಬಂತು. ಪ್ಲಿಂತ್, ಕಾಲಮ್‌ಗಳು ಸ್ಯಾಂಕ್ಷನ್ ಆದ ಪ್ಲಾನ್ ಪ್ರಕಾರನೇ ಇವೆ ಅಂತ ಬರೆದಿದಾರೆ. ಕನ್‌ಸ್ಟ್ರಕ್ಷನ್ ಲೋನ್‌ನ ಮೊದಲ ಕಂತು, ಎಂಟು ಲಕ್ಷ, ಇವತ್ತು ರಿಲೀಸ್ ಆಯ್ತು.
+    tr: Ravi avarē, namma enjiniyar riporṭ bantu. Plinth, kālamgaḷu syāṅkṣan āda plān prakāranē ive anta baredidāre. Kansṭrakṣan lōnna modala kantu, eṇṭu lakṣa, ivattu rilīs āytu.
+    en: Ravi, our engineer's report has come. He writes that the plinth and the columns are exactly as per the sanctioned plan. The first instalment of the construction loan, eight lakh, was released today.
+  - who: ravi
+    t: ತುಂಬಾ ಸಮಾಧಾನ ಆಯ್ತು ಮೇಡಂ. ಇಲ್ಲಿವರೆಗೆ ಅಪ್ಪನ ದುಡ್ಡು, ಪಿಎಫ್ ದುಡ್ಡಲ್ಲೇ ಕೆಲಸ ನಡೀತು. ಮುಂದಿನ ವಾರ ಸ್ಲ್ಯಾಬ್ — ಸ್ಟೀಲ್, ರೆಡಿ-ಮಿಕ್ಸ್ ಎಲ್ಲಾ ಬುಕ್ ಮಾಡ್ಬೇಕಿತ್ತು.
+    tr: Tumbā samādhāna āytu mēḍam. Illivarege appana duḍḍu, PF duḍḍallē kelasa naḍītu. Mundina vāra slyāb — sṭīl, reḍi-miks ellā buk māḍbēkittu.
+    en: That's a big relief, madam. Until now the work ran on Appa's money and the PF money. The slab is next week — I had to book the steel and the ready-mix.
+  - who: bank
+    t: ಒಂದು ವಿಷಯ ನೆನಪಿರಲಿ. ಇವತ್ತಿನಿಂದ ಈ ಎಂಟು ಲಕ್ಷಕ್ಕೂ ಬಡ್ಡಿ ಶುರು ಆಗುತ್ತೆ. ಮುಂದಿನ ಕಂತು ಬೇಕಾದಾಗ ಸ್ಲ್ಯಾಬ್ ಫೋಟೋಗಳು, ಆರ್ಕಿಟೆಕ್ಟ್ ಕೊಡೋ ಸ್ಟೇಜ್ ಸರ್ಟಿಫಿಕೇಟ್ ಕಳಿಸಿ. ನಮ್ಮ ಎಂಜಿನಿಯರ್ ಮತ್ತೆ ಬಂದು ನೋಡ್ತಾರೆ.
+    tr: Ondu viṣaya nenapirali. Ivattininda ī eṇṭu lakṣakkū baḍḍi śuru āgutte. Mundina kantu bēkādāga slyāb phōṭōgaḷu, ārkiṭekṭ koḍō sṭēj sarṭifikēṭ kaḷisi. Namma enjiniyar matte bandu nōḍtāre.
+    en: 'Remember one thing: from today, interest starts on these eight lakh as well. When you need the next instalment, send photos of the slab and the architect''s stage certificate. Our engineer will come and check again.'
+  - section: 🏗️ Slab day
+    learn: 'ready-mix vs site mix · slyāb hāku · vibrator, level, curing · kaniṣṭha (at least) · numbers: ippattondu dina'
+  - scene: 28 September 2025, five in the morning. Floodlights on the site. Thirty labourers, a ready-mix truck turning slowly, a pump pipe snaking up to the shuttering. Krishnappa watches from his balcony.
+  - who: contractor
+    t: ಸಾರ್, ಹದಿನೆಂಟು ಕ್ಯೂಬಿಕ್ ಮೀಟರ್ ಕಾಂಕ್ರೀಟ್. ರೆಡಿ-ಮಿಕ್ಸ್‌ನಲ್ಲಿ ಎಂ-ಟ್ವೆಂಟಿ ಗ್ರೇಡ್ ಗ್ಯಾರಂಟಿ, ಆರು ಗಂಟೆಯಲ್ಲಿ ಮುಗಿಯುತ್ತೆ. ಸೈಟ್ ಮಿಕ್ಸ್ ಆದ್ರೆ ಇಡೀ ದಿನ ಬೇಕು, ಕ್ವಾಲಿಟಿ ಕಲಸೋರ ಕೈ ಮೇಲೆ ನಿಂತಿರುತ್ತೆ.
+    tr: Sār, hadineṇṭu kyūbik mīṭar kānkrīṭ. Reḍi-miksnalli em-ṭwenṭi grēḍ gyāraṇṭi, āru gaṇṭeyalli mugiyutte. Saiṭ miks ādre iḍī dina bēku, kvāliṭi kalasōra kai mēle nintirutte.
+    en: Sir, eighteen cubic metres of concrete. With ready-mix, M20 grade is guaranteed and it's done in six hours. Site mix would take the whole day, and the quality depends on the hands doing the mixing.
+  - who: ravi
+    t: ರೆಡಿ-ಮಿಕ್ಸ್ ಸ್ವಲ್ಪ ದುಬಾರಿ, ಆದ್ರೆ ಸ್ಲ್ಯಾಬ್ ವಿಷಯದಲ್ಲಿ ಉಳಿಸೋಕೆ ಹೋಗಲ್ಲ. 'ಹತ್ತು ಕಟ್ಟೋ ಕಡೆ ಒಂದು ಮುತ್ತು ಕಟ್ಟು' ಅಂತ ಅಪ್ಪ ಹೇಳ್ತಾರೆ.
+    tr: Reḍi-miks swalpa dubāri, ādre slyāb viṣayadalli uḷisōke hōgalla. 'Hattu kaṭṭō kaḍe ondu muttu kaṭṭu' anta Appa hēḷtāre.
+    en: Ready-mix is a bit more expensive, but I won't try to save on the slab. 'Instead of tying ten, tie one pearl,' as Appa says.
+  - who: mestri
+    t: ಏ ಹುಡುಗರಾ, ವೈಬ್ರೇಟರ್ ಸರಿಯಾಗಿ ಹಾಕ್ರಿ! ಗಾಳಿ ಗುಳ್ಳಿ ಉಳೀಬಾರದು. ಮಟ್ಟ ನೋಡ್ಕೊಂತ ಹೋಗ್ರಿ!
+    tr: Ē huḍugarā, vaibrēṭar sariyāgi hākri! Gāḷi guḷḷi uḷībāradu. Maṭṭa nōḍkonta hōgri!
+    en: Hey boys, work that vibrator properly! Not one air bubble must stay in. Keep checking the level as you go!
+  - who: deepa
+    t: ಎಷ್ಟು ಜನ! ನಿಜವಾಗಲೂ ಹಬ್ಬದ ಥರ ಇದೆ.
+    tr: Eṣṭu jana! Nijavāgalū habbada thara ide.
+    en: So many people! It really feels like a festival.
+  - who: mestri
+    t: ಸ್ಲ್ಯಾಬ್ ದಿನ ಅಂದ್ರ ನಮಗ ಹಬ್ಬನರಿ ಅಮ್ಮಾವ್ರ. ಮಧ್ಯಾಹ್ನ ಹುಡುಗರಿಗೆ ಊಟದ ವ್ಯವಸ್ಥೆ ಮಾಡಿದ್ರ ಭಾಳ ಖುಷಿ ಆಗ್ತಾರ.
+    tr: Slyāb dina andra namaga habbanari ammāvra. Madhyāhna huḍugarige ūṭada vyavasthe māḍidra bhāḷa khuṣi āgtāra.
+    en: Slab day is a festival for us, madam. If you arrange lunch for the boys, they'll be very happy.
+  - who: amma
+    t: ಅದಕ್ಕೇ ಬೆಳಿಗ್ಗೆ ನಾಲ್ಕು ಗಂಟೆಗೆ ಎದ್ದು ಬಿಸಿಬೇಳೆಬಾತ್, ಮೊಸರನ್ನ ಮಾಡಿದೀನಿ. ಮೂವತ್ತೈದು ಜನಕ್ಕೆ ಸಾಕು. ಸಿಹಿಗೆ ಮೈಸೂರು ಪಾಕ್ ಕೂಡ ಇದೆ.
+    tr: Adakkē beḷigge nālku gaṇṭege eddu bisibēḷebāt, mosaranna māḍidīni. Mūvattaidu janakke sāku. Sihige Maisūru pāk kūḍa ide.
+    en: That's why I got up at four this morning and made bisibelebath and curd rice. Enough for thirty-five people. And there's Mysore pak for something sweet.
+  - scene: Eleven o'clock. The last of the concrete is levelled. The pump goes quiet.
+  - who: architect
+    t: ಎಲ್ಲಾ ಚೆನ್ನಾಗಿ ಆಯ್ತು. ಈಗ ಮುಖ್ಯವಾದದ್ದು ಕ್ಯೂರಿಂಗ್. ನಾಳೆಯಿಂದ ಸ್ಲ್ಯಾಬ್ ಮೇಲೆ ಸಣ್ಣ ಸಣ್ಣ ಕಟ್ಟೆ ಕಟ್ಟಿ ನೀರು ನಿಲ್ಲಿಸಿ — ಕನಿಷ್ಠ ಇಪ್ಪತ್ತೊಂದು ದಿನ.
+    tr: Ellā chennāgi āytu. Īga mukhyavādaddu kyūring. Nāḷeyinda slyāb mēle saṇṇa saṇṇa kaṭṭe kaṭṭi nīru nillisi — kaniṣṭha ippattondu dina.
+    en: Everything went well. What matters now is curing. From tomorrow, build small bunds on the slab and keep water standing on it — for at least twenty-one days.
+  - who: architect
+    t: ಸೆಂಟ್ರಿಂಗ್ ಹದಿನಾಲ್ಕು ದಿನ ತೆಗೀಬಾರದು. ಕ್ಯೂಬ್ ಟೆಸ್ಟ್‌ಗೆ ಸ್ಯಾಂಪಲ್ ತಗೊಂಡಿದೀವಿ — ಏಳು ದಿನದ, ಇಪ್ಪತ್ತೆಂಟು ದಿನದ ರಿಸಲ್ಟ್ ಬರುತ್ತೆ.
+    tr: Senṭring hadinālku dina tegībāradu. Kyūb ṭesṭge syāmpal tagoṇḍidīvi — ēḷu dinada, ippatteṇṭu dinada risalṭ barutte.
+    en: The centring must not come off for fourteen days. We've taken samples for the cube test — the seven-day and twenty-eight-day results will come.
+  - who: ravi
+    t: ಇಪ್ಪತ್ತೊಂದು ದಿನ ಅಂದ್ರೆ ಇನ್ನೂ ಆರು ಟ್ಯಾಂಕರ್ ಬೇಕು. ಸರಿ, ಅದರಲ್ಲಿ ಕಡಿಮೆ ಮಾಡೋಕೆ ಹೋಗಲ್ಲ.
+    tr: Ippattondu dina andre innū āru ṭyānkar bēku. Sari, adaralli kaḍime māḍōke hōgalla.
+    en: Twenty-one days means six more tankers. Fine, I won't cut corners there.
+  - section: 🪔 The Dasara break
+    learn: festival leave · ūrige hōgu · hōgi banni (go and come back) · lekka hāku (calculate)
+  - scene: Early October 2025, just before Dasara. The site is quiet. Basavaraj comes to Ravi with his bag already packed.
+  - who: mestri
+    t: ಸಾಹೇಬ್ರ, ದಸರಾಕ್ಕ ಊರಿಗೆ ಹ್ವಾಗಬೇಕ್ರಿ. ಬಾಗಲಕೋಟ್ಯಾಗ ನಮ್ಮವ್ವ ಕಾಯಾಕತ್ತಾಳ. ಹತ್ತು ದಿನ ಬಿಟ್ಟು ಬರ್ತೀನ್ರಿ.
+    tr: Sāhēbra, dasarākka ūrige hwāgabēkri. Bāgalakōṭyāga nammavva kāyākattāḷa. Hattu dina biṭṭu bartīnri.
+    en: Sir, I have to go home for Dasara. My mother is waiting in Bagalkot. I'll be back in ten days.
+  - who: ravi
+    t: ಹೋಗಿ ಬನ್ನಿ ಬಸವರಾಜ್. ಎಲ್ಲಾರಿಗೂ ಈ ವಾರದ ಕೂಲಿ ಇವತ್ತೇ ಕೊಡ್ತೀನಿ, ಹಬ್ಬಕ್ಕೆ ಸ್ವಲ್ಪ ಬೋನಸ್ ಕೂಡ.
+    tr: Hōgi banni Basavarāj. Ellārigū ī vārada kūli ivattē koḍtīni, habbakke swalpa bōnas kūḍa.
+    en: Go, and come back safely, Basavaraj. I'll pay everyone this week's wages today, and a little festival bonus too.
+  - who: mestri
+    t: ಭಾಳ ಉಪಕಾರ ಆತ್ರಿ. ಆದ್ರ ಕ್ಯೂರಿಂಗ್ ನಿಲ್ಲಬಾರದು — ನಮ್ಮ ಹುಡುಗ ಮಂಜು ಇಲ್ಲೇ ಇರ್ತಾನ, ದಿನಾ ನೀರು ಹಾಕ್ತಾನ್ರಿ.
+    tr: Bhāḷa upakāra ātri. Ādra kyūring nillabāradu — namma huḍuga Manju illē irtāna, dinā nīru hāktānri.
+    en: Thank you very much, sir. But the curing mustn't stop — our boy Manju will stay here and water it every day.
+  - who: deepa
+    t: ರವಿ, ಹತ್ತು ದಿನ ಅಂದ್ರೆ ಹದಿನೈದು ಅಂತ ಲೆಕ್ಕ ಹಾಕು. ಹಬ್ಬ ಆದ್ಮೇಲೆ ಯಾರೂ ಸಮಯಕ್ಕೆ ಬರಲ್ಲ.
+    tr: Ravi, hattu dina andre hadinaidu anta lekka hāku. Habba ādmēle yārū samayakke baralla.
+    en: Ravi, when he says ten days, count fifteen. Nobody comes back on time after a festival.
+  - section: 📈 Steel prices jump
+    learn: prices and percentages · kejige, ṭan, mūṭege · ēru (rise) · pakkā bil (proper bill)
+  - scene: November 2025. A steel dealer's yard on Mysore Road. Ravi has the steel list for the second-floor slab. Shivakumar Gowda has just finished a call with the dealer.
+  - who: contractor
+    t: ಸಾರ್, ಕೆಟ್ಟ ಸುದ್ದಿ. ಸೆಪ್ಟೆಂಬರ್‌ನಲ್ಲಿ ಕೆಜಿಗೆ ಅರವತ್ತೆರಡು ರೂಪಾಯಿ ಇದ್ದ ಟಿಎಂಟಿ ಈಗ ಎಪ್ಪತ್ತೊಂದು. ಮುಂದಿನ ತಿಂಗಳು ಇನ್ನೂ ಏರಬಹುದು ಅಂತ ಡೀಲರ್ ಹೇಳ್ತಾನೆ.
+    tr: Sār, keṭṭa suddi. Sepṭembarnalli kejige aravatteraḍu rūpāyi idda TMT īga eppattondu. Mundina tingaḷu innū ērabahudu anta ḍīlar hēḷtāne.
+    en: Sir, bad news. TMT that was sixty-two rupees a kilo in September is now seventy-one. The dealer says it may rise even more next month.
+  - who: ravi
+    t: ಒಂಬತ್ತು ರೂಪಾಯಿ ಜಾಸ್ತಿ — ಸುಮಾರು ಹದಿನೈದು ಪರ್ಸೆಂಟ್! ನಮಗೆ ಇನ್ನೂ ಆರು ಟನ್ ಬೇಕು. ಅಂದ್ರೆ ಐವತ್ತನಾಲ್ಕು ಸಾವಿರ ಹೆಚ್ಚುವರಿ.
+    tr: Ombattu rūpāyi jāsti — sumāru hadinaidu parsenṭ! Namage innū āru ṭan bēku. Andre aivattanālku sāvira heccuvari.
+    en: Nine rupees more — almost fifteen percent! We still need six tonnes. That's fifty-four thousand extra.
+  - who: contractor
+    t: ಸಿಮೆಂಟ್ ಕೂಡ ಮೂಟೆಗೆ ನಾನೂರರಿಂದ ನಾನೂರ ಮೂವತ್ತಕ್ಕೆ ಹೋಗಿದೆ. ಒಂದು ಐಡಿಯಾ ಸಾರ್ — ಇವತ್ತೇ ಪೂರ್ತಿ ಆರು ಟನ್ ಬುಕ್ ಮಾಡಿದ್ರೆ ಡೀಲರ್ ಎಪ್ಪತ್ತಕ್ಕೆ ಕೊಡ್ತಾನಂತೆ.
+    tr: Simeṇṭ kūḍa mūṭege nānūrarinda nānūra mūvattakke hōgide. Ondu aiḍiyā sār — ivattē pūrti āru ṭan buk māḍidre ḍīlar eppattakke koḍtānante.
+    en: Cement has also gone from four hundred to four hundred and thirty a bag. One idea, sir — if we book the full six tonnes today, the dealer says he'll give it at seventy.
+  - who: ravi
+    t: ಸರಿ. ಆದ್ರೆ ಜಿಎಸ್‌ಟಿ ಜೊತೆ ಪಕ್ಕಾ ಬಿಲ್ ಬೇಕು. ಪ್ರತಿ ಬಂಡಲ್ ಮೇಲೆ ಐಎಸ್‌ಐ ಮಾರ್ಕ್, 'ಎಫ್‌ಇ ಐನೂರು ಡಿ' ಅಂತ ಇರಬೇಕು. ಕ್ಯಾಶ್ ಡಿಸ್ಕೌಂಟ್ ಬೇಡ.
+    tr: Sari. Ādre GST jote pakkā bil bēku. Prati banḍal mēle ISI mārk, 'Fe ainūru D' anta irabēku. Kyāś ḍiskauṇṭ bēḍa.
+    en: All right. But I want a proper bill with GST. Every bundle must have the ISI mark and say 'Fe 500D'. No cash discount.
+  - who: contractor
+    t: ನೀವು ಯಾವಾಗ್ಲೂ ಹಾಗೇ ಸಾರ್. ಸರಿ, ಪಕ್ಕಾ ಬಿಲ್. ಲಾರಿ ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಬರುತ್ತೆ.
+    tr: Nīvu yāvāglū hāgē sār. Sari, pakkā bil. Lāri nāḷe beḷigge barutte.
+    en: You're always like that, sir. Fine, a proper bill. The lorry comes tomorrow morning.
+  - who: ravi
+    t: ಸದ್ಯ, ಹುಡುಗರೆಲ್ಲಾ ವಾಪಸ್ ಬಂದಿದಾರೆ. ದಸರಾಗೆ ಹದಿನೈದು ದಿನ, ಆಮೇಲೆ ದೀಪಾವಳಿಗೆ ಇನ್ನೊಂದು ವಾರ. ದೀಪಾ ಹೇಳಿದ ಲೆಕ್ಕನೇ ಸರಿ ಆಯ್ತು.
+    tr: Sadya, huḍugarellā vāpas bandidāre. Dasarāge hadinaidu dina, āmēle Dīpāvaḷige innondu vāra. Dīpā hēḷida lekkanē sari āytu.
+    en: At least the boys are all back now. Fifteen days for Dasara, then another week for Deepavali. Deepa's count turned out right.
+  - who: contractor
+    t: ಮೇಡಂ ಲೆಕ್ಕ ಯಾವಾಗ ತಪ್ಪಿದೆ ಸಾರ್? ಈಗ ಸಂಕ್ರಾಂತಿವರೆಗೆ ಯಾವ ಹಬ್ಬನೂ ಇಲ್ಲ — ಈ ಸ್ಲ್ಯಾಬ್ ಬೇಗ ಮುಗಿಸಿಬಿಡ್ತೀವಿ.
+    tr: Mēḍam lekka yāvāga tappide sār? Īga Saṅkrāntivarege yāva habbanū illa — ī slyāb bēga mugisibiḍtīvi.
+    en: When has madam's count ever been wrong, sir? There's no festival now until Sankranti — we'll get this slab done quickly.
+  - section: 🩹 A worker is hurt
+    learn: 'first aid: gāya, rakta, holige, TT injection · javābdāri (responsibility) · ESI, labour card · kaḍḍāya (compulsory)'
+  - scene: December 2025, afternoon. A shout from the first floor. Hanumantha, a young helper, has cut his palm on the steel-cutting machine. There is blood on a shuttering plank.
+  - who: mestri
+    t: ಸಾಹೇಬ್ರ, ಲಗೂನ ಬರ್ರಿ! ಹನುಮಂತನ ಕೈ ಕಟ್ಟರ್‌ಗೆ ಸಿಕ್ಕೈತಿ!
+    tr: Sāhēbra, lagūna barri! Hanumantana kai kaṭṭarge sikkaiti!
+    en: Sir, come quickly! Hanumantha's hand got caught in the cutter!
+  - who: ravi
+    t: ಮೊದಲು ಮಷೀನ್ ಆಫ್ ಮಾಡಿ! ಸ್ವಚ್ಛ ಬಟ್ಟೆ ತಗೊಂಡು ಗಾಯನ ಗಟ್ಟಿಯಾಗಿ ಒತ್ತಿ ಹಿಡೀರಿ, ಕೈ ಮೇಲೆ ಎತ್ತಿ. ಫಸ್ಟ್-ಏಡ್ ಬಾಕ್ಸ್ ಕಾರಲ್ಲಿದೆ.
+    tr: Modalu maśīn āph māḍi! Swaccha baṭṭe tagoṇḍu gāyana gaṭṭiyāgi otti hiḍīri, kai mēle etti. Fasṭ-ēḍ bāks kārallide.
+    en: First switch off the machine! Take a clean cloth and press hard on the wound, and keep his hand raised. The first-aid box is in the car.
+  - who: ravi
+    t: ರಕ್ತ ನಿಲ್ತಿಲ್ಲ, ಹೊಲಿಗೆ ಬೇಕಾಗಬಹುದು. ನಾನೇ ಆಸ್ಪತ್ರೆಗೆ ಕರ್ಕೊಂಡು ಹೋಗ್ತೀನಿ. ಬಸವರಾಜ್, ನೀವೂ ಬನ್ನಿ.
+    tr: Rakta niltilla, holige bēkāgabahudu. Nānē āspatrege karkoṇḍu hōgtīni. Basavarāj, nīvū banni.
+    en: The bleeding isn't stopping; he may need stitches. I'll take him to the hospital myself. Basavaraj, you come too.
+  - scene: Two hours later, outside a hospital in Kengeri. Hanumantha's hand is bandaged. Shivakumar Gowda arrives, out of breath.
+  - who: ravi
+    t: ಆರು ಹೊಲಿಗೆ ಹಾಕಿದಾರೆ, ಟಿಟಿ ಇಂಜೆಕ್ಷನ್ ಕೊಟ್ಟಿದಾರೆ. ನರಕ್ಕೆ ಏನೂ ಆಗಿಲ್ಲ ಅಂತ ಡಾಕ್ಟರ್ ಹೇಳಿದ್ರು. ಬಿಲ್ ನಾನೇ ಕಟ್ಟಿದೀನಿ.
+    tr: Āru holige hākidāre, ṭiṭi injekṣan koṭṭidāre. Narakke ēnū āgilla anta ḍākṭar hēḷidru. Bil nānē kaṭṭidīni.
+    en: They've put in six stitches and given him a tetanus shot. The doctor said the nerve is fine. I've paid the bill myself.
+  - who: contractor
+    t: ಅಯ್ಯೋ ಸಾರ್, ನೀವ್ಯಾಕೆ ಕಟ್ಟಿದ್ರಿ? ಹುಡುಗರು ನನ್ನವರು, ಜವಾಬ್ದಾರಿ ನನ್ನದು.
+    tr: Ayyō sār, nīvyāke kaṭṭidri? Huḍugaru nannavaru, javābdāri nannadu.
+    en: Oh sir, why did you pay? The boys are mine; the responsibility is mine.
+  - who: ravi
+    t: ಜವಾಬ್ದಾರಿ ಇಬ್ಬರದ್ದೂ, ಶಿವಕುಮಾರ್ ಅವರೇ. ನನ್ನ ಮನೆ ಕಟ್ಟೋವಾಗ ಗಾಯ ಆಯ್ತು. ಆದ್ರೆ ಒಂದು ಪ್ರಶ್ನೆ — ನಿಮ್ಮ ಹುಡುಗರಿಗೆ ಇಎಸ್‌ಐ ಅಥವಾ ಇನ್ಶೂರೆನ್ಸ್ ಏನಾದ್ರೂ ಇದೆಯಾ?
+    tr: Javābdāri ibbaraddū, Śivakumār avarē. Nanna mane kaṭṭōvāga gāya āytu. Ādre ondu praśne — nimma huḍugarige ESI athavā inśūrens ēnādrū ideyā?
+    en: The responsibility is both of ours, Shivakumar. He got hurt while building my house. But one question — do your boys have ESI or any insurance at all?
+  - who: contractor
+    t: ನಿಜ ಹೇಳ್ಬೇಕು ಅಂದ್ರೆ ಇಲ್ಲ ಸಾರ್. ದಿನಗೂಲಿ ಹುಡುಗರು — ಇವತ್ತು ಇಲ್ಲಿ, ನಾಳೆ ಬೇರೆ ಕಡೆ. ಬಸವರಾಜ್‌ಗೆ ಮಾತ್ರ ಲೇಬರ್ ಕಾರ್ಡ್ ಇದೆ.
+    tr: Nija hēḷbēku andre illa sār. Dinagūli huḍugaru — ivattu illi, nāḷe bēre kaḍe. Basavarājge mātra lēbar kārḍ ide.
+    en: To tell the truth, no, sir. They're daily-wage boys — here today, somewhere else tomorrow. Only Basavaraj has a labour card.
+  - who: ravi
+    t: ಕಟ್ಟಡ ಕಾರ್ಮಿಕರ ಕಲ್ಯಾಣ ಮಂಡಳಿಯಲ್ಲಿ ನೋಂದಣಿ ಆದ್ರೆ ಆಸ್ಪತ್ರೆ ಖರ್ಚಿಗೆ ಸಹಾಯ ಸಿಗುತ್ತಂತೆ. ಉಳಿದ ಹುಡುಗರಿಗೂ ಕಾರ್ಡ್ ಮಾಡಿಸಿ. ಆಧಾರ್ ಕಾಪಿ, ಫೋಟೋ ಬೇಕಾದ್ರೆ ನಾನು ಸಹಾಯ ಮಾಡ್ತೀನಿ.
+    tr: Kaṭṭaḍa kārmikara kalyāṇa maṇḍaḷiyalli nōndaṇi ādre āspatre kharcige sahāya siguttante. Uḷida huḍugarigū kārḍ māḍisi. Ādhār kāpi, phōṭō bēkādre nānu sahāya māḍtīni.
+    en: I'm told that if they're registered with the Construction Workers' Welfare Board, they get help with hospital costs. Get cards made for the other boys too. If Aadhaar copies and photos are needed, I'll help.
+  - who: mestri
+    t: ಹನುಮಂತಗೆ ಒಂದು ವಾರ ಕೆಲಸ ಆಗಂಗಿಲ್ಲರಿ. ಅವನ ಕೂಲಿ…
+    tr: Hanumantage ondu vāra kelasa āgangillari. Avana kūli…
+    en: Hanumantha won't be able to work for a week, sir. His wages…
+  - who: ravi
+    t: ಆ ವಾರದ ಕೂಲಿ ಪೂರ್ತಿ ಕೊಡಿ — ಅರ್ಧ ನಾನು, ಅರ್ಧ ಶಿವಕುಮಾರ್ ಅವರು. ಮತ್ತೆ ನಾಳೆಯಿಂದ ಕಟ್ಟರ್ ಮುಟ್ಟೋರಿಗೆಲ್ಲಾ ಗ್ಲೌಸ್, ಮೇಲೆ ಕೆಲಸ ಮಾಡೋರಿಗೆ ಹೆಲ್ಮೆಟ್ ಕಡ್ಡಾಯ.
+    tr: Ā vārada kūli pūrti koḍi — ardha nānu, ardha Śivakumār avaru. Matte nāḷeyinda kaṭṭar muṭṭōrigellā glaus, mēle kelasa māḍōrige helmeṭ kaḍḍāya.
+    en: Pay him his full wages for that week — half from me, half from Shivakumar. And from tomorrow, gloves are compulsory for everyone who touches the cutter, and helmets for those working up top.
+  - who: contractor
+    t: ಸರಿ ಸಾರ್. ನ್ಯಾಯವಾದ ಮಾತು.
+    tr: Sari sār. Nyāyavāda mātu.
+    en: All right, sir. That's fair.
+  - section: 🧮 Fifteen percent over budget
+    learn: 'budget talk: bajeṭ, dāṭu (cross), heccuvari · top-up loan · gold loan: aḍa iḍu (pledge) vs māru (sell) · prepayment · proverb: hāsige iddaṣṭu kālu chācu'
+  - scene: March 2026, late at night. The plastering is half done. Deepa has her laptop open on the dining table. The spreadsheet has turned red in three places.
+  - who: deepa
+    t: ರವಿ, ಇಲ್ಲಿ ನೋಡು. ಕಟ್ಟಡಕ್ಕೆ ಐವತ್ತೆರಡು ಲಕ್ಷ ಬಜೆಟ್ ಇಟ್ಟಿದ್ವಿ. ಇವತ್ತಿನ ಲೆಕ್ಕದಲ್ಲಿ ಅರವತ್ತು ಲಕ್ಷ ಮುಟ್ಟುತ್ತೆ. ಎಂಟು ಲಕ್ಷ ಜಾಸ್ತಿ — ಸುಮಾರು ಹದಿನೈದು ಪರ್ಸೆಂಟ್.
+    tr: Ravi, illi nōḍu. Kaṭṭaḍakke aivatteraḍu lakṣa bajeṭ iṭṭidvi. Ivattina lekkadalli aravattu lakṣa muṭṭutte. Eṇṭu lakṣa jāsti — sumāru hadinaidu parsenṭ.
+    en: Ravi, look here. We budgeted fifty-two lakh for the building. By today's figures it will touch sixty lakh. Eight lakh more — about fifteen percent.
+  - who: ravi
+    t: ಇಷ್ಟು ಎಲ್ಲಿಂದ ಬಂತು?
+    tr: Iṣṭu ellinda bantu?
+    en: Where did all this come from?
+  - who: deepa
+    t: ಸ್ಟೀಲ್ ಏರಿಕೆ ಒಂದೂವರೆ ಲಕ್ಷ, ಸಿಮೆಂಟ್ ಒಂದು ಲಕ್ಷ, ಮಳೆಯಿಂದ ಡಿಲೇ, ಎಕ್ಸ್‌ಟ್ರಾ ಟ್ಯಾಂಕರ್… ಮತ್ತೆ ದೇವರ ಮನೆಗೆ ಗ್ರಾನೈಟ್ ಬದಲು ಮಾರ್ಬಲ್, ಎರಡು ಬಾತ್‌ರೂಮ್‌ಗೆ ಬ್ರ್ಯಾಂಡೆಡ್ ಫಿಟ್ಟಿಂಗ್ಸ್. ಸಣ್ಣ ಸಣ್ಣ 'ಬೇಕು'ಗಳೆಲ್ಲಾ ಸೇರಿ ದೊಡ್ಡ ಸಾಲ ಆಗುತ್ತೆ.
+    tr: Sṭīl ērike ondūvare lakṣa, simeṇṭ ondu lakṣa, maḷeyinda ḍilē, ekstrā ṭyānkar… matte dēvara manege grānaiṭ badalu mārbal, eraḍu bātrūmge bryānḍeḍ fiṭṭings. Saṇṇa saṇṇa 'bēku'gaḷellā sēri doḍḍa sāla āgutte.
+    en: The steel increase, one and a half lakh; cement, one lakh; the rain delay, the extra tankers… and then marble instead of granite for the puja room, branded fittings for two bathrooms. All the little 'we need this'es add up to a big loan.
+  - who: ravi
+    t: ಸರಿ. ಬ್ಯಾಂಕ್‌ನ ಮೂವತ್ತು ಲಕ್ಷದಲ್ಲಿ ಕೊನೆ ಕಂತು ಮಾತ್ರ ಬಾಕಿ ಇದೆ. ಅಪ್ಪನ ದುಡ್ಡು, ಪಿಎಫ್, ನಮ್ಮ ಉಳಿತಾಯ — ಎಲ್ಲಾ ಆಗಲೇ ಗೋಡೆಯಲ್ಲಿದೆ. ಕೆನರಾ ಬ್ಯಾಂಕ್‌ನಲ್ಲಿ ಟಾಪ್-ಅಪ್ ಲೋನ್ ಕೇಳ್ತೀನಿ.
+    tr: Sari. Byānkna mūvattu lakṣadalli kone kantu mātra bāki ide. Appana duḍḍu, PF, namma uḷitāya — ellā āgalē gōḍeyallide. Kenarā Byānknalli ṭāp-ap lōn kēḷtīni.
+    en: All right. Of the bank's thirty lakh, only the last instalment is left. Appa's money, the PF, our savings — it's all already in the walls. I'll ask Canara Bank for a top-up loan.
+  - scene: Canara Bank, a week later. Vandana opens Ravi's loan file on her screen.
+  - who: bank
+    t: ರವಿ ಅವರೇ, ನಿಮ್ಮ ರಿಪೇಮೆಂಟ್ ರೆಕಾರ್ಡ್ ಚೆನ್ನಾಗಿದೆ, ಒಂದು ಇಎಂಐ ಕೂಡ ತಪ್ಪಿಲ್ಲ. ಕಟ್ಟಡ ಎಪ್ಪತ್ತೈದು ಪರ್ಸೆಂಟ್ ಮುಗಿದಿದೆ ಅಂತ ನಮ್ಮ ಎಂಜಿನಿಯರ್ ವರದಿ ಕೊಟ್ಟಿದಾರೆ. ಕನ್‌ಸ್ಟ್ರಕ್ಷನ್ ಲೋನ್‌ನ ಕೊನೆ ಕಂತು ರಿಲೀಸ್ ಮಾಡ್ತೀವಿ. ಅದರ ಮೇಲೆ ಏಳು ಲಕ್ಷದವರೆಗೆ ಟಾಪ್-ಅಪ್ ಕೊಡಬಹುದು.
+    tr: Ravi avarē, nimma ripēmenṭ rekārḍ chennāgide, ondu EMI kūḍa tappilla. Kaṭṭaḍa eppattaidu parsenṭ mugidide anta namma enjiniyar varadi koṭṭidāre. Kansṭrakṣan lōnna kone kantu rilīs māḍtīvi. Adara mēle ēḷu lakṣadavarege ṭāp-ap koḍabahudu.
+    en: Ravi, your repayment record is good — not a single EMI missed. Our engineer has reported that the building is seventy-five percent complete. We'll release the last instalment of the construction loan. On top of that, we can give a top-up of up to seven lakh.
+  - who: bank
+    t: ಆದ್ರೆ ಬಡ್ಡಿ ಹೋಮ್ ಲೋನ್‌ಗಿಂತ ಸ್ವಲ್ಪ ಜಾಸ್ತಿ, ಸುಮಾರು ಒಂಬತ್ತು ಪರ್ಸೆಂಟ್. ಏಳು ಲಕ್ಷ ಹತ್ತು ವರ್ಷಕ್ಕೆ ತಗೊಂಡ್ರೆ ತಿಂಗಳಿಗೆ ಸುಮಾರು ಒಂಬತ್ತು ಸಾವಿರ ಇಎಂಐ ಹೆಚ್ಚಾಗುತ್ತೆ.
+    tr: Ādre baḍḍi hōm lōngintha swalpa jāsti, sumāru ombattu parsenṭ. Ēḷu lakṣa hattu varṣakke tagoṇḍre tingaḷige sumāru ombattu sāvira EMI heccāgutte.
+    en: But the interest is a little higher than on the home loan — about nine percent. If you take seven lakh over ten years, your EMI goes up by about nine thousand a month.
+  - who: ravi
+    t: ಆರು ಲಕ್ಷ ಸಾಕು ಮೇಡಂ. ಉಳಿದ ಎರಡು ಲಕ್ಷ ನಾವೇ ಹೇಗಾದ್ರೂ ಹೊಂದಿಸ್ಕೊಳ್ತೀವಿ. ಹತ್ತು ವರ್ಷದ ಸಾಲ ಎಷ್ಟು ಕಮ್ಮಿನೋ ಅಷ್ಟು ಒಳ್ಳೇದು.
+    tr: Āru lakṣa sāku mēḍam. Uḷida eraḍu lakṣa nāvē hēgādrū hondiskoḷtīvi. Hattu varṣada sāla eṣṭu kamminō aṣṭu oḷḷēdu.
+    en: Six lakh is enough, madam. We'll find the remaining two lakh ourselves somehow. The smaller a ten-year loan, the better.
+  - who: bank
+    t: ಒಳ್ಳೆ ನಿರ್ಧಾರ. ಫ್ಲೋಟಿಂಗ್ ರೇಟ್ ಆದ್ರಿಂದ ಬಾಡಿಗೆ ಬಂದ ಮೇಲೆ ಮುಂಚಿತವಾಗಿ ಕಟ್ಟಿದ್ರೆ ಯಾವುದೇ ದಂಡ ಇಲ್ಲ. ಹಳೆ ಸ್ಯಾಂಕ್ಷನ್ ಲೆಟರ್, ಕೊನೆಯ ಮೂರು ಸ್ಯಾಲರಿ ಸ್ಲಿಪ್ ತನ್ನಿ.
+    tr: Oḷḷe nirdhāra. Flōṭing rēṭ ādrinda bāḍige banda mēle munchitavāgi kaṭṭidre yāvudē daṇḍa illa. Haḷe syānkṣan leṭar, koneya mūru syālari slip tanni.
+    en: A good decision. Since it's a floating rate, there's no penalty if you prepay once the rent starts coming in. Bring the old sanction letter and your last three salary slips.
+  - scene: That Sunday, at home. Appa has heard about the new loan.
+  - who: appa
+    t: ಮತ್ತೆ ಸಾಲನಾ? 'ಹಾಸಿಗೆ ಇದ್ದಷ್ಟು ಕಾಲು ಚಾಚು' ಅಂತ ನಾನು ಎಷ್ಟು ಸಲ ಹೇಳಿಲ್ಲ? ಮಾರ್ಬಲ್ ಇಲ್ಲದೆ ದೇವರು ಪೂಜೆ ಒಪ್ಕೊಳ್ಳಲ್ವಾ?
+    tr: Matte sālanā? 'Hāsige iddaṣṭu kālu chācu' anta nānu eṣṭu sala hēḷilla? Mārbal illade dēvaru pūje opkoḷḷalvā?
+    en: Another loan? How many times have I said, 'Stretch your legs only as far as the mattress goes'? Won't God accept the puja without marble?
+  - who: amma
+    t: ರೀ, ನಾನು ಕೇಳಿದ್ದು ಒಂದೇ ಒಂದು ಕೋಣೆಗೆ. ಜೀವನ ಪೂರ್ತಿ ಬಾಡಿಗೆ ಮನೆಗಳಲ್ಲಿ ಅಡುಗೆಮನೆ ಮೂಲೆಯಲ್ಲಿ ದೇವರನ್ನ ಇಟ್ಟಿದ್ದೆ.
+    tr: Rī, nānu kēḷiddu ondē ondu kōṇege. Jīvana pūrti bāḍige manegaḷalli aḍugemane mūleyalli dēvaranna iṭṭidde.
+    en: Listen, I asked for just one room. All my life, in rented houses, I kept the gods in a corner of the kitchen.
+  - who: deepa
+    t: ಮಾವ, ಅತ್ತೆ, ಇದು ಯಾರ ತಪ್ಪೂ ಅಲ್ಲ. ಸ್ಟೀಲ್ ಬೆಲೆ, ಮಳೆ — ಅವು ನಮ್ಮ ಕೈಯಲ್ಲಿರಲಿಲ್ಲ. ಇನ್ನು ಮೇಲೆ ಯಾವುದೇ ಹೊಸ 'ಬೇಕು' ಬಂದ್ರೆ ಮೊದಲು ಸ್ಪ್ರೆಡ್‌ಶೀಟ್‌ಗೆ, ಆಮೇಲೆ ಅಂಗಡಿಗೆ.
+    tr: Māva, atte, idu yāra tappū alla. Sṭīl bele, maḷe — avu namma kaiyalliralilla. Innu mēle yāvudē hosa 'bēku' bandre modalu spreḍśīṭge, āmēle angaḍige.
+    en: Mava, Atte, this isn't anyone's fault. The steel price, the rain — those weren't in our hands. From now on, any new 'we need' goes into the spreadsheet first, and only then to the shop.
+  - who: deepa
+    t: ಮತ್ತೆ ಆ ಉಳಿದ ಎರಡು ಲಕ್ಷ — ನಾಳೆ ನನ್ನ ಎರಡು ಬಳೆ ಬ್ಯಾಂಕ್‌ಗೆ ತಗೊಂಡು ಹೋಗಿ ಗೋಲ್ಡ್ ಲೋನ್ ತಗೋತೀನಿ. ಸುಮಾರು ಮೂವತ್ತು ಗ್ರಾಮ್, ಅಷ್ಟಕ್ಕೆ ಎರಡು ಲಕ್ಷ ಬರುತ್ತೆ.
+    tr: Matte ā uḷida eraḍu lakṣa — nāḷe nanna eraḍu baḷe byānkge tagoṇḍu hōgi gōlḍ lōn tagōtīni. Sumāru mūvattu grām, aṣṭakke eraḍu lakṣa barutte.
+    en: And those last two lakh — tomorrow I'll take my two bangles to the bank and get a gold loan. About thirty grams; that's enough for two lakh.
+  - who: ravi
+    t: ದೀಪಾ, ಬೇಡ. ನಿನ್ನ ಚಿನ್ನ ಮುಟ್ಟಲ್ಲ ಅಂತ ನಾನು ಹೇಳಿದ್ದೆ.
+    tr: Dīpā, bēḍa. Ninna chinna muṭṭalla anta nānu hēḷidde.
+    en: Deepa, no. I said we wouldn't touch your gold.
+  - who: deepa
+    t: ನೀನು ಹೇಳಿದ್ದು 'ಬೇರೆ ದಾರಿನೇ ಇಲ್ಲ ಅಂದ್ರೆ ಮಾತ್ರ' ಅಂತ. ಇವತ್ತು ಅದೇ ದಿನ. ಅಡ ಇಡೋದು ಮಾರೋದಲ್ಲ. ಮೊದಲ ಕೆಲವು ತಿಂಗಳ ಬಾಡಿಗೆಯಲ್ಲೇ ಬಿಡಿಸ್ಕೊಂಡು ಬರ್ತೀನಿ.
+    tr: Nīnu hēḷiddu 'bēre dārinē illa andre mātra' anta. Ivattu adē dina. Aḍa iḍōdu mārōdalla. Modala kelavu tingaḷa bāḍigeyallē biḍiskoṇḍu bartīni.
+    en: What you said was 'only if there's no other way'. Today is that day. Pledging isn't selling. I'll redeem them with the first few months' rent.
+  - who: ravi
+    t: ಅಪ್ಪ, ನಿಮ್ಮ ಭಯ ನನಗೆ ಅರ್ಥ ಆಗುತ್ತೆ. ಆದ್ರೆ ಬಾಡಿಗೆ ಶುರುವಾದ್ಮೇಲೆ ತಿಂಗಳಿಗೆ ಮೂವತ್ತೈದು ಸಾವಿರ ಬರುತ್ತೆ. ಐದು ವರ್ಷದೊಳಗೆ ಈ ಟಾಪ್-ಅಪ್ ತೀರಿಸ್ತೀನಿ — ಮಾತು ಕೊಡ್ತೀನಿ.
+    tr: Appa, nimma bhaya nanage artha āgutte. Ādre bāḍige śuruvādmēle tingaḷige mūvattaidu sāvira barutte. Aidu varṣadoḷage ī ṭāp-ap tīristīni — mātu koḍtīni.
+    en: Appa, I understand your fear. But once the rent starts, thirty-five thousand will come in every month. I'll clear this top-up within five years — I give you my word.
+  - who: appa
+    t: ಮಾತು ಕೊಡೋದು ಸುಲಭ, ಉಳಿಸ್ಕೊಳ್ಳೋದು ಕಷ್ಟ. … ಆದ್ರೂ ನಿನ್ನ ಮೇಲೆ ನಂಬಿಕೆ ಇದೆ. ಸರಿ, ಮುಂದುವರಿಸು.
+    tr: Mātu koḍōdu sulabha, uḷiskoḷḷōdu kaṣṭa. … Ādrū ninna mēle nambike ide. Sari, munduvarisu.
+    en: Giving your word is easy; keeping it is hard. … Still, I trust you. All right, carry on.
+  - section: 🔧 The finishing trades
+    learn: plumbing, waterproofing, wiring, tiles, paint · sōru / sōrike (leak) · DB, RCCB, earthing · āmyālenē (only after that)
+  - scene: 'April–May 2026. The house is full of different teams: a plumber testing pipes, an electrician pulling wires, tile layers working on their knees.'
+  - who: mestri
+    t: ಸಾಹೇಬ್ರ, ಬಾತ್‌ರೂಮ್ ಪೈಪ್‌ಗೆ ಪ್ರೆಶರ್ ಟೆಸ್ಟ್ ಮಾಡಿ ಆತು. ಒಂದು ಹನಿನೂ ಸೋರಿಲ್ಲ. ಈಗ ಟೈಲ್ಸ್ ಹಾಕಬಹುದ್ರಿ.
+    tr: Sāhēbra, bātrūm paipge preśar ṭesṭ māḍi ātu. Ondu haninū sōrilla. Īga ṭails hākabahudri.
+    en: Sir, the pressure test on the bathroom pipes is done. Not a single drop leaked. We can lay the tiles now.
+  - who: ravi
+    t: ಟೈಲ್ಸ್‌ಗೆ ಮುಂಚೆ ಬಾತ್‌ರೂಮ್‌ಗೂ ಟೆರೇಸ್‌ಗೂ ವಾಟರ್‌ಪ್ರೂಫಿಂಗ್ ಆಗಬೇಕು. ಮಳೆಗಾಲ ಮತ್ತೆ ಬರ್ತಿದೆ. ಕೆಳಗಿನ ಮನೆಗೆ ಸೋರಿಕೆ ಆದ್ರೆ ಬಾಡಿಗೆದಾರರ ಜೊತೆ ಜಗಳ ಶುರು.
+    tr: Ṭailsge munce bātrūmgū ṭerēsgū vāṭarprūfing āgabēku. Maḷegāla matte bartide. Keḷagina manege sōrike ādre bāḍigedārara jote jagaḷa śuru.
+    en: Before the tiles, the bathrooms and the terrace need waterproofing. The monsoon is coming again. If water leaks into the flat below, the quarrels with the tenants begin.
+  - who: mestri
+    t: ಖರೇ ಮಾತು. ಎರಡು ಕೋಟ್ ಹಚ್ಚಿ, ಇಪ್ಪತ್ನಾಲ್ಕು ಗಂಟೆ ನೀರು ನಿಲ್ಲಿಸಿ ಟೆಸ್ಟ್ ಮಾಡ್ತೀನ್ರಿ. ಆಮ್ಯಾಲೆನೇ ಟೈಲ್ಸ್.
+    tr: Kharē mātu. Eraḍu kōṭ hacci, ippatnālku gaṇṭe nīru nillisi ṭesṭ māḍtīnri. Āmyālenē ṭails.
+    en: True words. I'll put on two coats, keep water standing for twenty-four hours and test it. Only after that, the tiles.
+  - who: deepa
+    t: ಎಲೆಕ್ಟ್ರೀಷಿಯನ್ ಹತ್ರ ಮಾತಾಡಿದೆ. ಮೂರು ಮನೆಗೂ ಬೇರೆ ಬೇರೆ ಡಿಬಿ, ಪ್ರತಿ ಮನೆಗೆ ಆರ್‌ಸಿಸಿಬಿ, ಎರಡು ಅರ್ಥಿಂಗ್ ಪಿಟ್. ಮೀಟರ್ ಬೋರ್ಡ್ ಗೇಟ್ ಹತ್ರ, ಸ್ಟಿಲ್ಟ್‌ನಲ್ಲಿ, ಮಳೆ ಬೀಳದ ಜಾಗದಲ್ಲಿ.
+    tr: Elekṭrīśiyan hatra mātāḍide. Mūru manegū bēre bēre DB, prati manege RCCB, eraḍu arthing piṭ. Mīṭar bōrḍ gēṭ hatra, sṭilṭnalli, maḷe bīḷada jāgadalli.
+    en: I spoke to the electrician. A separate DB for each of the three homes, an RCCB for every home, two earthing pits. The meter board near the gate, in the stilt area, where no rain falls.
+  - who: ravi
+    t: ಸೂಪರ್. ಬೆಸ್ಕಾಂ ಇನ್ಸ್‌ಪೆಕ್ಷನ್‌ನಲ್ಲಿ ಅವೆಲ್ಲಾ ನೋಡ್ತಾರೆ. ಪೇಂಟ್ ಕೆಲಸ ಮುಂದಿನ ವಾರ ಶುರು — ಒಳಗೆ ತಿಳಿ ಬಣ್ಣ, ಹೊರಗೆ ವೆದರ್‌ಪ್ರೂಫ್.
+    tr: Sūpar. BESCOM inspekṣannalli avellā nōḍtāre. Pēṇṭ kelasa mundina vāra śuru — oḷage tiḷi baṇṇa, horage vedarprūf.
+    en: Great. BESCOM will check all of that at the inspection. The painting starts next week — light colours inside, weatherproof outside.
+  - section: 🏡 Gruhapravesha
+    learn: 'ritual words: hālu ukkisu, kāṇike · blessings with -li (may it …) · -ida mēle, -inda śuruvāytu'
+  - scene: 7 June 2026, dawn. Mango leaves hang over the main door; a rangoli covers the threshold. The priest's chanting is over. Amma watches milk rise in a new brass pot on the stove.
+  - who: amma
+    t: ನೋಡಿ, ಹಾಲು ಉಕ್ಕಿತು — ಪೂರ್ವದ ಕಡೆಗೆ! ಈ ಮನೆಯಲ್ಲಿ ಯಾವತ್ತೂ ಹಾಲು-ಅನ್ನಕ್ಕೆ ಕೊರತೆ ಆಗದಿರಲಿ.
+    tr: Nōḍi, hālu ukkitu — pūrvada kaḍege! Ī maneyalli yāvattū hālu-annakke korate āgadirali.
+    en: Look, the milk has boiled over — towards the east! May this house never lack milk and rice.
+  - who: ananya
+    t: ಅಪ್ಪಾ, ಇದು ನಿಜವಾಗ್ಲೂ ನಮ್ಮ ಮನೇನಾ? ಯಾರೂ 'ಖಾಲಿ ಮಾಡಿ' ಅಂತ ಹೇಳಲ್ವಾ?
+    tr: Appā, idu nijavāglū namma manēnā? Yārū 'khāli māḍi' anta hēḷalvā?
+    en: Appa, is this really our house? Nobody will tell us to 'vacate'?
+  - who: ravi
+    t: ಇಲ್ಲ ಪುಟ್ಟಿ. ಇದು ನಮ್ಮದೇ. ಇನ್ನು ಮೇಲೆ ಯಾರೂ ಹಾಗೆ ಹೇಳಲ್ಲ.
+    tr: Illa puṭṭi. Idu nammadē. Innu mēle yārū hāge hēḷalla.
+    en: No, sweetheart. It's ours. From now on, nobody will say that.
+  - who: mestri
+    t: ಸಾಹೇಬ್ರ, ಹನ್ನೊಂದು ತಿಂಗಳ ಕೆಲಸ. ನನ್ನ ಕೈಯಾಗ ಎಷ್ಟೋ ಮನಿ ಆಗ್ಯಾವ, ಆದ್ರ ಹುಡುಗರನ್ನ ನೀವು ನೋಡಿಕೊಂಡಂಗ ಯಾರೂ ನೋಡಿಲ್ಲರಿ.
+    tr: Sāhēbra, hannondu tingaḷa kelasa. Nanna kaiyāga eṣṭō mani āgyāva, ādra huḍugaranna nīvu nōḍikoṇḍanga yārū nōḍillari.
+    en: Sir, eleven months of work. Many houses have come up through my hands, but nobody has looked after the boys the way you did.
+  - who: ravi
+    t: ನೀವು ಕಟ್ಟಿದ ಗೋಡೆಗಳು ನೂರು ವರ್ಷ ನಿಲ್ಲುತ್ವೆ, ಬಸವರಾಜ್. ಈ ಮನೆಯಲ್ಲಿ ನಿಮ್ಮ ಬೆವರೂ ಇದೆ. ಇದು ನಮ್ಮ ಚಿಕ್ಕ ಕಾಣಿಕೆ.
+    tr: Nīvu kaṭṭida gōḍegaḷu nūru varṣa nillutve, Basavarāj. Ī maneyalli nimma bevarū ide. Idu namma chikka kāṇike.
+    en: The walls you built will stand for a hundred years, Basavaraj. Your sweat is in this house too. This is our small gift.
+  - who: neighbour
+    t: ರವಿ ಅವರೇ, ಕರೆದಿದ್ದಕ್ಕೆ ಸಂತೋಷ. ಮಣ್ಣಿನ ರಾಶಿಯಿಂದ ಶುರುವಾಯ್ತು, ಈಗ ನೋಡಿ ಎಂಥಾ ಮನೆ. ನಮಗೂ ಒಳ್ಳೆ ನೆರೆಹೊರೆಯವರು ಸಿಕ್ಕಿದ್ರು.
+    tr: Ravi avarē, karediddakke santōṣa. Maṇṇina rāśiyinda śuruvāytu, īga nōḍi enthā mane. Namagū oḷḷe nerehoreyavaru sikkidru.
+    en: Ravi, I'm glad you invited me. It started with a heap of mud, and look what a house it is now. We've found good neighbours too.
+  - scene: An autorickshaw stops at the gate. A thin, grey-haired man climbs out slowly, a young woman holding his arm. It is Chandrashekar, with his daughter.
+  - who: ravi
+    t: ಚಂದ್ರಶೇಖರ್ ಸಾರ್! ಬನ್ನಿ, ಬನ್ನಿ. ಮೊದಲ ಆಮಂತ್ರಣ ನಿಮಗೇ ಕೊಟ್ಟಿದ್ದೆ, ನೆನಪಿದ್ಯಾ? ಮಗಳು ಹೇಗಿದಾರೆ?
+    tr: Chandraśēkhar sār! Banni, banni. Modala āmantraṇa nimagē koṭṭidde, nenapidyā? Magaḷu hēgidāre?
+    en: Chandrashekar sir! Come in, come in. The first invitation went to you, remember? How is your daughter?
+  - who: seller
+    t: ಇವಳೇ ನೋಡಿ. ಹೋದ ವರ್ಷ ಮೇ ತಿಂಗಳಲ್ಲಿ ಆಪರೇಷನ್ ಆಯ್ತು — ಅವಳ ಅಣ್ಣನೇ ಕಿಡ್ನಿ ಕೊಟ್ಟ. ಈಗ ಮತ್ತೆ ಕೆಲಸಕ್ಕೆ ಹೋಗ್ತಿದಾಳೆ. ಆ ದುಡ್ಡು ಸರಿಯಾದ ಜಾಗಕ್ಕೇ ಹೋಯ್ತು.
+    tr: Ivaḷē nōḍi. Hōda varṣa Mē tingaḷalli āparēṣan āytu — avaḷa aṇṇanē kiḍni koṭṭa. Īga matte kelasakke hōgtidāḷe. Ā duḍḍu sariyāda jāgakkē hōytu.
+    en: Here she is. The operation was last May — her elder brother gave the kidney. Now she's back at work. That money went to the right place.
+  - who: seller
+    t: ನನ್ನ ಹೆಂಡತಿ ಈ ಸೈಟಿನಲ್ಲಿ ಒಂದು ಮನೆ ಕನಸು ಕಂಡಿದ್ಲು. ಮನೆ ಬೇರೆಯವರದು, ಆದ್ರೆ ಕನಸು ನಿಜ ಆಯ್ತು. ನನಗೆ ಅಷ್ಟೇ ಸಾಕು.
+    tr: Nanna heṇḍati ī saiṭinalli ondu mane kanasu kaṇḍidlu. Mane bēreyavaradu, ādre kanasu nija āytu. Nanage aṣṭē sāku.
+    en: (looking up at the house) My wife dreamed of a house on this site. The house is someone else's, but the dream came true. That's enough for me.
+  - who: amma
+    t: ಬೇರೆಯವರದು ಅಲ್ಲ ಸ್ವಾಮಿ. ಈ ಮನೆಯಲ್ಲಿ ನಿಮ್ಮ ಮನೆಯವರ ಆಶೀರ್ವಾದನೂ ಇದೆ. ಬನ್ನಿ, ಮೊದಲು ಹಾಲು ಕುಡೀರಿ.
+    tr: Bēreyavaradu alla swāmi. Ī maneyalli nimma maneyavara āśīrvādanū ide. Banni, modalu hālu kuḍīri.
+    en: It isn't someone else's, sir. Your wife's blessing is in this house too. Come, first have some milk.
+  - who: appa
+    t: ನೋಡು ರವಿ, ಕೂಲಿಯವರಿಗೆ, ಪಕ್ಕದವರಿಗೆ, ಎಲ್ಲರಿಗೂ ಮರ್ಯಾದೆ ಕೊಟ್ಟು ಈ ಮನೆ ಕಟ್ಟಿಸಿದೆ. ಅದೇ ನಿಜವಾದ ಅಡಿಪಾಯ.
+    tr: Nōḍu Ravi, kūliyavarige, pakkadavarige, ellarigū maryāde koṭṭu ī mane kaṭṭiside. Adē nijavāda aḍipāya.
+    en: You see, Ravi, you had this house built while giving respect to everyone — the labourers, the neighbours, all of them. That is the real foundation.
+  - chapter: Chapter 10 — Final connections
+  - section: ⚡ The BESCOM inspection
+    learn: 'geo-tagged photos · RR number · load in kilowatts · demand note · formal register: -bēku, dākhalāgutte'
+  - scene: 16 June 2026. Assistant Engineer Prakash arrives at the house with lineman Ramu. Ravi applied online for three permanent connections two weeks ago.
+  - who: bescom
+    t: ನಮಸ್ಕಾರ ರವಿ ಅವರೇ. ಮೂರು ಪರ್ಮನೆಂಟ್ ಕನೆಕ್ಷನ್‌ಗೆ ಅರ್ಜಿ ಹಾಕಿದೀರಿ, ಅಲ್ವಾ? ಸ್ಯಾಂಕ್ಷನ್ಡ್ ಪ್ಲಾನ್, ಇ-ಖಾತಾ, ವೈರಿಂಗ್ ಟೆಸ್ಟ್ ರಿಪೋರ್ಟ್ — ಒರಿಜಿನಲ್ ತೋರಿಸಿ.
+    tr: Namaskāra Ravi avarē. Mūru parmanenṭ kanekṣange arji hākidīri, alvā? Syānkṣanḍ plān, i-khātā, vairing ṭesṭ riporṭ — orijinal tōrisi.
+    en: Hello, Ravi. You've applied for three permanent connections, haven't you? Sanctioned plan, e-khata, wiring test report — please show me the originals.
+  - who: ravi
+    t: ಇಲ್ಲಿದೆ ಸಾರ್. ಸಾವಿರದ ಇನ್ನೂರು ಚದರಡಿ ಸೈಟು, ಸ್ಟಿಲ್ಟ್ ಪ್ಲಸ್ ಗ್ರೌಂಡ್ ಪ್ಲಸ್ ಎರಡು — ಸೆಪ್ಟೆಂಬರ್ ಆದೇಶದ ಪ್ರಕಾರ ಓಸಿ ವಿನಾಯಿತಿ ಇದೆ. ಲೈಸೆನ್ಸ್ಡ್ ಎಲೆಕ್ಟ್ರಿಕಲ್ ಕಾಂಟ್ರಾಕ್ಟರ್ ಸಹಿ ಮಾಡಿದ ರಿಪೋರ್ಟ್ ಕೂಡ ಇದೆ.
+    tr: Illide sār. Sāvirada innūru chadaraḍi saiṭu, sṭilṭ plas grauṇḍ plas eraḍu — Sepṭembar ādēśada prakāra OC vināyiti ide. Laisensḍ elekṭrikal kānṭrākṭar sahi māḍida riporṭ kūḍa ide.
+    en: Here you are, sir. A twelve-hundred-square-foot site, stilt plus ground plus two — under the September order there's an OC exemption. And here's the report signed by the licensed electrical contractor.
+  - who: bescom
+    t: ಸರಿ. ಈಗಿನ ಹೊಸ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ನಾನು ಮಾಲೀಕರ ಎದುರಲ್ಲೇ ಜಿಯೋ-ಟ್ಯಾಗ್ ಮಾಡಿದ ಫೋಟೋ ತೆಗೀತೀನಿ — ಕಟ್ಟಡದ ಮುಂಭಾಗ, ಮೀಟರ್ ಬೋರ್ಡ್, ಪ್ರತಿ ಫ್ಲೋರ್. ಆ್ಯಪ್‌ನಲ್ಲಿ ಜಾಗ, ಸಮಯ ಎರಡೂ ದಾಖಲಾಗುತ್ತೆ. ನೀವು ಫೋಟೋದಲ್ಲಿ ನಿಂತ್ಕೊಳ್ಳಿ.
+    tr: Sari. Īgina hosa prakriyeyalli nānu mālīkara edurallē jiyō-ṭyāg māḍida phōṭō tegītīni — kaṭṭaḍada mumbhāga, mīṭar bōrḍ, prati flōr. Āpnalli jāga, samaya eraḍū dākhalāgutte. Nīvu phōṭōdalli nintkoḷḷi.
+    en: Fine. Under the new process, I take geo-tagged photos in the owner's presence — the front of the building, the meter board, every floor. The app records both the location and the time. Please stand in the photo.
+  - who: ravi
+    t: ಯಾಕೆ ಸಾರ್ ಇಷ್ಟು ಕಟ್ಟುನಿಟ್ಟು?
+    tr: Yāke sār iṣṭu kaṭṭuniṭṭu?
+    en: Why so strict, sir?
+  - who: bescom
+    t: ಹಿಂದೆ ಕೆಲವರು ಪ್ಲಾನ್‌ಗಿಂತ ಜಾಸ್ತಿ ಫ್ಲೋರ್ ಕಟ್ಟಿ, ಕಾಗದದಲ್ಲಿ ಮಾತ್ರ ಎಲ್ಲಾ ಸರಿ ಅಂತ ತೋರಿಸ್ತಿದ್ರು. ಫೋಟೋ ಇದ್ರೆ ಆಮೇಲೆ ಯಾರೂ ಪ್ರಶ್ನೆ ಮಾಡೋಕಾಗಲ್ಲ — ನಿಮಗೂ ರಕ್ಷಣೆ, ನಮಗೂ.
+    tr: Hinde kelavaru plāngintha jāsti flōr kaṭṭi, kāgadadalli mātra ellā sari anta tōristiddru. Phōṭō idre āmēle yārū praśne māḍōkāgalla — nimagū rakṣaṇe, namagū.
+    en: In the past, some people built more floors than the plan allowed and showed everything as correct only on paper. With photos, nobody can question it later — it protects you, and us too.
+  - who: lineman
+    t: ಸಾರ್, ಮೀಟರ್ ಬೋರ್ಡ್ ಸರಿಯಾಗಿದೆ — ಒಣ ಜಾಗ, ಎತ್ತರ ಸರಿ, ಮೂರು ಮೀಟರ್‌ಗೆ ಜಾಗ ಇದೆ. ಅರ್ಥಿಂಗ್ ರೀಡಿಂಗ್ ಕೂಡ ಓಕೆ.
+    tr: Sār, mīṭar bōrḍ sariyāgide — oṇa jāga, ettara sari, mūru mīṭarge jāga ide. Arthing rīḍing kūḍa ōke.
+    en: Sir, the meter board is fine — a dry spot, the right height, room for three meters. The earthing reading is OK too.
+  - who: ravi
+    t: ಮೂರು ಮನೆಗೂ ಎಷ್ಟು ಲೋಡ್ ಸ್ಯಾಂಕ್ಷನ್ ಆಗುತ್ತೆ ಸಾರ್? ಡೆಪಾಸಿಟ್ ಎಷ್ಟು ಕಟ್ಟಬೇಕು?
+    tr: Mūru manegū eṣṭu lōḍ syānkṣan āgutte sār? Ḍepāsiṭ eṣṭu kaṭṭabēku?
+    en: How much load will be sanctioned for the three homes, sir? How much deposit do I have to pay?
+  - who: bescom
+    t: ನಿಮ್ಮ ಮನೆಗೆ ಐದು ಕಿಲೋವ್ಯಾಟ್, ಬಾಡಿಗೆ ಮನೆಗಳಿಗೆ ತಲಾ ನಾಲ್ಕು. ಡಿಮ್ಯಾಂಡ್ ನೋಟ್ ಎಸ್‌ಎಂಎಸ್‌ನಲ್ಲಿ ಬರುತ್ತೆ, ಆನ್‌ಲೈನ್‌ನಲ್ಲೇ ಕಟ್ಟಿ. ಪೇಮೆಂಟ್ ಆದ ವಾರದೊಳಗೆ ಮೂರು ಸ್ಮಾರ್ಟ್ ಮೀಟರ್ ಹಾಕ್ತೀವಿ, ಮೂರು ಬೇರೆ ಬೇರೆ ಆರ್‌ಆರ್ ನಂಬರ್ ಸಿಗುತ್ತೆ.
+    tr: Nimma manege aidu kilōvyāṭ, bāḍige manegaḷige talā nālku. Ḍimyānḍ nōṭ SMSnalli barutte, ānlainnallē kaṭṭi. Pēmenṭ āda vāradoḷage mūru smārṭ mīṭar hāktīvi, mūru bēre bēre RR nambar sigutte.
+    en: Five kilowatts for your home, four each for the rented homes. The demand note will come by SMS; pay it online. Within a week of payment we'll install three smart meters, and you'll get three separate RR numbers.
+  - who: bescom
+    t: ಪರ್ಮನೆಂಟ್ ಮೀಟರ್ ಹಾಕಿದ ದಿನವೇ ಟೆಂಪರರಿ ಮೀಟರ್ ತೆಗೀತೀವಿ. ಅದರಲ್ಲಿ ಉಳಿದ ಬ್ಯಾಲೆನ್ಸ್‌ಗೆ ರೀಫಂಡ್ ಅರ್ಜಿ ಹಾಕಿ, ಮರೀಬೇಡಿ.
+    tr: Parmanenṭ mīṭar hākida dinavē ṭemparari mīṭar tegītīvi. Adaralli uḷida byālensge rīfanḍ arji hāki, marībēḍi.
+    en: We'll remove the temporary meter on the same day the permanent ones go in. Apply for a refund of the balance left on it — don't forget.
+  - who: ravi
+    t: ಒಂದು ವರ್ಷದಿಂದ ಈ ದಿನಕ್ಕೆ ಕಾಯ್ತಿದ್ವಿ ಸಾರ್. ತುಂಬಾ ಉಪಕಾರ ಆಯ್ತು.
+    tr: Ondu varṣadinda ī dinakke kāytidvi sār. Tumbā upakāra āytu.
+    en: We've been waiting a whole year for this day, sir. Thank you very much.
+  - who: lineman
+    t: ಪೇಪರ್ ಎಲ್ಲಾ ಪಕ್ಕಾ ಇದ್ರೆ ನಮ್ಮ ಕೆಲಸನೂ ಸುಲಭ ಸಾರ್. ಮೀಟರ್ ಹಾಕೋ ದಿನ ನಾನೇ ಬರ್ತೀನಿ.
+    tr: Pēpar ellā pakkā idre namma kelasanū sulabha sār. Mīṭar hākō dina nānē bartīni.
+    en: When all the papers are in order, our job is easy too, sir. I'll come myself on the day the meters go in.
+  - section: 💧 BWSSB — Cauvery water arrives
+    learn: inguguṇḍi (recharge pit) · pro-rata śulka, rasīdi · rōḍ kaṭing anumati · -da takṣaṇa (as soon as)
+  - scene: A few days later. BWSSB Assistant Executive Engineer Kavitha inspects the rainwater-harvesting pit beside the sump, a file under her arm.
+  - who: bwssb
+    t: ಮಳೆನೀರು ಕೊಯ್ಲು ಪ್ಲಾನ್‌ನಲ್ಲಿ ಇದ್ದ ಹಾಗೇ ಇದೆ — ಫಿಲ್ಟರ್, ಸಂಪ್, ಇಂಗುಗುಂಡಿ. ದಂಡದ ಪ್ರಶ್ನೆನೇ ಇಲ್ಲ. ಮತ್ತೆ ಸೆಪ್ಟೆಂಬರ್ ಆದೇಶದ ಪ್ರಕಾರ ನೀರಿನ ಕನೆಕ್ಷನ್‌ಗೂ ನಿಮಗೆ ಓಸಿ ಬೇಕಾಗಲ್ಲ.
+    tr: Maḷenīru koylu plānnalli idda hāgē ide — filṭar, samp, inguguṇḍi. Daṇḍada praśnenē illa. Matte Sepṭembar ādēśada prakāra nīrina kanekṣangū nimage OC bēkāgalla.
+    en: The rainwater harvesting is exactly as on the plan — filter, sump, recharge pit. No question of a penalty. And under the September order, you don't need an OC for the water connection either.
+  - who: ravi
+    t: ಪ್ರೊ-ರೇಟಾ ಶುಲ್ಕ ಕಟ್ಟಿದೀನಿ ಮೇಡಂ, ಇದು ರಸೀದಿ. ಪ್ಲಂಬರ್ ಲೈಸೆನ್ಸ್ ಕಾಪಿ ಕೂಡ ಫೈಲ್‌ನಲ್ಲಿದೆ. ಕನೆಕ್ಷನ್ ಯಾವಾಗ ಸಿಗುತ್ತೆ?
+    tr: Prō-rēṭā śulka kaṭṭidīni mēḍam, idu rasīdi. Plambar laisens kāpi kūḍa failnallide. Kanekṣan yāvāga sigutte?
+    en: I've paid the pro-rata fee, madam — here's the receipt. The plumber's licence copy is in the file too. When will we get the connection?
+  - who: bwssb
+    t: ಮುಂದಿನ ವಾರ ರೋಡ್ ಕಟಿಂಗ್ ಅನುಮತಿ ಸಿಕ್ಕ ತಕ್ಷಣ ಲೈನ್ ಜೋಡಿಸ್ತೀವಿ, ಒಳಚರಂಡಿ ಕನೆಕ್ಷನ್ ಕೂಡ ಅದೇ ದಿನ. ಆದ್ರೆ ಒಂದು ವಿಷಯ — ಈ ಏರಿಯಾದಲ್ಲಿ ಕಾವೇರಿ ನೀರು ದಿನ ಬಿಟ್ಟು ದಿನ, ಬೆಳಿಗ್ಗೆ ಮೂರು-ನಾಲ್ಕು ಗಂಟೆ ಮಾತ್ರ ಬರುತ್ತೆ.
+    tr: Mundina vāra rōḍ kaṭing anumati sikka takṣaṇa lain jōḍistīvi, oḷacharaṇḍi kanekṣan kūḍa adē dina. Ādre ondu viṣaya — ī ēriyādalli Kāvēri nīru dina biṭṭu dina, beḷigge mūru-nālku gaṇṭe mātra barutte.
+    en: 'Next week, as soon as we get road-cutting permission, we''ll connect the line — the sewerage connection the same day. But one thing: in this area, Cauvery water comes only every other day, for three or four hours in the morning.'
+  - who: ravi
+    t: ರೋಡ್ ಕಟಿಂಗ್ ಅನುಮತಿ ಯಾರು ಕೊಡ್ತಾರೆ ಮೇಡಂ? ಅದಕ್ಕೆ ನಾನು ಬೇರೆ ಅರ್ಜಿ ಹಾಕಬೇಕಾ?
+    tr: Rōḍ kaṭing anumati yāru koḍtāre mēḍam? Adakke nānu bēre arji hākabēkā?
+    en: Who gives the road-cutting permission, madam? Do I have to file a separate application for that?
+  - who: bwssb
+    t: ಬೇಡ, ನಾವೇ ಪಶ್ಚಿಮ ಪಾಲಿಕೆಗೆ ಕಳಿಸ್ತೀವಿ. ಆದ್ರೆ ನಿಜ ಹೇಳ್ಬೇಕು ಅಂದ್ರೆ ಅದು ಕೆಲವು ಸಲ ಎರಡು-ಮೂರು ವಾರ ತಗೊಳ್ಳುತ್ತೆ. ಸ್ಟೇಟಸ್ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ನೋಡ್ತಿರಿ.
+    tr: Bēḍa, nāvē Paścima pālikege kaḷistīvi. Ādre nija hēḷbēku andre adu kelavu sala eraḍu-mūru vāra tagoḷḷutte. Sṭēṭas ānlainnalli nōḍtiri.
+    en: No, we send it to the West corporation ourselves. But to be honest, it sometimes takes two or three weeks. Keep checking the status online.
+  - who: deepa
+    t: ಪರವಾಗಿಲ್ಲ ಮೇಡಂ. ಹತ್ತು ಸಾವಿರ ಲೀಟರ್ ಸಂಪ್ ಇದೆ, ಮಳೆನೀರೂ ಇದೆ. ಟ್ಯಾಂಕರ್‌ಗೆ ವಿದಾಯ ಹೇಳೋಕೆ ಇಷ್ಟು ಸಾಕು. ಬೋರ್‌ವೆಲ್ ಕೊರೆಸದೇ ಇದ್ದಿದ್ದೇ ಒಳ್ಳೇದಾಯ್ತು.
+    tr: Paravāgilla mēḍam. Hattu sāvira līṭar samp ide, maḷenīrū ide. Ṭyānkarge vidāya hēḷōke iṣṭu sāku. Bōrvel koresadē iddiddē oḷḷēdāytu.
+    en: That's fine, madam. We have a ten-thousand-litre sump and the rainwater too. That's enough to say goodbye to the tankers. Good thing we never drilled that borewell.
+  - section: 💡 The lights come on
+    learn: 'switching on: swic hāku, laiṭ hattitu · nemmadi (peace of mind) · recalling the past: andāga (when they said)'
+  - scene: 26 June 2026, evening. Ramu has fixed three new smart meters on the board. The temporary meter lies in a cardboard box. The whole family stands in the dark hall.
+  - who: lineman
+    t: ಸಾರ್, ಮೂರೂ ಮೀಟರ್ ಲೈವ್ ಆಗಿದೆ. ಮೇನ್ ಸ್ವಿಚ್ ನೀವೇ ಹಾಕಿ.
+    tr: Sār, mūrū mīṭar laiv āgide. Mēn swic nīvē hāki.
+    en: Sir, all three meters are live. You switch on the mains yourself.
+  - who: ravi
+    t: ಅನನ್ಯಾ, ಬಾ. ನಾವಿಬ್ಬರೂ ಒಟ್ಟಿಗೆ ಹಾಕೋಣ. ಒಂದು… ಎರಡು… ಮೂರು!
+    tr: Ananyā, bā. Nāvibbarū oṭṭige hākōṇa. Ondu… eraḍu… mūru!
+    en: Ananya, come. Let's switch it on together. One… two… three!
+  - who: ananya
+    t: ಹೇ! ಎಲ್ಲಾ ಲೈಟ್ ಹತ್ತಿತು! ಫ್ಯಾನೂ ತಿರುಗ್ತಿದೆ!
+    tr: Hē! Ellā laiṭ hattitu! Fyānū tirugtide!
+    en: Hey! All the lights are on! The fan's turning too!
+  - who: amma
+    t: ಒಂದು ವರ್ಷ ಟೆಂಪರರಿ ಮೀಟರ್, ರೀಚಾರ್ಜ್ ಮುಗಿದ್ರೆ ಕತ್ತಲು… ಈಗ ನೆಮ್ಮದಿ. ದೇವರ ಮನೆಯ ದೀಪದ ಪಕ್ಕ ಮೊದಲ ಬಲ್ಬ್ ಹತ್ತಿತು.
+    tr: Ondu varṣa ṭemparari mīṭar, rīchārj mugidre kattalu… īga nemmadi. Dēvara maneya dīpada pakka modala balb hattitu.
+    en: A year of the temporary meter — darkness whenever the recharge ran out… now there's peace. The first bulb has lit up beside the lamp in the puja room.
+  - who: deepa
+    t: ರವಿ, ಎರಡು ಸಾವಿರದ ಇಪ್ಪತ್ತೈದರ ಏಪ್ರಿಲ್‌ನಲ್ಲಿ 'ಓಸಿ ಇಲ್ಲದೆ ಕನೆಕ್ಷನ್ ಇಲ್ಲ' ಅಂದಾಗ ನಿನ್ನ ಮುಖ ಹೇಗಿತ್ತು, ನೆನಪಿದೆಯಾ?
+    tr: Ravi, eraḍu sāvirada ippattaidara Ēprilnalli 'OC illade kanekṣan illa' andāga ninna mukha hēgittu, nenapideyā?
+    en: Ravi, do you remember what your face looked like in April 2025, when they said 'no connection without an OC'?
+  - who: ravi
+    t: ನೆನಪಿದೆ. ಆಗ ಅಪ್ಪ 'ತಾಳಿದವನು ಬಾಳಿಯಾನು' ಅಂತ ಹೇಳಿದ್ರು. ಇವತ್ತು ಅದು ನಿಜ ಆಯ್ತು.
+    tr: Nenapide. Āga Appa 'tāḷidavanu bāḷiyānu' anta hēḷidru. Ivattu adu nija āytu.
+    en: I remember. Back then Appa said, 'He who endures will prosper.' Today it came true.
+  - who: appa
+    t: ತಾಳ್ಮೆ ನಿನ್ನದು, ಓಡಾಟ ನಿನ್ನದು. ನಾನು ಗಾದೆ ಹೇಳಿದೆ ಅಷ್ಟೇ.
+    tr: Tāḷme ninnadu, ōḍāṭa ninnadu. Nānu gāde hēḷide aṣṭē.
+    en: The patience was yours, and all the running around was yours. I only said the proverb.
+  - chapter: Chapter 11 — Tenants
+  - section: 📋 To-let board and listing
+    learn: bāḍigege ide (for rent) · mahaḍi (floor) · pratyēka (separate) · describing a flat
+  - scene: 'Early July 2026. Deepa ties a board to the gate: ''ಮನೆ ಬಾಡಿಗೆಗೆ ಇದೆ — 2BHK — To-Let''. Ravi types a listing on his phone.'
+  - who: ravi
+    t: 'ಹೇಗಿದೆ ಕೇಳು: ''ಕೆಂಗೇರಿ, ಹೊಸ ಕಟ್ಟಡ, ಮೊದಲ ಮತ್ತು ಎರಡನೇ ಮಹಡಿಯಲ್ಲಿ ಎರಡು ಟೂ ಬಿಎಚ್‌ಕೆ. ಪ್ರತ್ಯೇಕ ಮೀಟರ್, ಕಾವೇರಿ ನೀರು, ಬೈಕ್ ಪಾರ್ಕಿಂಗ್, ಮೆಟ್ರೋಗೆ ಹತ್ತು ನಿಮಿಷ.'''
+    tr: 'Hēgide kēḷu: ''Kengēri, hosa kaṭṭaḍa, modala mattu eraḍanē mahaḍiyalli eraḍu 2BHK. Pratyēka mīṭar, Kāvēri nīru, baik pārking, meṭrōge hattu nimiṣa.'''
+    en: 'Listen to how this sounds: ''Kengeri, new building, two 2BHKs on the first and second floors. Separate meters, Cauvery water, bike parking, ten minutes to the metro.'''
+  - who: deepa
+    t: ಮೊದಲ ಮಹಡಿಗೆ ಹದಿನೆಂಟು ಸಾವಿರ, ಎರಡನೇದಕ್ಕೆ ಹದಿನೇಳು — ಮೆಟ್ಟಿಲು ಜಾಸ್ತಿ ಅಲ್ವಾ. ಈ ಏರಿಯಾದಲ್ಲಿ ಟೂ ಬಿಎಚ್‌ಕೆಗೆ ಹದಿನೈದರಿಂದ ಇಪ್ಪತ್ತು ಸಾವಿರ ನಡೀತಿದೆ.
+    tr: Modala mahaḍige hadineṇṭu sāvira, eraḍanēdakke hadinēḷu — meṭṭilu jāsti alvā. Ī ēriyādalli 2BHKge hadinaidarinda ippattu sāvira naḍītide.
+    en: Eighteen thousand for the first floor, seventeen for the second — more stairs, after all. In this area a 2BHK is going for fifteen to twenty thousand.
+  - who: ravi
+    t: ಸರಿ. ಬ್ರೋಕರ್ ಬೇಡ — ಒಂದು ತಿಂಗಳ ಬಾಡಿಗೆ ಕಮಿಷನ್ ಉಳಿಯುತ್ತೆ. ಫೋನ್ ನಾವೇ ತಗೊಳ್ಳೋಣ.
+    tr: Sari. Brōkar bēḍa — ondu tingaḷa bāḍige kamiṣan uḷiyutte. Phōn nāvē tagoḷḷōṇa.
+    en: Okay. No broker — that saves a month's rent in commission. We'll take the calls ourselves.
+  - who: deepa
+    t: ಆನ್‌ಲೈನ್ ಲಿಸ್ಟಿಂಗ್‌ಗೆ ಮನೆಯ ಫೋಟೋ ಬೆಳಿಗ್ಗೆ ಬೆಳಕಲ್ಲಿ ತೆಗಿ. ಬಾಡಿಗೆ ಮೊತ್ತ ಸ್ಪಷ್ಟವಾಗಿ ಹಾಕು, ಇಲ್ಲಾಂದ್ರೆ ದಿನಾ ಐವತ್ತು ಫೋನ್ ಬರುತ್ತೆ.
+    tr: Ānlain lisṭingge maneya phōṭō beḷigge beḷakalli tegi. Bāḍige motta spaṣṭavāgi hāku, illāndre dinā aivattu phōn barutte.
+    en: Take the photos for the online listing in the morning light. And put the rent amount clearly, or we'll get fifty calls a day.
+  - section: 🥬 'Vegetarians only'?
+    learn: disagreeing respectfully with elders · tāratamya (discrimination), nyāya (fairness) · -irabāradā? (shouldn't it be?)
+  - scene: That evening. Amma reads the listing over Ravi's shoulder.
+  - who: amma
+    t: ರವಿ, ಅದರಲ್ಲಿ 'ಸಸ್ಯಾಹಾರಿಗಳಿಗೆ ಮಾತ್ರ' ಅಂತ ಸೇರಿಸು. ಮೇಲೆ ಮಾಂಸ, ಮೀನು ಬೇಯಿಸಿದ್ರೆ ವಾಸನೆ ಕೆಳಗೆ ದೇವರ ಮನೆಗೆ ಬರುತ್ತೆ.
+    tr: Ravi, adaralli 'sasyāhārigaḷige mātra' anta sērisu. Mēle māṃsa, mīnu bēyisidre vāsane keḷage dēvara manege barutte.
+    en: Ravi, add 'vegetarians only' to that. If they cook meat and fish upstairs, the smell will come down into the puja room.
+  - who: ravi
+    t: ಅಮ್ಮ, ನಿನ್ನ ಭಾವನೆ ನನಗೆ ಅರ್ಥ ಆಗುತ್ತೆ. ಆದ್ರೆ ಊಟದ ಆಧಾರದ ಮೇಲೆ ಜನರನ್ನ ಹೊರಗಿಡೋದು ನನಗೆ ಸರಿ ಅನ್ಸಲ್ಲ. ಅದು ತಾರತಮ್ಯ.
+    tr: Amma, ninna bhāvane nanage artha āgutte. Ādre ūṭada ādhārada mēle janaranna horagiḍōdu nanage sari ansalla. Adu tāratamya.
+    en: Amma, I understand how you feel. But keeping people out on the basis of what they eat doesn't feel right to me. That's discrimination.
+  - who: amma
+    t: ಇದು ನಮ್ಮ ಮನೆ. ನಮ್ಮ ಮನೆಯಲ್ಲಿ ನಮ್ಮ ನಿಯಮ ಇರಬಾರದಾ?
+    tr: Idu namma mane. Namma maneyalli namma niyama irabāradā?
+    en: This is our house. Can't we have our own rules in our own house?
+  - who: deepa
+    t: ಅತ್ತೆ, ನಿಯಮ ಇರಬೇಕು — ಸ್ವಚ್ಛತೆ, ಶಬ್ದ, ಸಮಯಕ್ಕೆ ಬಾಡಿಗೆ. ಆದ್ರೆ ನೆನಪಿದೆಯಾ, ಏಳು ವರ್ಷದ ಹಿಂದೆ ವಿಜಯನಗರದಲ್ಲಿ ಮನೆ ಹುಡುಕ್ತಿದ್ದಾಗ ಒಬ್ಬ ಓನರ್ ಮೊದಲ ಪ್ರಶ್ನೆನೇ 'ನಿಮ್ಮ ಜಾತಿ ಏನು?' ಅಂತ ಕೇಳಿದ್ರು. ನಿಮಗೆ ಎಷ್ಟು ಬೇಜಾರಾಗಿತ್ತು.
+    tr: Atte, niyama irabēku — swacchate, śabda, samayakke bāḍige. Ādre nenapideyā, ēḷu varṣada hinde Vijayanagaradalli mane huḍuktiddāga obba ōnar modala praśnenē 'nimma jāti ēnu?' anta kēḷidru. Nimage eṣṭu bējārāgittu.
+    en: Atte, there should be rules — cleanliness, noise, rent on time. But do you remember, seven years ago when we were looking for a flat in Vijayanagar, an owner's very first question was 'What's your caste?' How hurt you were.
+  - who: appa
+    t: ದೀಪಾ ಹೇಳೋದ್ರಲ್ಲಿ ನ್ಯಾಯ ಇದೆ ಶಾರದಾ. ಮೂವತ್ತೆರಡು ವರ್ಷ ಬಸ್ಸಲ್ಲಿ ಟಿಕೆಟ್ ಕೊಟ್ಟೆ — ಯಾರನ್ನೂ 'ನೀನು ಏನು ತಿಂತೀಯ' ಅಂತ ಕೇಳಿಲ್ಲ.
+    tr: Dīpā hēḷōdralli nyāya ide Śāradā. Mūvatteraḍu varṣa bassalli ṭikeṭ koṭṭe — yārannū 'nīnu ēnu tintīya' anta kēḷilla.
+    en: There's fairness in what Deepa says, Sharada. For thirty-two years I gave out tickets on the bus — I never asked anyone, 'What do you eat?'
+  - who: amma
+    t: ಸರಿ… ನಿಮ್ಮೆಲ್ಲರ ಮಾತೇ ಆಗಲಿ. ಆದ್ರೆ ಮೇಲಿನ ಅಡುಗೆಮನೆಯ ಎಕ್ಸಾಸ್ಟ್ ಫ್ಯಾನ್ ದೇವರ ಮನೆ ಕಡೆ ಇರಬಾರದು, ಅಷ್ಟೇ.
+    tr: Sari… nimmellara mātē āgali. Ādre mēlina aḍugemaneya egsāsṭ fyān dēvara mane kaḍe irabāradu, aṣṭē.
+    en: All right… let it be as you all say. But the exhaust fan of the kitchen upstairs mustn't face the puja room, that's all.
+  - who: ravi
+    t: ಪಲ್ಲವಿ ಅದನ್ನ ಮೊದಲೇ ಉತ್ತರದ ಕಡೆ ಇಟ್ಟಿದಾರೆ ಅಮ್ಮ. ನಾವು ಹಾಕೋ ನಿಯಮ ಎಲ್ಲರಿಗೂ ಒಂದೇ — ಜಾತಿ, ಧರ್ಮ, ಊಟ ನೋಡಿ ಅಲ್ಲ.
+    tr: Pallavi adanna modalē uttarada kaḍe iṭṭidāre Amma. Nāvu hākō niyama ellarigū ondē — jāti, dharma, ūṭa nōḍi alla.
+    en: Pallavi already put it on the north side, Amma. The rules we set will be the same for everyone — not based on caste, religion or food.
+  - section: 📞 The phone rings
+    learn: 'phone enquiries · khāli ide (it''s vacant) · fixing a time: Śanivāra hattakke'
+  - scene: The next morning. Ravi's phone hasn't stopped ringing since seven.
+  - who: ravi
+    t: ಹಲೋ… ಹೌದು, ಟೂ ಬಿಎಚ್‌ಕೆ ಇನ್ನೂ ಖಾಲಿ ಇದೆ. ನಾಲ್ಕು ಜನ ಫ್ರೆಂಡ್ಸ್? ಕ್ಷಮಿಸಿ, ಇದು ಎರಡು ರೂಮಿನ ಮನೆ, ನಾಲ್ಕು ಜನಕ್ಕೆ ಚಿಕ್ಕದಾಗುತ್ತೆ.
+    tr: Halō… haudu, 2BHK innū khāli ide. Nālku jana frenḍs? Kṣamisi, idu eraḍu rūmina mane, nālku janakke chikkadāgutte.
+    en: Hello… yes, the 2BHK is still free. Four friends? Sorry, it's a two-bedroom home; it'll be too small for four people.
+  - who: ravi
+    t: ಹಲೋ… ಇಲ್ಲ ಸಾರ್, ಹತ್ತು ತಿಂಗಳ ಡೆಪಾಸಿಟ್ ಅಲ್ಲ, ಆರು ತಿಂಗಳು. ಹೌದು, ಪ್ರತ್ಯೇಕ ಮೀಟರ್ ಇದೆ.
+    tr: Halō… illa sār, hattu tingaḷa ḍepāsiṭ alla, āru tingaḷu. Haudu, pratyēka mīṭar ide.
+    en: Hello… no, sir, not ten months' deposit — six months. Yes, there's a separate meter.
+  - who: ravi
+    t: ಹಲೋ… ಅರ್ಜುನ್ ಅಂತಾನಾ? ಹುಬ್ಬಳ್ಳಿಯವರು? ಸರಿ, ಶನಿವಾರ ಬೆಳಿಗ್ಗೆ ಹತ್ತಕ್ಕೆ ಬನ್ನಿ, ನಿಮ್ಮ ಹೆಂಡತಿನೂ ಕರ್ಕೊಂಡು ಬನ್ನಿ.
+    tr: Halō… Arjun antānā? Hubbaḷḷiyavaru? Sari, Śanivāra beḷigge hattakke banni, nimma heṇḍatinū karkoṇḍu banni.
+    en: Hello… Arjun, is it? From Hubballi? All right, come on Saturday at ten in the morning — and bring your wife along too.
+  - who: ravi
+    t: ಹಲೋ… ಫಾರೂಕ್ ಅವರಾ? ಕೆಂಗೇರಿ ಬಸ್ ಸ್ಟ್ಯಾಂಡ್ ಹತ್ರ ಮೊಬೈಲ್ ರಿಪೇರಿ ಅಂಗಡಿನಾ? ಗೊತ್ತು, ಗೊತ್ತು. ಶನಿವಾರ ಹನ್ನೊಂದು ಗಂಟೆಗೆ ಬನ್ನಿ.
+    tr: Halō… Phārūk avarā? Kengēri bas sṭyānḍ hatra mobail ripēri angaḍinā? Gottu, gottu. Śanivāra hannondu gaṇṭege banni.
+    en: Hello… Farooq? The mobile repair shop near the Kengeri bus stand? I know it, I know it. Come on Saturday at eleven.
+  - section: 🤝 Arjun and Sneha
+    learn: 'interview questions · shifts: naiṭ śifṭ · deposit bargaining: māḍōkāgalvā? · -drū (even if)'
+  - scene: Saturday, ten o'clock. The first-floor flat smells of fresh paint. Arjun and Sneha walk through the rooms while Ravi and Deepa show them around.
+  - who: arjun
+    t: ನಮಸ್ಕಾರ ಸಾರ್. ನಾನು ಅರ್ಜುನ್, ಸಾಫ್ಟ್‌ವೇರ್ ಎಂಜಿನಿಯರ್, ಆರ್‌ಆರ್ ನಗರದ ಹತ್ರ ಆಫೀಸ್. ಇವಳು ಸ್ನೇಹಾ, ನನ್ನ ಹೆಂಡತಿ.
+    tr: Namaskāra sār. Nānu Arjun, sāfṭvēr enjiniyar, RR Nagarada hatra āphīs. Ivaḷu Snēhā, nanna heṇḍati.
+    en: Hello, sir. I'm Arjun, a software engineer; my office is near RR Nagar. This is Sneha, my wife.
+  - who: sneha
+    t: ನಾನು ಕೆಂಗೇರಿ ಸ್ಯಾಟಲೈಟ್ ಟೌನ್‌ನ ಒಂದು ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ನರ್ಸ್. ಕೆಲವು ಸಲ ನೈಟ್ ಶಿಫ್ಟ್ ಇರುತ್ತೆ — ರಾತ್ರಿ ಹತ್ತಕ್ಕೆ ಹೋಗಿ ಬೆಳಿಗ್ಗೆ ಬರ್ತೀನಿ. ಗೇಟ್ ಸಮಯದ ಬಗ್ಗೆ ಏನಾದ್ರೂ ನಿಯಮ ಇದೆಯಾ?
+    tr: Nānu Kengēri Syāṭalaiṭ Ṭaunna ondu āspatreyalli nars. Kelavu sala naiṭ śifṭ irutte — rātri hattakke hōgi beḷigge bartīni. Gēṭ samayada bagge ēnādrū niyama ideyā?
+    en: I'm a nurse at a hospital in Kengeri Satellite Town. Sometimes I have night shifts — I leave at ten at night and come back in the morning. Is there any rule about gate timings?
+  - who: deepa
+    t: ಇಲ್ಲ, ನಿಮಗೆ ಬೇರೆ ಗೇಟ್ ಕೀ ಕೊಡ್ತೀವಿ. ನರ್ಸ್ ಕೆಲಸಕ್ಕೆ ಸಮಯದ ನಿರ್ಬಂಧ ಹಾಕೋಕಾಗುತ್ತಾ? ಗೇಟ್ ಲೈಟ್ ರಾತ್ರಿಯೆಲ್ಲಾ ಉರೀತಿರುತ್ತೆ.
+    tr: Illa, nimage bēre gēṭ kī koḍtīvi. Nars kelasakke samayada nirbandha hākōkāguttā? Gēṭ laiṭ rātriyellā urītirutte.
+    en: No, we'll give you your own gate key. How could anyone put time limits on a nurse's work? The gate light stays on all night.
+  - who: arjun
+    t: ನೀರಿನ ವ್ಯವಸ್ಥೆ ಹೇಗೆ ಸಾರ್? ನಮ್ಮ ಹಳೆ ಏರಿಯಾದಲ್ಲಿ ಬೇಸಿಗೆಯಲ್ಲಿ ವಾರಕ್ಕೆ ಮೂರು ಟ್ಯಾಂಕರ್ ತರಿಸ್ತಿದ್ವಿ.
+    tr: Nīrina vyavasthe hēge sār? Namma haḷe ēriyādalli bēsigeyalli vārakke mūru ṭyānkar taristidvi.
+    en: How's the water situation, sir? In our old area we had to order three tankers a week in summer.
+  - who: ravi
+    t: ಕಾವೇರಿ ಕನೆಕ್ಷನ್, ಹತ್ತು ಸಾವಿರ ಲೀಟರ್ ಸಂಪ್, ಮಳೆನೀರು ಕೊಯ್ಲು — ಎಲ್ಲಾ ಇದೆ. ಬೇಸಿಗೆಯಲ್ಲಿ ಕಷ್ಟ ಆದ್ರೆ ಟ್ಯಾಂಕರ್ ಖರ್ಚನ್ನ ಮೂರೂ ಮನೆ ಹಂಚ್ಕೊಳ್ಳೋಣ.
+    tr: Kāvēri kanekṣan, hattu sāvira līṭar samp, maḷenīru koylu — ellā ide. Bēsigeyalli kaṣṭa ādre ṭyānkar kharcanna mūrū mane hanchkoḷḷōṇa.
+    en: A Cauvery connection, a ten-thousand-litre sump, rainwater harvesting — we have it all. If summer gets hard, the three homes will share the tanker cost.
+  - who: ravi
+    t: ನೀವು ಹುಬ್ಬಳ್ಳಿಯವರು ಅಂದ್ರಿ. ನಮ್ಮ ಮೇಸ್ತ್ರಿ ಬಾಗಲಕೋಟೆಯವರು — ಈ ಗೋಡೆಗಳಲ್ಲಿ ಉತ್ತರ ಕರ್ನಾಟಕದ ಕೈ ಇದೆ.
+    tr: Nīvu Hubbaḷḷiyavaru andri. Namma mēstri Bāgalakōṭeyavaru — ī gōḍegaḷalli uttara Karnāṭakada kai ide.
+    en: You said you're from Hubballi. Our mestri is from Bagalkot — there's a North Karnataka hand in these walls.
+  - who: arjun
+    t: ಹಂಗಾದ್ರ ಛಲೋ ಐತ್ರಿ! … ಸಾರ್, ಮನೆ ತುಂಬಾ ಇಷ್ಟ ಆಯ್ತು — ಗಾಳಿ, ಬೆಳಕು ಚೆನ್ನಾಗಿದೆ. ಡೆಪಾಸಿಟ್ ಎಷ್ಟು?
+    tr: Hangādra chalō aitri! … Sār, mane tumbā iṣṭa āytu — gāḷi, beḷaku chennāgide. Ḍepāsiṭ eṣṭu?
+    en: Well, that's great then! … Sir, we really like the house — plenty of air and light. How much is the deposit?
+  - who: ravi
+    t: ಆರು ತಿಂಗಳ ಬಾಡಿಗೆ — ಒಂದು ಲಕ್ಷದ ಎಂಟು ಸಾವಿರ.
+    tr: Āru tingaḷa bāḍige — ondu lakṣada eṇṭu sāvira.
+    en: Six months' rent — one lakh eight thousand.
+  - who: arjun
+    t: ನಾಲ್ಕು ತಿಂಗಳು ಮಾಡೋಕಾಗಲ್ವಾ ಸಾರ್? ಬೇರೆ ಕಡೆ ಕೆಲವರು ಮೂರು ತಿಂಗಳೇ ಕೇಳ್ತಿದಾರೆ.
+    tr: Nālku tingaḷu māḍōkāgalvā sār? Bēre kaḍe kelavaru mūru tingaḷē kēḷtidāre.
+    en: Couldn't you make it four months, sir? Some places are asking for just three.
+  - who: ravi
+    t: ಮೂರು ತಿಂಗಳ ಮನೆಗಳೂ ಇವೆ, ನಿಜ. ಆದ್ರೆ ಇದು ಹೊಸ ಕಟ್ಟಡ, ಹೊಸ ಫಿಟ್ಟಿಂಗ್ಸ್, ಪ್ರತ್ಯೇಕ ಮೀಟರ್. ಮತ್ತೆ ನಮಗೂ ಇಎಂಐ ಇದೆ.
+    tr: Mūru tingaḷa manegaḷū ive, nija. Ādre idu hosa kaṭṭaḍa, hosa fiṭṭings, pratyēka mīṭar. Matte namagū EMI ide.
+    en: There are three-month houses too, true. But this is a new building, new fittings, a separate meter. And we have EMIs too.
+  - who: sneha
+    t: ಸಾರ್, ನಿಜ ಹೇಳ್ತೀನಿ. ಹಳೆ ಮನೆಯ ಡೆಪಾಸಿಟ್ ಇನ್ನೂ ಪೂರ್ತಿ ವಾಪಸ್ ಬಂದಿಲ್ಲ — 'ಪೇಂಟಿಂಗ್ ಚಾರ್ಜ್' ಅಂತ ಒಂದೂವರೆ ತಿಂಗಳ ಬಾಡಿಗೆ ಕಟ್ ಮಾಡಿದಾರೆ. ಐದು ತಿಂಗಳು ಮಾಡಿದ್ರೆ ತುಂಬಾ ಸಹಾಯ ಆಗುತ್ತೆ.
+    tr: Sār, nija hēḷtīni. Haḷe maneya ḍepāsiṭ innū pūrti vāpas bandilla — 'pēṇṭing chārj' anta ondūvare tingaḷa bāḍige kaṭ māḍidāre. Aidu tingaḷu māḍidre tumbā sahāya āgutte.
+    en: Sir, I'll be honest. We still haven't got our full deposit back from the old house — they cut a month and a half's rent as a 'painting charge'. If you could make it five months, it would help a lot.
+  - scene: Deepa leans towards Ravi and speaks quietly.
+  - who: deepa
+    t: ಐದು ತಿಂಗಳು ಅಂದ್ರೂ ತೊಂಬತ್ತು ಸಾವಿರ ಆಗುತ್ತೆ. ಒಳ್ಳೆ ಜನ ಸಿಗೋದು ಹದಿನೆಂಟು ಸಾವಿರಕ್ಕಿಂತ ಮುಖ್ಯ.
+    tr: Aidu tingaḷu andrū tombattu sāvira āgutte. Oḷḷe jana sigōdu hadineṇṭu sāvirakkinta mukhya.
+    en: Even five months comes to ninety thousand. Finding good people matters more than eighteen thousand.
+  - who: ravi
+    t: ಸರಿ, ಐದು ತಿಂಗಳು — ತೊಂಬತ್ತು ಸಾವಿರ. ಆದ್ರೆ ಖಾಲಿ ಮಾಡುವಾಗ ಏನು ಕಟ್ ಆಗುತ್ತೆ ಅಂತ ಅಗ್ರಿಮೆಂಟ್‌ನಲ್ಲೇ ಬರೆದಿರ್ತೀವಿ — ಪೇಂಟಿಂಗ್‌ಗೆ ಹದಿನೈದು ದಿನದ ಬಾಡಿಗೆ ಮಾತ್ರ. ಆಮೇಲೆ ಯಾವ ಆಶ್ಚರ್ಯನೂ ಇರಲ್ಲ.
+    tr: Sari, aidu tingaḷu — tombattu sāvira. Ādre khāli māḍuvāga ēnu kaṭ āgutte anta agrimenṭnallē baredirtīvi — pēṇṭingge hadinaidu dinada bāḍige mātra. Āmēle yāva āścaryanū iralla.
+    en: All right, five months — ninety thousand. But we'll write into the agreement itself what gets deducted when you vacate — only fifteen days' rent for painting. Then there'll be no surprises later.
+  - who: arjun
+    t: ಇದಕ್ಕಿಂತ ನ್ಯಾಯ ಬೇರೆ ಇಲ್ಲ ಸಾರ್. ನಮಗೆ ಒಪ್ಪಿಗೆ.
+    tr: Idakkinta nyāya bēre illa sār. Namage oppige.
+    en: It can't be fairer than this, sir. We agree.
+  - section: 🧑‍🔧 Farooq's family
+    learn: 'speaking frankly: nēravāgi, tappu tiḷkōbēḍi · trust · ṭōkan aḍvāns, rasīdi'
+  - scene: Eleven o'clock. Farooq climbs to the second floor with his wife Rizwana and their ten-year-old son Imran. Amma is watering the plants on the landing.
+  - who: farooq
+    t: ಅಸ್ಸಲಾಮು ಅಲೈಕುಮ್, ನಮಸ್ಕಾರ ಸಾರ್. ನಾನು ಫಾರೂಕ್. ಹದಿನೈದು ವರ್ಷದಿಂದ ಕೆಂಗೇರಿಯಲ್ಲೇ ಅಂಗಡಿ ಇದೆ. ಈಗಿರೋ ಮನೆಯ ಓನರ್ ಮಗನ ಮದುವೆ, ಅವರಿಗೆ ಮನೆ ಬೇಕಂತೆ. ಅದಕ್ಕೆ ಹುಡುಕ್ತಿದೀವಿ.
+    tr: Assalāmu alaikum, namaskāra sār. Nānu Phārūk. Hadinaidu varṣadinda Kengēriyallē angaḍi ide. Īgirō maneya ōnar magana maduve, avarige mane bēkante. Adakke huḍuktidīvi.
+    en: Assalamu alaikum, hello, sir. I'm Farooq. I've had my shop right here in Kengeri for fifteen years. Our present owner's son is getting married and they need the house back. That's why we're looking.
+  - who: ravi
+    t: ನಿಮ್ಮ ಅಂಗಡಿಯಲ್ಲೇ ನನ್ನ ಫೋನ್ ಸ್ಕ್ರೀನ್ ಬದಲಾಯಿಸಿದ್ದೆ, ನೆನಪಿದೆ. ಮಗ ಯಾವ ಕ್ಲಾಸ್?
+    tr: Nimma angaḍiyallē nanna phōn skrīn badalāyisidde, nenapide. Maga yāva klās?
+    en: I had my phone screen replaced at your shop, I remember. Which class is your son in?
+  - who: farooq
+    t: ಐದನೇ ಕ್ಲಾಸ್, ಇಲ್ಲೇ ಹತ್ತಿರದ ಕನ್ನಡ ಮೀಡಿಯಂ ಸ್ಕೂಲ್‌ನಲ್ಲಿ. ನನ್ನ ಹೆಂಡತಿ ರಿಜ್ವಾನಾ ಮನೇಲೇ ಟೈಲರಿಂಗ್ ಮಾಡ್ತಾಳೆ — ಮಷೀನ್ ಶಬ್ದ ಸ್ವಲ್ಪ ಇರುತ್ತೆ, ಆದ್ರೆ ರಾತ್ರಿ ಎಂಟರ ಮೇಲೆ ಇಲ್ಲ.
+    tr: Aidanē klās, illē hattirada Kannaḍa mīḍiyam skūlnalli. Nanna heṇḍati Rizvānā manēlē ṭailaring māḍtāḷe — maśīn śabda swalpa irutte, ādre rātri eṇṭara mēle illa.
+    en: Fifth class, at a Kannada-medium school close by. My wife Rizwana does tailoring at home — there's a little machine noise, but none after eight at night.
+  - who: amma
+    t: ಟೈಲರಿಂಗ್ ಮಾಡ್ತಾರಾ? ನನ್ನ ಬ್ಲೌಸ್ ಹೊಲಿಸೋಕೆ ವಿಜಯನಗರದವರೆಗೂ ಹೋಗ್ತಿದ್ದೆ!
+    tr: Ṭailaring māḍtārā? Nanna blaus holisōke Vijayanagaradavaregū hōgtidde!
+    en: She does tailoring? I used to go all the way to Vijayanagar to get my blouses stitched!
+  - who: farooq
+    t: ಸಾರ್, ನೇರವಾಗಿ ಒಂದು ಮಾತು ಕೇಳ್ತೀನಿ, ತಪ್ಪು ತಿಳ್ಕೋಬೇಡಿ. ಮೂರು ಕಡೆ ನನ್ನ ಹೆಸರು ಕೇಳಿದ ತಕ್ಷಣ 'ಮನೆ ಆಗ್ಲೇ ಹೋಯ್ತು' ಅಂದ್ರು. ನಿಮಗೆ ಏನಾದ್ರೂ ಸಮಸ್ಯೆ ಇದ್ರೆ ಈಗಲೇ ಹೇಳಿ, ಯಾರ ಸಮಯನೂ ವ್ಯರ್ಥ ಆಗಲ್ಲ.
+    tr: Sār, nēravāgi ondu mātu kēḷtīni, tappu tiḷkōbēḍi. Mūru kaḍe nanna hesaru kēḷida takṣaṇa 'mane āglē hōytu' andru. Nimage ēnādrū samasye idre īgalē hēḷi, yāra samayanū vyartha āgalla.
+    en: Sir, let me ask you something straight — please don't take it the wrong way. In three places, the moment they heard my name, they said 'the house is already taken'. If you have any problem, tell me now, so nobody's time is wasted.
+  - who: ravi
+    t: 'ಫಾರೂಕ್ ಅವರೇ, ಈ ಮನೆಯಲ್ಲಿ ನಿಯಮ ಎಲ್ಲರಿಗೂ ಒಂದೇ: ಸಮಯಕ್ಕೆ ಬಾಡಿಗೆ, ಸ್ವಚ್ಛ ಮನೆ, ನೆರೆಹೊರೆಗೆ ಗೌರವ. ಹೆಸರು ನೋಡಿ ನಾವು ನಿರ್ಧಾರ ಮಾಡಲ್ಲ.'
+    tr: 'Phārūk avarē, ī maneyalli niyama ellarigū ondē: samayakke bāḍige, swaccha mane, nerehorege gaurava. Hesaru nōḍi nāvu nirdhāra māḍalla.'
+    en: 'Farooq, in this house the rules are the same for everyone: rent on time, a clean home, respect for the neighbours. We don''t decide by looking at a name.'
+  - who: amma
+    t: ನಿಮ್ಮ ಮಗ ನಮ್ಮ ಅನನ್ಯಾಗೆ ಜೊತೆ ಆಗ್ತಾನೆ. ಬನ್ನಿ, ಅಡುಗೆಮನೆ ನೋಡಿ — ಗಾಳಿ ಚೆನ್ನಾಗಿ ಬರುತ್ತೆ.
+    tr: Nimma maga namma Ananyāge jote āgtāne. Banni, aḍugemane nōḍi — gāḷi chennāgi barutte.
+    en: Your son will be good company for our Ananya. Come, see the kitchen — it gets plenty of air.
+  - who: farooq
+    t: ತುಂಬಾ ಧನ್ಯವಾದ ಅಮ್ಮ. ಸಾರ್, ಹದಿನೇಳು ಸಾವಿರ ಬಾಡಿಗೆ, ಐದು ತಿಂಗಳ ಡೆಪಾಸಿಟ್ — ಎಂಬತ್ತೈದು ಸಾವಿರ, ಅಲ್ವಾ? ಹಳೆ ಓನರ್ ಮೂರು ವಾರದಲ್ಲಿ ಡೆಪಾಸಿಟ್ ವಾಪಸ್ ಕೊಡ್ತಾರೆ. ಇವತ್ತು ಇಪ್ಪತ್ತು ಸಾವಿರ ಟೋಕನ್ ಕೊಡ್ತೀನಿ.
+    tr: Tumbā dhanyavāda Amma. Sār, hadinēḷu sāvira bāḍige, aidu tingaḷa ḍepāsiṭ — embattaidu sāvira, alvā? Haḷe ōnar mūru vāradalli ḍepāsiṭ vāpas koḍtāre. Ivattu ippattu sāvira ṭōkan koḍtīni.
+    en: Thank you very much, Amma. Sir, seventeen thousand rent and five months' deposit — eighty-five thousand, right? My old owner returns the deposit in three weeks. Today I'll give you twenty thousand as a token.
+  - who: ravi
+    t: ಸರಿ. ಟೋಕನ್ ಯುಪಿಐನಲ್ಲಿ ಕಳಿಸಿ, ರಸೀದಿ ಕೊಡ್ತೀನಿ. ಉಳಿದದ್ದು ಅಗ್ರಿಮೆಂಟ್ ದಿನ ಬ್ಯಾಂಕ್ ಟ್ರಾನ್ಸ್‌ಫರ್ ಮೂಲಕ.
+    tr: Sari. Ṭōkan UPI-nalli kaḷisi, rasīdi koḍtīni. Uḷidaddu agrimenṭ dina byānk ṭrānsfar mūlaka.
+    en: Fine. Send the token by UPI and I'll give you a receipt. The rest by bank transfer on the day of the agreement.
+  - section: 📜 Agreement, verification and house rules
+    learn: 'bāḍige karāru, e-stamp, sākṣi · document register: pāvatisatakkaddu, heccisalāguvudu · police verification · maintenance'
+  - scene: A week later. The dining table in Ravi's ground-floor home. Two printed agreements on e-stamp paper. Arjun, Sneha and Farooq sit across from Ravi and Deepa.
+  - who: ravi
+    t: ಇದು ಹನ್ನೊಂದು ತಿಂಗಳ ಬಾಡಿಗೆ ಕರಾರು, ಐನೂರು ರೂಪಾಯಿಯ ಇ-ಸ್ಟ್ಯಾಂಪ್ ಪೇಪರ್ ಮೇಲೆ. ಹನ್ನೊಂದು ತಿಂಗಳ ಕರಾರಿಗೆ ರಿಜಿಸ್ಟ್ರೇಶನ್ ಕಡ್ಡಾಯ ಇಲ್ಲ, ಆದ್ರೆ ಎರಡೂ ಕಡೆಯ ಸಹಿ, ಇಬ್ಬರು ಸಾಕ್ಷಿಗಳು ಬೇಕು.
+    tr: Idu hannondu tingaḷa bāḍige karāru, ainūru rūpāyiya i-sṭyāmp pēpar mēle. Hannondu tingaḷa karārige rijisṭrēśan kaḍḍāya illa, ādre eraḍū kaḍeya sahi, ibbaru sākṣigaḷu bēku.
+    en: This is an eleven-month rental agreement on five-hundred-rupee e-stamp paper. Registration isn't compulsory for an eleven-month agreement, but it needs signatures from both sides and two witnesses.
+  - scene: The doorbell rings. Krishnappa comes in, reading glasses in his shirt pocket.
+  - who: neighbour
+    t: ಸಾಕ್ಷಿ ಸಹಿಗೆ ಕರೆದ್ರಲ್ಲ, ಬಂದೆ. ಮೊದಲು ಓದ್ತೀನಿ, ಆಮೇಲೆ ಸಹಿ — ನಾನು ಯಾವತ್ತೂ ಓದದೆ ಸಹಿ ಹಾಕಲ್ಲ.
+    tr: Sākṣi sahige karedralla, bande. Modalu ōdtīni, āmēle sahi — nānu yāvattū ōdade sahi hākalla.
+    en: You called me to sign as a witness, so here I am. I'll read it first, then sign — I never sign anything without reading it.
+  - who: ravi
+    t: ಅದಕ್ಕೇ ನಿಮ್ಮನ್ನ ಕರೆದಿದ್ದು ಕೃಷ್ಣಪ್ಪನವರೇ. ಎರಡನೇ ಸಾಕ್ಷಿ ಅಪ್ಪ.
+    tr: Adakkē nimmanna karediddu Kṛṣṇappanavarē. Eraḍanē sākṣi Appa.
+    en: That's exactly why I asked you, Krishnappa. The second witness is Appa.
+  - who: deepa
+    t: 'ಮುಖ್ಯ ಅಂಶಗಳನ್ನ ಓದ್ತೀನಿ: ''ಬಾಡಿಗೆಯನ್ನು ಪ್ರತಿ ತಿಂಗಳ ಐದನೇ ತಾರೀಖಿನೊಳಗೆ ಪಾವತಿಸತಕ್ಕದ್ದು. ಹನ್ನೊಂದು ತಿಂಗಳ ನಂತರ ಪರಸ್ಪರ ಒಪ್ಪಿಗೆಯಿಂದ ಬಾಡಿಗೆಯನ್ನು ಶೇಕಡಾ ಐದರಷ್ಟು ಹೆಚ್ಚಿಸಲಾಗುವುದು. ಖಾಲಿ ಮಾಡುವ ಮೊದಲು ಒಂದು ತಿಂಗಳ ನೋಟಿಸ್ ನೀಡತಕ್ಕದ್ದು.'''
+    tr: 'Mukhya aṃśagaḷanna ōdtīni: ''Bāḍigeyannu prati tingaḷa aidanē tārīkhinoḷage pāvatisatakkaddu. Hannondu tingaḷa nantara paraspara oppigeyinda bāḍigeyannu śēkaḍā aidaraṣṭu heccisalāguvudu. Khāli māḍuva modalu ondu tingaḷa nōṭis nīḍatakkaddu.'''
+    en: 'I''ll read out the main points: ''The rent shall be paid by the fifth of every month. After eleven months, the rent shall be increased by five percent by mutual consent. One month''s notice shall be given before vacating.'''
+  - who: ravi
+    t: ಈಗ ನಮ್ಮ ಮನೆಯ ಸಣ್ಣ ನಿಯಮಗಳು — ಇವು ಕಾನೂನಲ್ಲ, ಒಟ್ಟಿಗೆ ಬದುಕೋ ರೀತಿ. ಕಾವೇರಿ ನೀರು ದಿನ ಬಿಟ್ಟು ದಿನ ಬರುತ್ತೆ, ಮೋಟಾರ್ ನಾನೇ ಹಾಕ್ತೀನಿ; ನೀರು ಪೋಲು ಮಾಡಬೇಡಿ. ಸ್ಟಿಲ್ಟ್‌ನಲ್ಲಿ ಒಂದು ಕಾರ್ ಜಾಗ ನಮ್ಮದು, ಇನ್ನೊಂದು ಅರ್ಜುನ್ ಅವರ ಕಾರಿಗೆ. ಫಾರೂಕ್ ಅವರ ಬೈಕ್ ಗೇಟ್ ಪಕ್ಕ.
+    tr: Īga namma maneya saṇṇa niyamagaḷu — ivu kānūnalla, oṭṭige badukō rīti. Kāvēri nīru dina biṭṭu dina barutte, mōṭār nānē hāktīni; nīru pōlu māḍabēḍi. Sṭilṭnalli ondu kār jāga nammadu, innondu Arjun avara kārige. Phārūk avara baik gēṭ pakka.
+    en: Now our home's small rules — these aren't law, just how we live together. Cauvery water comes every other day and I'll run the motor myself; please don't waste water. In the stilt area, one car space is ours and the other is for Arjun's car. Farooq's bike goes beside the gate.
+  - who: deepa
+    t: 'ಮೆಂಟೆನೆನ್ಸ್: ಸಂಪ್, ಟ್ಯಾಂಕ್ ಕ್ಲೀನಿಂಗ್ ವರ್ಷಕ್ಕೆ ಎರಡು ಸಲ, ಮೆಟ್ಟಿಲು ಲೈಟ್, ಮೋಟಾರ್ ರಿಪೇರಿ — ಒಂದೊಂದು ಮನೆಗೂ ತಿಂಗಳಿಗೆ ಐನೂರು. ಕರೆಂಟ್ ಬಿಲ್ ನಿಮ್ಮ ನಿಮ್ಮ ಮೀಟರ್ ಪ್ರಕಾರ, ನೀರಿನ ಬಿಲ್ ಮೂರು ಭಾಗ.'
+    tr: 'Mentenens: samp, ṭyānk klīning varṣakke eraḍu sala, meṭṭilu laiṭ, mōṭār ripēri — ondondu manegū tingaḷige ainūru. Karaṇṭ bil nimma nimma mīṭar prakāra, nīrina bil mūru bhāga.'
+    en: 'Maintenance: sump and tank cleaning twice a year, the staircase lights, motor repairs — five hundred a month from each home. The electricity bill goes by your own meter; the water bill is split three ways.'
+  - who: ravi
+    t: ಕೊನೆಯದಾಗಿ ಪೊಲೀಸ್ ವೆರಿಫಿಕೇಶನ್. ಬೆಂಗಳೂರು ಸಿಟಿ ಪೊಲೀಸ್ ಸೂಚನೆ ಪ್ರಕಾರ ಮಾಲೀಕರು ಬಾಡಿಗೆದಾರರ ವಿವರ ಕೊಡಬೇಕು. ನಿಮ್ಮ ಆಧಾರ್ ಕಾಪಿ, ಎರಡು ಫೋಟೋ, ಹಿಂದಿನ ವಿಳಾಸ ಕೊಡಿ — ನಾನು ಅರ್ಜಿ ಹಾಕ್ತೀನಿ.
+    tr: Koneyadāgi polīs verifikēśan. Bengaḷūru siṭi polīs sūchane prakāra mālīkaru bāḍigedārara vivara koḍabēku. Nimma ādhār kāpi, eraḍu phōṭō, hindina viḷāsa koḍi — nānu arji hāktīni.
+    en: Lastly, police verification. Under the Bengaluru City Police directive, owners are supposed to give the tenants' details. Give me your Aadhaar copies, two photos and your previous address — I'll file the application.
+  - who: arjun
+    t: ಒಳ್ಳೇದೇ ಸಾರ್. ಸ್ನೇಹಾ ರಾತ್ರಿ ಶಿಫ್ಟ್‌ಗೆ ಹೋಗ್ತಾಳೆ — ಬಿಲ್ಡಿಂಗ್‌ನಲ್ಲಿ ಯಾರಿದಾರೆ ಅಂತ ಪೊಲೀಸರಿಗೆ ಗೊತ್ತಿದ್ರೆ ನಮಗೂ ಸುರಕ್ಷತೆ.
+    tr: Oḷḷēdē sār. Snēhā rātri śifṭge hōgtāḷe — bilḍingnalli yāridāre anta polīsarige gottidre namagū surakṣate.
+    en: That's a good thing, sir. Sneha goes to night shifts — if the police know who lives in the building, it's safer for us too.
+  - who: farooq
+    t: ಖಂಡಿತ ಸಾರ್. ಎಲ್ಲಾ ಪಕ್ಕಾ ಇದ್ರೇನೇ ಎರಡೂ ಕಡೆಗೆ ನೆಮ್ಮದಿ. ಡೆಪಾಸಿಟ್‌ನ ಬಾಕಿ ಅರವತ್ತೈದು ಸಾವಿರ ನೆಫ್ಟ್ ಮಾಡಿದೀನಿ, ನೋಡಿ.
+    tr: Khaṇḍita sār. Ellā pakkā idrēnē eraḍū kaḍege nemmadi. Ḍepāsiṭna bāki aravattaidu sāvira NEFT māḍidīni, nōḍi.
+    en: Of course, sir. Only when everything's in order is there peace of mind on both sides. I've sent the deposit balance of sixty-five thousand by NEFT — please check.
+  - who: sneha
+    t: ಸಾರ್, ಒಂದು ಪ್ರಶ್ನೆ — ಏನಾದ್ರೂ ರಿಪೇರಿ ಬಂದ್ರೆ ಯಾರಿಗೆ ಹೇಳಬೇಕು? ಹಳೆ ಮನೆಯಲ್ಲಿ ನಲ್ಲಿ ಸೋರಿದ್ರೆ ಮೂರು ವಾರ ಯಾರೂ ಬರ್ತಿರಲಿಲ್ಲ.
+    tr: Sār, ondu praśne — ēnādrū ripēri bandre yārige hēḷabēku? Haḷe maneyalli nalli sōridre mūru vāra yārū bartiralilla.
+    en: Sir, one question — if any repair comes up, whom do we tell? In our old house, if a tap leaked, nobody came for three weeks.
+  - who: ravi
+    t: ನೇರವಾಗಿ ನನಗೆ, ಇಲ್ಲಾ ದೀಪಾಗೆ — ನಾವು ಕೆಳಗೇ ಇರ್ತೀವಿ. ದೊಡ್ಡ ರಿಪೇರಿ ನಮ್ಮ ಖರ್ಚು; ನಿಮ್ಮಿಂದ ಏನಾದ್ರೂ ಒಡೆದ್ರೆ ಮಾತ್ರ ನಿಮ್ಮ ಖರ್ಚು. ಇದೂ ಅಗ್ರಿಮೆಂಟ್‌ನಲ್ಲಿದೆ.
+    tr: Nēravāgi nanage, illā Dīpāge — nāvu keḷagē irtīvi. Doḍḍa ripēri namma kharcu; nimminda ēnādrū oḍedre mātra nimma kharcu. Idū agrimenṭnallide.
+    en: Directly to me, or to Deepa — we're right downstairs. Major repairs are at our cost; only if you break something is it at yours. That's in the agreement too.
+  - section: 🔑 Handing over the keys
+    learn: welcome and blessings · -li (may it …) · meter reading on handover
+  - scene: 1 August 2026, morning. Two small moving vans at the gate. Amma has placed a plate with turmeric, kumkum and sugar at each door.
+  - who: ravi
+    t: 'ಅರ್ಜುನ್, ಸ್ನೇಹಾ — ಇವು ನಿಮ್ಮ ಕೀಗಳು: ಮೇನ್ ಡೋರ್, ಗೇಟ್, ಟೆರೇಸ್. ಮೀಟರ್ ರೀಡಿಂಗ್ ಇವತ್ತು ಫೋಟೋ ತಗೊಂಡಿದೀನಿ. ಇವತ್ತಿನಿಂದ ಕರೆಂಟ್ ಬಿಲ್ ನಿಮ್ಮದು.'
+    tr: 'Arjun, Snēhā — ivu nimma kīgaḷu: mēn ḍōr, gēṭ, ṭerēs. Mīṭar rīḍing ivattu phōṭō tagoṇḍidīni. Ivattininda karaṇṭ bil nimmadu.'
+    en: 'Arjun, Sneha — these are your keys: main door, gate, terrace. I''ve photographed the meter reading today. From today, the electricity bill is yours.'
+  - who: sneha
+    t: ಅಮ್ಮ, ಅರಿಶಿನ-ಕುಂಕುಮ ಇಟ್ಟಿದೀರಿ… ನಮ್ಮ ಅಮ್ಮನ ಮನೆ ನೆನಪಾಯ್ತು.
+    tr: Amma, ariśina-kuṅkuma iṭṭidīri… namma ammana mane nenapāytu.
+    en: Amma, you've put out turmeric and kumkum… it reminds me of my mother's home.
+  - who: amma
+    t: ಈ ಮನೆ ನಿಮಗೂ ಒಳ್ಳೇದು ಮಾಡಲಿ. ಹೊಸ ಮನೆಯಲ್ಲಿ ಮೊದಲು ಹಾಲು ಕಾಯಿಸಿ, ಆಮೇಲೆ ಬೇರೆ ಕೆಲಸ.
+    tr: Ī mane nimagū oḷḷēdu māḍali. Hosa maneyalli modalu hālu kāyisi, āmēle bēre kelasa.
+    en: May this house be good to you too. In a new home, boil milk first, and everything else after.
+  - who: farooq
+    t: ಸಾರ್, ಈ ಮನೆಗೆ ಬರೋಕೆ ಮುಂಚೆ ಮನಸ್ಸಲ್ಲಿ ಸ್ವಲ್ಪ ಭಯ ಇತ್ತು. ಈಗ ಇಲ್ಲ. ನೋಡಿ, ಇಮ್ರಾನ್ ಆಗ್ಲೇ ಅನನ್ಯಾ ಜೊತೆ ಟೆರೇಸ್‌ಗೆ ಓಡಿದಾನೆ.
+    tr: Sār, ī manege barōke munce manassalli swalpa bhaya ittu. Īga illa. Nōḍi, Imrān āglē Ananyā jote ṭerēsge ōḍidāne.
+    en: Sir, before coming to this house I had a little fear in my heart. Not anymore. Look, Imran has already run up to the terrace with Ananya.
+  - who: arjun
+    t: ಸಾರ್, ಪೊಲೀಸ್ ವೆರಿಫಿಕೇಶನ್ ಏನಾಯ್ತು?
+    tr: Sār, polīs verifikēśan ēnāytu?
+    en: Sir, what happened with the police verification?
+  - who: ravi
+    t: ನಿನ್ನೆನೇ ಎಸ್‌ಎಂಎಸ್ ಬಂತು — ಎರಡೂ ಕುಟುಂಬದ್ದು ಪರಿಶೀಲನೆ ಮುಗಿದಿದೆ. ಕಾಪಿ ನಿಮಗೂ ವಾಟ್ಸಾಪ್ ಮಾಡ್ತೀನಿ.
+    tr: Ninnenē SMS bantu — eraḍū kuṭumbaddu pariśīlane mugidide. Kāpi nimagū vāṭsāp māḍtīni.
+    en: The SMS came just yesterday — the verification for both families is complete. I'll WhatsApp you a copy too.
+  - section: 🌙 On the terrace
+    learn: 'looking back: habitual past -tidde · sūru (roof, shelter) · hemme (pride) · closing proverb'
+  - scene: That night. The terrace. The lights of Kengeri, a metro train sliding past in the distance. Ravi and Appa sit on the parapet. Below them, three sets of windows glow — three families, three meters.
+  - who: appa
+    t: ಮೂವತ್ತೆರಡು ವರ್ಷ ಬಸ್ಸಲ್ಲಿ ಜನರನ್ನ ಅವರವರ ಮನೆಗೆ ತಲುಪಿಸಿದೆ. ನಾನು ಮಾತ್ರ ಒಂದು ಬಾಡಿಗೆ ಮನೆಯಿಂದ ಇನ್ನೊಂದು ಬಾಡಿಗೆ ಮನೆಗೆ ಹೋಗ್ತಿದ್ದೆ. ಹನ್ನೊಂದು ಸಲ ಮನೆ ಬದಲಾಯಿಸಿದ್ವಿ, ನೆನಪಿದೆಯಾ?
+    tr: Mūvatteraḍu varṣa bassalli janaranna avaravara manege talupiside. Nānu mātra ondu bāḍige maneyinda innondu bāḍige manege hōgtidde. Hannondu sala mane badalāyisidvi, nenapideyā?
+    en: For thirty-two years I took people home on the bus, each to their own house. Only I kept moving from one rented house to another. We changed houses eleven times, remember?
+  - who: ravi
+    t: ನೆನಪಿದೆ ಅಪ್ಪ. ಪ್ರತಿ ಸಲ ಅಮ್ಮ ದೇವರ ಫೋಟೋಗಳನ್ನ ಪೇಪರ್‌ನಲ್ಲಿ ಸುತ್ತಿ, ಎಲ್ಲಕ್ಕಿಂತ ಮೊದಲು ಅವನ್ನೇ ಹೊಸ ಮನೆಗೆ ತಗೊಂಡು ಹೋಗ್ತಿದ್ರು.
+    tr: Nenapide Appa. Prati sala Amma dēvara phōṭōgaḷanna pēparnalli sutti, ellakkinta modalu avannē hosa manege tagoṇḍu hōgtiddru.
+    en: I remember, Appa. Every time, Amma would wrap the pictures of the gods in newspaper and carry them into the new house before anything else.
+  - who: appa
+    t: ನಿನಗೆ ಸಾಲ ಮಾಡಬೇಡ ಅಂತ ಎಷ್ಟೋ ಸಲ ಹೇಳಿದೆ. ನಾನು ತಪ್ಪು ಹೇಳಿರಲಿಲ್ಲ — ಸಾಲ ಭಾರನೇ. ಆದ್ರೆ ನೀನು ಅದನ್ನ ಹೊರೋ ರೀತಿ ನೋಡಿ ನನಗೆ ಹೆಮ್ಮೆ ಆಗುತ್ತೆ.
+    tr: Ninage sāla māḍabēḍa anta eṣṭō sala hēḷide. Nānu tappu hēḷiralilla — sāla bhāranē. Ādre nīnu adanna horō rīti nōḍi nanage hemme āgutte.
+    en: I told you so many times not to take on debt. I wasn't wrong — debt is a burden. But seeing the way you carry it makes me proud.
+  - who: ravi
+    t: ಇನ್ನೂ ಹದಿನೆಂಟು ವರ್ಷ ಇಎಂಐ ಇದೆ ಅಪ್ಪ. ಕೆಲವು ರಾತ್ರಿ ನಿದ್ದೆ ಬರಲ್ಲ. ಆದ್ರೆ ಬಾಡಿಗೆಯಿಂದ ಪ್ರೀಪೇಮೆಂಟ್ ಮಾಡಿದ್ರೆ ಅದನ್ನ ಹತ್ತು-ಹನ್ನೆರಡು ವರ್ಷಕ್ಕೆ ಇಳಿಸಬಹುದು ಅಂತ ದೀಪಾ ಲೆಕ್ಕ ಹಾಕಿದಾಳೆ.
+    tr: Innū hadineṇṭu varṣa EMI ide Appa. Kelavu rātri nidde baralla. Ādre bāḍigeyinda prīpēmenṭ māḍidre adanna hattu-hanneraḍu varṣakke iḷisabahudu anta Dīpā lekka hākidāḷe.
+    en: There are still eighteen years of EMIs, Appa. Some nights I can't sleep. But Deepa has worked out that if we prepay from the rent, we can bring it down to ten or twelve years.
+  - who: ravi
+    t: ಮೊದಲು ದೀಪಾಳ ಬಳೆಗಳು ಹೊಸ ವರ್ಷದೊಳಗೆ ಬ್ಯಾಂಕ್‌ನಿಂದ ವಾಪಸ್ ಬರ್ತವೆ. ಆಮೇಲೆ, ಮಾತು ಕೊಟ್ಟ ಹಾಗೆ, ಪ್ರತಿ ತಿಂಗಳು ನಿಮ್ಮ ಅಕೌಂಟ್‌ಗೆ ಸ್ವಲ್ಪ.
+    tr: Modalu Dīpāḷa baḷegaḷu hosa varṣadoḷage byānkninda vāpas bartave. Āmēle, mātu koṭṭa hāge, prati tingaḷu nimma akauṇṭge swalpa.
+    en: First, Deepa's bangles come back from the bank before the new year. After that, as I promised, a little into your account every month.
+  - who: appa
+    t: ಬಳೆಗಳ ಮಾತು ಮೊದಲು ಉಳಿಸ್ಕೋ. ನನ್ನ ದುಡ್ಡು ಕಾಯುತ್ತೆ — ಅಪ್ಪ-ಮಗನ ಮಧ್ಯೆ ಲೆಕ್ಕದ ಪುಸ್ತಕ ಇರಲ್ಲ.
+    tr: Baḷegaḷa mātu modalu uḷiskō. Nanna duḍḍu kāyutte — appa-magana madhye lekkada pustaka iralla.
+    en: Keep your word about the bangles first. My money can wait — there's no account book between a father and his son.
+  - who: appa
+    t: ಮನೆ ಅಂದ್ರೆ ಗೋಡೆ, ಸ್ಲ್ಯಾಬ್ ಅಲ್ಲ ಕಣೋ. ಕೆಳಗೆ ನೋಡು — ಒಬ್ಬ ನರ್ಸ್, ಒಬ್ಬ ಅಂಗಡಿಯವನು, ನಿನ್ನ ಮಗಳು. ಮೂರು ದೀಪ, ಮೂರು ಕುಟುಂಬ. ನೀನು ಕಟ್ಟಿಸಿದ್ದು ಬರೀ ಮನೆ ಅಲ್ಲ — ಮೂರು ಕುಟುಂಬಕ್ಕೆ ಸೂರು.
+    tr: Mane andre gōḍe, slyāb alla kaṇō. Keḷage nōḍu — obba nars, obba angaḍiyavanu, ninna magaḷu. Mūru dīpa, mūru kuṭumba. Nīnu kaṭṭisiddu barī mane alla — mūru kuṭumbakke sūru.
+    en: A home isn't walls and slabs, son. Look down there — a nurse, a shopkeeper, your daughter. Three lights, three families. What you had built isn't just a house — it's a roof for three families.
+  - who: ravi
+    t: ನೀವು ಹಾಕಿದ ಅಡಿಪಾಯದ ಮೇಲೆ ಕಟ್ಟಿದ್ದು ಅಪ್ಪ. 'ಹನಿ ಹನಿ ಗೂಡಿದರೆ ಹಳ್ಳ' — ನೀವು ಕಲಿಸಿದ ಮೊದಲ ಪಾಠ ಅದೇ.
+    tr: Nīvu hākida aḍipāyada mēle kaṭṭiddu Appa. 'Hani hani gūḍidare haḷḷa' — nīvu kalisida modala pāṭha adē.
+    en: I built it on the foundation you laid, Appa. 'Drop by drop makes a stream' — that was the first lesson you taught me.
+  - who: appa
+    t: ಸರಿ ಸರಿ, ಭಾವುಕ ಆಗಬೇಡ. … ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಮೋಟಾರ್ ಹಾಕೋದು ಮರೀಬೇಡ. ನಾಳೆ ಕಾವೇರಿ ನೀರು ಬರೋ ದಿನ.
+    tr: Sari sari, bhāvuka āgabēḍa. … Nāḷe beḷigge mōṭār hākōdu marībēḍa. Nāḷe Kāvēri nīru barō dina.
+    en: All right, all right, don't get sentimental. … Don't forget to switch on the motor tomorrow morning. Tomorrow is a Cauvery water day.
+  - who: ravi
+    t: ಮರೆಯಲ್ಲ ಅಪ್ಪ. ಇದು ನಮ್ಮ ಮನೆ — ಇನ್ನು ಮೇಲೆ ಪ್ರತಿ ಹನಿನೂ ನಮ್ಮ ಜವಾಬ್ದಾರಿ.
+    tr: Mareyalla Appa. Idu namma mane — innu mēle prati haninū namma javābdāri.
+    en: I won't forget, Appa. This is our house — from now on, every drop is our responsibility.
+  - scene: They sit a while longer in silence. Below them, one by one, the three sets of windows go dark.

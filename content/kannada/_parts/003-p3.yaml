@@ -1,0 +1,593 @@
+lines:
+  - chapter: "Chapter 4 — Discharge and a new routine"
+  - section: "🛏️ From the ICU to the ward"
+    learn: "dative experiencer: nanage hasivu āgtide · ‑iddāga (when … was) · ‑aṣṭaralli (by the time / meanwhile) · prohibitions ‑bēḍi · ‑bahudu (may)"
+  - scene: "Day four at Jayadeva. Ajji has been moved out of the ICU into the general ward. Morning rounds are over, and nurse Rekha is checking her drip."
+  - who: nurse
+    t: "ಅಜ್ಜಿ, ಇವತ್ತು ಹೇಗಿದ್ದೀರಾ? ರಾತ್ರಿ ನಿದ್ದೆ ಬಂತಾ?"
+    tr: "Ajji, ivattu hēgiddīrā? Rātri nidde bantā?"
+    en: "How are you today, Ajji? Did you get any sleep last night?"
+  - who: ajji
+    t: "ಐಸಿಯುನಲ್ಲಿ ಎಲ್ಲಿ ನಿದ್ದೆ ಬರುತ್ತೆ ಸಿಸ್ಟರ್? ರಾತ್ರಿ ಇಡೀ ಮೆಷೀನ್‌ಗಳು ಬೀಪ್ ಬೀಪ್ ಅಂತಿದ್ವು. ಇಲ್ಲಿ ವಾರ್ಡ್‌ನಲ್ಲಿ ಪರ್ವಾಗಿಲ್ಲ, ಒಂದು ಕಿಟಕಿ ಆದ್ರೂ ಇದೆ."
+    tr: "ICU-nalli elli nidde barutte sisṭar? Rātri iḍī meṣīngaḷu bīp bīp antidvu. Illi vārḍnalli parvāgilla, ondu kiṭaki ādrū ide."
+    en: "Who can sleep in the ICU, Sister? The machines went beep-beep all night. Here in the ward it's better — at least there's a window."
+  - who: nurse
+    t: "ಮೂರು ದಿನ ಐಸಿಯುನಲ್ಲಿ ಇದ್ರಿ, ಈಗ ಎಲ್ಲಾ ರಿಪೋರ್ಟ್ ಚೆನ್ನಾಗಿವೆ. ಮಣಿಕಟ್ಟು ತೋರಿಸಿ, ಸ್ಟೆಂಟ್ ಹಾಕಿದ ಜಾಗ ನೋಡ್ತೀನಿ. ಊತ ಇಲ್ಲ, ರಕ್ತ ಬಂದಿಲ್ಲ — ಒಳ್ಳೇದು."
+    tr: "Mūru dina ICU-nalli idri, īga ellā ripōrṭ chennāgive. Maṇikaṭṭu tōrisi, sṭeṇṭ hākida jāga nōḍtīni. Ūta illa, rakta bandilla — oḷḷēdu."
+    en: "You were three days in the ICU; now all the reports look good. Show me your wrist, I'll check where they put the stent in. No swelling, no bleeding — good."
+  - who: ajji
+    t: "ನನಗೆ ಹಸಿವಾಗ್ತಿದೆ ಸಿಸ್ಟರ್. ಒಂದು ಲೋಟ ಸ್ಟ್ರಾಂಗ್ ಕಾಫಿ ಸಿಗುತ್ತಾ?"
+    tr: "Nanage hasivāgtide sisṭar. Ondu lōṭa sṭrāṅg kāphi siguttā?"
+    en: "I'm hungry, Sister. Can I get a glass of strong coffee?"
+  - who: nurse
+    t: "ಕಾಫಿ ಈಗ ಬೇಡ ಅಜ್ಜಿ. ಡಯಟೀಷಿಯನ್ ಹೇಳಿರೋ ಹಾಗೆ ಗಂಜಿ ಬರುತ್ತೆ. ಕಾಫಿ ಬಗ್ಗೆ ಡಾಕ್ಟ್ರ ಹತ್ರಾನೇ ಕೇಳಿ."
+    tr: "Kāphi īga bēḍa ajji. Ḍayaṭīṣiyan hēḷirō hāge ganji barutte. Kāphi bagge ḍākṭra hatrānē kēḷi."
+    en: "No coffee for now, Ajji. Rice gruel is coming, as the dietician ordered. Ask the doctor herself about coffee."
+  - who: amma
+    t: "ನೋಡಿದ್ರಾ ಸಿಸ್ಟರ್? ಸ್ವಲ್ಪ ಹುಷಾರಾಗ್ತಿದ್ದ ಹಾಗೇ ಅತ್ತೆಗೆ ಕಾಫಿ ನೆನಪಾಯ್ತು."
+    tr: "Nōḍidrā sisṭar? Svalpa huṣārāgtidda hāgē attege kāphi nenapāytu."
+    en: "See, Sister? The moment she feels a little better, my mother-in-law remembers her coffee."
+  - who: ajji
+    t: "ಕಾಫಿ ಅಲ್ಲ ಕಣೇ ಮುಖ್ಯ. ಶ್ವೇತಾ ಎಲ್ಲಿ? ನಾನು ಐಸಿಯುನಲ್ಲಿದ್ದಾಗ ಅವಳು ಬಂದಿದ್ಲಾ?"
+    tr: "Kāphi alla kaṇē mukhya. Shwētā elli? Nānu ICU-nalliddāga avaḷu bandidlā?"
+    en: "It's not the coffee that matters, dear. Where's Shwetha? Did she come while I was in the ICU?"
+  - who: amma
+    t: "ಬಂದಿದ್ಲು ಅತ್ತೆ. ಐಸಿಯು ಒಳಗೆ ಒಬ್ಬರಿಗೇ ಪಾಸ್, ಇನ್ಫೆಕ್ಷನ್ ಭಯ ಬೇರೆ — ಅದಕ್ಕೆ ಗ್ಲಾಸ್ ಹೊರಗಿಂದಾನೇ ನೋಡಿ ಹೋದ್ಲು. ಇವತ್ತು ಸಂಜೆ ಬರ್ತಾಳಂತೆ."
+    tr: "Bandidlu atte. ICU oḷage obbarigē pās, inphekṣan bhaya bēre — adakke glās horagindānē nōḍi hōdlu. Ivattu sanje bartāḷante."
+    en: "She did, Atte. There's only one pass for inside the ICU, and there's the fear of infection too — so she just looked at you through the glass and left. She says she's coming this evening."
+  - who: nurse
+    t: "ಡಾಕ್ಟ್ರು ಹನ್ನೊಂದು ಗಂಟೆಗೆ ರೌಂಡ್ಸ್‌ಗೆ ಬರ್ತಾರೆ. ಎಲ್ಲಾ ಸರಿ ಇದ್ರೆ ನಾಳೆ ಡಿಸ್ಚಾರ್ಜ್ ಅಂತ ಹೇಳಿದ್ರು. ಅಷ್ಟರಲ್ಲಿ ಬಾತ್‌ರೂಮ್‌ಗೆ ಒಬ್ಬರೇ ಹೋಗ್ಬೇಡಿ, ಈ ಬೆಲ್ ಒತ್ತಿ."
+    tr: "Ḍākṭru hannondu gaṇṭege rauṇḍsge bartāre. Ellā sari idre nāḷe ḍischārj anta hēḷidru. Aṣṭaralli bāthrūmge obbarē hōgbēḍi, ī bel otti."
+    en: "The doctor comes on her rounds at eleven. She said if everything's fine, discharge is tomorrow. Until then, don't go to the bathroom on your own — press this bell."
+  - who: ajji
+    t: "ಒಬ್ಬಳೇ ಹೋಗ್ಬೇಡ, ಕಾಫಿ ಕುಡೀಬೇಡ, ಉಪ್ಪು ತಿನ್ಬೇಡ… ಇನ್ನೇನು ಉಳಿದಿದೆ ನನಗೆ?"
+    tr: "Obbaḷē hōgbēḍa, kāphi kuḍībēḍa, uppu tinbēḍa… innēnu uḷidide nanage?"
+    en: "Don't go alone, don't drink coffee, don't eat salt… what's left for me?"
+  - who: nurse
+    t: "ಮಾತಾಡ್ಬಹುದು ಅಜ್ಜಿ, ಎಷ್ಟು ಬೇಕಾದ್ರೂ! ಅದಕ್ಕೆ ಯಾವ ರೂಲ್ಸೂ ಇಲ್ಲ."
+    tr: "Mātāḍbahudu ajji, eṣṭu bēkādrū! Adakke yāva rūlsū illa."
+    en: "(laughing) You can talk, Ajji, as much as you like! There's no rule against that."
+
+  - section: "📄 The discharge summary"
+    learn: "‑bāradu / ‑bēku (must not / must) · yāvudē kāraṇakkū (for no reason at all) · 1‑0‑1 read aloud · counterfactual ‑idre … ‑titu · rakta heppugaṭṭu (blood clots) · warning signs"
+  - scene: "The next morning. Dr. Meera Kulkarni sits with Appa, Amma and Kiran in the small counselling room of the ward, the discharge summary in her hand."
+  - who: cardio
+    t: "ನೋಡಿ, ಇದು ಡಿಸ್ಚಾರ್ಜ್ ಸಮ್ಮರಿ. ಇದನ್ನ ಜೋಪಾನವಾಗಿ ಇಟ್ಕೊಳ್ಳಿ. ಮುಂದೆ ಯಾವ ಡಾಕ್ಟ್ರ ಹತ್ರ ಹೋದ್ರೂ, ಯಾವ ಸ್ಕೀಮ್‌ಗೆ ಅಪ್ಲೈ ಮಾಡಿದ್ರೂ, ಇದನ್ನೇ ಮೊದಲು ಕೇಳ್ತಾರೆ."
+    tr: "Nōḍi, idu ḍischārj sammari. Idanna jōpānavāgi iṭkoḷḷi. Munde yāva ḍākṭra hatra hōdrū, yāva skīmge aplai māḍidrū, idannē modalu kēḷtāre."
+    en: "Look, this is the discharge summary. Keep it safe. Whichever doctor you see in future, whatever scheme you apply to, this is the first thing they'll ask for."
+  - who: appa
+    t: "ಸರಿ ಮೇಡಂ. ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ ಏನೇನೋ ಬರೆದಿದೆ. ನಮಗೆ ಸ್ವಲ್ಪ ಕನ್ನಡದಲ್ಲಿ ಹೇಳ್ತೀರಾ?"
+    tr: "Sari mēḍam. Iṅgliṣnalli ēnēnō baredide. Namage svalpa Kannaḍadalli hēḷtīrā?"
+    en: "All right, madam. There's all sorts of things written in English. Could you explain it to us in Kannada?"
+  - who: cardio
+    t: "ಖಂಡಿತ. ಮೊದಲು ಡಯಾಗ್ನೋಸಿಸ್ — ಹಾರ್ಟ್ ಅಟ್ಯಾಕ್, ಅಂದ್ರೆ ಹೃದಯಾಘಾತ. ಹೃದಯಕ್ಕೆ ರಕ್ತ ತಗೊಂಡ್ ಹೋಗೋ ಒಂದು ಮುಖ್ಯ ರಕ್ತನಾಳದಲ್ಲಿ ಬ್ಲಾಕ್ ಇತ್ತು, ಅಲ್ಲಿ ಒಂದು ಸ್ಟೆಂಟ್ ಹಾಕಿದ್ವಿ. ಇಲ್ಲಿ 'ಪಿಟಿಸಿಎ ವಿತ್ ಒನ್ ಡಿಇಎಸ್' ಅಂತ ಬರೆದಿರೋದು ಅದೇ — ಔಷಧಿ ಲೇಪಿಸಿರೋ ಒಂದು ಸ್ಟೆಂಟ್."
+    tr: "Khaṇḍita. Modalu ḍayāgnōsis — hārṭ aṭyāk, andre hṛdayāghāta. Hṛdayakke rakta tagoṇḍ hōgō ondu mukhya raktanāḷadalli blāk ittu, alli ondu sṭeṇṭ hākidvi. Illi 'PTCA with one DES' anta baredirōdu adē — auṣadhi lēpisirō ondu sṭeṇṭ."
+    en: "Of course. First, the diagnosis — a heart attack, hṛdayāghāta. One of the main arteries carrying blood to the heart was blocked, and we put a stent there. What's written here, 'PTCA with one DES', means exactly that — one drug-coated stent."
+  - who: kiran
+    t: "ಸ್ಟೆಂಟ್ ಜೀವನ ಪೂರ್ತಿ ಒಳಗೇ ಇರುತ್ತಾ ಮೇಡಂ? ಆಮೇಲೆ ತೆಗೀಬೇಕಾ?"
+    tr: "Sṭeṇṭ jīvana pūrti oḷagē iruttā mēḍam? Āmēle tegībēkā?"
+    en: "Does the stent stay inside for life, madam? Does it have to be taken out later?"
+  - who: cardio
+    t: "ಇಲ್ಲ, ತೆಗೆಯೋ ಅಗತ್ಯ ಇಲ್ಲ. ಅದು ರಕ್ತನಾಳದ ಗೋಡೆಯೊಳಗೆ ಸೇರ್ಕೊಂಡ್ ಬಿಡುತ್ತೆ. ಆದ್ರೆ ಸ್ಟೆಂಟ್ ಒಳಗೆ ಮತ್ತೆ ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟಬಾರದು. ಅದಕ್ಕೇ ಈ ಮಾತ್ರೆಗಳು ತುಂಬಾ ಮುಖ್ಯ."
+    tr: "Illa, tegeyō agatya illa. Adu raktanāḷada gōḍeyoḷage sērkoṇḍ biḍutte. Ādre sṭeṇṭ oḷage matte rakta heppugaṭṭabāradu. Adakkē ī mātregaḷu tumbā mukhya."
+    en: "No, there's no need to remove it. It becomes part of the artery wall. But blood must not clot again inside the stent. That's why these tablets are so important."
+  - who: cardio
+    t: "ಮೊದಲನೇದು, ಈ ಎರಡು ಬ್ಲಡ್ ಥಿನ್ನರ್ — ರಕ್ತ ತೆಳ್ಳಗೆ ಮಾಡೋ ಮಾತ್ರೆಗಳು. ಆಸ್ಪಿರಿನ್ ಮತ್ತೆ ಇನ್ನೊಂದು. ಕನಿಷ್ಠ ಒಂದು ವರ್ಷ ಎರಡೂ ತಗೋಬೇಕು, ಆಸ್ಪಿರಿನ್ ಜೀವನ ಪೂರ್ತಿ. ಯಾವುದೇ ಕಾರಣಕ್ಕೂ ನಮ್ಮನ್ನ ಕೇಳದೆ ನಿಲ್ಲಿಸಬಾರದು. ಹಲ್ಲು ಕೀಳಿಸೋಕೆ ಹೋದ್ರೂ ಡೆಂಟಿಸ್ಟ್‌ಗೆ ಮೊದಲೇ ಹೇಳಿ."
+    tr: "Modalanēdu, ī eraḍu blaḍ thinnar — rakta teḷḷage māḍō mātregaḷu. Āspirin matte innondu. Kaniṣṭha ondu varṣa eraḍū tagōbēku, āspirin jīvana pūrti. Yāvudē kāraṇakkū nammanna kēḷade nillisabāradu. Hallu kīḷisōke hōdrū ḍeṇṭisṭge modalē hēḷi."
+    en: "First, these two blood thinners — tablets that keep the blood thin. Aspirin and one more. She has to take both for at least a year, and aspirin for life. Under no circumstances stop them without asking us. Even if she goes to have a tooth pulled, tell the dentist first."
+  - who: amma
+    t: "ಅತ್ತೆಗೆ ಮಾತ್ರೆ ನುಂಗೋದು ಅಂದ್ರೆ ಆಗೋದೇ ಇಲ್ಲ ಮೇಡಂ. ದಿನಾ ಜಗಳ ಆಗುತ್ತೆ."
+    tr: "Attege mātre nuṅgōdu andre āgōdē illa mēḍam. Dinā jagaḷa āgutte."
+    en: "My mother-in-law simply can't stand swallowing tablets, madam. It'll be a fight every day."
+  - who: cardio
+    t: "ಅದಕ್ಕೇ ನಿಮಗೆ ಹೇಳ್ತಿದ್ದೀನಿ, ಅವರಿಗಲ್ಲ! ಒಂದು ಪಿಲ್ ಬಾಕ್ಸ್ ತಗೊಳ್ಳಿ, ಇಡೀ ವಾರದ ಮಾತ್ರೆ ಮೊದಲೇ ಹಾಕಿಡಿ. ಎರಡನೇದು ಕೊಲೆಸ್ಟ್ರಾಲ್ ಮಾತ್ರೆ, ಸ್ಟ್ಯಾಟಿನ್ — ರಾತ್ರಿ ಊಟ ಆದ್ಮೇಲೆ ಒಂದು. ಮೂರನೇದು ಬಿಪಿ ಮಾತ್ರೆ, ಬೆಳಿಗ್ಗೆ ತಿಂಡಿ ಆದ್ಮೇಲೆ. ಜೊತೆಗೆ ಹೊಟ್ಟೆ ಉರಿ ಆಗದೆ ಇರೋಕೆ ಒಂದು ಗ್ಯಾಸ್ಟ್ರಿಕ್ ಮಾತ್ರೆ, ತಿಂಡಿಗೆ ಮುಂಚೆ ಮತ್ತೆ ಊಟಕ್ಕೆ ಮುಂಚೆ."
+    tr: "Adakkē nimage hēḷtiddīni, avarigalla! Ondu pil bāks tagoḷḷi, iḍī vārada mātre modalē hākiḍi. Eraḍanēdu kolesṭrāl mātre, sṭyāṭin — rātri ūṭa ādmēle ondu. Mūranēdu BP mātre, beḷigge tiṇḍi ādmēle. Jotege hoṭṭe uri āgade irōke ondu gyāsṭrik mātre, tiṇḍige munche matte ūṭakke munche."
+    en: "That's exactly why I'm telling you, not her! Buy a pill box and fill in the whole week's tablets in advance. Second, the cholesterol tablet, a statin — one at night after dinner. Third, the BP tablet, in the morning after breakfast. And a gastric tablet so her stomach doesn't burn — before breakfast and before dinner."
+  - who: kiran
+    t: "ಒಂದು ನಿಮಿಷ, ಫೋನ್‌ನಲ್ಲಿ ಬರ್ಕೋತೀನಿ. ಬೆಳಿಗ್ಗೆ ತಿಂಡಿಗೆ ಮುಂಚೆ ಗ್ಯಾಸ್ಟ್ರಿಕ್; ತಿಂಡಿ ಆದ್ಮೇಲೆ ಎರಡು ಬ್ಲಡ್ ಥಿನ್ನರ್, ಬಿಪಿ. ರಾತ್ರಿ ಊಟಕ್ಕೆ ಮುಂಚೆ ಮತ್ತೆ ಗ್ಯಾಸ್ಟ್ರಿಕ್; ಊಟ ಆದ್ಮೇಲೆ ಸ್ಟ್ಯಾಟಿನ್. ಸರೀನಾ ಮೇಡಂ?"
+    tr: "Ondu nimiṣa, phōnnalli barkōtīni. Beḷigge tiṇḍige munche gyāsṭrik; tiṇḍi ādmēle eraḍu blaḍ thinnar, BP. Rātri ūṭakke munche matte gyāsṭrik; ūṭa ādmēle sṭyāṭin. Sarīnā mēḍam?"
+    en: "One minute, I'll note it on my phone. Morning before breakfast: gastric. After breakfast: the two blood thinners and BP. Night before dinner: gastric again. After dinner: statin. Is that right, madam?"
+  - who: cardio
+    t: "ಸರಿ. ಚೀಟಿಯಲ್ಲಿ ಗ್ಯಾಸ್ಟ್ರಿಕ್ ಮುಂದೆ 'ಒಂದು-ಸೊನ್ನೆ-ಒಂದು' ಅಂತ ಇದೆಯಲ್ಲ, ಅದರ ಅರ್ಥ ಅದೇ — ಬೆಳಿಗ್ಗೆ ಒಂದು, ಮಧ್ಯಾಹ್ನ ಇಲ್ಲ, ರಾತ್ರಿ ಒಂದು."
+    tr: "Sari. Chīṭiyalli gyāsṭrik munde 'ondu-sonne-ondu' anta ideyalla, adara artha adē — beḷigge ondu, madhyāhna illa, rātri ondu."
+    en: "Right. Where the prescription says 'one-zero-one' next to the gastric tablet, that's what it means — one in the morning, none at noon, one at night."
+  - who: appa
+    t: "ಮೇಡಂ, ಮನೆಗೆ ಹೋದ್ಮೇಲೆ ಏನೇನು ಮಾಡಬಾರದು? ಅಮ್ಮ ಸುಮ್ಮನೆ ಕೂರೋರಲ್ಲ."
+    tr: "Mēḍam, manege hōdmēle ēnēnu māḍabāradu? Amma summane kūrōralla."
+    en: "Madam, what must she not do once she's home? My mother isn't one to sit still."
+  - who: cardio
+    t: "ಒಂದು ತಿಂಗಳು ಭಾರ ಎತ್ತಬಾರದು — ನೀರಿನ ಬಿಂದಿಗೆ, ಅಕ್ಕಿ ಚೀಲ, ಏನೂ ಇಲ್ಲ. ಮೆಟ್ಟಿಲು ನಿಧಾನವಾಗಿ ಹತ್ತಬಹುದು. ದಿನಾ ಬೆಳಿಗ್ಗೆ ಹತ್ತು ನಿಮಿಷ ವಾಕಿಂಗ್, ಆಮೇಲೆ ಪ್ರತಿ ವಾರ ಐದು ನಿಮಿಷ ಜಾಸ್ತಿ ಮಾಡಿ. ಉಪ್ಪು, ಎಣ್ಣೆ, ಸಿಹಿ — ಮೂರೂ ಕಮ್ಮಿ. ಉಪ್ಪಿನಕಾಯಿ, ಹಪ್ಪಳ, ಕರಿದಿದ್ದು ಬೇಡ."
+    tr: "Ondu tiṅgaḷu bhāra ettabāradu — nīrina bindige, akki chīla, ēnū illa. Meṭṭilu nidhānavāgi hattabahudu. Dinā beḷigge hattu nimiṣa vākiṅg, āmēle prati vāra aidu nimiṣa jāsti māḍi. Uppu, eṇṇe, sihi — mūrū kammi. Uppinakāyi, happaḷa, karididdu bēḍa."
+    en: "For a month she mustn't lift anything heavy — no water pots, no rice bags, nothing. She may climb stairs slowly. A ten-minute walk every morning, then add five minutes each week. Salt, oil, sweets — cut all three. No pickle, no papad, nothing fried."
+  - who: amma
+    t: "ಉಪ್ಪಿನಕಾಯಿ ಇಲ್ಲದೆ ಅತ್ತೆ ಊಟಾನೇ ಮಾಡಲ್ಲ ಮೇಡಂ…"
+    tr: "Uppinakāyi illade atte ūṭānē māḍalla mēḍam…"
+    en: "My mother-in-law won't eat a meal without pickle, madam…"
+  - who: cardio
+    t: "ಗೊತ್ತು, ಎಲ್ಲಾ ಅಜ್ಜಿಯರೂ ಹಾಗೇ! ತಿಂಗಳಿಗೆ ಒಂದು ಸಲ, ಒಂದು ಚಮಚ — ಅದನ್ನ ನಾನು ನೋಡಿಲ್ಲ ಅಂದ್ಕೊಳ್ಳಿ."
+    tr: "Gottu, ellā ajjiyarū hāgē! Tiṅgaḷige ondu sala, ondu chamacha — adanna nānu nōḍilla andkoḷḷi."
+    en: "I know, all grandmothers are like that! Once a month, one spoonful — let's say I didn't see it."
+  - who: cardio
+    t: "ಈಗ ಅತಿ ಮುಖ್ಯವಾದ ವಿಷಯ. ಮತ್ತೆ ಎದೆ ನೋವು, ಎದೆ ಭಾರ, ಉಸಿರು ಕಟ್ಟೋದು, ತಣ್ಣನೆ ಬೆವರು, ತಲೆಸುತ್ತು — ಇದರಲ್ಲಿ ಯಾವುದು ಬಂದ್ರೂ ಕಾಯಬೇಡಿ. 'ಗ್ಯಾಸ್ ಇರ್ಬೇಕು' ಅಂತ ಮನೇಲಿ ಕೂರಬೇಡಿ. ನೇರವಾಗಿ ಎಮರ್ಜೆನ್ಸಿಗೆ ಬನ್ನಿ, ಇಲ್ಲಾಂದ್ರೆ ನೂರಾ ಎಂಟಕ್ಕೆ ಫೋನ್ ಮಾಡಿ."
+    tr: "Īga ati mukhyavāda viṣaya. Matte ede nōvu, ede bhāra, usiru kaṭṭōdu, taṇṇane bevaru, talesuttu — idaralli yāvudu bandrū kāyabēḍi. 'Gyās irbēku' anta manēli kūrabēḍi. Nēravāgi emarjensige banni, illāndre nūrā eṇṭakke phōn māḍi."
+    en: "Now the most important thing. Chest pain again, heaviness in the chest, breathlessness, a cold sweat, dizziness — if any of these comes, don't wait. Don't sit at home saying 'it must be gas'. Come straight to emergency, or call 108."
+  - who: appa
+    t: "ಆ ರಾತ್ರಿ ನಾವು ಇನ್ನೂ ಸ್ವಲ್ಪ ಲೇಟ್ ಮಾಡಿದ್ರೆ ಏನಾಗ್ತಿತ್ತೋ… ನೆನೆಸ್ಕೊಂಡ್ರೇನೇ ಭಯ ಆಗುತ್ತೆ."
+    tr: "Ā rātri nāvu innū svalpa lēṭ māḍidre ēnāgtittō… nenaskoṇḍrēnē bhaya āgutte."
+    en: "If we'd been a little later that night, who knows what would have happened… just thinking about it frightens me."
+  - who: cardio
+    t: "ನೀವು ಬೇಗ ಕರ್ಕೊಂಡ್ ಬಂದಿದ್ದಕ್ಕೇ ಹಾರ್ಟ್ ಮಸಲ್ ಜಾಸ್ತಿ ಹಾಳಾಗಿಲ್ಲ. ಎಕೋದಲ್ಲಿ ಪಂಪಿಂಗ್ ನಲವತ್ತೈದು ಪರ್ಸೆಂಟ್ ಇದೆ — ಈ ವಯಸ್ಸಿಗೆ ಸಮಾಧಾನಕರ. ಎರಡು ವಾರ ಆದ್ಮೇಲೆ ಓಪಿಡಿಗೆ ರಿವ್ಯೂಗೆ ಬನ್ನಿ. ಅಲ್ಲೇ ಕಾರ್ಡಿಯಾಕ್ ರಿಹ್ಯಾಬ್ ಬಗ್ಗೆನೂ ಹೇಳ್ತಾರೆ."
+    tr: "Nīvu bēga karkoṇḍ bandiddakkē hārṭ masal jāsti hāḷāgilla. Ekōdalli pampiṅg nalavattaidu parsenṭ ide — ī vayassige samādhānakara. Eraḍu vāra ādmēle OPD-ge rivyūge banni. Allē kārḍiyāk rihyāb baggenū hēḷtāre."
+    en: "Because you brought her in quickly, not much heart muscle was damaged. On the echo the pumping is forty-five percent — reassuring at her age. Come to the OPD for a review after two weeks. They'll tell you about cardiac rehab there too."
+  - who: kiran
+    t: "ಕಾರ್ಡಿಯಾಕ್ ರಿಹ್ಯಾಬ್ ಅಂದ್ರೆ ಏನು ಮೇಡಂ?"
+    tr: "Kārḍiyāk rihyāb andre ēnu mēḍam?"
+    en: "What's cardiac rehab, madam?"
+  - who: cardio
+    t: "ಹಾರ್ಟ್ ಅಟ್ಯಾಕ್ ಆದ್ಮೇಲೆ ನಿಧಾನವಾಗಿ ಶಕ್ತಿ ವಾಪಸ್ ತರೋ ಪ್ರೋಗ್ರಾಮ್. ಫಿಸಿಯೋಥೆರಪಿಸ್ಟ್ ಮುಂದೆ ವಾಕಿಂಗ್, ಸಣ್ಣ ವ್ಯಾಯಾಮ — ಅವರು ಬಿಪಿ, ಪಲ್ಸ್ ನೋಡ್ತಾ ಇರ್ತಾರೆ. ಸುಮಾರು ಆರರಿಂದ ಹನ್ನೆರಡು ವಾರ. ಡಯಟ್ ಬಗ್ಗೆ, ಟೆನ್ಶನ್ ಬಗ್ಗೆನೂ ಮಾತಾಡ್ತಾರೆ. ಇದನ್ನ ಸರಿಯಾಗಿ ಮಾಡಿದೋರಿಗೆ ಮತ್ತೆ ಅಟ್ಯಾಕ್ ಆಗೋ ಸಾಧ್ಯತೆ ಕಮ್ಮಿ."
+    tr: "Hārṭ aṭyāk ādmēle nidhānavāgi shakti vāpas tarō prōgrām. Phisiyōtherapisṭ munde vākiṅg, saṇṇa vyāyāma — avaru BP, pals nōḍtā irtāre. Sumāru ārarinda hanneraḍu vāra. Ḍayaṭ bagge, ṭenshan baggenū mātāḍtāre. Idanna sariyāgi māḍidōrige matte aṭyāk āgō sādhyate kammi."
+    en: "It's a programme that slowly brings strength back after a heart attack. Walking and light exercise in front of a physiotherapist, who keeps checking BP and pulse. About six to twelve weeks. They also talk about diet and stress. People who do it properly are less likely to have another attack."
+  - who: appa
+    t: "ತುಂಬಾ ಥ್ಯಾಂಕ್ಸ್ ಮೇಡಂ. ನೀವು ಇಲ್ಲದಿದ್ರೆ…"
+    tr: "Tumbā thyāṅks mēḍam. Nīvu illadidre…"
+    en: "Thank you so much, madam. If it weren't for you…"
+  - who: cardio
+    t: "ನಾವು ನಮ್ಮ ಕೆಲಸ ಮಾಡಿದ್ವಿ ಅಷ್ಟೇ. ಆ ರಾತ್ರಿ ತಡ ಮಾಡದೆ ಫೋನ್ ಮಾಡಿದೋರಿಗೆ ಥ್ಯಾಂಕ್ಸ್ ಹೇಳಿ. ಬಿಲ್ಲಿಂಗ್‌ನಿಂದ ಕ್ಲಿಯರೆನ್ಸ್ ಬಂದ ತಕ್ಷಣ ಹೋಗ್ಬಹುದು."
+    tr: "Nāvu namma kelasa māḍidvi aṣṭē. Ā rātri taḍa māḍade phōn māḍidōrige thyāṅks hēḷi. Billiṅgninda kliyarens banda takṣaṇa hōgbahudu."
+    en: "We just did our job. Thank whoever called without delay that night. You can go as soon as billing gives clearance."
+
+  - section: "🧾 The billing desk — what the scheme paid"
+    learn: "kaṭṭu (pay) · skīmninda kavar āgide · 'free' andre … mātra · rasīdi, orijinal, jerāks · ‑oḷage (within) · lakh/thousand numbers · frustration and apology"
+  - scene: "Three in the afternoon, the billing counter on the ground floor. Appa and Kiran have been waiting since eleven. Venkatesh finally calls their name."
+  - who: desk
+    t: "ಸರಸ್ವತಮ್ಮ, ವಾರ್ಡ್ ಬೆಡ್ ಮೂವತ್ತೆರಡು? ಅಟೆಂಡರ್ ಯಾರು?"
+    tr: "Sarasvatamma, vārḍ beḍ mūvatteraḍu? Aṭeṇḍar yāru?"
+    en: "Saraswathamma, ward bed thirty-two? Who's the attender?"
+  - who: appa
+    t: "ನಾನು, ಅವರ ಮಗ. ಸಾರ್, ಬೆಳಿಗ್ಗೆ ಹತ್ತಕ್ಕೆ ಡಿಸ್ಚಾರ್ಜ್ ಅಂದ್ರು, ಈಗ ಮೂರು ಗಂಟೆ ಆಯ್ತು. ಅಮ್ಮ ಬೆಡ್ ಮೇಲೆ ಬ್ಯಾಗ್ ಕಟ್ಕೊಂಡ್ ಕಾಯ್ತಿದ್ದಾರೆ."
+    tr: "Nānu, avara maga. Sār, beḷigge hattakke ḍischārj andru, īga mūru gaṇṭe āytu. Amma beḍ mēle byāg kaṭkoṇḍ kāytiddāre."
+    en: "Me, her son. Sir, they said discharge at ten this morning, and it's now three o'clock. My mother's been sitting on the bed with her bag packed."
+  - who: desk
+    t: "ಗೊತ್ತು ಸಾರ್, ಬೇಜಾರಾಗ್ಬೇಡಿ. ಸ್ಕೀಮ್ ಕೇಸ್‌ಗಳಲ್ಲಿ ಫೈನಲ್ ಕ್ಲೈಮ್ ಪೋರ್ಟಲ್‌ಗೆ ಅಪ್‌ಲೋಡ್ ಆಗ್ಬೇಕು, ಫಾರ್ಮಸಿ ಬಿಲ್ ಕ್ಲೋಸ್ ಆಗ್ಬೇಕು. ಇವತ್ತು ಐವತ್ತು ಡಿಸ್ಚಾರ್ಜ್ ಇದೆ, ನಾವು ಕೌಂಟರ್‌ನಲ್ಲಿ ಮೂರೇ ಜನ. ಈಗ ನಿಮ್ದು ರೆಡಿ ಆಯ್ತು, ನೋಡಿ."
+    tr: "Gottu sār, bējārāgbēḍi. Skīm kēsgaḷalli phainal klaim pōrṭalge aplōḍ āgbēku, phārmasi bil klōs āgbēku. Ivattu aivattu ḍischārj ide, nāvu kauṇṭarnalli mūrē jana. Īga nimdu reḍi āytu, nōḍi."
+    en: "I know, sir, please don't be upset. In scheme cases the final claim has to be uploaded to the portal and the pharmacy bill has to be closed. There are fifty discharges today and only three of us at the counter. Yours is ready now — have a look."
+  - who: desk
+    t: "ಒಟ್ಟು ಬಿಲ್ — ಆಂಜಿಯೋಗ್ರಾಮ್, ಆಂಜಿಯೋಪ್ಲಾಸ್ಟಿ, ಸ್ಟೆಂಟ್, ಮೂರು ದಿನ ಐಸಿಯು, ವಾರ್ಡ್, ಟೆಸ್ಟ್‌ಗಳು, ಔಷಧಿ — ಎಲ್ಲಾ ಸೇರಿ ಒಂದು ಲಕ್ಷದ ಇಪ್ಪತ್ತೆರಡು ಸಾವಿರ. ಅದರಲ್ಲಿ ಒಂದು ಲಕ್ಷದ ಹದಿಮೂರು ಸಾವಿರದ ಆರುನೂರು ಆಯುಷ್ಮಾನ್ ವಯ ವಂದನಾ ಕಾರ್ಡ್‌ನಿಂದ ಕವರ್ ಆಗಿದೆ."
+    tr: "Oṭṭu bil — āñjiyōgrām, āñjiyōplāsṭi, sṭeṇṭ, mūru dina ICU, vārḍ, ṭesṭgaḷu, auṣadhi — ellā sēri ondu lakṣada ippatteraḍu sāvira. Adaralli ondu lakṣada hadimūru sāvirada ārunūru Āyuṣmān Vaya Vandanā kārḍninda kavar āgide."
+    en: "The total bill — angiogram, angioplasty, stent, three days of ICU, the ward, tests, medicines — comes to one lakh twenty-two thousand. Of that, one lakh thirteen thousand six hundred is covered by the Ayushman Vay Vandana card."
+  - who: kiran
+    t: "ಹಾಗಾದ್ರೆ ಉಳಿದಿದ್ದು ಎಂಟು ಸಾವಿರದ ನಾನೂರು? ಅದು ಯಾಕೆ ಸಾರ್? ಸ್ಕೀಮ್‌ನಲ್ಲಿ ಎಲ್ಲಾ ಫ್ರೀ ಅಂದಿದ್ರಲ್ಲ?"
+    tr: "Hāgādre uḷididdu eṇṭu sāvirada nānūru? Adu yāke sār? Skīmnalli ellā phrī andidrallā?"
+    en: "So the remaining eight thousand four hundred — why's that, sir? Weren't we told everything is free under the scheme?"
+  - who: desk
+    t: "ಫ್ರೀ ಅಂದ್ರೆ ಪ್ಯಾಕೇಜ್‌ನಲ್ಲಿ ಇರೋದು ಮಾತ್ರ ಫ್ರೀ. ಅಡ್ಮಿಟ್ ಆದ ರಾತ್ರಿ, ಕಾರ್ಡ್ ವೆರಿಫೈ ಆಗೋಕೆ ಮುಂಚೆ ಮಾಡಿದ ಕೆಲವು ಟೆಸ್ಟ್ — ಐದು ಸಾವಿರದ ಆರುನೂರು. ಮತ್ತೆ ಮನೆಗೆ ಒಂದು ತಿಂಗಳ ಮಾತ್ರೆ — ಎರಡು ಸಾವಿರದ ಎಂಟುನೂರು. ಅವೆರಡೂ ಪ್ಯಾಕೇಜ್‌ಗೆ ಸೇರಲ್ಲ."
+    tr: "Phrī andre pyākējnalli irōdu mātra phrī. Aḍmiṭ āda rātri, kārḍ verifai āgōke munche māḍida kelavu ṭesṭ — aidu sāvirada ārunūru. Matte manege ondu tiṅgaḷa mātre — eraḍu sāvirada eṇṭunūru. Averaḍū pyākējge sēralla."
+    en: "'Free' means only what's in the package is free. Some tests done on the night of admission, before the card was verified — five thousand six hundred. And a month's tablets to take home — two thousand eight hundred. Neither is part of the package."
+  - who: appa
+    t: "ಪರ್ವಾಗಿಲ್ಲ ಬಿಡಿ. ಪ್ರೈವೇಟ್‌ನಲ್ಲಿ ಇದೇ ಆಪರೇಷನ್‌ಗೆ ಎರಡೂವರೆ-ಮೂರು ಲಕ್ಷ ಆಗ್ತಿತ್ತು ಅಂತ ಎಲ್ರೂ ಹೇಳಿದ್ರು. ಯುಪಿಐ ಆಗುತ್ತಾ?"
+    tr: "Parvāgilla biḍi. Praivēṭnalli idē āparēṣange eraḍūvare-mūru lakṣa āgtittu anta elrū hēḷidru. UPI āguttā?"
+    en: "Never mind. Everyone said the same operation would have cost two and a half to three lakh at a private hospital. Can I pay by UPI?"
+  - who: desk
+    t: "ಆಗುತ್ತೆ ಸಾರ್, ಈ ಕ್ಯೂಆರ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ. ಮತ್ತೆ ಗೊತ್ತಿರಲಿ — ಈ ಕಾರ್ಡ್‌ನಲ್ಲಿ ವರ್ಷಕ್ಕೆ ಐದು ಲಕ್ಷ ಲಿಮಿಟ್. ಈ ವರ್ಷಕ್ಕೆ ಇನ್ನೂ ಮೂರು ಲಕ್ಷದ ಎಂಬತ್ತಾರು ಸಾವಿರದ ನಾನೂರು ಉಳಿದಿದೆ ಅಂತ ಪೋರ್ಟಲ್ ತೋರಿಸ್ತಿದೆ. ಆ ದುಡ್ಡು ಬೇಕಾಗದೇ ಇರ್ಲಿ."
+    tr: "Āgutte sār, ī kyū-ār skyān māḍi. Matte gottirali — ī kārḍnalli varṣakke aidu lakṣa limiṭ. Ī varṣakke innū mūru lakṣada embattāru sāvirada nānūru uḷidide anta pōrṭal tōristide. Ā duḍḍu bēkāgadē irli."
+    en: "Yes, sir, scan this QR code. And keep in mind — this card has a limit of five lakh a year. The portal shows three lakh eighty-six thousand four hundred still left for this year. May you never need it."
+  - who: appa
+    t: "ಸಾರ್, ನಮ್ ಬ್ಯಾಂಕ್‌ನಲ್ಲಿ ಡಿಪೆಂಡೆಂಟ್ ತಾಯಿಗೆ ಸ್ವಲ್ಪ ಮೆಡಿಕಲ್ ರೀಇಂಬರ್ಸ್‌ಮೆಂಟ್ ಸಿಗುತ್ತೆ ಅಂತ ಕೇಳಿದ್ದೀನಿ. ಅದಕ್ಕೆ ಏನೇನು ಬೇಕು?"
+    tr: "Sār, nam byāṅknalli ḍipeṇḍeṇṭ tāyige svalpa meḍikal rī-imbarsmeṇṭ sigutte anta kēḷiddīni. Adakke ēnēnu bēku?"
+    en: "Sir, I've heard my bank gives some medical reimbursement for a dependent mother. What would I need for that?"
+  - who: desk
+    t: "ಅದು ನಿಮ್ ಬ್ಯಾಂಕ್ ರೂಲ್ಸ್ ಸಾರ್, ನನಗೆ ಸರಿಯಾಗಿ ಗೊತ್ತಿಲ್ಲ. ಆದ್ರೆ ಸಾಮಾನ್ಯವಾಗಿ ಎಲ್ರೂ ಕೇಳೋದು ಇವು: ಡಿಸ್ಚಾರ್ಜ್ ಸಮ್ಮರಿ, ಫೈನಲ್ ಬಿಲ್, ನೀವು ಕಟ್ಟಿದ ದುಡ್ಡಿನ ಒರಿಜಿನಲ್ ರಸೀದಿ, ಫಾರ್ಮಸಿ ಬಿಲ್, ಟೆಸ್ಟ್ ರಿಪೋರ್ಟ್‌ಗಳು. ಸ್ಕೀಮ್ ಕಟ್ಟಿದ ಭಾಗಕ್ಕೆ ಕ್ಲೈಮ್ ಮಾಡೋಕಾಗಲ್ಲ — ನೀವೇ ಕಟ್ಟಿದ ಭಾಗಕ್ಕೆ ಮಾತ್ರ."
+    tr: "Adu nim byāṅk rūls sār, nanage sariyāgi gottilla. Ādre sāmānyavāgi elrū kēḷōdu ivu: ḍischārj sammari, phainal bil, nīvu kaṭṭida duḍḍina orijinal rasīdi, phārmasi bil, ṭesṭ ripōrṭgaḷu. Skīm kaṭṭida bhāgakke klaim māḍōkāgalla — nīvē kaṭṭida bhāgakke mātra."
+    en: "That depends on your bank's rules, sir, I don't know them exactly. But what everyone usually asks for is this: the discharge summary, the final bill, the original receipts for what you paid, the pharmacy bill and the test reports. You can't claim the part the scheme paid — only the part you paid yourself."
+  - who: kiran
+    t: "ಒರಿಜಿನಲ್ ಒಂದೇ ಸೆಟ್ ಇರೋದು ಅಲ್ವಾ? ಎಲ್ಲದಕ್ಕೂ ಎರಡೆರಡು ಜೆರಾಕ್ಸ್ ಮಾಡಿಸ್ತೀನಿ, ಫೋನ್‌ನಲ್ಲೂ ಫೋಟೋ ತೆಗೆದಿಡ್ತೀನಿ."
+    tr: "Orijinal ondē seṭ irōdu alvā? Elladakkū eraḍeraḍu jerāks māḍistīni, phōnnallū phōṭō tegediḍtīni."
+    en: "There's only one set of originals, right? I'll get two photocopies of everything and take photos on my phone too."
+  - who: desk
+    t: "ಬುದ್ಧಿವಂತ ಹುಡುಗ! ತುಂಬಾ ಜನ ರಸೀದಿ ಕಳ್ಕೊಂಡು, ಡುಪ್ಲಿಕೇಟ್‌ಗೆ ತಿಂಗಳುಗಟ್ಟಲೆ ಅಲೀತಾರೆ. ಮತ್ತೆ ರೀಇಂಬರ್ಸ್‌ಮೆಂಟ್‌ಗೆ ಸಾಮಾನ್ಯವಾಗಿ ಡಿಸ್ಚಾರ್ಜ್ ಆದ ಒಂದು ತಿಂಗಳ ಒಳಗೆ ಹಾಕ್ಬೇಕು, ಲೇಟ್ ಮಾಡ್ಬೇಡಿ."
+    tr: "Buddhivanta huḍuga! Tumbā jana rasīdi kaḷkoṇḍu, ḍuplikēṭge tiṅgaḷugaṭṭale alītāre. Matte rī-imbarsmeṇṭge sāmānyavāgi ḍischārj āda ondu tiṅgaḷa oḷage hākbēku, lēṭ māḍbēḍi."
+    en: "Smart boy! Lots of people lose their receipts and then run around for months for a duplicate. And reimbursement usually has to be filed within a month of discharge — don't delay it."
+  - who: appa
+    t: "ಇಲ್ಲಿ ಸೈನ್ ಮಾಡ್ಬೇಕಾ? … ಸರಿ. ಸಾರ್, ಬೆಳಿಗ್ಗೆಯಿಂದ ಸ್ವಲ್ಪ ಕೋಪ ಬಂದಿತ್ತು, ಬೇಸರ ಮಾಡ್ಕೋಬೇಡಿ. ನೀವು ತಾಳ್ಮೆಯಿಂದ ವಿವರಿಸಿದ್ರಿ."
+    tr: "Illi sain māḍbēkā? … Sari. Sār, beḷiggeyinda svalpa kōpa bandittu, bēsara māḍkōbēḍi. Nīvu tāḷmeyinda vivarisidri."
+    en: "(signing) Sign here? … Done. Sir, I've been a bit angry since the morning — please don't mind. You explained it all patiently."
+  - who: desk
+    t: "ಪರ್ವಾಗಿಲ್ಲ ಸಾರ್, ಇದನ್ನ ದಿನಾ ನೋಡ್ತೀವಿ. ಇದು ಗೇಟ್ ಪಾಸ್ — ಹೊರಗೆ ಸೆಕ್ಯುರಿಟಿಗೆ ತೋರಿಸಿ. ಅಮ್ಮನಿಗೆ ಬೇಗ ಹುಷಾರಾಗ್ಲಿ."
+    tr: "Parvāgilla sār, idanna dinā nōḍtīvi. Idu gēṭ pās — horage sekyuriṭige tōrisi. Ammanige bēga huṣārāgli."
+    en: "It's all right, sir, we see this every day. Here's the gate pass — show it to security on the way out. May your mother get well soon."
+  - who: kiran
+    t: "ಬೆಳಿಗ್ಗೆ ಡಿಸ್ಚಾರ್ಜ್ ಅಂದ್ರು, ಸಂಜೆ ಐದಕ್ಕೆ ಹೊರಗೆ ಬರ್ತಿದ್ದೀವಿ. ಇದೇ ಬೆಂಗಳೂರಿನ ಡಿಸ್ಚಾರ್ಜ್ ರೂಲ್ ಅನ್ಸುತ್ತೆ ಅಪ್ಪ."
+    tr: "Beḷigge ḍischārj andru, sanje aidakke horage bartiddīvi. Idē Beṅgaḷūrina ḍischārj rūl ansutte appa."
+    en: "They said discharge in the morning, and we're getting out at five in the evening. I guess that's Bengaluru's discharge rule, Appa."
+
+  - section: "🏠 Home: low salt and a stubborn patient"
+    learn: "sappe (bland) · pathya (diet restriction) · harake hottiddīni (I've made a vow) · negotiation: ‑ōṇa, kaṇḍīṣan · ‑ade irōke (so as not to) · affectionate scolding"
+  - scene: "Thursday, a few days after the discharge: lunch at the Rao house in Jayanagar. Amma has cooked without pickle, papad or extra salt. Sam has come home for lunch."
+  - who: ajji
+    t: "ಈ ಸಾರಿಗೆ ಉಪ್ಪೇ ಹಾಕಿಲ್ವಾ? ಸಪ್ಪೆ ಸಪ್ಪೆ. ಆಸ್ಪತ್ರೆ ಊಟಾನೇ ಇದಕ್ಕಿಂತ ಚೆನ್ನಾಗಿತ್ತು."
+    tr: "Ī sārige uppē hākilvā? Sappe sappe. Āspatre ūṭānē idakkinta chennāgittu."
+    en: "Didn't you put any salt in this rasam at all? It's completely bland. Even the hospital food was better than this."
+  - who: amma
+    t: "ಉಪ್ಪು ಇದೆ ಅತ್ತೆ, ಅರ್ಧ ಚಮಚ. ಡಾಕ್ಟ್ರು ಏನ್ ಹೇಳಿದ್ರು ನೆನಪಿದೆಯಾ? ಉಪ್ಪು, ಎಣ್ಣೆ, ಸಿಹಿ — ಮೂರೂ ಕಮ್ಮಿ."
+    tr: "Uppu ide atte, ardha chamacha. Ḍākṭru ēn hēḷidru nenapideyā? Uppu, eṇṇe, sihi — mūrū kammi."
+    en: "There is salt, Atte — half a spoon. Remember what the doctor said? Salt, oil, sweets — less of all three."
+  - who: sam
+    t: "ಅಜ್ಜಿ, ಸ್ವಲ್ಪ ನಿಂಬೆಹಣ್ಣು ಹಿಂಡ್ಕೊಳ್ಳಿ, ಕಾಳುಮೆಣಸಿನ ಪುಡಿ ಹಾಕ್ಕೊಳ್ಳಿ. ನಮ್ ಊರಲ್ಲಿ ನನ್ನ ಅಜ್ಜನಿಗೂ ಹಾರ್ಟ್ ಪ್ರಾಬ್ಲಮ್ ಇತ್ತು, ಅವರು ಹೀಗೇ ತಿಂತಿದ್ರು. ಉಪ್ಪು ಕಮ್ಮಿ ಆದ್ರೂ ರುಚಿ ಬರುತ್ತೆ."
+    tr: "Ajji, svalpa nimbehaṇṇu hiṇḍkoḷḷi, kāḷumeṇasina puḍi hākkoḷḷi. Nam ūralli nanna ajjanigū hārṭ prāblam ittu, avaru hīgē tintidru. Uppu kammi ādrū ruchi barutte."
+    en: "Ajji, squeeze a little lemon on it and add some pepper powder. Back home my grandfather had a heart problem too, and that's how he ate. Even with less salt, it gets its taste."
+  - who: ajji
+    t: "ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್‌ನವರು ನಮಗೆ ಅಡುಗೆ ಹೇಳಿಕೊಡೋ ಕಾಲ ಬಂತು! … ಹ್ಮ್. ನಿಂಬೆ ಹಾಕಿದ್ರೆ ಪರ್ವಾಗಿಲ್ಲ, ತಿನ್ನಬಹುದು."
+    tr: "Sviṭjarleṇḍnavaru namage aḍuge hēḷikoḍō kāla bantu! … Hm. Nimbe hākidre parvāgilla, tinnabahudu."
+    en: "So now it's come to the Swiss teaching us how to cook! … (tasting) Hm. With lemon it's not bad. It's edible."
+  - who: amma
+    t: "ನೋಡಿ, ಸ್ಯಾಮ್ ಹೇಳಿದ್ರೆ ಕೇಳ್ತೀರಾ. ನಾನು ಹೇಳಿದ್ರೆ ಮಾತ್ರ ಜಗಳ."
+    tr: "Nōḍi, Syām hēḷidre kēḷtīrā. Nānu hēḷidre mātra jagaḷa."
+    en: "See? When Sam says it, you listen. When I say it, it's a fight."
+  - who: ajji
+    t: "ನಾಳೆ ಶುಕ್ರವಾರ. ಬೆಳಿಗ್ಗೆ ಬನಶಂಕರಿ ದೇವಸ್ಥಾನಕ್ಕೆ ಹೋಗ್ಬೇಕು. ಆಸ್ಪತ್ರೆಯಲ್ಲಿದ್ದಾಗ ಹರಕೆ ಹೊತ್ತಿದ್ದೀನಿ — ಹುಷಾರಾಗಿ ಮನೆಗೆ ಬಂದ್ರೆ ತಾಯಿಗೆ ಎಣ್ಣೆ ದೀಪ ಹಚ್ತೀನಿ ಅಂತ."
+    tr: "Nāḷe shukravāra. Beḷigge Banashaṅkari dēvasthānakke hōgbēku. Āspatreyalliddāga harake hottiddīni — huṣārāgi manege bandre tāyige eṇṇe dīpa hachtīni anta."
+    en: "Tomorrow's Friday. In the morning I have to go to the Banashankari temple. I made a vow while I was in hospital — that if I came home well, I'd light an oil lamp for the Mother."
+  - who: appa
+    t: "ಅಮ್ಮಾ, ಶುಕ್ರವಾರ ಬನಶಂಕರಿಯಲ್ಲಿ ಎಷ್ಟು ರಶ್ ಇರುತ್ತೆ ಗೊತ್ತಲ್ವಾ? ಕ್ಯೂನಲ್ಲಿ ಒಂದು ಗಂಟೆ ನಿಲ್ಲಬೇಕು. ಡಾಕ್ಟ್ರು ಒಂದು ತಿಂಗಳು ಆರಾಮಾಗಿರಿ ಅಂದಿದ್ದಾರೆ."
+    tr: "Ammā, shukravāra Banashaṅkariyalli eṣṭu rash irutte gottalvā? Kyūnalli ondu gaṇṭe nillabēku. Ḍākṭru ondu tiṅgaḷu ārāmāgiri andiddāre."
+    en: "Amma, you know how crowded Banashankari is on a Friday, don't you? You'd stand in the queue for an hour. The doctor said to take it easy for a month."
+  - who: ajji
+    t: "ಬನಶಂಕರಮ್ಮ ನನ್ನನ್ನ ಉಳಿಸಿದ್ದಾಳೆ. ಅವಳಿಗೆ ಕೈ ಮುಗಿಯೋಕೂ ಡಾಕ್ಟ್ರ ಪರ್ಮಿಷನ್ ಬೇಕಾ? ಮನೇಲೇ ಮಲಗಿದ್ರೆ ನಾನು ಇನ್ನೂ ಕಾಯಿಲೆ ಬೀಳ್ತೀನಿ."
+    tr: "Banashaṅkaramma nannanna uḷisiddāḷe. Avaḷige kai mugiyōkū ḍākṭra parmiṣan bēkā? Manēlē malagidre nānu innū kāyile bīḷtīni."
+    en: "Mother Banashankari saved me. Do I need the doctor's permission even to fold my hands before her? If I just lie around at home, I'll only get sicker."
+  - who: kiran
+    t: "ಅಜ್ಜಿ, ನಿಮ್ಮನ್ನ ಉಳಿಸಿದ್ದು ಬನಶಂಕರಮ್ಮನೂ ಹೌದು, ಡಾಕ್ಟರ್ ಮೀರಾ ಕುಲಕರ್ಣಿನೂ ಹೌದು. ಇಬ್ರ ಮಾತೂ ಕೇಳಿ."
+    tr: "Ajji, nimmanna uḷisiddu Banashaṅkarammanū haudu, ḍākṭar Mīrā Kulakarṇinū haudu. Ibra mātū kēḷi."
+    en: "Ajji, the one who saved you was Banashankari, yes — and Dr. Meera Kulkarni too. Listen to both of them."
+  - who: ajji
+    t: "ಇವನಿಗೆ ಬಾಯಿ ಜಾಸ್ತಿ ಆಗಿದೆ ಇತ್ತೀಚೆಗೆ."
+    tr: "Ivanige bāyi jāsti āgide ittīchege."
+    en: "This one's got a lot of mouth on him lately. (but she's smiling)"
+  - who: sam
+    t: "ಒಂದು ಐಡಿಯಾ. ಶುಕ್ರವಾರ, ಮಂಗಳವಾರ ತುಂಬಾ ರಶ್. ಬುಧವಾರ ಬೆಳಿಗ್ಗೆ ಏಳು ಗಂಟೆಗೆ ಕಮ್ಮಿ ಇರುತ್ತೆ. ನಾನು ಕಾರ್ ತಗೊಂಡ್ ಬರ್ತೀನಿ, ಗೇಟ್ ಹತ್ರಾನೇ ಇಳಿಸ್ತೀನಿ. ದೀಪ ಹಚ್ಚಿ, ಹತ್ತು ನಿಮಿಷದಲ್ಲಿ ವಾಪಸ್."
+    tr: "Ondu aiḍiyā. Shukravāra, maṅgaḷavāra tumbā rash. Budhavāra beḷigge ēḷu gaṇṭege kammi irutte. Nānu kār tagoṇḍ bartīni, gēṭ hatrānē iḷistīni. Dīpa hachchi, hattu nimiṣadalli vāpas."
+    en: "An idea. Fridays and Tuesdays are very crowded. Wednesday at seven in the morning it's quieter. I'll bring the car and drop you right at the gate. Light the lamp, and we're back in ten minutes."
+  - who: appa
+    t: "ಸರಿ. ಆದ್ರೆ ಒಂದು ಕಂಡೀಷನ್ — ನಾಳೆಯಿಂದ ದಿನಾ ಬೆಳಿಗ್ಗೆ ಟೆರೇಸ್ ಮೇಲೆ ಹತ್ತು ನಿಮಿಷ ವಾಕಿಂಗ್. ಒಂದು ದಿನಾನೂ ತಪ್ಪಿಸಬಾರದು."
+    tr: "Sari. Ādre ondu kaṇḍīṣan — nāḷeyinda dinā beḷigge ṭerēs mēle hattu nimiṣa vākiṅg. Ondu dinānū tappisabāradu."
+    en: "All right. But one condition — from tomorrow, a ten-minute walk on the terrace every morning. You mustn't skip a single day."
+  - who: ajji
+    t: "ಟೆರೇಸ್‌ಗೆ ಮೆಟ್ಟಿಲು ಹತ್ತಬೇಕಲ್ಲೋ!"
+    tr: "Ṭerēsge meṭṭilu hattabēkallō!"
+    en: "But I'd have to climb the stairs to the terrace!"
+  - who: sam
+    t: "ನಿಧಾನವಾಗಿ ಹತ್ತಬಹುದು ಅಂತ ಡಾಕ್ಟ್ರೇ ಹೇಳಿದ್ರು. ನಾನು ಆಫೀಸಿಗೆ ಹೋಗೋ ಮುಂಚೆ ಜೊತೆಗೆ ಬರ್ತೀನಿ. ನನಗೂ ವ್ಯಾಯಾಮ ಆಗುತ್ತೆ."
+    tr: "Nidhānavāgi hattabahudu anta ḍākṭrē hēḷidru. Nānu āphīsige hōgō munche jotege bartīni. Nanagū vyāyāma āgutte."
+    en: "The doctor herself said you can climb slowly. I'll come with you before I leave for the office. I'll get some exercise too."
+  - who: kiran
+    t: "ಮತ್ತೆ ಮುಂದಿನ ವಾರದಿಂದ ಜಯದೇವದಲ್ಲಿ ಕಾರ್ಡಿಯಾಕ್ ರಿಹ್ಯಾಬ್ ಶುರು. ಅವರು ಕೊಡೋ ದಿನಗಳಲ್ಲಿ ನಾನು ಕಾಲೇಜ್ ಮುಗಿಸ್ಕೊಂಡು ಕರ್ಕೊಂಡ್ ಹೋಗ್ತೀನಿ."
+    tr: "Matte mundina vāradinda Jayadēvadalli kārḍiyāk rihyāb shuru. Avaru koḍō dinagaḷalli nānu kālēj mugiskoṇḍu karkoṇḍ hōgtīni."
+    en: "And cardiac rehab at Jayadeva starts next week. On the days they give us, I'll take her after college."
+  - scene: "The doorbell. Vimala Aunty walks in with a box of sweets."
+  - who: vimala
+    t: "ಸರಸ್ವತಮ್ಮಾ! ಹೇಗಿದ್ದೀರಿ? ನಿಮಗೋಸ್ಕರ ತುಪ್ಪದ ಮೈಸೂರ್ ಪಾಕ್ ತಂದಿದ್ದೀನಿ!"
+    tr: "Sarasvatammā! Hēgiddīri? Nimagōskara tuppada Maisūr pāk tandiddīni!"
+    en: "Saraswathamma! How are you? I've brought you ghee Mysore pak!"
+  - who: amma
+    t: "ಅಯ್ಯೋ ವಿಮಲಾ, ಸಿಹಿ ಬೇಡ ಅಂತ ಡಾಕ್ಟ್ರು…"
+    tr: "Ayyō Vimalā, sihi bēḍa anta ḍākṭru…"
+    en: "Oh, Vimala, the doctor said no sweets…"
+  - who: vimala
+    t: "ಅಯ್ಯೋ, ಮರೆತೇ ಹೋಯ್ತು! ಸರಿ ಬಿಡಿ, ಇದು ಕಿರಣ್‌ಗೆ, ಸ್ಯಾಮ್‌ಗೆ. ಅಜ್ಜಿಗೆ ಮುಂದಿನ ಸಲ ಹಣ್ಣು ತರ್ತೀನಿ — ಪಪ್ಪಾಯಿ, ಹಾರ್ಟ್‌ಗೆ ಒಳ್ಳೇದಂತೆ."
+    tr: "Ayyō, maretē hōytu! Sari biḍi, idu Kiraṇge, Syāmge. Ajjige mundina sala haṇṇu tartīni — pappāyi, hārṭge oḷḷēdante."
+    en: "Oh no, I completely forgot! Never mind — this is for Kiran and Sam. Next time I'll bring fruit for Ajji — papaya, they say it's good for the heart."
+  - who: ajji
+    t: "ಪಪ್ಪಾಯಿ ತಂದ್ರೆ ನಾನೇ ತಿಂತೀನಿ. ಶ್ವೇತಾ ಕಣ್ಣಿಗೆ ಮಾತ್ರ ಬೀಳದ ಹಾಗೆ ಇಡು!"
+    tr: "Pappāyi tandre nānē tintīni. Shwētā kaṇṇige mātra bīḷada hāge iḍu!"
+    en: "If you bring papaya, I'll eat it myself. Just keep it out of Shwetha's sight!"
+  - who: vimala
+    t: "ಮತ್ತೆ ಕೇಳಿದ್ರಾ? ಶ್ವೇತಾಳ ಅತ್ತೆ ಆಸ್ಪತ್ರೆಗೆ ಊಟ ತಗೊಂಡ್ ಬಂದಿದ್ರಂತೆ! ಮದುವೆ ಟೈಮಲ್ಲಿ ಹಾಗೆ ಆಡಿದೋರು, ಈಗ ಹೀಗೆ!"
+    tr: "Matte kēḷidrā? Shwētāḷa atte āspatrege ūṭa tagoṇḍ bandidrante! Maduve ṭaimalli hāge āḍidōru, īga hīge!"
+    en: "And did you hear? Shwetha's mother-in-law brought food to the hospital, apparently! The same woman who behaved like that at the wedding time — and now this!"
+  - who: amma
+    t: "ವಿಮಲಾ, ಅದು ಮುಗಿದ ಕಥೆ. ಕಷ್ಟದಲ್ಲಿ ಜೊತೆಗೆ ನಿಂತೋರೇ ನಮ್ಮೋರು."
+    tr: "Vimalā, adu mugida kathe. Kaṣṭadalli jotege nintōrē nammōru."
+    en: "Vimala, that story is over. Those who stand by you in hard times — they're our own people."
+
+  - section: "🩺 The 28-week check and a borderline sugar test"
+    learn: "‑iddāga (while) · bārḍarlain, ḍayaṭ kaṇṭrōl · grōth skyān · maguvina chalane, odeyōdu (baby's movement, kicking) · numbers: nūrā mūvatteṇṭu · ‑ade (without): kāyade · doctor's hedging"
+  - scene: "Monday, 24 August, a little over a week after the discharge. Dr. Usha Rao's clinic in JP Nagar. Shwetha is twenty-eight weeks pregnant; her 28-week check, a growth scan and a repeat sugar test, had been put off for a few days while Ajji was in hospital. Pradeep is with her."
+  - who: gyn
+    t: "ಬನ್ನಿ ಶ್ವೇತಾ, ಕೂತ್ಕೊಳ್ಳಿ. ಮೊದಲು ಅಜ್ಜಿ ಹೇಗಿದ್ದಾರೆ? ನೀವು ಫೋನ್‌ನಲ್ಲಿ ಹೇಳಿದಾಗ ನನಗೂ ಗಾಬರಿ ಆಗಿತ್ತು."
+    tr: "Banni Shwētā, kūtkoḷḷi. Modalu ajji hēgiddāre? Nīvu phōnnalli hēḷidāga nanagū gābari āgittu."
+    en: "Come in, Shwetha, have a seat. First, how is your grandmother? When you told me on the phone, I was alarmed too."
+  - who: shwe
+    t: "ಈಗ ಮನೇಲಿದ್ದಾರೆ ಡಾಕ್ಟ್ರೇ. ದೇವಸ್ಥಾನಕ್ಕೆ ಹೋಗ್ಬೇಕು ಅಂತ ಹಠ ಮಾಡ್ತಿದ್ದಾರೆ — ಅಂದ್ರೆ ಹುಷಾರಾಗ್ತಿದ್ದಾರೆ ಅಂತ ಅರ್ಥ!"
+    tr: "Īga manēliddāre ḍākṭrē. Dēvasthānakke hōgbēku anta haṭha māḍtiddāre — andre huṣārāgtiddāre anta artha!"
+    en: "She's home now, Doctor. She's being stubborn about going to the temple — which means she's getting better!"
+  - who: gyn
+    t: "ಒಳ್ಳೇದು. ಈಗ ನಿಮ್ ರಿಪೋರ್ಟ್. ಮೊದಲು ಗ್ರೋತ್ ಸ್ಕ್ಯಾನ್ — ಮಗು ಸುಮಾರು ಒಂದು ಕೆಜಿ ಇನ್ನೂರು ಗ್ರಾಂ ಇದೆ, ಬೆಳವಣಿಗೆ ವಾರಕ್ಕೆ ತಕ್ಕ ಹಾಗೆ ಇದೆ. ನೀರು ನಾರ್ಮಲ್, ಪ್ಲಸೆಂಟಾ ಸರಿಯಾದ ಜಾಗದಲ್ಲಿದೆ. ಹೃದಯದ ನಾಲ್ಕು ಕೋಣೆಗಳೂ ಚೆನ್ನಾಗಿ ಕೆಲಸ ಮಾಡ್ತಿವೆ, ಹಾರ್ಟ್‌ಬೀಟ್ ನೂರಾ ನಲವತ್ತೈದು. ಜೂನ್‌ನಲ್ಲಿ ಮಾಡಿದ ಲೆವೆಲ್ ಟೂ ಸ್ಕ್ಯಾನ್ ಕೂಡ ನಾರ್ಮಲ್ ಇತ್ತು, ನೆನಪಿದೆ ತಾನೇ?"
+    tr: "Oḷḷēdu. Īga nim ripōrṭ. Modalu grōth skyān — magu sumāru ondu keji innūru grām ide, beḷavaṇige vārakke takka hāge ide. Nīru nārmal, plaseṇṭā sariyāda jāgadallide. Hṛdayada nālku kōṇegaḷū chennāgi kelasa māḍtive, hārṭbīṭ nūrā nalavattaidu. Jūn-nalli māḍida leval ṭū skyān kūḍa nārmal ittu, nenapide tānē?"
+    en: "Good. Now your reports. First the growth scan: the baby weighs about one kilo two hundred grams, and the growth matches the weeks. The fluid is normal and the placenta is in the right place. All four chambers of the heart are working well; the heartbeat is a hundred and forty-five. And the Level-2 scan we did in June was normal too, remember?"
+  - who: pradeep
+    t: "ಹೃದಯದ ನಾಲ್ಕು ಕೋಣೆ… ಈ ತಿಂಗಳು ನಮ್ಮ ಮನೇಲಿ ಎಲ್ರೂ ಹೃದಯದ ಬಗ್ಗೆನೇ ಮಾತಾಡ್ತಿದ್ದೀವಿ."
+    tr: "Hṛdayada nālku kōṇe… ī tiṅgaḷu namma manēli elrū hṛdayada baggenē mātāḍtiddīvi."
+    en: "Four chambers of the heart… this month everyone in our family talks about nothing but hearts."
+  - who: shwe
+    t: "ನಿಜವಾಗ್ಲೂ ಎಲ್ಲಾ ಸರಿ ಇದೆ ತಾನೇ ಡಾಕ್ಟ್ರೇ? ಅಜ್ಜಿ ಐಸಿಯುನಲ್ಲಿದ್ದಾಗ ನಾನು ತುಂಬಾ ಅತ್ತಿದ್ದೀನಿ, ನಿದ್ದೆ ಇಲ್ಲ, ಸರಿಯಾಗಿ ಊಟ ಇಲ್ಲ. ಅದರಿಂದ ಮಗುವಿಗೆ ಏನಾದ್ರೂ ತೊಂದ್ರೆ ಆಗಿದ್ರೆ ಅಂತ ಭಯ ಆಗ್ತಿತ್ತು."
+    tr: "Nijavāglū ellā sari ide tānē ḍākṭrē? Ajji ICU-nalliddāga nānu tumbā attiddīni, nidde illa, sariyāgi ūṭa illa. Adarinda maguvige ēnādrū tondre āgidre anta bhaya āgtittu."
+    en: "Everything really is fine, isn't it, Doctor? While Ajji was in the ICU I cried a lot — no sleep, no proper meals. I was scared it might have harmed the baby somehow."
+  - who: gyn
+    t: "ನೋಡಿ, ಸ್ಕ್ಯಾನ್ ಎಲ್ಲವನ್ನೂ ಹಿಡಿಯೋಕಾಗಲ್ಲ, ಅದು ನಿಜ. ಆದ್ರೆ ಇವತ್ತು ನೋಡಬಹುದಾದ್ದೆಲ್ಲಾ ಚೆನ್ನಾಗಿದೆ. ಕೆಲವು ದಿನದ ಟೆನ್ಶನ್‌ನಿಂದ ಮಗುವಿಗೆ ಏನೂ ಆಗಲ್ಲ. ಈಗ ತಾಯಿ ತನ್ನನ್ನ ತಾನು ನೋಡ್ಕೊಂಡ್ರೆ ಸಾಕು. ಮಗು ಒದೀತಿದೆಯಾ?"
+    tr: "Nōḍi, skyān ellavannū hiḍiyōkāgalla, adu nija. Ādre ivattu nōḍabahudāddellā chennāgide. Kelavu dinada ṭenshanninda maguvige ēnū āgalla. Īga tāyi tannanna tānu nōḍkoṇḍre sāku. Magu odītideyā?"
+    en: "Look, a scan can't catch everything, that's true. But everything that can be seen today looks good. A few days of stress won't harm the baby. Now it's enough if the mother looks after herself. Is the baby kicking?"
+  - who: shwe
+    t: "ಹೌದು, ತುಂಬಾ! ರಾತ್ರಿ ಮಲಗಿದಾಗಂತೂ ಫುಟ್‌ಬಾಲ್ ಆಟಗಾರನ ಥರ ಒದೀತಾಳೆ… ಒದೀತಾನೆ… ಗೊತ್ತಿಲ್ಲ! ಮೊನ್ನೆ ಪ್ರದೀಪ್ ಹೊಟ್ಟೆ ಮೇಲೆ ಕೈ ಇಟ್ಟಾಗ ಅವನಿಗೂ ಗೊತ್ತಾಯ್ತು."
+    tr: "Haudu, tumbā! Rātri malagidāgantū phuṭbāl āṭagārana thara odītāḷe… odītāne… gottilla! Monne Pradīp hoṭṭe mēle kai iṭṭāga avanigū gottāytu."
+    en: "Yes, a lot! Especially at night when I lie down — she kicks like a footballer… or he does… who knows! The other day Pradeep put his hand on my belly and felt it too."
+  - who: gyn
+    t: "ಜೋರಾಗಿ ಒದೆಯೋದು ಒಳ್ಳೆ ಲಕ್ಷಣ. ಇನ್ಮೇಲೆ ಗಮನಿಸ್ತಾ ಇರಿ: ಯಾವತ್ತಾದ್ರೂ ಮಾಮೂಲಿಗಿಂತ ತುಂಬಾ ಕಮ್ಮಿ ಒದ್ದಂತೆ ಅನ್ಸಿದ್ರೆ ಕಾಯಬೇಡಿ, ತಕ್ಷಣ ಬನ್ನಿ. ಈಗ ಇನ್ನೊಂದು ರಿಪೋರ್ಟ್ — ಶುಗರ್ ಟೆಸ್ಟ್. ಜುಲೈನಲ್ಲಿ, ಇಪ್ಪತ್ನಾಲ್ಕನೇ ವಾರದಲ್ಲಿ, ಮೊದಲ ಟೆಸ್ಟ್ ನೂರಾ ಇಪ್ಪತ್ತೆಂಟು ಬಂದಿತ್ತು, ಅದು ಸರಿ ಇತ್ತು. ಆದ್ರೆ ನಿಮ್ ಕುಟುಂಬದಲ್ಲಿ ಶುಗರ್ ಇರೋದ್ರಿಂದ ಇಪ್ಪತ್ತೆಂಟನೇ ವಾರದಲ್ಲಿ ರಿಪೀಟ್ ಮಾಡಿದ್ವಿ. ಈ ಸಲ ಗ್ಲೂಕೋಸ್ ಕುಡಿದು ಎರಡು ಗಂಟೆ ಆದ್ಮೇಲೆ ನೂರಾ ಮೂವತ್ತೆಂಟು ಬಂದಿದೆ."
+    tr: "Jōrāgi odeyōdu oḷḷe lakṣaṇa. Inmēle gamanistā iri: yāvattādrū māmūliginta tumbā kammi oddante ansidre kāyabēḍi, takṣaṇa banni. Īga innondu ripōrṭ — shugar ṭesṭ. Julai-nalli, ippatnālkanē vāradalli, modala ṭesṭ nūrā ippatteṇṭu bandittu, adu sari ittu. Ādre nim kuṭumbadalli shugar irōdrinda ippatteṇṭanē vāradalli ripīṭ māḍidvi. Ī sala glūkōs kuḍidu eraḍu gaṇṭe ādmēle nūrā mūvatteṇṭu bandide."
+    en: "Strong kicks are a good sign. From now on, keep track: if one day the baby seems to move much less than usual, don't wait — come in straight away. Now the other report — the sugar test. In July, at twenty-four weeks, the first test came to a hundred and twenty-eight, which was fine. But because there's diabetes in your family, we repeated it at twenty-eight weeks. This time, two hours after the glucose drink, it's one hundred and thirty-eight."
+  - who: pradeep
+    t: "ನೂರಾ ಮೂವತ್ತೆಂಟು ಅಂದ್ರೆ ಜಾಸ್ತಿನಾ?"
+    tr: "Nūrā mūvatteṇṭu andre jāstinā?"
+    en: "Is a hundred and thirty-eight high?"
+  - who: gyn
+    t: "ನೂರಾ ನಲವತ್ತು ದಾಟಿದ್ರೆ ಜೆಸ್ಟೇಷನಲ್ ಡಯಾಬಿಟೀಸ್ ಅಂತೀವಿ — ಗರ್ಭಾವಸ್ಥೆಯ ಶುಗರ್. ನಿಮ್ದು ಬಾರ್ಡರ್‌ಲೈನ್, ಗೆರೆ ಹತ್ರ ಇದೆ. ಈಗ ಮಾತ್ರೆ, ಇನ್ಸುಲಿನ್ ಏನೂ ಬೇಡ. ಆದ್ರೆ ಡಯಟ್ ಬದಲಾಯಿಸ್ಬೇಕು. ಮೂವತ್ನಾಲ್ಕನೇ ವಾರದಲ್ಲಿ ಇನ್ನೊಂದು ಗ್ರೋತ್ ಸ್ಕ್ಯಾನ್ ಮಾಡ್ತೀವಿ."
+    tr: "Nūrā nalavattu dāṭidre jesṭēṣanal ḍayābiṭīs antīvi — garbhāvastheya shugar. Nimdu bārḍarlain, gere hatra ide. Īga mātre, insulin ēnū bēḍa. Ādre ḍayaṭ badalāyisbēku. Mūvatnālkanē vāradalli innondu grōth skyān māḍtīvi."
+    en: "Above one hundred and forty we call it gestational diabetes — pregnancy sugar. Yours is borderline, close to the line. No tablets or insulin for now. But the diet has to change. We'll do another growth scan at thirty-four weeks."
+  - who: shwe
+    t: "ಅಂದ್ರೆ ಸಿಹಿ ಪೂರ್ತಿ ಬಿಡ್ಬೇಕಾ? ಅಮ್ಮ ದಿನಾ ತುಪ್ಪ, ಡ್ರೈ ಫ್ರೂಟ್ ಉಂಡೆ ಕಳಿಸ್ತಾರೆ — 'ಇಬ್ಬರಿಗೆ ತಿನ್ನು' ಅಂತ."
+    tr: "Andre sihi pūrti biḍbēkā? Amma dinā tuppa, ḍrai phrūṭ uṇḍe kaḷistāre — 'ibbarige tinnu' anta."
+    en: "So I have to give up sweets completely? Amma sends ghee and dry-fruit laddus every day — 'eat for two', she says."
+  - who: gyn
+    t: "ಇಬ್ಬರಿಗಲ್ಲ, ಒಂದೂ ಕಾಲು ಜನಕ್ಕೆ ತಿನ್ನಿ! ಸಕ್ಕರೆ, ಸ್ವೀಟ್, ಜ್ಯೂಸ್, ಮೈದಾ ಬೇಡ. ಬಿಳಿ ಅನ್ನ ಕಮ್ಮಿ; ರಾಗಿ, ಬೇಳೆ, ಸೊಪ್ಪು, ತರಕಾರಿ ಜಾಸ್ತಿ. ಮೂರು ದೊಡ್ಡ ಊಟದ ಬದಲು ಐದಾರು ಸಲ ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ. ಊಟ ಆದ್ಮೇಲೆ ಹತ್ತು-ಹದಿನೈದು ನಿಮಿಷ ನಿಧಾನವಾಗಿ ನಡೀರಿ. ಉಂಡೆ ದಿನಕ್ಕೆ ಒಂದು ಸಾಕು — ಡಾಕ್ಟರ್ ಹೇಳಿದ್ರು ಅಂತ ಅಮ್ಮನಿಗೆ ಹೇಳಿ."
+    tr: "Ibbarigalla, ondū kālu janakke tinni! Sakkare, svīṭ, jyūs, maidā bēḍa. Biḷi anna kammi; rāgi, bēḷe, soppu, tarakāri jāsti. Mūru doḍḍa ūṭada badalu aidāru sala svalpa svalpa. Ūṭa ādmēle hattu-hadinaidu nimiṣa nidhānavāgi naḍīri. Uṇḍe dinakke ondu sāku — ḍākṭar hēḷidru anta ammanige hēḷi."
+    en: "Not for two — eat for one and a quarter! No sugar, sweets, juice or maida. Less white rice; more ragi, dal, greens and vegetables. Instead of three big meals, five or six small ones. Walk slowly for ten or fifteen minutes after eating. One laddu a day is enough — tell your mother the doctor said so."
+  - who: pradeep
+    t: "ಮನೇಲಿ ಗ್ಲೂಕೋಮೀಟರ್ ತಗೊಂಡು ಚೆಕ್ ಮಾಡ್ಬೇಕಾ ಮೇಡಂ?"
+    tr: "Manēli glūkōmīṭar tagoṇḍu chek māḍbēkā mēḍam?"
+    en: "Should we buy a glucometer and check at home, madam?"
+  - who: gyn
+    t: "ಹೌದು. ವಾರಕ್ಕೆ ಎರಡು ದಿನ — ಬೆಳಿಗ್ಗೆ ಖಾಲಿ ಹೊಟ್ಟೆಯಲ್ಲಿ, ಮತ್ತೆ ಊಟ ಆಗಿ ಎರಡು ಗಂಟೆ ಆದ್ಮೇಲೆ — ಚೆಕ್ ಮಾಡಿ, ಒಂದು ಪುಸ್ತಕದಲ್ಲಿ ಬರೆದಿಡಿ. ಮುಂದಿನ ಸಲ ತಗೊಂಡ್ ಬನ್ನಿ. ಹೆದರಬೇಡಿ — ಎಷ್ಟೋ ಜನರಿಗೆ ಡಯಟ್‌ನಿಂದಲೇ ಕಂಟ್ರೋಲ್ ಆಗುತ್ತೆ."
+    tr: "Haudu. Vārakke eraḍu dina — beḷigge khāli hoṭṭeyalli, matte ūṭa āgi eraḍu gaṇṭe ādmēle — chek māḍi, ondu pustakadalli barediḍi. Mundina sala tagoṇḍ banni. Hedarabēḍi — eṣṭō janarige ḍayaṭnindalē kaṇṭrōl āgutte."
+    en: "Yes. Two days a week — on an empty stomach in the morning, and two hours after a meal — check and write it down in a notebook. Bring it next time. Don't be afraid — for lots of women, diet alone keeps it under control."
+
+  - section: "🌙 Two worries"
+    learn: "emotions with nuance: aparādha bhāva (guilt), samādhāna, nemmadi · ‑ōvaregū (until) · aṣṭaralli (by then / meanwhile) · blessing ‑iru, ‑ali"
+  - scene: "That night, the flat in JP Nagar. Shwetha sits on the balcony with her phone. The new glucometer is still in its box on the table."
+  - who: pradeep
+    t: "ಇನ್ನೂ ನಿದ್ದೆ ಬಂದಿಲ್ವಾ? ಡಾಕ್ಟ್ರು ಸ್ಕ್ಯಾನ್ ಎಲ್ಲಾ ನಾರ್ಮಲ್ ಅಂದ್ರಲ್ಲ."
+    tr: "Innū nidde bandilvā? Ḍākṭru skyān ellā nārmal andralla."
+    en: "Still can't sleep? The doctor said the scan was all normal."
+  - who: shwe
+    t: "ಸ್ಕ್ಯಾನ್ ನಾರ್ಮಲ್, ಹೌದು. ಆದ್ರೆ ಆ ಶುಗರ್ ನಂಬರ್ ತಲೆಯಿಂದ ಹೋಗ್ತಿಲ್ಲ. ಒಂದು ಕಡೆ ಅಜ್ಜಿ, ಇನ್ನೊಂದು ಕಡೆ ಮಗು. ಯಾರ ಬಗ್ಗೆ ಮೊದಲು ಚಿಂತೆ ಮಾಡ್ಬೇಕು ಅಂತಾನೇ ಗೊತ್ತಾಗ್ತಿಲ್ಲ."
+    tr: "Skyān nārmal, haudu. Ādre ā shugar nambar taleyinda hōgtilla. Ondu kaḍe ajji, innondu kaḍe magu. Yāra bagge modalu chinte māḍbēku antānē gottāgtilla."
+    en: "The scan's normal, yes. But that sugar number won't leave my head. Ajji on one side, the baby on the other. I don't even know whom to worry about first."
+  - who: pradeep
+    t: "ಯಾರ ಬಗ್ಗೆನೂ ನೀನೊಬ್ಬಳೇ ಚಿಂತೆ ಮಾಡ್ಬೇಡ. ಅದಕ್ಕೇ ನಾನಿದ್ದೀನಿ, ನಿಮ್ ಅಪ್ಪ-ಅಮ್ಮ, ಕಿರಣ್, ಸ್ಯಾಮ್ — ಇಷ್ಟು ಜನ ಇದ್ದೀವಿ."
+    tr: "Yāra baggenū nīnobbaḷē chinte māḍbēḍa. Adakkē nāniddīni, nim appa-amma, Kiraṇ, Syām — iṣṭu jana iddīvi."
+    en: "Don't worry about anyone all by yourself. That's what I'm here for — and your parents, Kiran, Sam — there are so many of us."
+  - who: shwe
+    t: "ಗೊತ್ತು. ಆದ್ರೆ ಒಂದು ಅಪರಾಧ ಭಾವ ಇದೆ ಪ್ರದೀಪ್. ಅಜ್ಜಿ ಐಸಿಯುನಲ್ಲಿದ್ದಾಗ ನಾನು ಗ್ಲಾಸ್ ಹೊರಗೆ ನಿಂತಿದ್ದೆ ಅಷ್ಟೇ. ಎಲ್ರೂ 'ನೀನು ಬರ್ಬೇಡ, ನಿನ್ ಆರೋಗ್ಯ ನೋಡ್ಕೋ' ಅಂತಿದ್ರು. ಅವರಿಗೆ ನಾನು ಬೇಕಾದಾಗ ನಾನು ದೂರ ಇದ್ದೆ."
+    tr: "Gottu. Ādre ondu aparādha bhāva ide Pradīp. Ajji ICU-nalliddāga nānu glās horage nintidde aṣṭē. Elrū 'nīnu barbēḍa, nin ārōgya nōḍkō' antidru. Avarige nānu bēkādāga nānu dūra idde."
+    en: "I know. But I feel guilty, Pradeep. While Ajji was in the ICU, all I did was stand outside the glass. Everyone kept saying 'don't come, look after your own health'. When she needed me, I was far away."
+  - who: pradeep
+    t: "ನೀನು ದೂರ ಇರ್ಲಿಲ್ಲ. ಅಜ್ಜಿ ಐಸಿಯುನಿಂದ ಹೊರಗೆ ಬಂದ ತಕ್ಷಣ ಮೊದಲು ಕೇಳಿದ್ದು ಏನು? 'ಶ್ವೇತಾ ಎಲ್ಲಿ?' ಅಂತ. ಅವರನ್ನ ಬದುಕಿಸ್ತಿರೋದೇ ನಿನ್ ಹೊಟ್ಟೇಲಿರೋ ಈ ಮಗು ಅನ್ಸುತ್ತೆ ನನಗೆ."
+    tr: "Nīnu dūra irlilla. Ajji ICU-ninda horage banda takṣaṇa modalu kēḷiddu ēnu? 'Shwētā elli?' anta. Avaranna badukistirōdē nin hoṭṭēlirō ī magu ansutte nanage."
+    en: "You weren't far away. The moment Ajji came out of the ICU, what was the first thing she asked? 'Where's Shwetha?' I feel it's this baby in your belly that's keeping her alive."
+  - scene: "Shwetha's phone rings. It's Ajji, on Kiran's phone."
+  - who: shwe
+    t: "ಅಜ್ಜಿ! ಈ ಹೊತ್ತಲ್ಲಿ? … ಹಲೋ ಅಜ್ಜಿ, ಎಲ್ಲಾ ಸರಿ ತಾನೇ? ಎದೆ ನೋವು ಏನೂ ಇಲ್ಲ ತಾನೇ?"
+    tr: "Ajji! Ī hottalli? … Halō ajji, ellā sari tānē? Ede nōvu ēnū illa tānē?"
+    en: "Ajji! At this hour? … Hello, Ajji, everything's all right, isn't it? No chest pain or anything?"
+  - who: ajji
+    t: "ಏನೂ ಇಲ್ಲ ಕಣೇ, ಗಾಬರಿ ಆಗ್ಬೇಡ. ಕಿರಣ್ ಫೋನ್ ಮಾಡ್ಕೊಟ್ಟ. ನಿನ್ ಸ್ಕ್ಯಾನ್ ಏನಾಯ್ತು ಅಂತ ಕೇಳೋಕೆ ಕಾಯ್ತಿದ್ದೆ. ಮಗು ಹೇಗಿದೆ?"
+    tr: "Ēnū illa kaṇē, gābari āgbēḍa. Kiraṇ phōn māḍkoṭṭa. Nin skyān ēnāytu anta kēḷōke kāytidde. Magu hēgide?"
+    en: "Nothing at all, dear, don't panic. Kiran dialled for me. I was waiting up to ask how your scan went. How's the baby?"
+  - who: shwe
+    t: "ಮಗು ಚೆನ್ನಾಗಿದೆ ಅಜ್ಜಿ, ಎಲ್ಲಾ ನಾರ್ಮಲ್. ಆದ್ರೆ ನನಗೆ ಶುಗರ್ ಸ್ವಲ್ಪ ಬಾರ್ಡರ್‌ಲೈನ್ ಅಂತೆ. ಇನ್ಮೇಲೆ ಸಿಹಿ ಕಮ್ಮಿ, ವಾಕಿಂಗ್ ಜಾಸ್ತಿ."
+    tr: "Magu chennāgide ajji, ellā nārmal. Ādre nanage shugar svalpa bārḍarlain ante. Inmēle sihi kammi, vākiṅg jāsti."
+    en: "The baby's fine, Ajji, everything's normal. But apparently my sugar is a bit borderline. From now on, fewer sweets and more walking."
+  - who: ajji
+    t: "ಹಾಗಾದ್ರೆ ನಾವಿಬ್ರೂ ಪಥ್ಯದವರು! ನಾನು ಉಪ್ಪು ಬಿಡ್ತೀನಿ, ನೀನು ಸಿಹಿ ಬಿಡು. ಇಬ್ರೂ ಸೇರಿ ಡಾಕ್ಟ್ರುಗಳಿಗೆ ಬೈಯೋಣ."
+    tr: "Hāgādre nāvibrū pathyadavaru! Nānu uppu biḍtīni, nīnu sihi biḍu. Ibrū sēri ḍākṭrugaḷige baiyōṇa."
+    en: "Then we're both on a diet! I'll give up salt, you give up sweets. And the two of us together will grumble about the doctors."
+  - who: shwe
+    t: "ಡೀಲ್ ಅಜ್ಜಿ! ನಾಳೆ ಬೆಳಿಗ್ಗೆ ನೀವು ಟೆರೇಸ್ ಮೇಲೆ ನಡೀರಿ, ನಾನು ಇಲ್ಲಿ ಪಾರ್ಕ್‌ನಲ್ಲಿ ನಡೀತೀನಿ — ವೀಡಿಯೋ ಕಾಲ್‌ನಲ್ಲಿ ಒಟ್ಟಿಗೆ!"
+    tr: "Ḍīl ajji! Nāḷe beḷigge nīvu ṭerēs mēle naḍīri, nānu illi pārknalli naḍītīni — vīḍiyō kālnalli oṭṭige!"
+    en: "(laughing) Deal, Ajji! Tomorrow morning you walk on the terrace and I'll walk in the park here — together, on a video call!"
+  - who: ajji
+    t: "ನೋಡು ಮಗು, ಆ ಮಗುನ ನನ್ನ ಕೈಯಲ್ಲಿ ಎತ್ತಿಕೊಳ್ಳೋವರೆಗೂ ನಾನು ಎಲ್ಲೂ ಹೋಗಲ್ಲ. ಅಷ್ಟರಲ್ಲಿ ನೀನೂ ಆರೋಗ್ಯವಾಗಿರು, ನಾನೂ ಆರೋಗ್ಯವಾಗಿರ್ತೀನಿ. ಈಗ ನೆಮ್ಮದಿಯಾಗಿ ಮಲಗು."
+    tr: "Nōḍu magu, ā maguna nanna kaiyalli ettikoḷḷōvaregū nānu ellū hōgalla. Aṣṭaralli nīnū ārōgyavāgiru, nānū ārōgyavāgirtīni. Īga nemmadiyāgi malagu."
+    en: "Listen, child — I'm not going anywhere until I hold that baby in my arms. Until then, you stay healthy, and I'll stay healthy. Now go to sleep in peace."
+  - who: pradeep
+    t: "ನೋಡಿದ್ಯಾ? ಡಾಕ್ಟ್ರು ಹೇಳೋದಕ್ಕಿಂತ ಅಜ್ಜಿ ಹೇಳೋದೇ ಜಾಸ್ತಿ ಕೆಲಸ ಮಾಡುತ್ತೆ."
+    tr: "Nōḍidyā? Ḍākṭru hēḷōdakkinta ajji hēḷōdē jāsti kelasa māḍutte."
+    en: "See? What Ajji says works better than anything the doctors say."
+
+  - chapter: "Chapter 5 — Work and leave"
+  - section: "💼 One-on-one with Nikhil"
+    learn: "request ladder: mātāḍbēkāgittu, koḍbahudā? · intention ‑bēku anta iddīni · herige raje / meṭarniṭi līv · hedging: ‑ante, kanpharm māḍkoḷḷi · hyāṇḍōvar · ‑aṣṭaralli (by the time)"
+  - scene: "Early September. A small meeting room in Shwetha's office on the Outer Ring Road. Her manager Nikhil has just closed his laptop."
+  - who: shwe
+    t: "ನಿಖಿಲ್, ಹತ್ತು ನಿಮಿಷ ಸಿಗುತ್ತಾ? ನನ್ನ ಲೀವ್ ಪ್ಲಾನ್ ಬಗ್ಗೆ ಮಾತಾಡ್ಬೇಕಾಗಿತ್ತು."
+    tr: "Nikhil, hattu nimiṣa siguttā? Nanna līv plān bagge mātāḍbēkāgittu."
+    en: "Nikhil, do you have ten minutes? I wanted to talk about my leave plan."
+  - who: manager
+    t: "ಖಂಡಿತ, ಕೂತ್ಕೊಳ್ಳಿ. ಮೊದಲು — ಅಜ್ಜಿ ಹೇಗಿದ್ದಾರೆ? ಆ ವಾರ ನೀವು ಮೀಟಿಂಗ್‌ಗಳಲ್ಲಿ ಇದ್ದೂ ಇಲ್ಲದ ಹಾಗೆ ಇದ್ರಿ. ನಾವೆಲ್ಲಾ ಅರ್ಥ ಮಾಡ್ಕೊಂಡ್ವಿ."
+    tr: "Khaṇḍita, kūtkoḷḷi. Modalu — ajji hēgiddāre? Ā vāra nīvu mīṭiṅgaḷalli iddū illada hāge idri. Nāvellā artha māḍkoṇḍvi."
+    en: "Of course, sit down. First — how's your grandmother? That week you were in meetings but not really there. We all understood."
+  - who: shwe
+    t: "ಈಗ ಚೆನ್ನಾಗಿದ್ದಾರೆ, ಥ್ಯಾಂಕ್ಸ್. ಆ ವಾರ ಟೀಮ್ ನನ್ನ ಕೆಲಸ ಹಂಚ್ಕೊಂಡಿದ್ದಕ್ಕೆ ನಾನು ಋಣಿ. ವಿಷಯ ಏನಂದ್ರೆ, ನನ್ನ ಡ್ಯೂ ಡೇಟ್ ನವೆಂಬರ್‌ನಲ್ಲಿ. ಮೆಟರ್ನಿಟಿ ಲೀವ್ ಯಾವಾಗಿಂದ ಶುರು ಮಾಡ್ಬೇಕು ಅಂತ ಪ್ಲಾನ್ ಮಾಡ್ತಿದ್ದೀನಿ."
+    tr: "Īga chennāgiddāre, thyāṅks. Ā vāra ṭīm nanna kelasa hanchkoṇḍiddakke nānu ṛṇi. Viṣaya ēnandre, nanna ḍyū ḍēṭ navembarnalli. Meṭarniṭi līv yāvāginda shuru māḍbēku anta plān māḍtiddīni."
+    en: "She's doing well now, thanks. I'm grateful the team shared my work that week. So, the thing is, my due date is in November. I'm planning when to start my maternity leave."
+  - who: manager
+    t: "ಬೇಗ ಪ್ಲಾನ್ ಮಾಡಿದ್ದು ಒಳ್ಳೇದು. ನಮ್ ಪಾಲಿಸಿ ಪ್ರಕಾರ ಇಪ್ಪತ್ತಾರು ವಾರ ಪೇಯ್ಡ್ ಲೀವ್ — ಸುಮಾರು ಆರು ತಿಂಗಳು. ಅದರಲ್ಲಿ ಹೆರಿಗೆಗೆ ಮುಂಚೆ ಎಂಟು ವಾರದವರೆಗೂ ತಗೋಬಹುದು. ಮೊದಲು ಇದು ಮೆಟರ್ನಿಟಿ ಬೆನಿಫಿಟ್ ಆಕ್ಟ್‌ನಲ್ಲಿತ್ತು; ಕಳೆದ ನವೆಂಬರ್‌ನಿಂದ ಸೋಶಿಯಲ್ ಸೆಕ್ಯುರಿಟಿ ಕೋಡ್ ಒಳಗೆ ಬಂದಿದೆಯಂತೆ. ರೂಲ್ಸ್ ಹೆಚ್ಚು-ಕಮ್ಮಿ ಅದೇ ಅಂತ ಎಚ್‌ಆರ್ ಹೇಳ್ತಾರೆ, ಆದ್ರೆ ಡೀಟೇಲ್ಸ್ ಅವರ ಹತ್ರಾನೇ ಕನ್ಫರ್ಮ್ ಮಾಡ್ಕೊಳ್ಳಿ — ನಾನು ಲಾಯರ್ ಅಲ್ಲ!"
+    tr: "Bēga plān māḍiddu oḷḷēdu. Nam pālisi prakāra ippattāru vāra pēyḍ līv — sumāru āru tiṅgaḷu. Adaralli herigege munche eṇṭu vāradavaregū tagōbahudu. Modalu idu Meṭarniṭi Benifiṭ Ākṭnallittu; kaḷeda navembarninda Sōshiyal Sekyuriṭi Kōḍ oḷage bandideyante. Rūls hechchu-kammi adē anta HR hēḷtāre, ādre ḍīṭēls avara hatrānē kanpharm māḍkoḷḷi — nānu lāyar alla!"
+    en: "Good that you're planning early. Under our policy it's twenty-six weeks of paid leave — about six months. Up to eight weeks of that can be taken before the delivery. It used to come under the Maternity Benefit Act; since last November it's apparently been folded into the Code on Social Security. HR says the rules are more or less the same, but confirm the details with them — I'm not a lawyer!"
+  - who: shwe
+    t: "ಲೀವ್ ಟೈಮಲ್ಲಿ ಪೂರ್ತಿ ಸಂಬಳ ಬರುತ್ತಾ? ವೇರಿಯಬಲ್ ಪೇ ಏನಾಗುತ್ತೆ?"
+    tr: "Līv ṭaimalli pūrti sambaḷa baruttā? Vēriyabal pē ēnāgutte?"
+    en: "Do I get my full salary during the leave? What happens to the variable pay?"
+  - who: manager
+    t: "ಸಂಬಳ ಬರುತ್ತೆ, ಅದು ಕಾನೂನು. ಬೋನಸ್, ವೇರಿಯಬಲ್ ಪೇ ಹೇಗೆ ಲೆಕ್ಕ ಹಾಕ್ತಾರೆ ಅನ್ನೋದು ಕಂಪನಿ ಪಾಲಿಸಿ — ಅದನ್ನೂ ಎಚ್‌ಆರ್‌ನ ಬರವಣಿಗೆಯಲ್ಲಿ ಕೇಳಿ. ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಲೀವ್ ಅಪ್ಲೈ ಮಾಡಿ, ಡ್ಯೂ ಡೇಟ್ ಇರೋ ಡಾಕ್ಟ್ರ ಸರ್ಟಿಫಿಕೇಟ್ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ. ಎಷ್ಟು ಬೇಗ ಹಾಕ್ತೀರೋ ಅಷ್ಟು ಒಳ್ಳೇದು."
+    tr: "Sambaḷa barutte, adu kānūnu. Bōnas, vēriyabal pē hēge lekka hāktāre annōdu kampani pālisi — adannū HR-na baravaṇigeyalli kēḷi. Pōrṭalnalli līv aplai māḍi, ḍyū ḍēṭ irō ḍākṭra sarṭiphikēṭ aplōḍ māḍi. Eṣṭu bēga hāktīrō aṣṭu oḷḷēdu."
+    en: "The salary is paid — that's the law. How bonus and variable pay are calculated is company policy, so ask HR about that in writing too. Apply for the leave on the portal and upload a doctor's certificate with the due date. The sooner, the better."
+  - who: shwe
+    t: "ನಾನು ಅಕ್ಟೋಬರ್ ಕೊನೆವರೆಗೂ ಕೆಲಸ ಮಾಡ್ಬೇಕು ಅಂತ ಇದ್ದೀನಿ. ಆದ್ರೆ ಸೀಮಂತ ಆದ್ಮೇಲೆ ಜಯನಗರದಲ್ಲಿ ಅಮ್ಮನ ಮನೇಲಿ ಇರ್ತೀನಿ. ಅಲ್ಲಿಂದ ದಿನಾ ಔಟರ್ ರಿಂಗ್ ರೋಡ್‌ಗೆ ಬರೋದು ಅಂದ್ರೆ ಎರಡು ಗಂಟೆ ಟ್ರಾಫಿಕ್. ಅದಕ್ಕೆ ಕೊನೆಯ ಆರು ವಾರ ವರ್ಕ್ ಫ್ರಮ್ ಹೋಮ್ ಕೊಡ್ಬಹುದಾ ಅಂತ ಕೇಳೋಣ ಅಂತ."
+    tr: "Nānu akṭōbar konevaregū kelasa māḍbēku anta iddīni. Ādre sīmanta ādmēle Jayanagaradalli ammana manēli irtīni. Allinda dinā auṭar riṅg rōḍge barōdu andre eraḍu gaṇṭe ṭrāphik. Adakke koneya āru vāra vark phram hōm koḍbahudā anta kēḷōṇa anta."
+    en: "I plan to work until the end of October. But after the seemantha I'll be staying at my mother's in Jayanagar. Coming to the Outer Ring Road from there every day means two hours of traffic. So I wanted to ask whether I could work from home for the last six weeks."
+  - who: manager
+    t: "ಅದಕ್ಕೆ ತೊಂದ್ರೆ ಇಲ್ಲ ಅನ್ಸುತ್ತೆ. ಕೆಲಸದ ಸ್ವಭಾವ ಅನುಮತಿಸಿದ್ರೆ ವರ್ಕ್ ಫ್ರಮ್ ಹೋಮ್ ಕೊಡ್ಬಹುದು ಅಂತ ಕಾನೂನಲ್ಲೂ ಇದೆ, ನಮ್ ಪಾಲಿಸಿಲೂ ಇದೆ. ನಿಮ್ ಕೆಲಸ ಹೇಗಿದ್ರೂ ಲ್ಯಾಪ್‌ಟಾಪ್‌ನಲ್ಲೇ. ಆದ್ರೆ ವಾರಕ್ಕೊಮ್ಮೆ ಸ್ಪ್ರಿಂಟ್ ಪ್ಲಾನಿಂಗ್‌ಗೆ ಬರೋಕಾಗುತ್ತಾ?"
+    tr: "Adakke tondre illa ansutte. Kelasada svabhāva anumatisidre vark phram hōm koḍbahudu anta kānūnallū ide, nam pālisilū ide. Nim kelasa hēgidrū lyāpṭāpnallē. Ādre vārakkomme spriṇṭ plāniṅgge barōkāguttā?"
+    en: "I don't think that's a problem. Both the law and our policy say work from home can be allowed where the nature of the work permits. Your work is all on a laptop anyway. But could you come in once a week for sprint planning?"
+  - who: shwe
+    t: "ಆರೋಗ್ಯ ಸರಿ ಇದ್ರೆ ಬರ್ತೀನಿ. ಡಾಕ್ಟ್ರು ಬೇಡ ಅಂದ್ರೆ ಮಾತ್ರ ಆನ್‌ಲೈನ್."
+    tr: "Ārōgya sari idre bartīni. Ḍākṭru bēḍa andre mātra ānlain."
+    en: "If my health is fine, I'll come. Only if the doctor says no, I'll join online."
+  - who: manager
+    t: "ಸರಿ. ಹ್ಯಾಂಡೋವರ್ ಬಗ್ಗೆ ಯೋಚನೆ ಮಾಡಿದ್ದೀರಾ? ನಿಮ್ ಪೈಪ್‌ಲೈನ್‌ಗಳು ನಿಮಗೆ ಬಿಟ್ರೆ ಯಾರಿಗೂ ಪೂರ್ತಿ ಗೊತ್ತಿಲ್ಲ."
+    tr: "Sari. Hyāṇḍōvar bagge yōchane māḍiddīrā? Nim paiplaingaḷu nimage biṭre yārigū pūrti gottilla."
+    en: "Fine. Have you thought about the handover? Nobody but you fully knows your pipelines."
+  - who: shwe
+    t: "ಅದಕ್ಕೇ ಒಂದು ಡಾಕ್ಯುಮೆಂಟ್ ಶುರು ಮಾಡಿದ್ದೀನಿ. ಅರ್ಜುನ್ ಡೇಟಾ ಪೈಪ್‌ಲೈನ್ ನೋಡ್ಕೊಳ್ತಾನೆ, ಪ್ರಿಯಾ ಕ್ಲೈಂಟ್ ಮೀಟಿಂಗ್ಸ್. ಅಕ್ಟೋಬರ್‌ನಲ್ಲಿ ಮೂರು ವಾರ ಅವರ ಜೊತೆ ಕೂತು ಎಲ್ಲಾ ತೋರಿಸ್ತೀನಿ. ಲೀವ್ ಶುರು ಆಗೋ ಅಷ್ಟರಲ್ಲಿ ಅವರೇ ನಡೆಸ್ಕೊಂಡ್ ಹೋಗ್ಬೇಕು."
+    tr: "Adakkē ondu ḍākyumeṇṭ shuru māḍiddīni. Arjun ḍēṭā paiplain nōḍkoḷtāne, Priyā klaiṇṭ mīṭiṅgs. Akṭōbarnalli mūru vāra avara jote kūtu ellā tōristīni. Līv shuru āgō aṣṭaralli avarē naḍeskoṇḍ hōgbēku."
+    en: "That's why I've started a document. Arjun will look after the data pipelines, Priya the client meetings. In October I'll sit with them for three weeks and show them everything. By the time my leave starts, they should be running it themselves."
+  - who: shwe
+    t: "ನಿಖಿಲ್, ಇನ್ನೊಂದು ವಿಷಯ — ನೇರವಾಗಿ ಕೇಳ್ತೀನಿ. ಅಪ್ರೈಸಲ್ ಮಾರ್ಚ್‌ನಲ್ಲಿ, ಆಗ ನಾನು ಲೀವ್‌ನಲ್ಲಿರ್ತೀನಿ. ಆರು ತಿಂಗಳು ಇಲ್ಲದೆ ಇದ್ರೆ ನನ್ನ ರೇಟಿಂಗ್, ಪ್ರೊಮೋಷನ್ ಎಲ್ಲಾ ಹೋಗುತ್ತೆ ಅಂತ ಭಯ. ನಮ್ ಟೀಮ್‌ನಲ್ಲೇ ಒಬ್ರು 'ಮೆಟರ್ನಿಟಿ ಅಂದ್ರೆ ಕರಿಯರ್‌ಗೆ ಬ್ರೇಕ್' ಅಂತ ಜೋಕ್ ಮಾಡಿದ್ರು."
+    tr: "Nikhil, innondu viṣaya — nēravāgi kēḷtīni. Apraisal mārchnalli, āga nānu līvnallirtīni. Āru tiṅgaḷu illade idre nanna rēṭiṅg, promōṣan ellā hōgutte anta bhaya. Nam ṭīmnallē obru 'meṭarniṭi andre kariyarge brēk' anta jōk māḍidru."
+    en: "Nikhil, one more thing — I'll ask directly. The appraisal is in March, and I'll be on leave then. I'm afraid that being away six months will cost me my rating and my promotion. Someone in our own team even joked that 'maternity means a break in your career'."
+  - who: manager
+    t: "ಆ ಜೋಕ್ ನನಗೂ ಕೇಳಿಸ್ತು. ಅದು ತಮಾಷೆ ಅಲ್ಲ, ಆ ವ್ಯಕ್ತಿ ಹತ್ರ ನಾನೇ ಮಾತಾಡ್ತೀನಿ. ನೋಡಿ, ಮೆಟರ್ನಿಟಿ ಲೀವ್ ಕಾರಣಕ್ಕೆ ಯಾರನ್ನೂ ಕೆಲಸದಿಂದ ತೆಗೆಯೋಕಾಗಲ್ಲ, ಸಂಬಳ ಕಟ್ ಮಾಡೋಕಾಗಲ್ಲ. ರೇಟಿಂಗ್ ವಿಷಯದಲ್ಲಿ — ಏಪ್ರಿಲ್‌ನಿಂದ ಇವತ್ತಿನವರೆಗಿನ ನಿಮ್ ಕೆಲಸ ನಾನು ನೋಡಿದ್ದೀನಿ. ಆ ಮೈಗ್ರೇಷನ್ ಪ್ರಾಜೆಕ್ಟ್ ಯಾರಿಂದ ಮುಗೀತು ಅಂತ ಎಲ್ರಿಗೂ ಗೊತ್ತು."
+    tr: "Ā jōk nanagū kēḷistu. Adu tamāṣe alla, ā vyakti hatra nānē mātāḍtīni. Nōḍi, meṭarniṭi līv kāraṇakke yārannū kelasadinda tegeyōkāgalla, sambaḷa kaṭ māḍōkāgalla. Rēṭiṅg viṣayadalli — ēprilninda ivattinavaregina nim kelasa nānu nōḍiddīni. Ā maigrēṣan prājekṭ yārinda mugītu anta elrigū gottu."
+    en: "I heard that joke too. It isn't funny, and I'll speak to that person myself. Look — nobody can be dismissed or have their pay cut because of maternity leave. As for the rating — I've seen your work from April until today. Everyone knows who got that migration project done."
+  - who: shwe
+    t: "ಅದು ಬರವಣಿಗೆಯಲ್ಲಿ ಇದ್ರೆ ನನಗೆ ಸಮಾಧಾನ. ಯಾಕಂದ್ರೆ ಮ್ಯಾನೇಜರ್‌ಗಳು ಬದಲಾಗ್ತಾರೆ."
+    tr: "Adu baravaṇigeyalli idre nanage samādhāna. Yākandre myānējargaḷu badalāgtāre."
+    en: "I'd feel better if that were in writing. Because managers change."
+  - who: manager
+    t: "ನ್ಯಾಯವಾದ ಮಾತು. ಇವತ್ತೇ ನಿಮ್ ಮಿಡ್-ಇಯರ್ ರಿವ್ಯೂ ಬರೆದು ಎಚ್‌ಆರ್‌ಗೆ ಮೇಲ್ ಹಾಕ್ತೀನಿ, ನಿಮ್ಮನ್ನೂ ಸಿಸಿ ಮಾಡ್ತೀನಿ. ಹಾಗೆ, ಆಫೀಸ್ ಹತ್ರ ಒಂದು ಕ್ರೆಷ್ ಜೊತೆ ಟೈ-ಅಪ್ ಆಗಿದೆ — ಲೀವ್ ಮುಗಿಸಿ ವಾಪಸ್ ಬಂದಾಗ ಉಪಯೋಗ ಆಗುತ್ತೆ."
+    tr: "Nyāyavāda mātu. Ivattē nim miḍ-iyar rivyū baredu HR-ge mēl hāktīni, nimmannū CC māḍtīni. Hāge, āphīs hatra ondu kreṣ jote ṭai-ap āgide — līv mugisi vāpas bandāga upayōga āgutte."
+    en: "(laughs) Fair point. Today itself I'll write up your mid-year review and mail it to HR, copying you. And by the way, there's a tie-up with a crèche near the office — it'll be useful when you come back from leave."
+  - who: shwe
+    t: "ಆರು ತಿಂಗಳ ಮಗುನ ಬಿಟ್ಟು ಬರೋದು ಅಂತ ಯೋಚಿಸಿದ್ರೇನೇ ಹೊಟ್ಟೆ ಹಿಂಡಿದ ಹಾಗಾಗುತ್ತೆ… ಆದ್ರೂ ಥ್ಯಾಂಕ್ಸ್ ನಿಖಿಲ್. ಈ ಮಾತುಕತೆಗೆ ತುಂಬಾ ಭಯಪಟ್ಟಿದ್ದೆ, ಈಗ ನಿರಾಳ ಆಯ್ತು."
+    tr: "Āru tiṅgaḷa maguna biṭṭu barōdu anta yōchisidrēnē hoṭṭe hiṇḍida hāgāgutte… ādrū thyāṅks Nikhil. Ī mātukatege tumbā bhayapaṭṭidde, īga nirāḷa āytu."
+    en: "Just thinking about leaving a six-month-old baby makes my stomach twist… but thanks, Nikhil. I was really dreading this conversation; now I feel relieved."
+  - who: manager
+    t: "ಈ ಕಂಪನಿ ಆರು ತಿಂಗಳಲ್ಲಿ ಮುಳುಗಲ್ಲ, ಶ್ವೇತಾ. ಆರೋಗ್ಯ ಮೊದಲು. ಶುಗರ್ ಬಗ್ಗೆ ಹೇಳಿದ್ರಲ್ಲ — ಮಧ್ಯಾಹ್ನ ಊಟ ಆದ್ಮೇಲೆ ಹದಿನೈದು ನಿಮಿಷ ವಾಕ್, ಮೀಟಿಂಗ್ ಇದ್ರೂ ಬಿಡ್ಬೇಡಿ. ಅದು ನನ್ನ ಆರ್ಡರ್!"
+    tr: "Ī kampani āru tiṅgaḷalli muḷugalla, Shwētā. Ārōgya modalu. Shugar bagge hēḷidralla — madhyāhna ūṭa ādmēle hadinaidu nimiṣa vāk, mīṭiṅg idrū biḍbēḍi. Adu nanna ārḍar!"
+    en: "This company won't sink in six months, Shwetha. Health first. You told me about the sugar — a fifteen-minute walk after lunch, and don't skip it even if there's a meeting. That's an order!"
+
+  - section: "🌎 Pradeep asks for paternity leave"
+    learn: "reported speech: ‑anta hēḷidru, ‑ante · pēṭarniṭi līv · ‑ōdrinda (because) · plans: modalu … āmēle … · teasing between spouses"
+  - scene: "Eleven at night in the JP Nagar flat. Pradeep has just finished a video call with his manager in Seattle."
+  - who: shwe
+    t: "ಏನಂದ್ರು ನಿನ್ ಬಾಸ್? ಮುಖ ನೋಡಿದ್ರೆ ಒಳ್ಳೆ ಸುದ್ದಿ ಅನ್ಸುತ್ತೆ."
+    tr: "Ēnandru nin bās? Mukha nōḍidre oḷḷe suddi ansutte."
+    en: "What did your boss say? From your face, it looks like good news."
+  - who: pradeep
+    t: "ಅರ್ಧ ಒಳ್ಳೆ ಸುದ್ದಿ. ಅಮೆರಿಕಾದಲ್ಲಿರೋ ಉದ್ಯೋಗಿಗಳಿಗೆ ಹನ್ನೆರಡು ವಾರ ಪೇರೆಂಟಲ್ ಲೀವ್ ಇದೆಯಂತೆ. ಆದ್ರೆ ನಾನು ಇಂಡಿಯಾದಿಂದ ಕೆಲಸ ಮಾಡ್ತಿರೋದ್ರಿಂದ ನನ್ನ ಕಾಂಟ್ರಾಕ್ಟ್ ಇಲ್ಲಿನ ಒಂದು ಪೇರೋಲ್ ಕಂಪನಿ ಮೂಲಕ. ಅವರ ಪಾಲಿಸಿ ಪ್ರಕಾರ ನಾಲ್ಕು ವಾರ ಮಾತ್ರ."
+    tr: "Ardha oḷḷe suddi. Amerikādallirō udyōgigaḷige hanneraḍu vāra pēreṇṭal līv ideyante. Ādre nānu Iṇḍiyādinda kelasa māḍtirōdrinda nanna kāṇṭrākṭ illina ondu pērōl kampani mūlaka. Avara pālisi prakāra nālku vāra mātra."
+    en: "Half good news. Apparently employees in America get twelve weeks of parental leave. But because I work from India, my contract goes through a payroll company here. Under their policy it's only four weeks."
+  - who: shwe
+    t: "ನಾಲ್ಕು ವಾರ? ಇಲ್ಲಿ ಪ್ರೈವೇಟ್ ಕಂಪನಿಗಳಲ್ಲಿ ಗಂಡಸರಿಗೆ ಕಾನೂನಲ್ಲಿ ಪೇಟರ್ನಿಟಿ ಲೀವ್ ಅಂತ ಏನೂ ಇಲ್ಲ ಅನ್ಸುತ್ತೆ — ಕಂಪನಿ ಕೊಟ್ಟಷ್ಟು. ಆ ಲೆಕ್ಕದಲ್ಲಿ ನಾಲ್ಕು ವಾರ ಕೆಟ್ಟದ್ದಲ್ಲ."
+    tr: "Nālku vāra? Illi praivēṭ kampanigaḷalli gaṇḍasarige kānūnalli pēṭarniṭi līv anta ēnū illa ansutte — kampani koṭṭaṣṭu. Ā lekkadalli nālku vāra keṭṭaddalla."
+    en: "Four weeks? I think here, in private companies, there's no legal paternity leave for men — you get whatever the company gives. By that measure, four weeks isn't bad."
+  - who: pradeep
+    t: "ಅದಕ್ಕೇ ನಾನೂ ಒಪ್ಕೊಂಡೆ. ಆದ್ರೆ ಅವರೇ ಒಂದು ಐಡಿಯಾ ಕೊಟ್ರು — ಮಗು ಹುಟ್ಟಿದ ತಕ್ಷಣ ಎರಡು ವಾರ, ನೀನು ಮಗುನ ಕರ್ಕೊಂಡು ನಮ್ ಮನೆಗೆ ವಾಪಸ್ ಬರುವಾಗ ಇನ್ನೆರಡು ವಾರ. ಮಧ್ಯದಲ್ಲಿ ನಾನು ಜಯನಗರದಿಂದಲೇ ಕೆಲಸ ಮಾಡ್ತೀನಿ."
+    tr: "Adakkē nānū opkoṇḍe. Ādre avarē ondu aiḍiyā koṭru — magu huṭṭida takṣaṇa eraḍu vāra, nīnu maguna karkoṇḍu nam manege vāpas baruvāga inneraḍu vāra. Madhyadalli nānu Jayanagaradindalē kelasa māḍtīni."
+    en: "That's why I agreed too. But he suggested something himself — two weeks right after the baby is born, and another two when you bring the baby back to our place. In between I'll work from Jayanagar."
+  - who: shwe
+    t: "ಜಯನಗರದಿಂದ? ಅಮ್ಮನ ಮನೇಲಿ ಮಧ್ಯರಾತ್ರಿ ಸಿಯಾಟಲ್ ಮೀಟಿಂಗ್ ಮಾಡ್ತೀಯಾ? ಅಜ್ಜಿ ಒಂಬತ್ತೂವರೆಗೇ ಲೈಟ್ ಆಫ್ ಮಾಡ್ತಾರೆ!"
+    tr: "Jayanagaradinda? Ammana manēli madhyarātri Siyāṭal mīṭiṅg māḍtīyā? Ajji ombattūvaregē laiṭ āph māḍtāre!"
+    en: "From Jayanagar? You'll do midnight Seattle meetings in my mother's house? Ajji switches the lights off at nine-thirty!"
+  - who: pradeep
+    t: "ಸ್ಯಾಮ್ ಒಪ್ಪಿದ್ರೆ ಅವನ ರೂಮ್‌ನಲ್ಲಿ ಕೂತ್ಕೊಳ್ತೀನಿ. ಹೇಗೂ ಮಗು ರಾತ್ರಿ ಎಲ್ಲಾ ಎಚ್ಚರ ಇರುತ್ತೆ, ನಾನೂ ಎಚ್ಚರ ಇರ್ತೀನಿ — ಟೈಮ್ ಜೋನ್ ಸರಿಯಾಗೇ ಇದೆ!"
+    tr: "Syām oppidre avana rūmnalli kūtkoḷtīni. Hēgū magu rātri ellā echchara irutte, nānū echchara irtīni — ṭaim jōn sariyāgē ide!"
+    en: "If Sam agrees, I'll sit in his room. The baby will be awake all night anyway, and so will I — the time zone works out perfectly!"
+  - who: shwe
+    t: "ಹುಚ್ಚ! … ಆದ್ರೆ ಡ್ಯೂ ಡೇಟ್ ಮುಂಚೆ-ಹಿಂದೆ ಆದ್ರೆ ಏನು ಮಾಡ್ಬೇಕು ಅಂತ ಕೇಳಿದ್ಯಾ?"
+    tr: "Huchcha! … Ādre ḍyū ḍēṭ munche-hinde ādre ēnu māḍbēku anta kēḷidyā?"
+    en: "You're crazy! … But did you ask what happens if the baby comes before or after the due date?"
+  - who: pradeep
+    t: "ಕೇಳಿದೆ. 'ಬೇಬಿ ಬಂದ ದಿನಾನೇ ಲೀವ್ ಶುರು, ಒಂದು ಮೇಲ್ ಹಾಕಿದ್ರೆ ಸಾಕು' ಅಂತ ಹೇಳಿದ್ರು. ಆ ವಿಷಯದಲ್ಲಿ ಅವರು ತುಂಬಾ ಒಳ್ಳೆಯವರು."
+    tr: "Kēḷide. 'Bēbi banda dinānē līv shuru, ondu mēl hākidre sāku' anta hēḷidru. Ā viṣayadalli avaru tumbā oḷḷeyavaru."
+    en: "I did. He said, 'Leave starts the day the baby arrives — just send an email.' He's really good about that sort of thing."
+
+  - section: "💰 Money, insurance and where to deliver"
+    learn: "insurance words: grūp pālisi, sab-limiṭ, vēṭiṅg pīriyaḍ, kyāshles, pri-ātharaisēshan · ‑bēkādre (if needed) · tradition: who pays for the first delivery · ‑ade irō hāge (so that … not)"
+  - scene: "Sunday, 13 September, a week before the seemantha. The couple sit at the dining table with a laptop, Shwetha's insurance policy open on the screen, and a notebook full of figures."
+  - who: shwe
+    t: "ನನ್ನ ಕಂಪನಿಯ ಗ್ರೂಪ್ ಇನ್ಶೂರೆನ್ಸ್‌ನಲ್ಲಿ ಮೆಟರ್ನಿಟಿ ಕವರ್ ಇದೆ. ಆದ್ರೆ ಸಬ್-ಲಿಮಿಟ್ — ನಾರ್ಮಲ್ ಡೆಲಿವರಿಗೆ ಐವತ್ತು ಸಾವಿರ, ಸಿಸೇರಿಯನ್‌ಗೆ ಎಪ್ಪತ್ತೈದು ಸಾವಿರ ಮಾತ್ರ. ಮಗುಗೆ ಮೊದಲ ದಿನದಿಂದಲೇ ಕವರ್ ಇದೆ ಅಂತ ಬರೆದಿದೆ."
+    tr: "Nanna kampaniya grūp inshūrensnalli meṭarniṭi kavar ide. Ādre sab-limiṭ — nārmal ḍelivarige aivattu sāvira, sisēriyange eppattaidu sāvira mātra. Maguge modala dinadindalē kavar ide anta baredide."
+    en: "My company's group insurance has maternity cover. But there's a sub-limit — only fifty thousand for a normal delivery and seventy-five thousand for a C-section. It says the baby is covered from day one."
+  - who: pradeep
+    t: "ಗ್ರೂಪ್ ಪಾಲಿಸಿಲಿ ವೇಟಿಂಗ್ ಪೀರಿಯಡ್ ಇಲ್ಲ ಅಲ್ವಾ? ನಾನು ನೋಡಿದ ರಿಟೇಲ್ ಪಾಲಿಸಿಗಳಲ್ಲಿ ಮೆಟರ್ನಿಟಿಗೆ ಎರಡು-ಮೂರು ವರ್ಷ ಕಾಯ್ಬೇಕಿತ್ತು."
+    tr: "Grūp pālisili vēṭiṅg pīriyaḍ illa alvā? Nānu nōḍida riṭēl pālisigaḷalli meṭarniṭige eraḍu-mūru varṣa kāybēkittu."
+    en: "There's no waiting period in a group policy, right? In the retail policies I looked at, you had to wait two or three years for maternity."
+  - who: shwe
+    t: "ಇಲ್ಲ, ನಮ್ಮದರಲ್ಲಿ ಮೊದಲ ದಿನದಿಂದಲೇ. ಅದೇ ಒಂದು ಸಮಾಧಾನ. ಡಾಕ್ಟರ್ ಉಷಾ ಕೂರೋ ಆಸ್ಪತ್ರೆ ನೆಟ್‌ವರ್ಕ್‌ನಲ್ಲಿದೆ, ಅಂದ್ರೆ ಕ್ಯಾಶ್‌ಲೆಸ್ ಆಗುತ್ತೆ. ಡ್ಯೂ ಡೇಟ್‌ಗೆ ಒಂದು ತಿಂಗಳು ಮುಂಚೆನೇ ಪ್ರಿ-ಆಥರೈಸೇಶನ್ ಕಳಿಸ್ಬಹುದಂತೆ."
+    tr: "Illa, nammadaralli modala dinadindalē. Adē ondu samādhāna. Ḍākṭar Uṣā kūrō āspatre neṭvarknallide, andre kyāshles āgutte. Ḍyū ḍēṭge ondu tiṅgaḷu munchenē pri-ātharaisēshan kaḷisbahudante."
+    en: "No — ours covers it from day one. That's one relief. The hospital where Dr. Usha practises is in the network, so it can be cashless. Apparently the pre-authorisation can be sent a month before the due date."
+  - who: shwe
+    t: "ಈಗ ಖರ್ಚು. ಅವರ ಪ್ಯಾಕೇಜ್ — ನಾರ್ಮಲ್ ಡೆಲಿವರಿ ರೂಮ್ ನೋಡಿ ಸುಮಾರು ಎಂಬತ್ತು ಸಾವಿರದಿಂದ ಒಂದು ಲಕ್ಷದ ಹತ್ತು ಸಾವಿರ. ಸಿಸೇರಿಯನ್ ಆದ್ರೆ ಒಂದೂವರೆ ಲಕ್ಷದ ಹತ್ರ. ಮಗುಗೆ ಎನ್‌ಐಸಿಯು ಬೇಕಾದ್ರೆ ಅದು ಬೇರೆ — ದಿನಕ್ಕೆ ಹತ್ತರಿಂದ ಇಪ್ಪತ್ತು ಸಾವಿರ ಆಗಬಹುದು ಅಂದ್ರು."
+    tr: "Īga kharchu. Avara pyākēj — nārmal ḍelivari rūm nōḍi sumāru embattu sāviradinda ondu lakṣada hattu sāvira. Sisēriyan ādre ondūvare lakṣada hatra. Maguge NICU bēkādre adu bēre — dinakke hattarinda ippattu sāvira āgabahudu andru."
+    en: "Now the costs. Their package — a normal delivery is roughly eighty thousand to one lakh ten thousand, depending on the room. A C-section, close to one and a half lakh. If the baby needs the NICU, that's extra — they said it could be ten to twenty thousand a day."
+  - who: pradeep
+    t: "ಅಂದ್ರೆ ಇನ್ಶೂರೆನ್ಸ್ ಹೋಗಿ ನಮ್ ಕೈಯಿಂದ ಕನಿಷ್ಠ ಐವತ್ತು-ಅರವತ್ತು ಸಾವಿರ. ಏನಾದ್ರೂ ಕಾಂಪ್ಲಿಕೇಷನ್ ಆದ್ರೆ ಇನ್ನೂ ಜಾಸ್ತಿ."
+    tr: "Andre inshūrens hōgi nam kaiyinda kaniṣṭha aivattu-aravattu sāvira. Ēnādrū kāmplikēṣan ādre innū jāsti."
+    en: "So after insurance, at least fifty or sixty thousand from our own pocket. More if there's any complication."
+  - who: shwe
+    t: "ಅಮ್ಮ ವಾಣಿ ವಿಲಾಸ್ ಬಗ್ಗೆ ಹೇಳ್ತಿದ್ರು. ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆ, ಡೆಲಿವರಿ ಹೆಚ್ಚು-ಕಮ್ಮಿ ಫ್ರೀ. ಒಂದು ಕಾಲದಲ್ಲಿ ಅಲ್ಲಿ ತಿಂಗಳಿಗೆ ಮೂರು ಸಾವಿರ ಡೆಲಿವರಿ ಆಗ್ತಿತ್ತಂತೆ — ಡಾಕ್ಟರ್‌ಗಳಿಗೆ ಅನುಭವ ತುಂಬಾ. ಆದ್ರೆ ಭಯಂಕರ ರಶ್, ಒಂದೇ ವಾರ್ಡ್‌ನಲ್ಲಿ ತುಂಬಾ ತಾಯಂದಿರು, ಮತ್ತೆ ನಮ್ ಡಾಕ್ಟರ್ ಅಲ್ಲಿ ಇರಲ್ಲ."
+    tr: "Amma Vāṇi Vilās bagge hēḷtidru. Sarkāri āspatre, ḍelivari hechchu-kammi phrī. Ondu kāladalli alli tiṅgaḷige mūru sāvira ḍelivari āgtittante — ḍākṭargaḷige anubhava tumbā. Ādre bhayaṅkara rash, ondē vārḍnalli tumbā tāyandiru, matte nam ḍākṭar alli iralla."
+    en: "Amma was talking about Vani Vilas. It's a government hospital — delivery is practically free. At one time they apparently did three thousand deliveries a month there, so the doctors are very experienced. But it's terribly crowded, lots of mothers in one ward, and our own doctor won't be there."
+  - who: pradeep
+    t: "ಜಯದೇವ ನೋಡಿದ ಮೇಲೆ ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆ ಬಗ್ಗೆ ನನ್ನ ಅಭಿಪ್ರಾಯಾನೇ ಬದಲಾಯ್ತು. ಅಜ್ಜಿನ ಅಲ್ಲಿ ಎಷ್ಟು ಚೆನ್ನಾಗಿ ನೋಡ್ಕೊಂಡ್ರು."
+    tr: "Jayadēva nōḍida mēle sarkāri āspatre bagge nanna abhiprāyānē badalāytu. Ajjina alli eṣṭu chennāgi nōḍkoṇḍru."
+    en: "After seeing Jayadeva, my whole opinion of government hospitals changed. They looked after Ajji so well there."
+  - who: shwe
+    t: "ನಿಜ. ಆದ್ರೆ ನನ್ನ ಶುಗರ್ ಬಾರ್ಡರ್‌ಲೈನ್ ಇದೆ, ಆರು ತಿಂಗಳಿಂದ ಡಾಕ್ಟರ್ ಉಷಾ ನನ್ನನ್ನ ನೋಡ್ತಿದ್ದಾರೆ, ನನ್ನ ಎಲ್ಲಾ ಹಿಸ್ಟರಿ ಅವರಿಗೆ ಗೊತ್ತು. ಹೆರಿಗೆ ಟೈಮಲ್ಲಿ ಪರಿಚಯ ಇರೋ ಮುಖ ಇರ್ಬೇಕು ಅನ್ಸುತ್ತೆ. ಅದಕ್ಕೆ ದುಡ್ಡು ಕೊಡೋಕೆ ನಾನು ರೆಡಿ."
+    tr: "Nija. Ādre nanna shugar bārḍarlain ide, āru tiṅgaḷinda ḍākṭar Uṣā nannanna nōḍtiddāre, nanna ellā hisṭari avarige gottu. Herige ṭaimalli parichaya irō mukha irbēku ansutte. Adakke duḍḍu koḍōke nānu reḍi."
+    en: "True. But my sugar is borderline, Dr. Usha has been seeing me for six months, she knows my whole history. I feel I need a familiar face at the delivery. I'm ready to pay for that."
+  - who: pradeep
+    t: "ಹಾಗಾದ್ರೆ ಡಾಕ್ಟರ್ ಉಷಾನೇ. ನಮ್ ಎಮರ್ಜೆನ್ಸಿ ಫಂಡ್‌ನಲ್ಲಿ ಎರಡು ಲಕ್ಷ ಇದೆ — ಅದನ್ನ ಮುಟ್ಟದೆ, ಪ್ರತಿ ತಿಂಗಳು ಇಪ್ಪತ್ತು ಸಾವಿರ ಬೇರೆ ಇಡೋಣ. ನವೆಂಬರ್ ಅಷ್ಟರಲ್ಲಿ ಅರವತ್ತು ಸಾವಿರ ಆಗುತ್ತೆ. ಮತ್ತೆ ಮಗು ಹುಟ್ಟಿದ ತಕ್ಷಣ ಪಾಲಿಸಿಗೆ ಸೇರಿಸ್ಬೇಕು — ಸಾಮಾನ್ಯವಾಗಿ ಮೂವತ್ತು ದಿನದ ಒಳಗೆ ಎಚ್‌ಆರ್‌ಗೆ ಹೇಳ್ಬೇಕಂತೆ."
+    tr: "Hāgādre ḍākṭar Uṣānē. Nam emarjensi phaṇḍnalli eraḍu lakṣa ide — adanna muṭṭade, prati tiṅgaḷu ippattu sāvira bēre iḍōṇa. Navembar aṣṭaralli aravattu sāvira āgutte. Matte magu huṭṭida takṣaṇa pālisige sērisbēku — sāmānyavāgi mūvattu dinada oḷage HR-ge hēḷbēkante."
+    en: "Then it's Dr. Usha. We have two lakh in our emergency fund — let's not touch it, and put aside twenty thousand separately every month. By November that'll be sixty thousand. And as soon as the baby is born we have to add the baby to the policy — apparently you usually have to tell HR within thirty days."
+  - who: shwe
+    t: "ಇನ್ನೊಂದು ವಿಷಯ. ನಮ್ಮಲ್ಲಿ ಮೊದಲ ಹೆರಿಗೆ ತವರುಮನೆಯವರ ಖರ್ಚು ಅನ್ನೋ ಪದ್ಧತಿ ಇದೆ. ಅಪ್ಪ ಈಗಾಗ್ಲೇ 'ಆಸ್ಪತ್ರೆ ಬಿಲ್ ನಾನೇ ಕಟ್ತೀನಿ' ಅಂದಿದ್ದಾರೆ. ಆದ್ರೆ ಅಜ್ಜಿ ಖರ್ಚು ಆದ್ಮೇಲೆ, ಅದೂ ರಿಟೈರ್‌ಮೆಂಟ್ ಹತ್ರ ಬರ್ತಿರೋವಾಗ… ನನಗೆ ಮನಸ್ಸು ಒಪ್ಪಲ್ಲ."
+    tr: "Innondu viṣaya. Nammalli modala herige tavarumaneyavara kharchu annō paddhati ide. Appa īgāglē 'āspatre bil nānē kaṭtīni' andiddāre. Ādre ajji kharchu ādmēle, adū riṭairmeṇṭ hatra bartirōvāga… nanage manassu oppalla."
+    en: "One more thing. In our community the custom is that the woman's parents pay for the first delivery. Appa has already said, 'I'll pay the hospital bill myself'. But after Ajji's expenses, and with his retirement coming up… my heart won't allow it."
+  - who: pradeep
+    t: "ನಾವೇ ಕಟ್ಟೋಣ. ನಿಮ್ ಅಪ್ಪನ ಮರ್ಯಾದೆಗೆ ಧಕ್ಕೆ ಆಗದೆ ಇರೋ ಹಾಗೆ ಹೇಳೋಣ — ಸೀಮಂತ, ಬಾಣಂತನ ಅವರದ್ದು; ಆಸ್ಪತ್ರೆ ನಮ್ಮದು. ಅದು ಸರಿಯಾದ ಹಂಚಿಕೆ ಅನ್ಸುತ್ತೆ."
+    tr: "Nāvē kaṭṭōṇa. Nim appana maryādege dhakke āgade irō hāge hēḷōṇa — sīmanta, bāṇantana avaraddu; āspatre nammadu. Adu sariyāda hanchike ansutte."
+    en: "We'll pay. Let's put it to your father in a way that doesn't hurt his pride — the seemantha and the confinement are theirs; the hospital is ours. That feels like a fair split."
+  - who: shwe
+    t: "ಮದುವೆ ಟೈಮಲ್ಲಿ ದುಡ್ಡಿನ ವಿಷಯಕ್ಕೆ ಏನೇನಾಯ್ತು ಅಂತ ನೆನೆಸ್ಕೊಂಡ್ರೆ… ಈಗ ನೀನು ಹೀಗೆ ಮಾತಾಡೋದು ಕೇಳಿ ತುಂಬಾ ಖುಷಿ ಆಗುತ್ತೆ."
+    tr: "Maduve ṭaimalli duḍḍina viṣayakke ēnēnāytu anta nenaskoṇḍre… īga nīnu hīge mātāḍōdu kēḷi tumbā khuṣi āgutte."
+    en: "When I remember everything that happened over money at the time of our wedding… hearing you talk like this makes me very happy."
+  - scene: "Pradeep's phone rings. It's his mother, Sumitra. He puts her on speaker."
+  - who: sumitra
+    t: "ಶ್ವೇತಾ, ಹೇಗಿದ್ದೀಯಮ್ಮ? ಶುಗರ್ ಬಾರ್ಡರ್‌ಲೈನ್ ಅಂತ ಪ್ರದೀಪ ಹೇಳಿದ. ನಿನಗೋಸ್ಕರ ಸಕ್ಕರೆ ಇಲ್ಲದೆ ರಾಗಿ ಮಾಲ್ಟ್ ಪುಡಿ ಮಾಡಿದ್ದೀನಿ. ನಾಳೆ ನಿಮ್ ಮಾವ ತಂದು ಕೊಡ್ತಾರೆ."
+    tr: "Shwētā, hēgiddīyamma? Shugar bārḍarlain anta Pradīpa hēḷida. Ninagōskara sakkare illade rāgi mālṭ puḍi māḍiddīni. Nāḷe nim māva tandu koḍtāre."
+    en: "Shwetha, how are you, dear? Pradeep told me your sugar is borderline. I've made you some ragi malt powder, without sugar. Your father-in-law will bring it over tomorrow."
+  - who: shwe
+    t: "ಥ್ಯಾಂಕ್ಸ್ ಅತ್ತೆ. ನೀವ್ಯಾಕೆ ಇಷ್ಟು ಕಷ್ಟ ಪಡ್ತೀರಾ?"
+    tr: "Thyāṅks atte. Nīvyāke iṣṭu kaṣṭa paḍtīrā?"
+    en: "Thank you, Atte. Why do you go to so much trouble?"
+  - who: sumitra
+    t: "ಕಷ್ಟ ಏನು ಬಂತು? ಮತ್ತೆ ಒಂದು ವಿಷಯ — ಆಸ್ಪತ್ರೆ ಖರ್ಚಿಗೆ ನಾವೂ ಸ್ವಲ್ಪ ಕೊಡ್ತೀವಿ, ಬೇಡ ಅನ್ಬೇಡ. ಒಂದು ಕಾಲದಲ್ಲಿ ನಾವು ನಿಮ್ ಮನೆಯವರ ಮುಂದೆ ತಗೊಳ್ಳೋಕೆ ಕೈ ಚಾಚಿದ್ವಿ. ಈ ಸಲ ಕೊಡೋ ಕೈ ಆಗೋಕೆ ಬಿಡಮ್ಮ."
+    tr: "Kaṣṭa ēnu bantu? Matte ondu viṣaya — āspatre kharchige nāvū svalpa koḍtīvi, bēḍa anbēḍa. Ondu kāladalli nāvu nim maneyavara munde tagoḷḷōke kai chāchidvi. Ī sala koḍō kai āgōke biḍamma."
+    en: "What trouble? And one more thing — we'll contribute something to the hospital costs too, don't say no. Once we held out our hands to your family to take. This time, let us be the hand that gives, dear."
+  - who: shwe
+    t: "ಅತ್ತೆ… ಸರಿ. ಆದ್ರೆ ಒಂದು ಕಂಡೀಷನ್ — ಸೀಮಂತಕ್ಕೆ ನೀವು ಬೇಗ ಬರ್ಬೇಕು, ಅಮ್ಮ-ಅಜ್ಜಿ ಜೊತೆ ಇರ್ಬೇಕು. ಅದೇ ನನಗೆ ದೊಡ್ಡ ಉಡುಗೊರೆ."
+    tr: "Atte… sari. Ādre ondu kaṇḍīṣan — sīmantakke nīvu bēga barbēku, amma-ajji jote irbēku. Adē nanage doḍḍa uḍugore."
+    en: "(after a pause) Atte… all right. But on one condition — you come early to the seemantha and stay with Amma and Ajji. That's the biggest gift you could give me."
+  - who: sumitra
+    t: "ಬರ್ತೀನಿ. ನಿಮ್ ಅಜ್ಜಿ ಈಗಾಗ್ಲೇ ಫೋನ್ ಮಾಡಿ ಹೇಳಿದ್ರು — 'ಡಾಕ್ಟ್ರು ಏನಂದ್ರೂ ಸರಿ, ಶ್ವೇತಾಗೆ ಮೊದಲ ಆಶೀರ್ವಾದ ನಂದೇ' ಅಂತ!"
+    tr: "Bartīni. Nim ajji īgāglē phōn māḍi hēḷidru — 'ḍākṭru ēnandrū sari, Shwētāge modala āśīrvāda nandē' anta!"
+    en: "I'll come. Your grandmother has already phoned me to say, 'Whatever the doctors say, the first blessing for Shwetha is mine!'"
+  - who: pradeep
+    t: "ಅಂದ್ರೆ ಸೀಮಂತದ ಪ್ಲಾನಿಂಗ್ ಕಮಿಟಿ ಅಧ್ಯಕ್ಷೆ ಅಜ್ಜಿನೇ."
+    tr: "Andre sīmantada plāniṅg kamiṭi adhyakṣe ajjinē."
+    en: "So the chairperson of the seemantha planning committee is Ajji herself."
+  - who: shwe
+    t: "ಹಾಗಾದ್ರೆ ಡಾಕ್ಟರ್ ಮೀರಾ ಕೂಡ ಏನೂ ಮಾಡೋಕಾಗಲ್ಲ!"
+    tr: "Hāgādre ḍākṭar Mīrā kūḍa ēnū māḍōkāgalla!"
+    en: "Then not even Dr. Meera can do anything about it!"

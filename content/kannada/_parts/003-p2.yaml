@@ -1,0 +1,568 @@
+lines:
+  - chapter: "Chapter 3 — Jayadeva"
+  - section: "🚑 Through the night to Jayadeva"
+    learn: "time clauses: -ōṣṭaralli (by the time) · reassurance: dhairyavāgiru, mātāḍbēḍi · ‘thank you’ that is really ‘it was a great favour’"
+  - scene: "Just after midnight. The ambulance races down Bannerghatta Road with its siren on. Ajji lies under an oxygen mask; Appa sits beside her, holding her hand. Sam follows in his car with Amma and Kiran."
+  - who: emt
+    t: "ಇನ್ನು ಐದು ನಿಮಿಷ ಸಾರ್, ಜಯದೇವ ಬಂತು. ಇಂಜೆಕ್ಷನ್ ಕೊಟ್ಟಮೇಲೆ ಇಸಿಜಿ ಸ್ವಲ್ಪ ಸುಧಾರಿಸಿದೆ, ಬಿಪಿ ಕೂಡ ಸ್ಟೇಬಲ್ ಆಗಿದೆ."
+    tr: "Innu aidu nimiṣa sār, Jayadēva bantu. Injekṣan koṭṭamēle isiji swalpa sudhāriside, bipi kūḍa sṭēbal āgide."
+    en: "Five more minutes, sir, we're almost at Jayadeva. Since the injection her ECG has improved a little, and her BP is stable too."
+  - who: appa
+    t: "ಅಮ್ಮಾ, ಕೇಳಿಸ್ತಿದ್ಯಾ? ಇನ್ನೇನು ತಲುಪ್ತೀವಿ. ಧೈರ್ಯವಾಗಿರು."
+    tr: "Ammā, kēḷistidyā? Innēnu taluptīvi. Dhairyavāgiru."
+    en: "Amma, can you hear me? We're nearly there. Be brave."
+  - who: ajji
+    t: "ನಾನು ಧೈರ್ಯವಾಗೇ ಇದೀನಿ ಕಣೋ. ನೀನು ಮೊದಲು ಆ ಮುಖ ಸರಿ ಮಾಡ್ಕೋ."
+    tr: "Nānu dhairyavāgē idīni kaṇō. Nīnu modalu ā mukha sari māḍkō."
+    en: "(weakly, behind the mask) I am being brave, my boy. You fix that face of yours first."
+  - who: emt
+    t: "ಅಜ್ಜಿ, ಮಾತಾಡ್ಬೇಡಿ, ಸುಮ್ನೆ ನಿಧಾನವಾಗಿ ಉಸಿರಾಡಿ. ನಾವು ಗೇಟ್ ತಲುಪೋಷ್ಟರಲ್ಲಿ ಎಮರ್ಜೆನ್ಸಿಯವರು ರೆಡಿ ಇರ್ತಾರೆ, ಆಗಲೇ ಫೋನ್ ಮಾಡಿ ಹೇಳಿದೀನಿ."
+    tr: "Ajji, mātāḍbēḍi, sumne nidhānavāgi usirāḍi. Nāvu gēṭ talupōṣṭaralli emarjensiyavaru reḍi irtāre, āgalē phōn māḍi hēḷidīni."
+    en: "Ajji, don't talk, just breathe slowly. By the time we reach the gate the emergency team will be ready — I've already called ahead."
+  - scene: "The ambulance stops at the Jayadeva emergency entrance. Even at half past twelve, the corridor is full of families from all over Karnataka."
+  - who: emt
+    t: "ಸ್ಟ್ರೆಚರ್ ತನ್ನಿ! ಎಪ್ಪತ್ತೊಂಬತ್ತು ವರ್ಷದ ಪೇಶಂಟ್, ಸ್ಟೆಮಿ. ಹೃದಯ ಜ್ಯೋತಿ ಸ್ಪೋಕ್ ಆಸ್ಪತ್ರೆಯಿಂದ ರೆಫರ್ ಆಗಿದೆ. ಹನ್ನೊಂದು ಕಾಲಿಗೆ ಕ್ಲಾಟ್ ಕರಗಿಸೋ ಇಂಜೆಕ್ಷನ್ ಕೊಟ್ಟಿದ್ದಾರೆ. ಪೇಪರ್ಸ್ ಎಲ್ಲಾ ಈ ಫೈಲ್‌ನಲ್ಲಿದೆ."
+    tr: "Sṭrechar tanni! Eppattombattu varṣada pēshanṭ, sṭemi. Hṛdaya Jyōti spōk āspatreyinda rephar āgide. Hannondu kālige klāṭ karagisō injekṣan koṭṭiddāre. Pēpars ellā ī phail-nallide."
+    en: "Bring the stretcher! Seventy-nine-year-old patient, STEMI. Referred from a Hrudaya Jyothi spoke hospital. The clot-dissolving injection was given at quarter past eleven. All the papers are in this file."
+  - who: appa
+    t: "ಮಂಜುನಾಥ್ ಅವರೇ, ನಿಮ್ಮಿಂದ ತುಂಬಾ ಉಪಕಾರ ಆಯ್ತು. ನೀವಿಲ್ಲದಿದ್ರೆ…"
+    tr: "Manjunāth avarē, nimminda tumbā upakāra āytu. Nīvilladidre…"
+    en: "Manjunath, you've done us a huge favour. If you hadn't been there…"
+  - who: emt
+    t: "ಅಯ್ಯೋ, ಇದು ನಮ್ ಕೆಲಸ ಸಾರ್. ಅಜ್ಜಿ ಬೇಗ ಹುಷಾರಾಗ್ಲಿ. ಹೋಗಿ, ಒಳಗೆ ನಿಮ್ಮನ್ನೇ ಕೇಳ್ತಿರ್ತಾರೆ."
+    tr: "Ayyō, idu nam kelasa sār. Ajji bēga huṣārāgli. Hōgi, oḷage nimmannē kēḷtirtāre."
+    en: "Oh, this is our job, sir. May Ajji get well soon. Go on — they'll be asking for you inside."
+
+  - section: "🪪 Registration at midnight"
+    learn: "documents at a counter · ‘How are you related?’: ēnāgbēku? · ‘-ಬೇಕು’ for requirements · concessive -ādrū (even though)"
+  - scene: "Ajji is wheeled inside. Amma, Kiran and Sam rush in. Appa is sent to the registration counter, where a line has formed even at this hour."
+  - who: desk
+    t: "ಮುಂದಿನವರು ಬನ್ನಿ. ಪೇಶಂಟ್ ಹೆಸರು, ವಯಸ್ಸು? ನೀವು ಪೇಶಂಟ್‌ಗೆ ಏನಾಗ್ಬೇಕು?"
+    tr: "Mundinavaru banni. Pēshanṭ hesaru, vayassu? Nīvu pēshanṭ-ge ēnāgbēku?"
+    en: "Next, please. Patient's name and age? How are you related to the patient?"
+  - who: appa
+    t: "ಸರಸ್ವತಮ್ಮ, ಎಪ್ಪತ್ತೊಂಬತ್ತು ವರ್ಷ. ನಾನು ಅವರ ಮಗ, ರಮೇಶ್. ಎಮರ್ಜೆನ್ಸಿಯಿಂದ ಈಗಷ್ಟೇ ಒಳಗೆ ಕರ್ಕೊಂಡ್ ಹೋದ್ರು."
+    tr: "Saraswatamma, eppattombattu varṣa. Nānu avara maga, Ramēsh. Emarjensiyinda īgaṣṭē oḷage karkoṇḍ hōdru."
+    en: "Saraswathamma, seventy-nine. I'm her son, Ramesh. They've just taken her in from emergency."
+  - who: desk
+    t: "ಸರಿ. ಆಧಾರ್ ಕಾರ್ಡ್, ರೆಫರಲ್ ಲೆಟರ್, ಅಲ್ಲಿ ಮಾಡಿದ ಇಸಿಜಿ ಕೊಡಿ. ನಿಮ್ಮ ಫೋನ್ ಯಾವಾಗ್ಲೂ ಆನ್ ಇರ್ಬೇಕು — ಡಾಕ್ಟ್ರು ಯಾವ ಹೊತ್ತಲ್ಲಾದ್ರೂ ಕರೀಬಹುದು."
+    tr: "Sari. Ādhār kārḍ, repharal leṭar, alli māḍida isiji koḍi. Nimma phōn yāvāglū ān irbēku — ḍākṭru yāva hottallādrū karībahudu."
+    en: "Right. Give me her Aadhaar card, the referral letter and the ECG they did there. Your phone must stay on at all times — the doctor may call you at any hour."
+  - who: appa
+    t: "ಅಯ್ಯೋ… ಆಧಾರ್… ಗಡಿಬಿಡೀಲಿ ಮನೇಲೇ ಬಿಟ್ಟು ಬಂದ್ವಿ ಅನ್ಸುತ್ತೆ."
+    tr: "Ayyō… ādhār… gaḍibiḍīli manēlē biṭṭu bandvi ansutte."
+    en: "Oh no… the Aadhaar… I think we left it at home in the rush."
+  - who: kiran
+    t: "ಅಪ್ಪಾ, ಟೆನ್ಶನ್ ಬೇಡ. ಅಜ್ಜಿ ಆಧಾರ್ ನನ್ನ ಫೋನ್‌ನಲ್ಲಿ ಡಿಜಿಲಾಕರ್‌ನಲ್ಲಿದೆ. ಕಳೆದ ತಿಂಗಳು ಬ್ಯಾಂಕ್ ಕೆಲಸಕ್ಕೆ ಹಾಕಿದ್ದೆ."
+    tr: "Appā, ṭenshan bēḍa. Ajji ādhār nanna phōn-nalli ḍijilākar-nallide. Kaḷeda tingaḷu byāṅk kelasakke hākidde."
+    en: "Appa, don't stress. Ajji's Aadhaar is in DigiLocker on my phone. I put it there last month for the bank work."
+  - who: desk
+    t: "ಸದ್ಯಕ್ಕೆ ಅದು ಸಾಕು. ಒರಿಜಿನಲ್ ನಾಳೆ ತಂದು ತೋರಿಸಿ. ಇದು ಅವರ ಐಪಿ ನಂಬರ್ — ಇನ್ಮೇಲೆ ರಿಪೋರ್ಟ್, ಬಿಲ್, ಔಷಧಿ, ಎಲ್ಲಾದಕ್ಕೂ ಈ ನಂಬರೇ ಬೇಕು. ಕಳ್ಕೋಬೇಡಿ."
+    tr: "Sadyakke adu sāku. Orijinal nāḷe tandu tōrisi. Idu avara aipi nambar — inmēle riporṭ, bil, auṣadhi, ellādakkū ī nambarē bēku. Kaḷkōbēḍi."
+    en: "That's enough for now. Bring the original tomorrow and show it. This is her IP number — from now on you'll need it for everything: reports, bills, medicines. Don't lose it."
+  - who: sam
+    t: "ಕಿರಣ್, ಇಷ್ಟು ರಾತ್ರೀಲೂ ಇಷ್ಟೊಂದು ಜನ! ಎಲ್ಲಾರೂ ಬೆಂಗಳೂರಿನವರಾ?"
+    tr: "Kiraṇ, iṣṭu rātrīlū iṣṭondu jana! Ellārū Beṅgaḷūrinavarā?"
+    en: "Kiran, so many people even this late at night! Are they all from Bengaluru?"
+  - who: kiran
+    t: "ಇಲ್ಲ, ಹಾಸನ, ರಾಯಚೂರು, ಬೀದರ್ — ಕರ್ನಾಟಕದ ಮೂಲೆ ಮೂಲೆಯಿಂದ ಬರ್ತಾರೆ. ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆ ಆದ್ರೂ ಹಾರ್ಟ್‌ಗೆ ಜಯದೇವಾನೇ ಬೆಸ್ಟ್ ಅಂತ ಎಲ್ಲಾರ ನಂಬಿಕೆ."
+    tr: "Illa, Hāsana, Rāyachūru, Bīdar — Karnāṭakada mūle mūleyinda bartāre. Sarkāri āspatre ādrū hārṭ-ge Jayadēvānē besṭ anta ellāra nambike."
+    en: "No — Hassan, Raichur, Bidar — they come from every corner of Karnataka. It's a government hospital, but for the heart everyone trusts Jayadeva most."
+  - who: desk
+    t: "ಹೌದು. ಕಳೆದ ವರ್ಷ ಹಾಸನದ ಹಾರ್ಟ್ ಅಟ್ಯಾಕ್ ಸುದ್ದಿ ಆದ್ಮೇಲಂತೂ ಓಪಿಡಿಗೆ ದಿನಾ ಸಾವಿರಕ್ಕಿಂತ ಜಾಸ್ತಿ ಜನ ಬರ್ತಿದ್ರು. ಕಾಯಬೇಕಾಗುತ್ತೆ, ಬೇಜಾರು ಮಾಡ್ಕೋಬೇಡಿ. ಆದ್ರೆ ಎಮರ್ಜೆನ್ಸಿ ಕೇಸನ್ನ ನಾವು ಯಾವತ್ತೂ ಕಾಯಿಸಲ್ಲ."
+    tr: "Haudu. Kaḷeda varṣa Hāsanada hārṭ aṭyāk suddi ādmēlantū ōpiḍige dinā sāvirakkinta jāsti jana bartidru. Kāyabēkāgutte, bējāru māḍkōbēḍi. Ādre emarjensi kēsanna nāvu yāvattū kāyisalla."
+    en: "True. After last year's news about heart attacks in Hassan, more than a thousand people a day were coming to the OPD. You'll have to wait for some things — please don't be upset. But we never make an emergency case wait."
+  - who: desk
+    t: "ಇನ್ನೊಂದು ವಿಷಯ ಸಾರ್ — ಅಜ್ಜಿಗೆ ಎಪ್ಪತ್ತು ದಾಟಿದೆ. ಆಯುಷ್ಮಾನ್ ಕಾರ್ಡ್ ಇದ್ಯಾ? ಇಲ್ಲಾಂದ್ರೆ ಬೆಳಿಗ್ಗೆ ಏಳು ಗಂಟೆಗೆ ಆರೋಗ್ಯಮಿತ್ರ ಕೌಂಟರ್‌ಗೆ ಬನ್ನಿ. ಈಗ ಮೊದಲು ಟ್ರೀಟ್ಮೆಂಟ್."
+    tr: "Innondu viṣaya sār — Ajjige eppattu dāṭide. Āyuṣmān kārḍ idyā? Illāndre beḷigge ēḷu gaṇṭege Ārōgyamitra kaunṭar-ge banni. Īga modalu ṭrīṭmenṭ."
+    en: "One more thing, sir — Ajji is over seventy. Does she have an Ayushman card? If not, come to the Arogyamitra counter at seven in the morning. Treatment comes first right now."
+
+  - section: "🩺 What the angiogram showed"
+    learn: "explaining a diagnosis · percentages · dative experiencer: avarige sustu āgtittu · ‘don't blame yourselves’: dūrkōbēḍi"
+  - scene: "Around three in the morning. Ajji has been taken for an angiogram. Dr. Meera Kulkarni comes out of the cath lab with a tablet in her hand and calls the family into a small counselling room."
+  - who: cardio
+    t: "ಸರಸ್ವತಮ್ಮನವರ ಕಡೆಯವರು ಯಾರು? ಬನ್ನಿ, ಕೂತ್ಕೊಳ್ಳಿ. ನಾನು ಡಾಕ್ಟರ್ ಮೀರಾ ಕುಲಕರ್ಣಿ, ಕಾರ್ಡಿಯಾಲಜಿಸ್ಟ್."
+    tr: "Saraswatammanavara kaḍeyavaru yāru? Banni, kūtkoḷḷi. Nānu ḍākṭar Mīrā Kulakarṇi, kārḍiyālajisṭ."
+    en: "Who is here for Saraswathamma? Come, sit down. I'm Dr. Meera Kulkarni, the cardiologist."
+  - who: appa
+    t: "ನಮಸ್ಕಾರ ಡಾಕ್ಟ್ರೇ. ನಾನು ಮಗ. ಅಮ್ಮ… ಹೇಗಿದ್ದಾರೆ?"
+    tr: "Namaskāra ḍākṭrē. Nānu maga. Amma… hēgiddāre?"
+    en: "Hello, Doctor. I'm her son. How… how is she?"
+  - who: cardio
+    t: "ಈಗ ಸ್ಟೇಬಲ್ ಆಗಿದ್ದಾರೆ, ಪ್ರಜ್ಞೆ ಇದೆ, ಮಾತಾಡ್ತಿದ್ದಾರೆ. ಆ ಸ್ಪೋಕ್ ಆಸ್ಪತ್ರೇಲಿ ಬೇಗ ಇಂಜೆಕ್ಷನ್ ಕೊಟ್ಟಿದ್ದು ತುಂಬಾ ಒಳ್ಳೇದಾಯ್ತು. ಆದ್ರೆ ಆ ಇಂಜೆಕ್ಷನ್ ಕ್ಲಾಟ್ ಕರಗಿಸುತ್ತೆ ಅಷ್ಟೇ, ಕೆಳಗಿರೋ ಬ್ಲಾಕೇಜ್ ಹಾಗೇ ಇರುತ್ತೆ. ಅದಕ್ಕೇ ಆಂಜಿಯೋಗ್ರಾಮ್ ಮಾಡಿದ್ವಿ."
+    tr: "Īga sṭēbal āgiddāre, prajñe ide, mātāḍtiddāre. Ā spōk āspatrēli bēga injekṣan koṭṭiddu tumbā oḷḷēdāytu. Ādre ā injekṣan klāṭ karagisutte aṣṭē, keḷagirō blākēj hāgē irutte. Adakkē āñjiyōgrām māḍidvi."
+    en: "She's stable now, conscious and talking. It was very good that the spoke hospital gave the injection so early. But that injection only dissolves the clot — the blockage underneath stays. That's why we did an angiogram."
+  - who: amma
+    t: "ಆಂಜಿಯೋಗ್ರಾಮ್ ಅಂದ್ರೆ ಆಪರೇಷನ್ನಾ ಡಾಕ್ಟ್ರೇ?"
+    tr: "Āñjiyōgrām andre āparēṣannā ḍākṭrē?"
+    en: "Is an angiogram an operation, Doctor?"
+  - who: cardio
+    t: "ಇಲ್ಲಮ್ಮ, ಅದು ಒಂದು ಟೆಸ್ಟ್. ಕೈ ಮಣಿಕಟ್ಟಿನ ಹತ್ರ ಒಂದು ಸಣ್ಣ ಟ್ಯೂಬ್ ಹಾಕಿ, ಡೈ ಬಿಟ್ಟು, ಹೃದಯದ ರಕ್ತನಾಳಗಳನ್ನ ಎಕ್ಸ್‌ರೇ ಥರ ನೋಡ್ತೀವಿ. ಈ ಸ್ಕ್ರೀನ್ ನೋಡಿ."
+    tr: "Illamma, adu ondu ṭesṭ. Kai maṇikaṭṭina hatra ondu saṇṇa ṭyūb hāki, ḍai biṭṭu, hṛdayada raktanāḷagaḷanna eksrē thara nōḍtīvi. Ī skrīn nōḍi."
+    en: "No, Amma, it's a test. We put a thin tube in near the wrist, release a dye, and look at the heart's blood vessels like an X-ray. Look at this screen."
+  - who: cardio
+    t: "ಹೃದಯಕ್ಕೆ ರಕ್ತ ಕೊಡೋ ಮೂರು ಮುಖ್ಯ ನಾಳಗಳಿವೆ. ಈ ಮುಂದಿನದು — ನಾವು ಎಲ್‌ಎಡಿ ಅಂತೀವಿ — ಇದರಲ್ಲಿ ತೊಂಬತ್ತು ಪರ್ಸೆಂಟ್ ಬ್ಲಾಕ್ ಇದೆ. ಅಟ್ಯಾಕ್ ಬಂದಿದ್ದು ಇದರಿಂದಾನೇ. ಬಲಗಡೆ ನಾಳದಲ್ಲಿ ಸುಮಾರು ಐವತ್ತು ಪರ್ಸೆಂಟ್ ಇದೆ, ಅದಕ್ಕೆ ಸದ್ಯಕ್ಕೆ ಮಾತ್ರೆ ಸಾಕು."
+    tr: "Hṛdayakke rakta koḍō mūru mukhya nāḷagaḷive. Ī mundinadu — nāvu el-e-ḍi antīvi — idaralli tombattu parsenṭ blāk ide. Aṭyāk bandiddu idarindānē. Balagaḍe nāḷadalli sumāru aivattu parsenṭ ide, adakke sadyakke mātre sāku."
+    en: "There are three main vessels that supply blood to the heart. This front one — we call it the LAD — is ninety percent blocked. That's what caused the attack. The one on the right is about fifty percent blocked; for now tablets are enough for that."
+  - who: kiran
+    t: "ತೊಂಬತ್ತು ಪರ್ಸೆಂಟ್ ಅಂದ್ರೆ… ರಕ್ತ ಬರೀ ಹತ್ತು ಪರ್ಸೆಂಟ್ ಮಾತ್ರ ಹೋಗ್ತಿತ್ತಾ?"
+    tr: "Tombattu parsenṭ andre… rakta barī hattu parsenṭ mātra hōgtittā?"
+    en: "Ninety percent means… only ten percent of the blood was getting through?"
+  - who: cardio
+    t: "ಹೆಚ್ಚು ಕಮ್ಮಿ ಹಾಗೇ. ಅದಕ್ಕೇ ಅವರಿಗೆ ಕೆಲವು ತಿಂಗಳಿಂದ ಮೆಟ್ಟಿಲು ಹತ್ತುವಾಗ ಸುಸ್ತು, ದಮ್ಮು ಆಗ್ತಿದ್ದಿರಬಹುದು. ಯಾರಿಗಾದ್ರೂ ಹೇಳಿದ್ರಾ?"
+    tr: "Hechchu kammi hāgē. Adakkē avarige kelavu tingaḷinda meṭṭilu hattuvāga sustu, dammu āgtiddirabahudu. Yārigādrū hēḷidrā?"
+    en: "More or less. That's probably why she's been getting tired and breathless on the stairs for a few months. Did she mention it to anyone?"
+  - who: amma
+    t: "…ಹೇಳ್ತಿದ್ರು. ‘ವಯಸ್ಸಾಯ್ತು, ಗ್ಯಾಸ್ ಇರ್ಬೇಕು’ ಅಂತ ನಾವೇ ಸುಮ್ಮನಾದ್ವಿ."
+    tr: "…Hēḷtidru. ‘Vayassāytu, gyās irbēku’ anta nāvē summanādvi."
+    en: "(quietly) …She did. We just brushed it off ourselves: ‘It's age, it must be gas.’"
+  - who: cardio
+    t: "ಅದಕ್ಕೆ ನಿಮ್ಮನ್ನ ನೀವು ದೂರ್ಕೋಬೇಡಿ. ತುಂಬಾ ಜನ ಹಾಗೇ ಅನ್ಕೋತಾರೆ, ಹೆಂಗಸರಲ್ಲಿ ಲಕ್ಷಣ ಬೇರೆ ಥರಾನೂ ಇರುತ್ತೆ. ಈಗ ಮುಖ್ಯ ಅಂದ್ರೆ, ಮುಂದೆ ಏನು ಮಾಡೋದು ಅಂತ."
+    tr: "Adakke nimmanna nīvu dūrkōbēḍi. Tumbā jana hāgē ankōtāre, heṅgasaralli lakṣaṇa bēre tharānū irutte. Īga mukhya andre, munde ēnu māḍōdu anta."
+    en: "Don't blame yourselves for that. Lots of people think the same, and in women the symptoms can look different too. What matters now is what we do next."
+
+  - section: "⚖️ Stent or bypass?"
+    learn: "conditionals of risk: -idre … -bahudu · ‘-ಬಹುದು’ (may) vs ‘-ಉತ್ತೆ’ (will) · comparisons with -kkinta · ‘the decision is yours’: nirdhāra nimdu"
+  - who: cardio
+    t: "ಎರಡು ದಾರಿ ಇದೆ. ಒಂದು, ಆಂಜಿಯೋಪ್ಲಾಸ್ಟಿ — ಅದೇ ಮಣಿಕಟ್ಟಿನಿಂದ ಒಂದು ಬಲೂನ್ ತಗೊಂಡು ಹೋಗಿ, ಬ್ಲಾಕ್ ಆಗಿರೋ ಜಾಗ ಅಗಲ ಮಾಡಿ, ಒಂದು ಸ್ಟೆಂಟ್ ಇಡ್ತೀವಿ. ಸ್ಟೆಂಟ್ ಅಂದ್ರೆ ಜಾಲರಿ ಥರ ಇರೋ ಒಂದು ಸಣ್ಣ ಟ್ಯೂಬ್. ನಾಳ ಮತ್ತೆ ಮುಚ್ಚಿಹೋಗದ ಹಾಗೆ ಅದು ಹಿಡ್ಕೊಳ್ಳುತ್ತೆ."
+    tr: "Eraḍu dāri ide. Ondu, āñjiyōplāsṭi — adē maṇikaṭṭininda ondu balūn tagoṇḍu hōgi, blāk āgirō jāga agala māḍi, ondu sṭenṭ iḍtīvi. Sṭenṭ andre jālari thara irō ondu saṇṇa ṭyūb. Nāḷa matte muchchihōgada hāge adu hiḍkoḷḷutte."
+    en: "There are two ways. One is angioplasty — through the same wrist we take in a balloon, widen the blocked spot and place a stent. A stent is a small mesh-like tube. It holds the vessel open so it doesn't close up again."
+  - who: cardio
+    t: "ಇನ್ನೊಂದು ಬೈಪಾಸ್ — ಅಂದ್ರೆ ಓಪನ್ ಹಾರ್ಟ್ ಸರ್ಜರಿ. ಎದೆ ತೆಗೆದು, ಕಾಲಿನಿಂದ ಅಥವಾ ಎದೆಯೊಳಗಿಂದ ಬೇರೆ ನಾಳ ತಗೊಂಡು, ಬ್ಲಾಕ್ ಆಗಿರೋ ಜಾಗ ಬಿಟ್ಟು ರಕ್ತಕ್ಕೆ ಹೊಸ ದಾರಿ ಮಾಡ್ತಾರೆ."
+    tr: "Innondu baipās — andre ōpan hārṭ sarjari. Ede tegedu, kālininda athavā edeyoḷaginda bēre nāḷa tagoṇḍu, blāk āgirō jāga biṭṭu raktakke hosa dāri māḍtāre."
+    en: "The other is a bypass — open-heart surgery. They open the chest, take another vessel from the leg or from inside the chest, and make the blood a new road around the blocked spot."
+  - who: appa
+    t: "ಯಾವುದು ಒಳ್ಳೇದು ಡಾಕ್ಟ್ರೇ? ನಿಮ್ಮ ಅಮ್ಮ ಆಗಿದ್ರೆ ನೀವು ಏನು ಮಾಡ್ತಿದ್ರಿ?"
+    tr: "Yāvudu oḷḷēdu ḍākṭrē? Nimma amma āgidre nīvu ēnu māḍtidri?"
+    en: "Which is better, Doctor? If she were your mother, what would you do?"
+  - who: cardio
+    t: "ಒಳ್ಳೇ ಪ್ರಶ್ನೆ. ಮೂರೂ ನಾಳದಲ್ಲಿ ಜಾಸ್ತಿ ಬ್ಲಾಕ್ ಇದ್ರೆ, ಅಥವಾ ಎಡಗಡೆ ಮುಖ್ಯ ನಾಳದಲ್ಲೇ ಇದ್ರೆ, ನಾನು ಬೈಪಾಸ್ ಹೇಳ್ತಿದ್ದೆ. ಇಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಒಂದೇ ಕಡೆ ಇದೆ. ಎಪ್ಪತ್ತೊಂಬತ್ತನೇ ವಯಸ್ಸಲ್ಲಿ ಬೈಪಾಸ್ ಆದ್ರೆ ಐಸಿಯು, ಒಂದು ವಾರ ಆಸ್ಪತ್ರೆ, ಎದೆ ಮೂಳೆ ಕೂಡೋಕೆ ಒಂದೆರಡು ತಿಂಗಳು. ಸ್ಟೆಂಟ್ ಆದ್ರೆ ಎರಡು ಮೂರು ದಿನದಲ್ಲಿ ಮನೆಗೆ ಹೋಗಬಹುದು."
+    tr: "Oḷḷē prashne. Mūrū nāḷadalli jāsti blāk idre, athavā eḍagaḍe mukhya nāḷadallē idre, nānu baipās hēḷtidde. Illi mukhyavāgi ondē kaḍe ide. Eppattombattanē vayassalli baipās ādre aisiyu, ondu vāra āspatre, ede mūḷe kūḍōke onderaḍu tiṅgaḷu. Sṭenṭ ādre eraḍu mūru dinadalli manege hōgabahudu."
+    en: "Good question. If all three vessels were badly blocked, or the left main vessel itself, I would advise a bypass. Here it's mainly in one place. At seventy-nine, a bypass means ICU, a week in hospital, a month or two for the breastbone to heal. With a stent she could go home in two or three days."
+  - who: cardio
+    t: "ಅದಕ್ಕೇ ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ ಇವರಿಗೆ ಆಂಜಿಯೋಪ್ಲಾಸ್ಟಿನೇ ಸರಿ. ಆದ್ರೆ ನಿರ್ಧಾರ ನಿಮ್ದು — ಮುಖ್ಯವಾಗಿ ಪೇಶಂಟ್‌ದು."
+    tr: "Adakkē nanna abhiprāyadalli ivarige āñjiyōplāsṭinē sari. Ādre nirdhāra nimdu — mukhyavāgi pēshanṭ-du."
+    en: "So in my opinion angioplasty is the right choice for her. But the decision is yours — above all, the patient's."
+  - who: kiran
+    t: "ರಿಸ್ಕ್ ಏನೇನಿದೆ? ನೇರವಾಗಿ ಹೇಳಿ ಡಾಕ್ಟ್ರೇ, ನಮಗೆ ಗೊತ್ತಿರ್ಬೇಕು."
+    tr: "Risk ēnēnide? Nēravāgi hēḷi ḍākṭrē, namage gottirbēku."
+    en: "What are the risks? Tell us straight, Doctor. We need to know."
+  - who: cardio
+    t: "ಹೇಳ್ತೀನಿ. ಹೆಚ್ಚಿನ ಸಲ ಎಲ್ಲಾ ಸರಿಯಾಗೇ ಆಗುತ್ತೆ, ನಾವು ಇದನ್ನ ದಿನಾ ಮಾಡ್ತೀವಿ. ಆದ್ರೆ ಈ ವಯಸ್ಸಿನಲ್ಲಿ ರಿಸ್ಕ್ ಸ್ವಲ್ಪ ಜಾಸ್ತಿ. ರಕ್ತ ತೆಳು ಮಾಡೋ ಔಷಧಿಯಿಂದ ಬ್ಲೀಡಿಂಗ್ ಆಗಬಹುದು. ಡೈಯಿಂದ ಕಿಡ್ನಿಗೆ ಸ್ವಲ್ಪ ತೊಂದರೆ ಆಗಬಹುದು. ಹೃದಯದ ಬಡಿತ ಏರುಪೇರಾಗಬಹುದು. ತುಂಬಾ ಅಪರೂಪಕ್ಕೆ ಜೀವಕ್ಕೂ ಅಪಾಯ ಆಗಬಹುದು."
+    tr: "Hēḷtīni. Hechchina sala ellā sariyāgē āgutte, nāvu idanna dinā māḍtīvi. Ādre ī vayassinalli risk swalpa jāsti. Rakta teḷu māḍō auṣadhiyinda blīḍiṅg āgabahudu. Ḍaiyinda kiḍnige swalpa tondare āgabahudu. Hṛdayada baḍita ēru-pērāgabahudu. Tumbā aparūpakke jīvakkū apāya āgabahudu."
+    en: "I'll tell you. Most of the time everything goes well — we do this every day. But at this age the risk is a little higher. The blood-thinning medicine can cause bleeding. The dye can trouble the kidneys a little. The heartbeat can go irregular. Very rarely, there can be a danger to life."
+  - who: amma
+    t: "ಅಯ್ಯೋ ದೇವ್ರೇ…"
+    tr: "Ayyō dēvrē…"
+    en: "Oh God…"
+  - who: cardio
+    t: "ಗಾಬರಿ ಆಗ್ಬೇಡಿ ಅಮ್ಮ. ಏನೂ ಮಾಡದೇ ಇದ್ರೆ ಆ ರಿಸ್ಕ್ ಇನ್ನೂ ಜಾಸ್ತಿ — ಇನ್ನೊಂದು ಅಟ್ಯಾಕ್ ಬರಬಹುದು. ಅದಕ್ಕೇ ಬೇಗ ಮಾಡೋದು ಒಳ್ಳೇದು. ಬೆಳಿಗ್ಗೆ ಒಂಬತ್ತು ಗಂಟೆಗೆ ಕ್ಯಾತ್ ಲ್ಯಾಬ್ ಸಿಗುತ್ತೆ."
+    tr: "Gābari āgbēḍi amma. Ēnū māḍadē idre ā risk innū jāsti — innondu aṭyāk barabahudu. Adakkē bēga māḍōdu oḷḷēdu. Beḷigge ombattu gaṇṭege kyāt lyāb sigutte."
+    en: "Don't panic, Amma. If we do nothing, that risk is even higher — another attack could come. That's why it's better to do it soon. The cath lab is free at nine this morning."
+  - who: sam
+    t: "ಡಾಕ್ಟ್ರೇ, ಅಜ್ಜಿಗೆ ಇದೆಲ್ಲಾ ಗೊತ್ತಾ? ಅವರನ್ನೂ ಕೇಳಬೇಕು ಅಲ್ವಾ?"
+    tr: "Ḍākṭrē, ajjige idellā gottā? Avarannū kēḷabēku alvā?"
+    en: "Doctor, does Ajji know all this? She has to be asked too, right?"
+  - who: cardio
+    t: "ಖಂಡಿತ. ಪ್ರಜ್ಞೆ ಇರೋ ಪೇಶಂಟ್‌ನ ಒಪ್ಪಿಗೆ ಮೊದಲು. ಐದು ನಿಮಿಷ ಬಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ, ಅವರ ಮುಂದೇನೇ ಮಾತಾಡೋಣ."
+    tr: "Khaṇḍita. Prajñe irō pēshanṭ-na oppige modalu. Aidu nimiṣa biṭṭu oḷage banni, avara mundēnē mātāḍōṇa."
+    en: "Of course. A conscious patient's consent comes first. Come in after five minutes; we'll talk in front of her."
+  - scene: "The doctor leaves. Amma grips Appa's arm."
+  - who: amma
+    t: "ರೀ, ಅತ್ತೆಗೆ ರಿಸ್ಕ್ ವಿಷಯ ಹೇಳೋದು ಬೇಡ. ಗಾಬರಿ ಆಗ್ತಾರೆ, ಬಿಪಿ ಇನ್ನೂ ಜಾಸ್ತಿ ಆಗುತ್ತೆ."
+    tr: "Rī, attege risk viṣaya hēḷōdu bēḍa. Gābari āgtāre, bipi innū jāsti āgutte."
+    en: "Listen, let's not tell your mother about the risks. She'll panic and her BP will go even higher."
+  - who: appa
+    t: "ಇಲ್ಲ ಲಕ್ಷ್ಮೀ. ಅಮ್ಮ ಜೀವನ ಪೂರ್ತಿ ನಮಗೆ ನಿಜಾನೇ ಹೇಳಿದ್ದಾರೆ. ಈಗ ನಾವು ಅವರಿಂದ ಮುಚ್ಚಿಡೋದು ಸರಿ ಅಲ್ಲ."
+    tr: "Illa Lakshmī�. Amma jīvana pūrti namage nijānē hēḷiddāre. Īga nāvu avarinda muchchiḍōdu sari alla."
+    en: "No, Lakshmi. All her life Amma has told us the truth. It isn't right for us to hide things from her now."
+
+  - section: "✍️ The consent form"
+    learn: "written register (-ಲಾಗಿದೆ, -ತ್ತೇನೆ) vs spoken · signature (sahi) and thumbprint (hebbeṭṭu) · ‘until’: -ōvaregū"
+  - scene: "The pre-procedure bay. Ajji lies propped up, an oxygen tube in her nose and a cannula in her hand. Dr. Meera holds a bilingual consent form."
+  - who: cardio
+    t: "ಅಜ್ಜಿ, ನಿಮ್ಮ ಹೃದಯದ ಒಂದು ನಾಳದಲ್ಲಿ ಬ್ಲಾಕ್ ಇದೆ. ಬೆಳಿಗ್ಗೆ ಬಲೂನ್ ಹಾಕಿ ಅದನ್ನ ಅಗಲ ಮಾಡಿ, ಒಂದು ಸ್ಟೆಂಟ್ ಇಡ್ತೀವಿ. ಎದೆ ಕುಯ್ಯಲ್ಲ, ಕೈಯಿಂದಾನೇ. ನೀವು ಎಚ್ಚರವಾಗೇ ಇರ್ತೀರಿ. ಸ್ವಲ್ಪ ಚುಚ್ಚುತ್ತೆ ಅಷ್ಟೇ."
+    tr: "Ajji, nimma hṛdayada ondu nāḷadalli blāk ide. Beḷigge balūn hāki adanna agala māḍi, ondu sṭenṭ iḍtīvi. Ede kuyyalla, kaiyindānē. Nīvu echcharavāgē irtīri. Swalpa chuchchutte aṣṭē."
+    en: "Ajji, one of your heart's vessels is blocked. In the morning we'll open it with a balloon and put in a stent. We won't cut your chest — it goes in through the hand. You'll stay awake. It'll only prick a little, that's all."
+  - who: ajji
+    t: "ರಿಸ್ಕ್ ಇದೆ ಅಂತ ನನ್ನ ಮಗನ ಮುಖ ನೋಡಿದ್ರೇನೇ ಗೊತ್ತಾಗ್ತಿದೆ ಡಾಕ್ಟ್ರೇ. ಮುಚ್ಚುಮರೆ ಬೇಡ. ಹೇಳಿ."
+    tr: "Risk ide anta nanna magana mukha nōḍidrēnē gottāgtide ḍākṭrē. Muchchumare bēḍa. Hēḷi."
+    en: "I can tell there's a risk just from my son's face, Doctor. No hiding things. Tell me."
+  - who: cardio
+    t: "ಈ ವಯಸ್ಸಲ್ಲಿ ರಿಸ್ಕ್ ಸ್ವಲ್ಪ ಜಾಸ್ತಿ ಅಜ್ಜಿ — ಬ್ಲೀಡಿಂಗ್, ಕಿಡ್ನಿ ತೊಂದರೆ, ಅಪರೂಪಕ್ಕೆ ಜೀವಕ್ಕೂ ಅಪಾಯ. ಆದ್ರೆ ಮಾಡದಿದ್ರೆ ಇನ್ನೊಂದು ಅಟ್ಯಾಕ್ ಬರೋ ಸಾಧ್ಯತೆ ಅದಕ್ಕಿಂತ ಜಾಸ್ತಿ."
+    tr: "Ī vayassalli risk swalpa jāsti ajji — blīḍiṅg, kiḍni tondare, aparūpakke jīvakkū apāya. Ādre māḍadidre innondu aṭyāk barō sādhyate adakkinta jāsti."
+    en: "At this age the risk is a bit higher, Ajji — bleeding, kidney trouble, and rarely a danger to life. But if we don't do it, the chance of another attack is higher than that."
+  - who: ajji
+    t: "ಹಾಗಾದ್ರೆ ಮಾಡಿ. ನನ್ನ ಮೊಮ್ಮಗಳ ಮಗೂನ ಕೈಯಲ್ಲಿ ಎತ್ತಿಕೊಳ್ಳೋವರೆಗೂ ನಾನು ಎಲ್ಲೂ ಹೋಗಲ್ಲ. ಅದನ್ನ ದೇವರಿಗೂ ಹೇಳಿಬಿಟ್ಟಿದೀನಿ."
+    tr: "Hāgādre māḍi. Nanna mommagaḷa magūna kaiyalli ettikoḷḷōvaregū nānu ellū hōgalla. Adanna dēvarigū hēḷibiṭṭidīni."
+    en: "Then do it. I'm not going anywhere until I've held my granddaughter's baby in my arms. I've already told God so."
+  - who: appa
+    t: "‘ಈ ಚಿಕಿತ್ಸೆಯ ಉದ್ದೇಶ, ಸಾಧ್ಯವಿರುವ ಅಪಾಯಗಳು ಮತ್ತು ಪರ್ಯಾಯ ಚಿಕಿತ್ಸೆಗಳನ್ನು ನನಗೆ ನನ್ನ ಭಾಷೆಯಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ. ನಾನು ಸ್ವಇಚ್ಛೆಯಿಂದ ಒಪ್ಪಿಗೆ ನೀಡುತ್ತೇನೆ.’"
+    tr: "‘Ī chikitseya uddēsha, sādhyaviruva apāyagaḷu mattu paryāya chikitsegaḷannu nanage nanna bhāṣeyalli vivarisalāgide. Nānu sva-ichcheyinda oppige nīḍuttēne.’"
+    en: "(reading the form aloud) ‘The purpose of this treatment, its possible risks and the alternative treatments have been explained to me in my language. I give my consent of my own free will.’"
+  - who: kiran
+    t: "ಅಂದ್ರೆ — ‘ಡಾಕ್ಟ್ರು ಎಲ್ಲಾ ಹೇಳಿದ್ರು, ನಮಗೆ ಅರ್ಥ ಆಯ್ತು, ನಾವೇ ಒಪ್ಕೊಂಡ್ವಿ’ ಅಂತ."
+    tr: "Andre — ‘ḍākṭru ellā hēḷidru, namage artha āytu, nāvē opkoṇḍvi’ anta."
+    en: "Meaning: ‘The doctor told us everything, we understood, and we agreed ourselves.’"
+  - who: cardio
+    t: "ಹೌದು. ಮಾಡ್ತಿರುವಾಗ ಇನ್ನೊಂದು ಸ್ಟೆಂಟ್ ಬೇಕಾದ್ರೆ ಅದಕ್ಕೂ ಈ ಫಾರ್ಮ್‌ನಲ್ಲೇ ಒಪ್ಪಿಗೆ ಇದೆ. ವಯಸ್ಸಿನ ಕಾರಣಕ್ಕೆ ಹೈ-ರಿಸ್ಕ್ ಕನ್ಸೆಂಟ್ ಅಂತ ಇನ್ನೊಂದು ಪುಟ ಕೂಡ ಇದೆ."
+    tr: "Haudu. Māḍtiruvāga innondu sṭenṭ bēkādre adakkū ī phārm-nallē oppige ide. Vayassina kāraṇakke hai-risk kansenṭ anta innondu puṭa kūḍa ide."
+    en: "Yes. If a second stent is needed during the procedure, this form covers that too. Because of her age there's also another page, a high-risk consent."
+  - who: sam
+    t: "ಯಾರು ಸೈನ್ ಮಾಡ್ಬೇಕು? ಅಜ್ಜೀನಾ, ಅಂಕಲ್ಲಾ?"
+    tr: "Yāru sain māḍbēku? Ajjīnā, aṅkallā?"
+    en: "Who has to sign? Ajji or Uncle?"
+  - who: cardio
+    t: "ಪೇಶಂಟ್‌ಗೆ ಪ್ರಜ್ಞೆ ಇದೆ, ಎಲ್ಲಾ ಅರ್ಥ ಆಗ್ತಿದೆ — ಅದಕ್ಕೇ ಮೊದಲು ಅವರೇ ಸಹಿ ಮಾಡ್ಬೇಕು. ಮಗ ಹತ್ತಿರದ ಸಂಬಂಧಿಕರಾಗಿ ಸಹಿ ಮಾಡ್ತಾರೆ, ಇನ್ನೊಬ್ಬರು ಸಾಕ್ಷಿಯಾಗಿ. ಅಜ್ಜಿ, ಕಷ್ಟ ಆದ್ರೆ ಹೆಬ್ಬೆಟ್ಟು ಒತ್ತಿದ್ರೂ ಸಾಕು."
+    tr: "Pēshanṭ-ge prajñe ide, ellā artha āgtide — adakkē modalu avarē sahi māḍbēku. Maga hattirada sambandhikarāgi sahi māḍtāre, innobbaru sākṣiyāgi. Ajji, kaṣṭa ādre hebbeṭṭu ottidrū sāku."
+    en: "The patient is conscious and understands everything, so she signs first. Her son signs as next of kin, and someone else as a witness. Ajji, if it's hard for you, a thumbprint is enough."
+  - who: ajji
+    t: "ಏನು ಹೆಬ್ಬೆಟ್ಟು? ನಾನು ಏಳನೇ ಕ್ಲಾಸ್ ತನಕ ಓದಿದೀನಿ. ಪೆನ್ ಕೊಡಿ. …ಸ-ರ-ಸ್ವ-ತ-ಮ್ಮ. ಆಯ್ತು."
+    tr: "Ēnu hebbeṭṭu? Nānu ēḷanē klās tanaka ōdidīni. Pen koḍi. …Sa-ra-swa-ta-mma. Āytu."
+    en: "Thumbprint, indeed! I studied up to seventh standard. Give me the pen. …Sa-ras-wa-tham-ma. Done."
+  - who: kiran
+    t: "ಅಜ್ಜಿ ಸಹಿ ನನ್ನ ಸಹಿಗಿಂತ ಚೆನ್ನಾಗಿದೆ. ನಾನು ಸಾಕ್ಷಿ ಹಾಕ್ತೀನಿ."
+    tr: "Ajji sahi nanna sahiginta chennāgide. Nānu sākṣi hāktīni."
+    en: "Ajji's signature is neater than mine. I'll sign as the witness."
+
+  - section: "💰 Costs, cards and schemes"
+    learn: "money in lakhs and thousands · hedging: innū spaṣṭa illa, āgabēku · ‘-ಗೋಸ್ಕರ’ (for the sake of) · e-KYC vocabulary: OTP, beraḷaccu"
+  - scene: "Seven in the morning. While Ajji is being prepared for the cath lab, Appa and Kiran stand at the Arogyamitra scheme desk. Venkatesh, who was on the night shift at registration, is still there, red-eyed, handling a long queue."
+  - who: desk
+    t: "ಓ, ನೀವು ರಾತ್ರಿಯವರು. ಐಪಿ ನಂಬರ್ ಹೇಳಿ… ಸರಸ್ವತಮ್ಮ, ಎಪ್ಪತ್ತೊಂಬತ್ತು. ಆಂಜಿಯೋಪ್ಲಾಸ್ಟಿ ಪ್ಲಾನ್ ಆಗಿದೆ, ಅಲ್ವಾ?"
+    tr: "Ō, nīvu rātriyavaru. Aipi nambar hēḷi… Saraswatamma, eppattombattu. Āñjiyōplāsṭi plān āgide, alvā?"
+    en: "Oh, you're the family from last night. Tell me the IP number… Saraswathamma, seventy-nine. Angioplasty is planned, right?"
+  - who: appa
+    t: "ಹೌದು. ಎಷ್ಟು ಖರ್ಚಾಗಬಹುದು ಅಂತ ಒಂದು ಎಸ್ಟಿಮೇಟ್ ಕೊಡ್ತೀರಾ? ನಮ್ಮ ಬ್ಯಾಂಕ್ ಕಲೀಗ್‌ಗೆ ಪ್ರೈವೇಟ್ ಆಸ್ಪತ್ರೇಲಿ ಮೂರು ಲಕ್ಷ ಆಯ್ತಂತೆ."
+    tr: "Haudu. Eṣṭu kharchāgabahudu anta ondu esṭimēṭ koḍtīrā? Namma byāṅk kalīg-ge praivēṭ āspatrēli mūru lakṣa āytante."
+    en: "Yes. Could you give us an estimate of what it might cost? Apparently it came to three lakhs for a colleague at my bank, in a private hospital."
+  - who: desk
+    t: "ಪ್ರೈವೇಟ್‌ನಲ್ಲಿ ಎರಡೂವರೆಯಿಂದ ಮೂರೂವರೆ ಲಕ್ಷ ಆಗೋದು ಸಾಮಾನ್ಯ ಸಾರ್. ಇಲ್ಲಿ ಜನರಲ್ ವಾರ್ಡ್‌ನಲ್ಲಿ ಪ್ರೊಸೀಜರ್ ಚಾರ್ಜ್ ಸುಮಾರು ಐವತ್ತೈದು ಸಾವಿರ. ಅದರ ಮೇಲೆ ಸ್ಟೆಂಟ್ — ಅದರ ಬೆಲೆಗೆ ಸರ್ಕಾರ ಮಿತಿ ಹಾಕಿದೆ, ಸುಮಾರು ಮೂವತ್ತು ಸಾವಿರ. ಟೆಸ್ಟ್, ಔಷಧಿ, ಬೆಡ್ ಚಾರ್ಜ್ ಬೇರೆ. ಒಟ್ಟು ಒಂದು ಲಕ್ಷದ ಆಸುಪಾಸಿನಲ್ಲಿ ಮುಗಿಯಬಹುದು."
+    tr: "Praivēṭ-nalli eraḍūvareyinda mūrūvare lakṣa āgōdu sāmānya sār. Illi janaral vārḍ-nalli prosījar chārj sumāru aivattaidu sāvira. Adara mēle sṭenṭ — adara belege sarkāra miti hākide, sumāru mūvattu sāvira. Ṭesṭ, auṣadhi, beḍ chārj bēre. Oṭṭu ondu lakṣada āsupāsinalli mugiyabahudu."
+    en: "In a private hospital two and a half to three and a half lakhs is normal, sir. Here, in the general ward, the procedure charge is about fifty-five thousand. On top of that the stent — the government has capped its price, roughly thirty thousand. Tests, medicines and bed charges are extra. Altogether it may come to around one lakh."
+  - who: kiran
+    t: "ಅಪ್ಪ, ಅಜ್ಜಿಗೆ ಎಪ್ಪತ್ತು ದಾಟಿದೆ. ಆಯುಷ್ಮಾನ್ ವಯ ವಂದನಾ ಅಂತ ಸ್ಕೀಮ್ ಇದೆ — ಎಪ್ಪತ್ತು ವರ್ಷ ಮೇಲ್ಪಟ್ಟವರಿಗೆಲ್ಲಾ ವರ್ಷಕ್ಕೆ ಐದು ಲಕ್ಷದವರೆಗೆ ಟ್ರೀಟ್ಮೆಂಟ್ ಫ್ರೀ, ಆದಾಯ ಎಷ್ಟೇ ಇರಲಿ. ಕಳೆದ ವರ್ಷ ನಾನೇ ಹೇಳಿದ್ದೆ, ಕಾರ್ಡ್ ಮಾಡಿಸೋಣ ಅಂತ…"
+    tr: "Appa, ajjige eppattu dāṭide. Āyuṣmān Vaya Vandanā anta skīm ide — eppattu varṣa mēlpaṭṭavarigellā varṣakke aidu lakṣadavarege ṭrīṭmenṭ phrī, ādāya eṣṭē irali. Kaḷeda varṣa nānē hēḷidde, kārḍ māḍisōṇa anta…"
+    en: "Appa, Ajji is over seventy. There's a scheme called Ayushman Vay Vandana — everyone above seventy gets free treatment up to five lakhs a year, whatever their income. I told you last year we should get her the card…"
+  - who: appa
+    t: "ಹೌದು… ‘ಆಮೇಲೆ ಮಾಡಿಸೋಣ’ ಅಂತ ಮುಂದೆ ಹಾಕ್ತಾನೇ ಬಂದ್ವಿ. ನನ್ನದೇ ತಪ್ಪು."
+    tr: "Haudu… ‘āmēle māḍisōṇa’ anta munde hāktānē bandvi. Nannadē tappu."
+    en: "Yes… we kept putting it off: ‘We'll do it later.’ My own fault."
+  - who: desk
+    t: "ಪರ್ವಾಗಿಲ್ಲ ಸಾರ್, ತುಂಬಾ ಜನ ಹೀಗೇ ಬರ್ತಾರೆ. ಈಗಲೂ ಮಾಡಬಹುದು. ಅಜ್ಜಿ ಆಧಾರ್‌ಗೆ ಯಾವ ಮೊಬೈಲ್ ಲಿಂಕ್ ಆಗಿದೆ? ಅದಕ್ಕೆ ಓಟಿಪಿ ಬರುತ್ತೆ. ಇಲ್ಲಾಂದ್ರೆ ವಾರ್ಡ್‌ಗೆ ಹೋಗಿ ಅವರ ಬೆರಳಚ್ಚು ತಗೋಬೇಕಾಗುತ್ತೆ. ಈ-ಕೆವೈಸಿ ಆದ್ರೆ ಕಾರ್ಡ್ ಹೆಚ್ಚಾಗಿ ಅವತ್ತೇ ಸಿಗುತ್ತೆ."
+    tr: "Parvāgilla sār, tumbā jana hīgē bartāre. Īgalū māḍabahudu. Ajji ādhār-ge yāva mobail liṅk āgide? Adakke ōṭipi barutte. Illāndre vārḍ-ge hōgi avara beraḷachchu tagōbēkāgutte. Ī-kevaisi ādre kārḍ hechchāgi avattē sigutte."
+    en: "Don't worry, sir, lots of people come in just like this. You can still do it now. Which mobile is linked to Ajji's Aadhaar? The OTP comes to that. Otherwise we'd have to go to the ward and take her fingerprint. Once the e-KYC is done, the card usually comes the same day."
+  - who: kiran
+    t: "ಅಪ್ಪನ ನಂಬರ್. ಅಪ್ಪ, ಫೋನ್ ಕೊಡು — ಓಟಿಪಿ ಬಂದ ತಕ್ಷಣ ನಾನು ಹೇಳ್ತೀನಿ."
+    tr: "Appana nambar. Appa, phōn koḍu — ōṭipi banda takṣaṇa nānu hēḷtīni."
+    en: "Appa's number. Appa, give me your phone — I'll read out the OTP the moment it comes."
+  - who: appa
+    t: "ಕರ್ನಾಟಕ ಸರ್ಕಾರದ್ದೂ ಒಂದು ಸ್ಕೀಮ್ ಇದೆ ಅಲ್ವಾ — ಆರೋಗ್ಯ ಕರ್ನಾಟಕ? ಆದ್ರೆ ನಮ್ಮ ಹತ್ರ ಬಿಪಿಎಲ್ ಕಾರ್ಡ್ ಇಲ್ಲ."
+    tr: "Karnāṭaka sarkāraddū ondu skīm ide alvā — Ārōgya Karnāṭaka? Ādre namma hatra bipiel kārḍ illa."
+    en: "The Karnataka government has a scheme too, doesn't it — Arogya Karnataka? But we don't have a BPL card."
+  - who: desk
+    t: "ಹೌದು ಸಾರ್. ಎಪಿಎಲ್ ಕಾರ್ಡ್ ಇರೋರು ಸಾಮಾನ್ಯವಾಗಿ ಮೂವತ್ತು ಪರ್ಸೆಂಟ್ ಕಟ್ಟಬೇಕು. ಆದ್ರೆ ಕಳೆದ ವರ್ಷದಿಂದ ಎಪ್ಪತ್ತು ದಾಟಿದ ಎಲ್ಲರಿಗೂ ರಾಜ್ಯದ ಸ್ಕೀಮ್ ಕೂಡ ಅನ್ವಯ ಆಗುತ್ತೆ ಅಂತ ಆದೇಶ ಬಂದಿದೆ. ಕೇಂದ್ರದ್ದು, ರಾಜ್ಯದ್ದು — ಎರಡೂ ಹೇಗೆ ಸೇರುತ್ತೆ ಅನ್ನೋದು ನಮಗೂ ಇನ್ನೂ ಪೂರ್ತಿ ಸ್ಪಷ್ಟ ಇಲ್ಲ. ಟ್ರಸ್ಟ್‌ನಿಂದ ಅಪ್ರೂವಲ್ ಬಂದ್ಮೇಲೆ ಗೊತ್ತಾಗುತ್ತೆ. ಒಂದು ಕಾರ್ಡ್ ಸಿಕ್ಕಿದ್ರೆ ಪ್ರೊಸೀಜರ್ ಕವರ್ ಆಗಬೇಕು."
+    tr: "Haudu sār. Epiel kārḍ irōru sāmānyavāgi mūvattu parsenṭ kaṭṭabēku. Ādre kaḷeda varṣadinda eppattu dāṭida ellarigū rājyada skīm kūḍa anvaya āgutte anta ādēsha bandide. Kēndraddu, rājyaddu — eraḍū hēge sērutte annōdu namagū innū pūrti spaṣṭa illa. Ṭrasṭ-ninda aprūval bandmēle gottāgutte. Ondu kārḍ sikkidre prosījar kavar āgabēku."
+    en: "Yes, sir. APL card holders normally have to pay thirty percent. But since last year there's been an order that the state scheme also applies to everyone over seventy. How the central one and the state one fit together — honestly, even we aren't fully clear yet. We'll know when approval comes from the Trust. If she gets one card, the procedure should be covered."
+  - who: kiran
+    t: "ಅಂದ್ರೆ ನಾವು ಒಂದು ರೂಪಾಯಿನೂ ಕಟ್ಟೋದು ಬೇಡ್ವಾ?"
+    tr: "Andre nāvu ondu rūpāyinū kaṭṭōdu bēḍvā?"
+    en: "So we don't have to pay a single rupee?"
+  - who: desk
+    t: "ಹಾಗೇನಿಲ್ಲ. ಸ್ಕೀಮ್‌ನಲ್ಲಿ ಒಂದು ಪ್ಯಾಕೇಜ್ ಇರುತ್ತೆ. ಅದರಲ್ಲಿ ಸೇರದ ಕೆಲವು ಔಷಧಿ, ಟೆಸ್ಟ್ ನೀವೇ ಕಟ್ಟಬೇಕಾಗಬಹುದು. ಫೈನಲ್ ಲೆಕ್ಕ ಡಿಸ್ಚಾರ್ಜ್ ಟೈಮಲ್ಲಿ. ಅಲ್ಲಿವರೆಗೂ ಎಲ್ಲಾ ರಸೀದಿ ಜೋಪಾನವಾಗಿ ಇಟ್ಕೊಳ್ಳಿ."
+    tr: "Hāgēnilla. Skīm-nalli ondu pyākēj irutte. Adaralli sērada kelavu auṣadhi, ṭesṭ nīvē kaṭṭabēkāgabahudu. Phainal lekka ḍischārj ṭaimalli. Allivaregū ellā rasīdi jōpānavāgi iṭkoḷḷi."
+    en: "Not quite. The scheme has a package. You might have to pay for some medicines and tests that aren't in it. The final account comes at discharge. Until then, keep every receipt safe."
+  - who: appa
+    t: "ಸರಿ. ಅಪ್ರೂವಲ್ ಬರೋಷ್ಟರಲ್ಲಿ ಪ್ರೊಸೀಜರ್ ನಿಲ್ಲಿಸಲ್ಲ ತಾನೇ?"
+    tr: "Sari. Aprūval barōṣṭaralli prosījar nillisalla tānē?"
+    en: "All right. They won't hold up the procedure while the approval comes through, will they?"
+  - who: desk
+    t: "ಇಲ್ಲ ಸಾರ್, ಇದು ಎಮರ್ಜೆನ್ಸಿ ಕೇಸ್. ಟ್ರೀಟ್ಮೆಂಟ್ ಪೇಪರ್‌ಗೋಸ್ಕರ ಕಾಯಲ್ಲ. ಪೇಪರ್ ನಮ್ಮ ತಲೆನೋವು, ಪೇಶಂಟ್ ಡಾಕ್ಟ್ರದ್ದು. …ಅಯ್ಯೋ, ಪೋರ್ಟಲ್ ಮತ್ತೆ ನಿಧಾನ ಆಯ್ತು. ಒಂದು ಹತ್ತು ನಿಮಿಷ ಕೂತ್ಕೊಳ್ಳಿ, ಓಟಿಪಿ ಬಂದ ತಕ್ಷಣ ಕರೀತೀನಿ."
+    tr: "Illa sār, idu emarjensi kēs. Ṭrīṭmenṭ pēpar-gōskara kāyalla. Pēpar namma talenōvu, pēshanṭ ḍākṭraddu. …Ayyō, pōrṭal matte nidhāna āytu. Ondu hattu nimiṣa kūtkoḷḷi, ōṭipi banda takṣaṇa karītīni."
+    en: "No, sir, it's an emergency case. Treatment doesn't wait for paperwork. The paperwork is our headache; the patient is the doctor's. …Oh no, the portal's gone slow again. Sit down for ten minutes or so — I'll call you as soon as the OTP comes."
+
+  - section: "⏳ Outside the cath lab"
+    learn: "religious vows: harake hottu · ‘as soon as’: banda takṣaṇa · hearsay -ante on the phone · ‘ಬೇಡ ಕಣೇ’ — loving prohibition"
+  - scene: "Nine o'clock. The red light above the cath lab door switches on. The family sits on a steel bench in the corridor. Amma holds a small picture of Lord Venkateshwara."
+  - who: amma
+    t: "ಸ್ವಾಮಿ ವೆಂಕಟರಮಣ, ಅತ್ತೆ ಹುಷಾರಾಗಿ ಮನೆಗೆ ಬಂದ್ರೆ ತಿರುಪತಿಗೆ ಬಂದು ಮುಡಿ ಕೊಡ್ತೀನಿ. ಇದು ನನ್ನ ಹರಕೆ."
+    tr: "Swāmi Veṅkaṭaramaṇa, atte huṣārāgi manege bandre Tirupatige bandu muḍi koḍtīni. Idu nanna harake."
+    en: "Lord Venkataramana, if my mother-in-law comes home well, I'll come to Tirupati and offer my hair. That is my vow."
+  - who: kiran
+    t: "ಅಮ್ಮ, ಮುಡಿ ಅಂದ್ರೆ… ಪೂರ್ತಿ ತಲೆ ಬೋಳಿಸ್ಕೋತೀಯಾ?"
+    tr: "Amma, muḍi andre… pūrti tale bōḷiskōtīyā?"
+    en: "Amma, offering your hair means… you'll shave your whole head?"
+  - who: amma
+    t: "ಅತ್ತೆ ಉಳಿದ್ರೆ ಕೂದಲು ಏನು ಮಹಾ."
+    tr: "Atte uḷidre kūdalu ēnu mahā."
+    en: "If your grandmother lives, what's a bit of hair?"
+  - scene: "Sam's phone buzzes. It's Shwetha."
+  - who: sam
+    t: "ಹಲೋ ಶ್ವೇತಾ. ಹೌದು, ಈಗಷ್ಟೇ ಒಳಗೆ ಕರ್ಕೊಂಡ್ ಹೋದ್ರು. ಒಂದು ಗಂಟೆ ಆಗಬಹುದಂತೆ."
+    tr: "Halō Shwētā. Haudu, īgaṣṭē oḷage karkoṇḍ hōdru. Ondu gaṇṭe āgabahudante."
+    en: "Hello, Shwetha. Yes, they've just taken her in. Apparently it might take an hour."
+  - who: shwe
+    t: "ನಾನು ಅಲ್ಲಿಗೆ ಬರ್ತೀನಿ ಸ್ಯಾಮ್. ಮನೇಲಿ ಕೂರೋಕೆ ಆಗ್ತಿಲ್ಲ. ರಾತ್ರಿಯೆಲ್ಲಾ ಕಣ್ಣು ಮುಚ್ಚಿಲ್ಲ."
+    tr: "Nānu allige bartīni Sām. Manēli kūrōke āgtilla. Rātriyellā kaṇṇu muchchilla."
+    en: "I'm coming over there, Sam. I can't just sit at home. I haven't closed my eyes all night."
+  - who: amma
+    t: "ಫೋನ್ ಕೊಡು ಸ್ಯಾಮ್. …ಶ್ವೇತಾ, ಬೇಡ ಕಣೇ. ಆಸ್ಪತ್ರೇಲಿ ಇನ್ಫೆಕ್ಷನ್, ಜನಜಂಗುಳಿ. ನಿನಗೆ ಏಳನೇ ತಿಂಗಳು. ಹೊಟ್ಟೆ ತುಂಬಾ ತಿಂದು ಮಲಗು — ಅಜ್ಜಿಗೆ ನೀನು ಈಗ ಮಾಡೋ ಸೇವೆ ಅದೇ."
+    tr: "Phōn koḍu Sām. …Shwētā, bēḍa kaṇē. Āspatrēli inphekṣan, janajaṅguḷi. Ninage ēḷanē tiṅgaḷu. Hoṭṭe tumbā tindu malagu — ajjige nīnu īga māḍō sēve adē."
+    en: "Give me the phone, Sam. …Shwetha, no, dear. The hospital is full of infections and crowds. You're in your seventh month. Eat properly and lie down — that's the best thing you can do for Ajji right now."
+  - who: shwe
+    t: "ಸರಿಯಮ್ಮ… ಆದ್ರೆ ಪ್ರತಿ ಅರ್ಧ ಗಂಟೆಗೆ ಮೆಸೇಜ್ ಮಾಡ್ಬೇಕು. ಪ್ರದೀಪ್ ಆಫೀಸ್ ಕಾಲ್ ಎಲ್ಲಾ ಕ್ಯಾನ್ಸಲ್ ಮಾಡಿ ನನ್ ಜೊತೆ ಕೂತಿದಾನೆ."
+    tr: "Sariyamma… ādre prati ardha gaṇṭege mesēj māḍbēku. Pradīp āphīs kāl ellā kyānsal māḍi nan jote kūtidāne."
+    en: "Okay, Amma… but you have to message me every half hour. Pradeep has cancelled all his office calls and is sitting with me."
+  - who: appa
+    t: "ಒಂದು ಗಂಟೆ ಅಂದ್ರು… ಒಂದೂವರೆ ಆಯ್ತು."
+    tr: "Ondu gaṇṭe andru… ondūvare āytu."
+    en: "(staring at the door) They said an hour… it's been an hour and a half."
+  - who: kiran
+    t: "ಅಪ್ಪ, ಲೇಟ್ ಆದ್ರೆ ಏನೋ ತೊಂದರೆ ಅಂತ ಅಲ್ಲ. ಅವ್ರು ನಿಧಾನವಾಗಿ, ಸರಿಯಾಗಿ ಮಾಡ್ತಿರ್ಬಹುದು."
+    tr: "Appa, lēṭ ādre ēnō tondare anta alla. Avru nidhānavāgi, sariyāgi māḍtirbahudu."
+    en: "Appa, late doesn't mean something's wrong. They're probably just doing it slowly and carefully."
+
+  - section: "✅ “The vessel is open”"
+    learn: "good-news formulas · counterfactual: lēṭ āgidre … irtittu · ‘thanks to’: -inda"
+  - scene: "The red light goes off. Dr. Meera comes out, pulling down her mask. She is smiling."
+  - who: cardio
+    t: "ರಮೇಶ್ ಅವರೇ? ಪ್ರೊಸೀಜರ್ ಸಕ್ಸಸ್‌ಫುಲ್ ಆಯ್ತು. ಬ್ಲಾಕ್ ಇದ್ದ ಜಾಗದಲ್ಲಿ ಒಂದು ಸ್ಟೆಂಟ್ ಹಾಕಿದ್ವಿ, ಈಗ ರಕ್ತ ಚೆನ್ನಾಗಿ ಹರೀತಿದೆ. ಎರಡನೇ ಸ್ಟೆಂಟ್ ಬೇಕಾಗ್ಲಿಲ್ಲ."
+    tr: "Ramēsh avarē? Prosījar saksas-phul āytu. Blāk idda jāgadalli ondu sṭenṭ hākidvi, īga rakta chennāgi harītide. Eraḍanē sṭenṭ bēkāglilla."
+    en: "Ramesh? The procedure was successful. We put one stent where the blockage was, and the blood is flowing well now. A second stent wasn't needed."
+  - who: appa
+    t: "ದೇವರ ದಯೆ… ಡಾಕ್ಟ್ರೇ, ನಿಮಗೆ ಹೇಗೆ ಥ್ಯಾಂಕ್ಸ್ ಹೇಳ್ಬೇಕೋ ಗೊತ್ತಾಗ್ತಿಲ್ಲ."
+    tr: "Dēvara daye… ḍākṭrē, nimage hēge thyāṅks hēḷbēkō gottāgtilla."
+    en: "(his voice breaking) By God's grace… Doctor, I don't know how to thank you."
+  - who: cardio
+    t: "ಆ ಸ್ಪೋಕ್ ಆಸ್ಪತ್ರೆಗೂ, ನೂರಾ ಎಂಟು ಆಂಬುಲೆನ್ಸ್‌ಗೂ ಥ್ಯಾಂಕ್ಸ್ ಹೇಳಿ. ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ಇಂಜೆಕ್ಷನ್ ಸಿಕ್ಕಿದ್ದರಿಂದ ಹೃದಯದ ಮಾಂಸಖಂಡಕ್ಕೆ ಜಾಸ್ತಿ ಡ್ಯಾಮೇಜ್ ಆಗಿಲ್ಲ. ಇನ್ನೊಂದೆರಡು ಗಂಟೆ ಲೇಟ್ ಆಗಿದ್ರೆ ಕಥೆನೇ ಬೇರೆ ಇರ್ತಿತ್ತು."
+    tr: "Ā spōk āspatregū, nūrā eṇṭu āmbulens-gū thyāṅks hēḷi. Samayakke sariyāgi injekṣan sikkiddarinda hṛdayada māṃsakhaṇḍakke jāsti ḍyāmēj āgilla. Innonderaḍu gaṇṭe lēṭ āgidre kathenē bēre irtittu."
+    en: "Thank the spoke hospital and the 108 ambulance too. Because she got the injection in time, the heart muscle isn't badly damaged. A couple of hours later and it would have been a different story."
+  - who: amma
+    t: "ಈಗ ಎಲ್ಲಿದ್ದಾರೆ? ನೋಡ್ಬಹುದಾ?"
+    tr: "Īga elliddāre? Nōḍbahudā?"
+    en: "Where is she now? Can we see her?"
+  - who: cardio
+    t: "ಕಾರ್ಡಿಯಾಕ್ ಐಸಿಯುಗೆ ಶಿಫ್ಟ್ ಮಾಡ್ತಿದ್ದೀವಿ. ಮುಂದಿನ ಇಪ್ಪತ್ನಾಲ್ಕರಿಂದ ನಲವತ್ತೆಂಟು ಗಂಟೆ ತುಂಬಾ ಮುಖ್ಯ. ಮಣಿಕಟ್ಟಿಗೆ ಹಾಕಿರೋ ಬ್ಯಾಂಡ್ ಕೆಲವು ಗಂಟೆ ಬಿಗಿಯಾಗಿರುತ್ತೆ, ಆ ಕೈ ಅಲ್ಲಾಡಿಸಬಾರದು. ಎಲ್ಲಾ ಸರಿ ಇದ್ರೆ ನಾಳೆ ನಾಳಿದ್ದು ವಾರ್ಡ್‌ಗೆ."
+    tr: "Kārḍiyāk aisiyuge shiphṭ māḍtiddīvi. Mundina ippatnālkarinda nalavatteṇṭu gaṇṭe tumbā mukhya. Maṇikaṭṭige hākirō byāṇḍ kelavu gaṇṭe bigiyāgirutte, ā kai allāḍisabāradu. Ellā sari idre nāḷe nāḷiddu vārḍ-ge."
+    en: "We're shifting her to the cardiac ICU. The next twenty-four to forty-eight hours are very important. The band on her wrist stays tight for a few hours — she mustn't move that hand. If all goes well, she'll go to the ward tomorrow or the day after."
+  - who: kiran
+    t: "‘ಸ್ಟೆಂಟ್ ಹಾಕಿದ್ರು, ಸಕ್ಸಸ್ ಅಂತೆ, ಐಸಿಯುಗೆ ಶಿಫ್ಟ್ ಮಾಡ್ತಿದ್ದಾರೆ’ — ಅಕ್ಕಂಗೆ ಕಳ್ಸಿದೆ."
+    tr: "‘Sṭenṭ hākidru, saksas ante, aisiyuge shiphṭ māḍtiddāre’ — akkaṅge kaḷside."
+    en: "‘They put in a stent, apparently it's a success, they're shifting her to the ICU’ — sent that to Akka."
+  - who: sam
+    t: "ಶ್ವೇತಾ ಅಳ್ತಿದಾಳೆ ಅಂತ ಪ್ರದೀಪ್ ರಿಪ್ಲೈ ಮಾಡಿದ — ಖುಷಿಯಿಂದ."
+    tr: "Shwētā aḷtidāḷe anta Pradīp riplai māḍida — khuṣiyinda."
+    en: "Pradeep replied that Shwetha is crying — happy tears."
+
+  - section: "🛏 ICU rules with Sister Rekha"
+    learn: "rules and prohibitions: -bāradu, -bēḍi, -bēku · ‘only’: mātra, obbarē · ‘no call means all is well’: -alla andre … anta artha"
+  - scene: "Afternoon, outside the cardiac ICU. A nurse comes out with a clipboard and a stack of pink passes."
+  - who: nurse
+    t: "ಸರಸ್ವತಮ್ಮ ಅಟೆಂಡರ್ ಯಾರು? ನಾನು ರೇಖಾ, ಇವತ್ತು ಡ್ಯೂಟಿ ಸಿಸ್ಟರ್. ಕೆಲವು ರೂಲ್ಸ್ ಹೇಳ್ತೀನಿ, ಸರಿಯಾಗಿ ಕೇಳಿಸ್ಕೊಳ್ಳಿ."
+    tr: "Saraswatamma aṭeṇḍar yāru? Nānu Rēkhā, ivattu ḍyūṭi sisṭar. Kelavu rūls hēḷtīni, sariyāgi kēḷiskoḷḷi."
+    en: "Who is Saraswathamma's attender? I'm Rekha, the duty sister today. I'll tell you a few rules — please listen carefully."
+  - who: nurse
+    t: "ಈ ಪಾಸ್ ಒಬ್ಬ ಅಟೆಂಡರ್‌ಗೆ ಮಾತ್ರ. ಆ ವ್ಯಕ್ತಿ ದಿನ-ರಾತ್ರಿ ಹೊರಗಡೆ ವೇಟಿಂಗ್ ಹಾಲ್‌ನಲ್ಲೇ ಇರ್ಬೇಕು — ಔಷಧಿ ತರೋಕೆ, ಡಾಕ್ಟ್ರು ಕರೆದ್ರೆ ಬರೋಕೆ. ಫೋನ್ ಯಾವಾಗ್ಲೂ ಆನ್ ಇರ್ಲಿ."
+    tr: "Ī pās obba aṭeṇḍar-ge mātra. Ā vyakti dina-rātri horagaḍe vēṭiṅg hāl-nallē irbēku — auṣadhi tarōke, ḍākṭru karedre barōke. Phōn yāvāglū ān irli."
+    en: "This pass is for one attender only. That person has to stay in the waiting hall outside, day and night — to fetch medicines, and to come if the doctor calls. Keep your phone on at all times."
+  - who: nurse
+    t: "ವಿಸಿಟಿಂಗ್ ಟೈಮ್ ಬೆಳಿಗ್ಗೆ ಹನ್ನೊಂದರಿಂದ ಹನ್ನೆರಡು, ಸಂಜೆ ಐದರಿಂದ ಆರು. ಒಂದು ಸಲಕ್ಕೆ ಒಬ್ಬರೇ ಒಳಗೆ. ಚಪ್ಪಲಿ ಹೊರಗೆ ಬಿಡಿ, ಕೈಗೆ ಸ್ಯಾನಿಟೈಸರ್ ಹಾಕ್ಕೊಳ್ಳಿ, ಮಾಸ್ಕ್ ಹಾಕ್ಕೊಳ್ಳಿ. ಮಕ್ಕಳನ್ನ, ಬಸುರಿಯರನ್ನ ಕರ್ಕೊಂಡ್ ಬರಬಾರದು."
+    tr: "Visiṭiṅg ṭaim beḷigge hannondarinda hanneraḍu, sanje aidarinda āru. Ondu salakke obbarē oḷage. Chappali horage biḍi, kaige syāniṭaisar hākkoḷḷi, māsk hākkoḷḷi. Makkaḷanna, basuriyaranna karkoṇḍ barabāradu."
+    en: "Visiting hours are eleven to twelve in the morning and five to six in the evening. Only one person inside at a time. Leave your footwear outside, sanitise your hands, wear a mask. Don't bring children or pregnant women."
+  - who: amma
+    t: "ಸಿಸ್ಟರ್, ಮನೆಯಿಂದ ಸ್ವಲ್ಪ ಗಂಜಿ ತಂದ್ರೆ ಕೊಡಬಹುದಾ? ಅವರಿಗೆ ಹೊರಗಿನ ಊಟ ಸೇರಲ್ಲ."
+    tr: "Sisṭar, maneyinda swalpa gañji tandre koḍabahudā? Avarige horagina ūṭa sēralla."
+    en: "Sister, if I bring a little rice porridge from home, can I give it to her? Outside food doesn't agree with her."
+  - who: nurse
+    t: "ಈಗ ಬೇಡಮ್ಮ. ಐಸಿಯುನಲ್ಲಿ ಡಯಟೀಶಿಯನ್ ಹೇಳಿದ ಊಟ ಮಾತ್ರ — ಉಪ್ಪು ಕಮ್ಮಿ, ಎಣ್ಣೆ ಇಲ್ಲ. ಹೊರಗಿನ ಊಟ ಒಳಗೆ ತರಬಾರದು. ವಾರ್ಡ್‌ಗೆ ಹೋದ್ಮೇಲೆ ಡಾಕ್ಟ್ರನ್ನ ಕೇಳಿ."
+    tr: "Īga bēḍamma. Aisiyunalli ḍayaṭīshiyan hēḷida ūṭa mātra — uppu kammi, eṇṇe illa. Horagina ūṭa oḷage tarabāradu. Vārḍ-ge hōdmēle ḍākṭranna kēḷi."
+    en: "Not now, Amma. In the ICU, only the food the dietician prescribes — little salt, no oil. Outside food mustn't be brought in. Ask the doctor once she's in the ward."
+  - who: kiran
+    t: "ಡಾಕ್ಟ್ರ ಹತ್ರ ಯಾವಾಗ ಮಾತಾಡಬಹುದು? ನಮಗೆ ಅಪ್ಡೇಟ್ ಹೇಗೆ ಸಿಗುತ್ತೆ?"
+    tr: "Ḍākṭra hatra yāvāga mātāḍabahudu? Namage apḍēṭ hēge sigutte?"
+    en: "When can we speak to the doctor? How will we get updates?"
+  - who: nurse
+    t: "ದಿನಾ ಮಧ್ಯಾಹ್ನ ಮೂರು ಗಂಟೆಗೆ ಕೌನ್ಸೆಲಿಂಗ್ ಟೈಮ್, ಡಾಕ್ಟ್ರು ಅಟೆಂಡರ್ ಜೊತೆ ಮಾತಾಡ್ತಾರೆ. ರಾತ್ರಿ ಏನಾದ್ರೂ ಬದಲಾವಣೆ ಆದ್ರೆ ನಾವೇ ಫೋನ್ ಮಾಡ್ತೀವಿ. ಫೋನ್ ಬರಲಿಲ್ಲ ಅಂದ್ರೆ ಎಲ್ಲಾ ಸರಿ ಇದೆ ಅಂತ ಅರ್ಥ."
+    tr: "Dinā madhyāhna mūru gaṇṭege kaunseliṅg ṭaim, ḍākṭru aṭeṇḍar jote mātāḍtāre. Rātri ēnādrū badalāvaṇe ādre nāvē phōn māḍtīvi. Phōn baralilla andre ellā sari ide anta artha."
+    en: "Every day at three in the afternoon there's counselling time — the doctor talks to the attender. If anything changes at night, we'll call you ourselves. If no call comes, it means everything is fine."
+  - scene: "At five o'clock Rekha lets Amma in for a few minutes. Ajji looks grey and tired, wires everywhere, but her eyes are open."
+  - who: amma
+    t: "ಅತ್ತೆ… ಹೇಗಿದೀರಾ? ನೋವಿದ್ಯಾ?"
+    tr: "Atte… hēgidīrā? Nōvidyā?"
+    en: "Atte… how are you? Are you in pain?"
+  - who: ajji
+    t: "ಕೈ ಸ್ವಲ್ಪ ಬಿಗಿ ಅಷ್ಟೇ. ಲಕ್ಷ್ಮೀ, ಬೆಳಿಗ್ಗೆ ತುಳಸಿಗೆ ನೀರು ಹಾಕಿದ್ರಾ ಯಾರಾದ್ರೂ?"
+    tr: "Kai swalpa bigi aṣṭē. Lakshmī�, beḷigge tuḷasige nīru hākidrā yārādrū?"
+    en: "My hand's a bit tight, that's all. Lakshmi, did anyone water the tulsi this morning?"
+  - who: amma
+    t: "ಈ ಸ್ಥಿತೀಲೂ ನಿಮಗೆ ತುಳಸಿ ಚಿಂತೆನಾ!"
+    tr: "Ī sthitīlū nimage tuḷasi chintenā!"
+    en: "(laughing through tears) Even in this state, you're worried about the tulsi!"
+  - who: ajji
+    t: "ಮನೆ ನಡೀಬೇಕಲ್ವಾ. ಮತ್ತೆ ಶ್ವೇತಾಗೆ ಹೇಳು — ಇಲ್ಲಿಗೆ ಬರಬಾರದು. ಮಗೂಗೆ ಏನೂ ಆಗಬಾರದು."
+    tr: "Mane naḍībēkalvā. Matte Shwētāge hēḷu — illige barabāradu. Magūge ēnū āgabāradu."
+    en: "The house has to keep running, doesn't it? And tell Shwetha — she mustn't come here. Nothing must happen to the baby."
+  - who: nurse
+    t: "ಅಮ್ಮಾ, ಸಮಯ ಆಯ್ತು. ಅಜ್ಜಿ ಈಗ ರೆಸ್ಟ್ ಮಾಡ್ಬೇಕು. ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಬನ್ನಿ."
+    tr: "Ammā, samaya āytu. Ajji īga resṭ māḍbēku. Nāḷe beḷigge banni."
+    en: "Amma, time's up. Ajji needs to rest now. Come back tomorrow morning."
+
+  - section: "🌙 Night in the waiting hall"
+    learn: "regret: -bēkittu (should have) · ‘when’: -iddāga · father and son, softly · ‘I felt like…’: anistu"
+  - scene: "Eleven at night. The waiting hall smells of phenyl and coffee. Families sleep on mats and newspapers. In a corner, Amma murmurs a prayer with her eyes closed. Appa holds the pink attender pass. Kiran refuses to go home."
+  - who: appa
+    t: "ಕಿರಣ್, ನೀನು ಮನೆಗೆ ಹೋಗು. ನಾಳೆ ನಿಂಗೆ ಕಾಲೇಜ್ ಇದೆ, ಫೈನಲ್ ಇಯರ್."
+    tr: "Kiraṇ, nīnu manege hōgu. Nāḷe niṅge kālēj ide, phainal iyar."
+    en: "Kiran, go home. You've got college tomorrow — it's your final year."
+  - who: kiran
+    t: "ಕಾಲೇಜ್ ಒಂದು ದಿನ ಬಿಟ್ರೆ ಏನೂ ಆಗಲ್ಲ ಅಪ್ಪ. ನೀನು ನಿನ್ನೆ ರಾತ್ರಿಯಿಂದ ಕಣ್ಣು ಮುಚ್ಚಿಲ್ಲ."
+    tr: "Kālēj ondu dina biṭre ēnū āgalla appa. Nīnu ninne rātriyinda kaṇṇu muchchilla."
+    en: "Nothing will happen if I miss college for one day, Appa. You haven't shut your eyes since last night."
+  - who: appa
+    t: "ಕಳೆದ ತಿಂಗಳು ಅಮ್ಮ ‘ಮೆಟ್ಟಿಲು ಹತ್ತುವಾಗ ಎದೆ ಭಾರ ಆಗುತ್ತೆ’ ಅಂದಿದ್ರು. ನಾನು ‘ವಯಸ್ಸು ಅಮ್ಮ’ ಅಂತ ನಕ್ಕು ಸುಮ್ಮನಾದೆ. ಆಗಲೇ ಒಂದು ಚೆಕಪ್ ಮಾಡಿಸಬೇಕಿತ್ತು."
+    tr: "Kaḷeda tiṅgaḷu amma ‘meṭṭilu hattuvāga ede bhāra āgutte’ andidru. Nānu ‘vayassu amma’ anta nakku summanāde. Āgalē ondu chekap māḍisabēkittu."
+    en: "(after a long silence) Last month Amma said, ‘My chest feels heavy when I climb the stairs.’ I laughed — ‘It's age, Amma’ — and left it at that. I should have got her checked up right then."
+  - who: kiran
+    t: "ಡಾಕ್ಟ್ರು ಏನು ಹೇಳಿದ್ರು ನೆನಪಿದ್ಯಾ? ನಿನ್ನನ್ನ ನೀನು ದೂರ್ಕೋಬೇಡ. ಇನ್ಮೇಲೆ ಪ್ರತಿ ಆರು ತಿಂಗಳಿಗೊಂದು ಚೆಕಪ್ — ನಾನೇ ಕರ್ಕೊಂಡ್ ಹೋಗ್ತೀನಿ."
+    tr: "Ḍākṭru ēnu hēḷidru nenapidyā? Ninnanna nīnu dūrkōbēḍa. Inmēle prati āru tiṅgaḷigondu chekap — nānē karkoṇḍ hōgtīni."
+    en: "Remember what the doctor said? Don't blame yourself. From now on, a check-up every six months — I'll take her myself."
+  - who: appa
+    t: "ನೀನು ಯಾವಾಗ ಇಷ್ಟು ದೊಡ್ಡವನಾದೆ? ಒಂದು ವರ್ಷದ ಹಿಂದೆ ಕ್ರಿಕೆಟ್ ಬಿಟ್ರೆ ನಿಂಗೆ ಬೇರೆ ಏನೂ ಗೊತ್ತಿರ್ಲಿಲ್ಲ."
+    tr: "Nīnu yāvāga iṣṭu doḍḍavanāde? Ondu varṣada hinde krikeṭ biṭre niṅge bēre ēnū gottirlilla."
+    en: "When did you grow up this much? A year ago you knew nothing except cricket."
+  - who: kiran
+    t: "ಅಕ್ಕ ಮದುವೆ ಆಗಿ ಹೋದ್ಮೇಲೆ ಮನೇಲಿ ಯಾರಾದ್ರೂ ದೊಡ್ಡವರಾಗ್ಬೇಕಲ್ವಾ."
+    tr: "Akka maduve āgi hōdmēle manēli yārādrū doḍḍavarāgbēkalvā."
+    en: "Once Akka got married and left, someone at home had to grow up, didn't they?"
+  - who: appa
+    t: "ನಿಜ ಹೇಳ್ಲಾ? ನಿನ್ನೆ ರಾತ್ರಿ ಆಂಬುಲೆನ್ಸ್‌ನಲ್ಲಿ ಅಮ್ಮನ ಕೈ ಹಿಡ್ಕೊಂಡಿದ್ದಾಗ, ನಾನು ಐವತ್ತೇಳು ವರ್ಷದವನಲ್ಲ, ಐದು ವರ್ಷದ ಹುಡುಗ ಅನ್ನಿಸ್ತು."
+    tr: "Nija hēḷlā? Ninne rātri āmbulens-nalli ammana kai hiḍkoṇḍiddāga, nānu aivattēḷu varṣadavanalla, aidu varṣada huḍuga annistu."
+    en: "Shall I tell you the truth? Last night in the ambulance, holding Amma's hand, I didn't feel fifty-seven. I felt like a five-year-old boy."
+  - scene: "Sam arrives with a steel tiffin carrier and a flask."
+  - who: sam
+    t: "ಊಟ ಬಂತು! ವಿಮಲಾ ಆಂಟಿ ಚಿತ್ರಾನ್ನ, ಮೊಸರನ್ನ ಕಳ್ಸಿದ್ದಾರೆ, ಫ್ಲಾಸ್ಕ್‌ನಲ್ಲಿ ಕಾಫಿ. ‘ಯಾರೂ ಉಪವಾಸ ಇರಬಾರದು’ ಅಂತ ಸ್ಟ್ರಿಕ್ಟ್ ಆರ್ಡರ್."
+    tr: "Ūṭa bantu! Vimalā ānṭi chitrānna, mosaranna kaḷsiddāre, phlāsk-nalli kāphi. ‘Yārū upavāsa irabāradu’ anta sṭrikṭ ārḍar."
+    en: "Food's here! Vimala Aunty has sent lemon rice and curd rice, and coffee in the flask. Strict orders: ‘Nobody is to go hungry.’"
+  - who: amma
+    t: "ವಿಮಲಾ… ಅವಳ ಬಾಯಿ ಜಾಸ್ತಿ, ಆದ್ರೆ ಕಷ್ಟ ಬಂದಾಗ ಮೊದಲು ಬಾಗಿಲಿಗೆ ಬರೋದು ಅವಳೇ."
+    tr: "Vimalā… avaḷa bāyi jāsti, ādre kaṣṭa bandāga modalu bāgilige barōdu avaḷē."
+    en: "Vimala… she talks too much, but when trouble comes, she's the first one at the door."
+  - who: appa
+    t: "ನನಗೆ ಹಸಿವಿಲ್ಲ ಸ್ಯಾಮ್."
+    tr: "Nanage hasivilla Sām."
+    en: "I'm not hungry, Sam."
+  - who: sam
+    t: "ಅಂಕಲ್, ನಾನು ಬಂದ ಮೊದಲನೇ ವಾರ ನೀವೇ ನನಗೆ ಹೇಳಿದ್ರಿ — ‘ಹೊಟ್ಟೆ ಖಾಲಿ ಇದ್ರೆ ತಲೆ ಕೆಲಸ ಮಾಡಲ್ಲ.’ ಈಗ ನಾನು ಹೇಳ್ತಿದೀನಿ. ಸ್ವಲ್ಪ ತಿನ್ನಿ."
+    tr: "Aṅkal, nānu banda modalanē vāra nīvē nanage hēḷidri — ‘hoṭṭe khāli idre tale kelasa māḍalla.’ Īga nānu hēḷtidīni. Swalpa tinni."
+    en: "Uncle, in my very first week here you told me yourself: ‘An empty stomach means an empty head.’ Now I'm telling you. Eat a little."
+  - who: appa
+    t: "ನನ್ನ ಮಾತು ನನಗೇ ವಾಪಸ್! ಸರಿ, ಕೊಡು."
+    tr: "Nanna mātu nanagē vāpas! Sari, koḍu."
+    en: "(smiling for the first time) My own words thrown back at me! All right, give it here."
+  - who: sam
+    t: "ನಮ್ ಊರಲ್ಲಿ ಮನೆಯವರು ಹೀಗೆ ರಾತ್ರಿಯೆಲ್ಲಾ ಆಸ್ಪತ್ರೇಲಿ ಕಾಯಲ್ಲ — ನರ್ಸ್‌ಗಳೇ ಎಲ್ಲಾ ನೋಡ್ಕೋತಾರೆ. ಆದ್ರೆ ಇಲ್ಲಿ ಹೀಗೆ ನೆಲದ ಮೇಲೆ ಎಲ್ಲಾ ಒಟ್ಟಿಗೆ ಕೂತಿರೋದ್ರಲ್ಲಿ… ಏನೋ ಒಂಥರಾ ಶಕ್ತಿ ಇದೆ."
+    tr: "Nam ūralli maneyavaru hīge rātriyellā āspatrēli kāyalla — nars-gaḷē ellā nōḍkōtāre. Ādre illi hīge nelada mēle ellā oṭṭige kūtirōdralli… ēnō onthara shakti ide."
+    en: "Back home, families don't wait in the hospital all night like this — the nurses take care of everything. But all of us sitting together on the floor like this… there's a kind of strength in it."
+  - who: kiran
+    t: "ಶಕ್ತಿ ಜೊತೆಗೆ ಸೊಳ್ಳೆನೂ ಇದೆ."
+    tr: "Śakti jotege soḷḷenū ide."
+    en: "There are mosquitoes along with the strength, too."
+
+  - section: "🤝 Sumitra comes"
+    learn: "a real apology: -bāradittu (shouldn't have) · admitting one's own part · forgiving: kṣamisu · in-law words: bīgaru, bīgitti · dropping ‘avrē’ as a sign of closeness"
+  - scene: "Next morning, half past ten. A familiar voice in the corridor: Sumitra, Pradeep's mother, with two steel boxes in a cloth bag. Shankar follows with a flask. Amma straightens up, her face polite and closed."
+  - who: sumitra
+    t: "ಲಕ್ಷ್ಮಿ ಅವ್ರೇ… ರಾತ್ರಿ ಪ್ರದೀಪ್ ಹೇಳಿದ ತಕ್ಷಣ ಬರಬೇಕು ಅನ್ಕೊಂಡೆ, ಆದ್ರೆ ಐಸಿಯು ಹತ್ರ ಜನ ಜಾಸ್ತಿ ಆಗಬಾರದು ಅಂತ ಸುಮ್ಮನಾದೆ. ಅಜ್ಜಿ ಹೇಗಿದ್ದಾರೆ?"
+    tr: "Lakshmī avrē… rātri Pradīp hēḷida takṣaṇa barabēku ankoṇḍe, ādre aisiyu hatra jana jāsti āgabāradu anta summanāde. Ajji hēgiddāre?"
+    en: "Lakshmi… I wanted to come the moment Pradeep told us last night, but I held back so there wouldn't be a crowd near the ICU. How is Ajji?"
+  - who: amma
+    t: "ಸ್ಟೆಂಟ್ ಹಾಕಿದ್ದಾರೆ. ಇನ್ನೂ ಐಸಿಯುನಲ್ಲೇ ಇದ್ದಾರೆ, ಈಗ ಪರ್ವಾಗಿಲ್ಲ. ಬನ್ನಿ, ಕೂತ್ಕೊಳ್ಳಿ."
+    tr: "Sṭenṭ hākiddāre. Innū aisiyunallē iddāre, īga parvāgilla. Banni, kūtkoḷḷi."
+    en: "They've put in a stent. She's still in the ICU, but she's all right now. Come, sit down."
+  - who: shankar
+    t: "ರಮೇಶ್ ಅವರೇ, ದುಡ್ಡು ಬೇಕಾದ್ರೂ, ಓಡಾಡೋಕೆ ಜನ ಬೇಕಾದ್ರೂ — ಸಂಕೋಚ ಮಾಡ್ಕೋಬೇಡಿ. ನಾವು ಬೀಗರು, ಬೇರೆಯವರಲ್ಲ."
+    tr: "Ramēsh avarē, duḍḍu bēkādrū, ōḍāḍōke jana bēkādrū — saṅkōcha māḍkōbēḍi. Nāvu bīgaru, bēreyavaralla."
+    en: "Ramesh, whether you need money or someone to run around — don't hesitate. We're family by marriage, not outsiders."
+  - who: appa
+    t: "ಥ್ಯಾಂಕ್ಸ್ ಶಂಕರ್ ಅವರೇ. ಬನ್ನಿ, ಕ್ಯಾಂಟೀನ್‌ನಲ್ಲಿ ಒಂದು ಕಾಫಿ ಕುಡಿಯೋಣ."
+    tr: "Thyāṅks Shaṅkar avarē. Banni, kyānṭīn-nalli ondu kāphi kuḍiyōṇa."
+    en: "Thank you, Shankar. Come, let's have a coffee in the canteen."
+  - scene: "Appa leads Shankar away. Sumitra and Amma are left alone on the steel bench. A long silence."
+  - who: sumitra
+    t: "ಲಕ್ಷ್ಮಿ ಅವ್ರೇ, ನಾನು ಇವತ್ತು ಇಡ್ಲಿ ಕೊಡೋಕೆ ಮಾತ್ರ ಬಂದಿಲ್ಲ. ಒಂದು ವರ್ಷದಿಂದ ಒಂದು ಮಾತು ಗಂಟಲಲ್ಲಿ ಸಿಕ್ಕಿಹಾಕ್ಕೊಂಡಿದೆ."
+    tr: "Lakshmī avrē, nānu ivattu iḍli koḍōke mātra bandilla. Ondu varṣadinda ondu mātu gaṇṭalalli sikkihākkoṇḍide."
+    en: "Lakshmi, I haven't come today just to bring idlis. For a year now, something has been stuck in my throat."
+  - who: amma
+    t: "ಈಗ ಅದೆಲ್ಲಾ ಯಾಕೆ, ಬಿಡಿ…"
+    tr: "Īga adellā yāke, biḍi…"
+    en: "Why bring all that up now, let it go…"
+  - who: sumitra
+    t: "ಇಲ್ಲ, ಹೇಳ್ಲೇಬೇಕು. ಆ ದಿನ ನಿಮ್ಮ ಮನೇಲಿ ಕೂತು ಚಿನ್ನ, ಛತ್ರ, ಕಾರು ಅಂತ ಪಟ್ಟಿ ಕೊಟ್ಟೆ. ‘ಹೆಣ್ಣುಮಕ್ಕಳನ್ನ ಜಾಸ್ತಿ ಓದಿಸಿದ್ರೆ ನಾಲಿಗೆ ಉದ್ದ ಆಗುತ್ತೆ’ ಅಂದೆ — ನಿಮ್ಮ ಮಗಳ ಬಗ್ಗೆ, ನಿಮ್ಮ ಮುಂದೇನೇ. ನಾನು ಹಾಗೆ ಮಾತಾಡಬಾರದಿತ್ತು."
+    tr: "Illa, hēḷlēbēku. Ā dina nimma manēli kūtu chinna, chatra, kāru anta paṭṭi koṭṭe. ‘Heṇṇumakkaḷanna jāsti ōdisidre nālige udda āgutte’ ande — nimma magaḷa bagge, nimma mundēnē. Nānu hāge mātāḍabāradittu."
+    en: "No, I have to say it. That day I sat in your house and handed you a list — gold, a hall, a car. I said, ‘If you educate girls too much, their tongues grow long’ — about your daughter, right in front of you. I should never have spoken like that."
+  - who: amma
+    t: "ಆ ಮಾತು… ತುಂಬಾ ದಿನ ನನ್ನ ಕಿವೀಲಿ ಕೇಳ್ತಾನೇ ಇತ್ತು."
+    tr: "Ā mātu… tumbā dina nanna kivīli kēḷtānē ittu."
+    en: "(quietly) Those words… kept ringing in my ears for a long time."
+  - who: sumitra
+    t: "ಗೊತ್ತು. ನನ್ನ ಕಿವೀಲೂ. ಜನವರೀಲಿ ನನಗೆ ಡೆಂಗ್ಯೂ ಬಂದಾಗ ರಾತ್ರಿ ಎರಡು ಗಂಟೆಗೆ ನನ್ನನ್ನ ಆಸ್ಪತ್ರೆಗೆ ಕರ್ಕೊಂಡ್ ಹೋಗಿದ್ದು ಶ್ವೇತಾ. ಡಾಕ್ಟ್ರ ಜೊತೆ ವಾದ ಮಾಡಿ, ಇನ್ಶೂರೆನ್ಸ್ ಪೇಪರ್ ಎಲ್ಲಾ ಮಾಡಿದ್ದು ಅವಳು. ಆ ‘ಉದ್ದ ನಾಲಿಗೆ’ ಇಲ್ಲದಿದ್ರೆ ಅವತ್ತು ನನ್ನ ಕಥೆ ಏನಾಗ್ತಿತ್ತೋ."
+    tr: "Gottu. Nanna kivīlū. Janavarīli nanage ḍeṅgyū bandāga rātri eraḍu gaṇṭege nannanna āspatrege karkoṇḍ hōgiddu Shwētā. Ḍākṭra jote vāda māḍi, inshūrens pēpar ellā māḍiddu avaḷu. Ā ‘udda nālige’ illadidre avattu nanna kathe ēnāgtittō."
+    en: "I know. In mine too. In January, when I had dengue, it was Shwetha who took me to hospital at two in the morning. She argued with the doctors and did all the insurance papers. Without that ‘long tongue’, who knows what would have happened to me that night."
+  - who: sumitra
+    t: "ನನ್ನ ಅಪ್ಪ ನನ್ನನ್ನ ಎಂಟನೇ ಕ್ಲಾಸಿಗೇ ಶಾಲೆ ಬಿಡಿಸಿದ್ರು. ನನಗೆ ಸಿಗದಿದ್ದು ಬೇರೆ ಹುಡುಗೀರಿಗೆ ಸಿಕ್ಕಿದಾಗ… ಒಳಗೊಳಗೆ ಹೊಟ್ಟೆಕಿಚ್ಚು ಆಗ್ತಿತ್ತು ಅನ್ಸುತ್ತೆ. ಅದಕ್ಕೆ ‘ಸಂಪ್ರದಾಯ’ ಅಂತ ಹೆಸರು ಇಟ್ಟೆ."
+    tr: "Nanna appa nannanna eṇṭanē klāsigē shāle biḍisidru. Nanage sigadiddu bēre huḍugīrige sikkidāga… oḷagoḷage hoṭṭekichchu āgtittu ansutte. Adakke ‘sampradāya’ anta hesaru iṭṭe."
+    en: "My father took me out of school in eighth standard. When other girls got what I never had… I think, deep inside, I felt jealous. And I gave that feeling the name ‘tradition’."
+  - who: amma
+    t: "ಸುಮಿತ್ರ ಅವ್ರೇ… ಆ ದಿನ ನಾನೂ ಸರಿ ಇರ್ಲಿಲ್ಲ. ಶ್ವೇತಾ ಮಾತಾಡಿದಾಗ ನಾನೇ ‘ಸಾಕು’ ಅಂತ ಅವಳ ಬಾಯಿ ಮುಚ್ಚಿಸೋಕೆ ನೋಡಿದೆ. ಜನ ಏನು ಅನ್ಕೊಳ್ತಾರೋ ಅನ್ನೋ ಭಯ. ನಿಮ್ಮಷ್ಟೇ ನಾನೂ ಆ ಪದ್ಧತಿಗೆ ತಲೆ ಬಾಗಿಸಿದ್ದೆ."
+    tr: "Sumitra avrē… ā dina nānū sari irlilla. Shwētā mātāḍidāga nānē ‘sāku’ anta avaḷa bāyi muchchisōke nōḍide. Jana ēnu ankoḷtārō annō bhaya. Nimmaṣṭē nānū ā paddhatige tale bāgisidde."
+    en: "Sumitra… I wasn't right that day either. When Shwetha spoke up, I was the one who tried to shut her up — ‘That's enough!’ Fear of what people would say. I had bowed my head to that custom just as much as you."
+  - who: sumitra
+    t: "ಅಂದ್ರೆ… ನನ್ನನ್ನ ಕ್ಷಮಿಸ್ತೀರಾ?"
+    tr: "Andre… nannanna kṣamistīrā?"
+    en: "So… will you forgive me?"
+  - who: amma
+    t: "ಕ್ಷಮೆ ಕೇಳೋದು ಸುಲಭ ಅಲ್ಲ. ನೀವು ಕೇಳಿದ್ರಿ, ನನಗೆ ಅಷ್ಟು ಸಾಕು. ಇನ್ಮೇಲೆ ಈ ‘ಅವ್ರೇ’ ಬೇಡ. ಲಕ್ಷ್ಮಿ ಅಂತ ಕರೀರಿ."
+    tr: "Kṣame kēḷōdu sulabha alla. Nīvu kēḷidri, nanage aṣṭu sāku. Inmēle ī ‘avrē’ bēḍa. Lakshmī anta karīri."
+    en: "(taking her hand) Asking for forgiveness isn't easy. You asked — that's enough for me. And from now on, no more of this ‘avre’. Just call me Lakshmi."
+  - who: sumitra
+    t: "ಹಾಗಾದ್ರೆ ನೀವೂ ಬರೀ ‘ಸುಮಿತ್ರ’ ಅನ್ನಿ. …ಇನ್ನೊಂದು ವಿಷಯ. ಅಜ್ಜಿ ಮನೆಗೆ ಬರೋವರೆಗೂ ನೀವು ಇಲ್ಲೇ ಇರ್ಬೇಕಾಗುತ್ತೆ. ಪ್ರದೀಪ್‌ಗೆ ರಾತ್ರಿ ಅಮೆರಿಕಾ ಮೀಟಿಂಗ್ ಇರುತ್ತೆ, ಶ್ವೇತಾ ಒಬ್ಳೇ ಇರಬಾರದು. ಅವಳು ಹೂಂ ಅಂದ್ರೆ, ಈ ವಾರ ನಾನು ಅವರ ಮನೇಲೇ ಇದ್ದು ಅವಳಿಗೆ ಅಡುಗೆ ಮಾಡ್ತೀನಿ."
+    tr: "Hāgādre nīvū barī ‘Sumitra’ anni. …Innondu viṣaya. Ajji manege barōvaregū nīvu illē irbēkāgutte. Pradīp-ge rātri Amerikā mīṭiṅg irutte, Shwētā obḷē irabāradu. Avaḷu hūṃ andre, ī vāra nānu avara manēlē iddu avaḷige aḍuge māḍtīni."
+    en: "Then you just say ‘Sumitra’ too. …One more thing. Until Ajji comes home, you'll have to be here. Pradeep has America meetings at night, and Shwetha shouldn't be alone. If she agrees, I'll stay at their place this week and cook for her."
+  - who: amma
+    t: "ಅದಕ್ಕಿಂತ ದೊಡ್ಡ ಉಪಕಾರ ಬೇರೆ ಇಲ್ಲ. ಆದ್ರೆ ಎಚ್ಚರ — ಏಳನೇ ತಿಂಗಳು, ಅವಳಿಗೆ ಈಗ ಹುಳಿ ಜಾಸ್ತಿ ಬೇಕು!"
+    tr: "Adakkinta doḍḍa upakāra bēre illa. Ādre echchara — ēḷanē tiṅgaḷu, avaḷige īga huḷi jāsti bēku!"
+    en: "(eyes filling) There's no bigger favour than that. But be warned — seventh month, she wants everything sour right now!"
+  - who: sumitra
+    t: "ಗೊತ್ತು ಗೊತ್ತು. ಮಾವಿನಕಾಯಿ ಚಿತ್ರಾನ್ನ ಆಗಲೇ ಆರ್ಡರ್ ಮಾಡಿದ್ದಾಳೆ."
+    tr: "Gottu gottu. Māvinakāyi chitrānna āgalē ārḍar māḍiddāḷe."
+    en: "(laughing) I know, I know. She's already ordered raw-mango rice."
+  - scene: "Amma opens her handbag and takes out a small paper packet of kumkum from the temple."
+  - who: amma
+    t: "ಆ ದಿನ ನೀವು ಅರಿಶಿನ ಕುಂಕುಮ ತಗೊಳ್ಳದೇ ಹೋದ್ರಿ. ಆಸ್ಪತ್ರೇಲಿ ನನ್ನ ಹತ್ರ ಇರೋದು ಇದೊಂದೇ — ದೇವಸ್ಥಾನದ ಪ್ರಸಾದದ ಕುಂಕುಮ. ತಗೊಳ್ಳಿ."
+    tr: "Ā dina nīvu arishina kuṅkuma tagoḷḷadē hōdri. Āspatrēli nanna hatra irōdu idondē — dēvasthānada prasādada kuṅkuma. Tagoḷḷi."
+    en: "That day you left without taking the turmeric and kumkum. In the hospital this is all I have — kumkum from the temple. Please take it."
+  - who: sumitra
+    t: "ಈ ಸಲ ‘ಇರ್ಲಿ, ಇರ್ಲಿ’ ಅನ್ನಲ್ಲ."
+    tr: "Ī sala ‘irli, irli’ annalla."
+    en: "(touching it to her forehead) This time I won't say ‘never mind, never mind’."
+  - who: nurse
+    t: "ಸರಸ್ವತಮ್ಮ ಕಡೆಯವರು! ವಿಸಿಟಿಂಗ್ ಟೈಮ್ ಶುರು ಆಯ್ತು. ಒಬ್ಬರು ಬನ್ನಿ — ಮತ್ತೆ ಊಟದ ಡಬ್ಬಿ ಇಲ್ಲೇ ಬಿಟ್ಟು ಬನ್ನಿ."
+    tr: "Saraswatamma kaḍeyavaru! Visiṭiṅg ṭaim shuru āytu. Obbaru banni — matte ūṭada ḍabbi illē biṭṭu banni."
+    en: "Saraswathamma's family! Visiting time has started. One person, come — and leave the food boxes out here."
+  - who: amma
+    t: "ಸುಮಿತ್ರ, ನೀವೇ ಹೋಗಿ. ಅತ್ತೆ ಕೋಪ ಇಟ್ಕೊಳ್ಳೋರಲ್ಲ. ಮರಿಮಗೂ ವಿಷಯ ಮಾತಾಡಿ — ಅವರಿಗೆ ಅದೇ ದೊಡ್ಡ ಔಷಧಿ."
+    tr: "Sumitra, nīvē hōgi. Atte kōpa iṭkoḷḷōralla. Marimagū viṣaya mātāḍi — avarige adē doḍḍa auṣadhi."
+    en: "Sumitra, you go. My mother-in-law doesn't hold grudges. Talk to her about the great-grandchild — that's the best medicine for her."
+  - scene: "Inside the ICU, Ajji turns her head on the pillow and sees Sumitra standing at the foot of the bed, hands empty, mask on."
+  - who: ajji
+    t: "ಬಾಮ್ಮ ಸುಮಿತ್ರ. ಬರೀ ಕೈಯಲ್ಲಿ ಬಂದ್ಯಾ? ಒಳ್ಳೇದು. ನಮ್ಮ ಮನೆಗೆ ಹಾಗೇ ಬರಬೇಕು — ಮನಸ್ಸು ತುಂಬಿದ್ರೆ ಸಾಕು."
+    tr: "Bāmma Sumitra. Barī kaiyalli bandyā? Oḷḷēdu. Namma manege hāgē barabēku — manassu tumbidre sāku."
+    en: "Come, Sumitra. You've come empty-handed? Good. That's how one should come to our family — a full heart is enough."
+  - who: sumitra
+    t: "ಅಮ್ಮ… ಆ ದಿನದ್ದಕ್ಕೆ…"
+    tr: "Amma… ā dinaddakke…"
+    en: "Amma… about that day…"
+  - who: ajji
+    t: "ಗೊತ್ತು. ಗಾಜಿನ ಆಚೆ ಲಕ್ಷ್ಮಿ ಮುಖ ನೋಡಿದ್ರೇನೇ ಗೊತ್ತಾಯ್ತು. ಹಳೇದನ್ನ ಇಲ್ಲೇ ಬಿಟ್ಬಿಡೋಣ. ನಾನು ಇನ್ನೂ ನೋಡೋದು ತುಂಬಾ ಇದೆ — ಒಂದು ಸೀಮಂತ, ಒಂದು ತೊಟ್ಟಿಲು."
+    tr: "Gottu. Gājina āche Lakshmī mukha nōḍidrēnē gottāytu. Haḷēdanna illē biṭbiḍōṇa. Nānu innū nōḍōdu tumbā ide — ondu sīmanta, ondu toṭṭilu."
+    en: "I know. I could tell just from Lakshmi's face through the glass. Let's leave the old things here. I still have a lot to see — a seemantha, and a cradle."
