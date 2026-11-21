@@ -176,3 +176,20 @@ button.brand{border:0;background:none;padding:0 6px 0 0;min-height:var(--tap);co
 .navtoc li.cur a{background:var(--accent-soft);font-weight:700}
 .navtoc li.cur a::after{content:"Last used";margin-left:auto;font-size:11px;color:var(--accent);font-weight:700}
 @media (min-width:1100px){.nav li.here .navtoc{display:block}}
+
+/* menu level 2: chapters; only the open chapter shows its scenes */
+.navgroup{list-style:none}
+.navgroup .navsecs{display:none;list-style:none;margin:0;padding:0 0 6px 8px}
+.navgroup.open .navsecs,.navgroup:not(:has(.navch)) .navsecs{display:block}
+.navch{width:100%;display:flex;align-items:center;gap:8px;min-height:var(--tap);padding:6px 8px;border:0;background:none;color:var(--accent);font-weight:700;font-size:14px;text-align:left;border-radius:10px;cursor:pointer}
+.navch::after{content:"";margin-left:auto;width:8px;height:8px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(-45deg);transition:transform .15s}
+.navgroup.open .navch::after{transform:rotate(45deg)}
+.navcount{margin-left:auto;font-size:12px;color:var(--muted);font-weight:600}
+.navch .navcount + *{display:none}
+
+/* drill-down menu (never more than ~16 rows on a phone) */
+body.nav-lesson .nav .navlessons > li:not(.here),body.nav-lesson .nav .navcourse{display:none}
+.navtoc.drill > .navgroup:not(.open){display:none}
+.navtoc.drill .navgroup.open .navch{background:var(--accent-soft)}
+.navtoc.drill .navgroup.open .navch::before{content:"";width:8px;height:8px;border-left:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);margin-right:2px}
+.navtoc.drill .navgroup.open .navch::after{display:none}

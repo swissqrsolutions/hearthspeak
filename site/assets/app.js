@@ -22,14 +22,29 @@
   const openNav = expandCurrent => {
     $$('.nav li.open').forEach(li => li.classList.toggle('open', false));
     const here = $('.nav li.here');
-    if (expandCurrent && here) here.classList.add('open');
+    if (expandCurrent && here) {
+      here.classList.add('open');
+      $$('.navgroup.open').forEach(g => g.classList.toggle('open', false));
+      const curLi = $('.navtoc li.cur'), g = curLi ? curLi.closest('.navgroup') : $('.navgroup');
+      if (g) g.classList.add('open');
+    }
     document.body.classList.add('nav-open');
+    document.body.classList.toggle('nav-lesson', !!expandCurrent);
+    syncDrill();
     const cur = expandCurrent && $('.navtoc li.cur');
     requestAnimationFrame(() => (cur || $('.navhead')).scrollIntoView({ block: expandCurrent ? 'center' : 'start' }));
   };
   if ($('#navbtn')) $('#navbtn').onclick = () => document.body.classList.contains('nav-open') ? closeNav() : openNav(true);
   // under every lesson in the menu: the scene you last used there
   $$('.navlesson').forEach(a => { const last = store.get('lastsec:' + a.dataset.key, ''); if (last) { const d = document.createElement('small'); d.className = 'navlast'; d.textContent = 'Last: ' + last; a.querySelector('span').append(d); } });
+  // drill-down: an open chapter hides the other chapters; tapping its title goes back to all chapters
+  function syncDrill() { const t = $('.navtoc'); if (t) t.classList.toggle('drill', !!$('.navgroup.open')); }
+  $$('.navch').forEach(b => b.addEventListener('click', () => {
+    const g = b.closest('.navgroup'), was = g.classList.contains('open');
+    $$('.navgroup.open').forEach(x => x.classList.toggle('open', false));
+    if (!was) g.classList.add('open');
+    syncDrill();
+  }));
   // tapping the lesson you are in just expands/collapses its scenes
   $$('.nav li.here > .navlesson').forEach(a => a.addEventListener('click', e => { e.preventDefault(); a.parentElement.classList.toggle('open'); }));
   // logo = home: phone opens the lesson menu; big screens (menu always visible) go to the top

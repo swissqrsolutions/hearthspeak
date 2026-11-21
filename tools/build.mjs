@@ -173,9 +173,18 @@ function navFor(cur) {
     const ls = built.filter(x => x.langKey === k);
     const items = ls.map(x => {
       const here = x === cur;
-      const toc = here ? `<ol class="navtoc">${x.toc.map(t => t.chapter
-        ? `<li class="navch"><a href="#${t.id}">${esc(t.chapter.replace(/^Chapter d+ — /, ''))}</a></li>`
-        : `<li><a href="#${t.id}"><span class="secno">${t.n}</span>${esc(noEmoji(t.section))}</a></li>`).join('')}</ol>` : '';
+      // two levels: chapters, each holding its scenes (only one chapter open at a time)
+      let toc = '';
+      if (here) {
+        const groups = [];
+        for (const t of x.toc) {
+          if (t.chapter || !groups.length) groups.push({ ch: t.chapter ? t : null, secs: [] });
+          if (!t.chapter) groups[groups.length - 1].secs.push(t);
+        }
+        toc = `<ol class="navtoc">${groups.map(g => `<li class="navgroup">${g.ch
+          ? `<button class="navch" type="button">${esc(g.ch.chapter.replace(/^Chapter \d+ — /, ''))}<span class="navcount">${g.secs.length}</span></button>` : ''}
+          <ol class="navsecs">${g.secs.map(t => `<li><a href="#${t.id}"><span class="secno">${t.n}</span>${esc(noEmoji(t.section))}</a></li>`).join('')}</ol></li>`).join('')}</ol>`;
+      }
       return `<li class="${here ? 'here' : ''}"><a class="navlesson" data-key="${k}-${x.num}" href="../../${k}/${pad(x.num)}/index.html"><b>${x.num}</b> <span>${esc(x.title.en)}</span></a>${toc}</li>`;
     }).join('');
     return `<div class="navcourse">${esc(m.name)} <span class="script" dir="${m.dir}">${esc(m.native)}</span></div>

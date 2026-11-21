@@ -34,6 +34,16 @@ export async function run() {
     $('#navbtn').click(); await sleep(50);
     ok('☰ expands the current lesson', !!$('.nav li.here.open'));
     ok('current scene marked in the menu', !!$('.navtoc li.cur'));
+    const rows = [...document.querySelectorAll('.nav .navlesson, .nav .navch, .nav .navsecs a')].filter(e => e.offsetParent !== null).length;
+    ok('menu shows at most 20 rows', rows <= 20, `${rows} rows`);
+    $('.navgroup.open .navch').click(); await sleep(30);
+    const rows2 = [...document.querySelectorAll('.nav .navlesson, .nav .navch, .nav .navsecs a')].filter(e => e.offsetParent !== null).length;
+    ok('chapter list view at most 20 rows', rows2 <= 20, `${rows2} rows`);
+    $('#brand').click(); await sleep(30);
+    const rows3 = [...document.querySelectorAll('.nav .navlesson, .nav .navch, .nav .navsecs a')].filter(e => e.offsetParent !== null).length;
+    ok('home view at most 20 rows', rows3 <= 20, `${rows3} rows`);
+    document.body.classList.toggle('nav-open', false); $('#navbtn').click(); await sleep(30);
+    ok('current chapter open in the menu', !!$('.navgroup.open li.cur'));
     ok('last-used scene remembered', !!localStorage.getItem('lastsec:' + L.lang + '-' + L.num));
     document.body.classList.toggle('nav-open', false);
     $('#navbtn').click(); await sleep(50);
