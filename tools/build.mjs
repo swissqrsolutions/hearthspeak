@@ -134,7 +134,10 @@ const files = [];
   for (const f of fs.readdirSync(d)) {
     const p = path.join(d, f);
     if (fs.statSync(p).isDirectory()) walk(p);
-    else if (!/sw\.js$/.test(f)) files.push(path.relative(SITE, p).split(path.sep).join('/'));
+    else if (!/sw\.js$/.test(f)) {
+      const rel = path.relative(SITE, p).split(path.sep).join('/');
+      files.push(f.endsWith('.mp3') ? `${rel}?v=${Math.round(fs.statSync(p).mtimeMs / 1000).toString(36)}` : rel);
+    }
   }
 })(SITE);
 fs.writeFileSync(path.join(SITE, 'files.json'), JSON.stringify(files));
