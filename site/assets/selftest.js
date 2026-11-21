@@ -63,6 +63,21 @@ export async function run() {
     // data
     ok('every line has audio', L.lines.every(l => l.audio), `${L.lines.filter(l => !l.audio).length} missing`);
     ok('every line has word timings', L.lines.every(l => (l.w || []).length), `${L.lines.filter(l => !(l.w || []).length).length} missing`);
+    // word meanings
+    const words = $$('.w'), glossed = $$('.w[data-g]');
+    const pct = words.length ? Math.round(100 * glossed.length / words.length) : 0;
+    ok('word meanings present', pct >= 95 || location.pathname.includes('/arabic/'), `${glossed.length}/${words.length} (${pct}%)`);
+    if (glossed.length) {
+      const w = glossed.find(x => !x.closest('.line').hidden) || glossed[0];
+      w.dispatchEvent(new MouseEvent('mouseenter')); await sleep(50);
+      const tip = $('.gloss');
+      ok('hover shows the meaning', !!tip && tip.textContent === w.dataset.g, tip ? tip.textContent : 'no bubble');
+      w.dispatchEvent(new MouseEvent('mouseleave')); await sleep(30);
+      ok('meaning hides on leave', !$('.gloss'));
+      w.click(); await sleep(50);
+      ok('tap shows the meaning (phone)', !!$('.gloss'));
+      document.body.click(); await sleep(30);
+    }
     ok('no element wider than the screen', document.documentElement.scrollWidth <= innerWidth + 1);
     const small = $$('.line:not([hidden]) .ctl button').filter(b => b.getBoundingClientRect().height < 44);
     ok('tap targets ≥ 44px', small.length === 0, `${small.length} small`);
