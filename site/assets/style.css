@@ -204,3 +204,12 @@ body.nav-lesson .nav .navlessons > li:not(.here),body.nav-lesson .nav .navcourse
 .navextra .about summary{min-height:var(--tap)}
 .navextra .scene{font-size:14px}
 @media (min-width:1100px){.nav li.here .navextra{display:block}}
+
+/* the page is just the scene: scenes are chosen in the menu; one "Next" button at the end */
+.pager.ptop{display:none}
+.pager.pbottom .psel,.pager.pbottom .pprev{display:none}
+.pager.pbottom .pnext{flex:1;width:auto;font-size:15px;font-weight:700;padding:0 14px;text-align:center;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pager.pbottom .pnext:disabled{background:var(--surface);color:var(--muted);border-color:var(--line);opacity:1}
+
+/* anything marked hidden is really hidden (pages, scenes, sentences) */
+[hidden]{display:none!important}

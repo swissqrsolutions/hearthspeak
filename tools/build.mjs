@@ -39,6 +39,9 @@ const ICON = {
   menu: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>',
 };
 const noEmoji = t => String(t || '').replace(/^[\p{Extended_Pictographic}\p{Regional_Indicator}\u{FE0F}\u{200D}\s]+/u, '').trim();
+import crypto from 'node:crypto';
+const stamp = f => crypto.createHash('sha1').update(fs.readFileSync(path.join(SITE, 'assets', f))).digest('hex').slice(0, 8);
+const ASSETV = { css: stamp('style.css'), js: stamp('app.js') };
 const normWord = w => w.replace(/[!?.,…‘’“”—:;()"'\[\]–-]/g, '').trim();
 
 function buildLesson(langKey, file) {
@@ -111,7 +114,7 @@ function buildLesson(langKey, file) {
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Hearthspeak · ${esc(meta.name)} ${L.num} · ${esc(L.title.en)}</title>
-<link rel="stylesheet" href="../../assets/style.css">
+<link rel="stylesheet" href="../../assets/style.css?v=${ASSETV.css}">
 <link rel="manifest" href="../../manifest.webmanifest">
 <link rel="icon" href="../../assets/icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../../assets/icon-192.png"><meta name="theme-color" content="#2f4a3a">
 <script>try{var t=JSON.parse(localStorage.getItem('theme'));if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
@@ -148,7 +151,7 @@ ${L.next ? `<section class="card next">${md(L.next)}</section>` : ''}
 
 
 <script>window.LESSON = ${JSON.stringify({ lang: langKey, num: L.num, speakers: L.speakers, lines: spoken })};</script>
-<script src="../../assets/app.js"></script>
+<script src="../../assets/app.js?v=${ASSETV.js}"></script>
 </body></html>`;
   const extra = `<div class="navextra">${ep ? `<div class="epaudio"><div class="small">Whole lesson (plays with the screen off)</div><audio controls preload="none" src="${ep}"></audio></div>` : ''}<details class="about"><summary>About this lesson and its characters</summary><p class="scene">${md(L.intro)}</p><div class="cast">${cast}</div></details></div>`;
   return { langKey, num: L.num, title: L.title, level: L.level, toc, page, extra, out: path.join(outDir, 'index.html') };

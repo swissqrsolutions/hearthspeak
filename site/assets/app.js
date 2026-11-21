@@ -218,6 +218,7 @@
       return n;
     };
     const top = mk(), bottom = mk();
+    top.classList.add('ptop'); bottom.classList.add('pbottom');
     box.before(top); box.after(bottom);
     const key = 'scenepage:' + L.lang + L.num;
     let page = Math.min(store.get(key, 0), pages - 1);
@@ -225,6 +226,8 @@
       page = Math.max(0, Math.min(pages - 1, p)); store.set(key, page);
       for (const el of kids) el.hidden = +el.dataset.page !== page;
       for (const pg of [top, bottom]) { pg.querySelector('.psel').value = page; pg.querySelector('.pprev').disabled = page === 0; pg.querySelector('.pnext').disabled = page === pages - 1; }
+      const nb = bottom.querySelector('.pnext');
+      nb.textContent = page < pages - 1 ? 'Next: ' + label(page + 1).replace(/^Scene \d+ · /, '') + ' ›' : 'End of the lesson';
       if (scroll) top.scrollIntoView({ behavior: 'smooth', block: 'start' });
       const sec = pagesArr[page].sc.head.find(e => e.classList.contains('section'));
       $$('.navtoc li.cur').forEach(li => li.classList.toggle('cur', false));

@@ -7,7 +7,7 @@ export async function run() {
   const errors = []; const onErr = e => errors.push(e.message || String(e.reason)); addEventListener('error', onErr); addEventListener('unhandledrejection', onErr);
   const P = HTMLMediaElement.prototype, op = P.play; let plays = 0, el = null;
   P.play = function () { plays++; el = this; this.muted = true; return op.call(this); };
-  const visible = () => $$('.listen .line').filter(e => !e.hidden);
+  const visible = () => $$('.listen .line').filter(e => e.offsetParent !== null);   // really on screen, not just marked
   const L = window.LESSON, total = L.lines.length;
   try {
     // pagination
