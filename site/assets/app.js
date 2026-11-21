@@ -183,41 +183,53 @@
     if (my === token) { b.classList.remove('active'); b.textContent = n + '×'; row.classList.remove('playing'); }
   });
 
-  // ---------- pages of 10 lines ----------
+  // ---------- one scene per page (long scenes split into balanced parts of at most 20 sentences) ----------
   (() => {
     const box = $('.listen');
     if (!box) return;
-    const PER = 10, kids = [...box.children];
-    let count = 0, pending = [];
+    const MAX = 20, kids = [...box.children];
+    // group: [headings…, lines…] per scene; a chapter title belongs to the scene that follows it
+    const scenes = []; let cur = null, pending = [];
     for (const el of kids) {
-      if (el.classList.contains('line')) { const pg = Math.floor(count / PER); count++; for (const h of pending) h.dataset.page = pg; pending = []; el.dataset.page = pg; }
+      if (el.classList.contains('section')) { cur = { head: [...pending, el], lines: [], title: el.querySelector('h3').textContent.trim(), n: scenes.length + 1 }; scenes.push(cur); pending = []; }
+      else if (el.classList.contains('line')) { if (!cur) { cur = { head: pending, lines: [], title: '', n: 1 }; scenes.push(cur); pending = []; } cur.lines.push(el); }
+      else if (cur && !cur.lines.length && !el.classList.contains('chapter')) cur.head.push(el);   // scene caption under its title
+      else if (cur && el.classList.contains('scenecap')) cur.lines.push(el);                       // later captions stay in place
       else pending.push(el);
     }
-    const pages = Math.max(1, Math.ceil(count / PER));
-    for (const h of pending) h.dataset.page = pages - 1;
-    const label = pg => {
-      const sec = kids.find(e => +e.dataset.page === pg && e.classList.contains('section'));
-      return `Page ${pg + 1} of ${pages}` + (sec ? ' · ' + sec.querySelector('h3').textContent.replace(/^\d+/, '').trim() : '');
-    };
+    if (pending.length && scenes.length) scenes[scenes.length - 1].lines.push(...pending);
+    const pagesArr = [];
+    for (const sc of scenes) {
+      const spoken = sc.lines.filter(e => e.classList.contains('line')).length;
+      const parts = Math.max(1, Math.ceil(spoken / MAX)), per = Math.ceil(spoken / parts);
+      let part = 0, count = 0, bucket = [...sc.head];
+      for (const el of sc.lines) {
+        if (el.classList.contains('line')) { if (count === per && part < parts - 1) { pagesArr.push({ sc, part, parts, els: bucket }); part++; count = 0; bucket = []; } count++; }
+        bucket.push(el);
+      }
+      pagesArr.push({ sc, part, parts, els: bucket });
+    }
+    pagesArr.forEach((p, i) => p.els.forEach(el => { el.dataset.page = i; }));
+    const pages = pagesArr.length;
+    const label = i => { const p = pagesArr[i]; return `Scene ${p.sc.n} · ${p.sc.title}` + (p.parts > 1 ? ` (${p.part + 1}/${p.parts})` : ''); };
     const mk = () => {
       const n = document.createElement('div'); n.className = 'pager';
-      n.innerHTML = `<button class="pprev" aria-label="Previous page">◀</button><select class="psel" aria-label="Choose page">${Array.from({ length: pages }, (_, i) => `<option value="${i}">${label(i)}</option>`).join('')}</select><button class="pnext" aria-label="Next page">▶</button>`;
+      n.innerHTML = `<button class="pprev" aria-label="Previous scene">◀</button><select class="psel" aria-label="Choose scene">${pagesArr.map((_, i) => `<option value="${i}">${label(i)}</option>`).join('')}</select><button class="pnext" aria-label="Next scene">▶</button>`;
       return n;
     };
     const top = mk(), bottom = mk();
     box.before(top); box.after(bottom);
-    const key = 'page:' + L.lang + L.num;
+    const key = 'scenepage:' + L.lang + L.num;
     let page = Math.min(store.get(key, 0), pages - 1);
     function show(p, scroll) {
       page = Math.max(0, Math.min(pages - 1, p)); store.set(key, page);
       for (const el of kids) el.hidden = +el.dataset.page !== page;
       for (const pg of [top, bottom]) { pg.querySelector('.psel').value = page; pg.querySelector('.pprev').disabled = page === 0; pg.querySelector('.pnext').disabled = page === pages - 1; }
       if (scroll) top.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      const secs = kids.filter(e => e.classList.contains('section') && +e.dataset.page <= page);
-      const sec = secs[secs.length - 1];
+      const sec = pagesArr[page].sc.head.find(e => e.classList.contains('section'));
       $$('.navtoc li.cur').forEach(li => li.classList.toggle('cur', false));
       if (sec) {
-        store.set('lastsec:' + L.lang + '-' + L.num, sec.querySelector('h3').textContent.trim());
+        store.set('lastsec:' + L.lang + '-' + L.num, pagesArr[page].sc.title);
         const link = $('.navtoc a[href="#' + sec.id + '"]'); if (link) link.parentElement.classList.add('cur');
       }
     }
@@ -230,7 +242,7 @@
       const target = $(a.getAttribute('href'));
       if (!target) return;
       e.preventDefault(); stopAll(); closeNav(); show(+target.dataset.page);
-      requestAnimationFrame(() => target.scrollIntoView({ behavior: 'smooth', block: 'start' }));
+      requestAnimationFrame(() => top.scrollIntoView({ behavior: 'smooth', block: 'start' }));
     }));
     let sx = 0, sy = 0;
     box.addEventListener('touchstart', e => { sx = e.touches[0].clientX; sy = e.touches[0].clientY; }, { passive: true });
@@ -238,6 +250,7 @@
       const dx = e.changedTouches[0].clientX - sx, dy = e.changedTouches[0].clientY - sy;
       if (Math.abs(dx) > 70 && Math.abs(dx) > Math.abs(dy) * 1.5) { stopAll(); show(page + (dx < 0 ? 1 : -1), true); }
     }, { passive: true });
+    window.__pages = pagesArr.map(p => p.els.filter(e => e.classList.contains('line')).length);
     const h = location.hash && $(location.hash);
     show(h && h.dataset.page ? +h.dataset.page : page);
   })();

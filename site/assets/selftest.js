@@ -8,20 +8,25 @@ export async function run() {
   const P = HTMLMediaElement.prototype, op = P.play; let plays = 0, el = null;
   P.play = function () { plays++; el = this; this.muted = true; return op.call(this); };
   const visible = () => $$('.listen .line').filter(e => !e.hidden);
-  const L = window.LESSON, total = L.lines.length, pages = Math.ceil(total / 10);
+  const L = window.LESSON, total = L.lines.length;
   try {
     // pagination
     const sel = $('.psel');
     ok('pager exists (top+bottom)', $$('.pager').length === 2);
-    ok('page count', sel && sel.options.length === pages, `${sel && sel.options.length} vs ${pages}`);
+    const P = window.__pages || [], scenes = $$('.section').length, nPages = P.length;
+    ok('one page per scene (long scenes split)', nPages >= scenes && sel.options.length === nPages, `${scenes} scenes → ${nPages} pages`);
+    ok('no page has more than 20 sentences', Math.max(...P) <= 20, `max ${Math.max(...P)}`);
+    ok('every sentence is on a page', P.reduce((a, b) => a + b, 0) === total, `${P.reduce((a, b) => a + b, 0)}/${total}`);
     sel.value = 0; sel.dispatchEvent(new Event('change')); await sleep(100);
-    ok('page 1 shows lines 1-10', visible().map(e => +e.dataset.i).join() === [...Array(Math.min(10, total)).keys()].join());
+    const firstSec = $$('.section')[0];
+    ok('page 1 = first scene only', !firstSec.hidden && $$('.section').filter(s => !s.hidden).length === 1 && visible().length === P[0]);
     $('.pnext').click(); await sleep(100);
-    ok('next → lines 11-20', +visible()[0].dataset.i === 10 && $('.psel').value === '1');
+    ok('next → the next scene', $('.psel').value === '1' && visible().length === P[1]);
     $('.pprev').click(); await sleep(100);
     ok('prev → page 1', $('.psel').value === '0' && $('.pprev').disabled);
-    sel.value = pages - 1; sel.dispatchEvent(new Event('change')); await sleep(100);
-    ok('last page', visible().length === total - (pages - 1) * 10 && $('.pnext').disabled);
+    sel.value = nPages - 1; sel.dispatchEvent(new Event('change')); await sleep(100);
+    ok('last page', visible().length === P[nPages - 1] && $('.pnext').disabled);
+    const pages = nPages;
     ok('both pagers in sync', $$('.psel').every(s => s.value === String(pages - 1)));
     // sidebar
     $('#navbtn').click(); await sleep(50);
