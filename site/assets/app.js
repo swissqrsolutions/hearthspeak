@@ -79,7 +79,7 @@
     b.onclick = () => { on = !on; store.set(key, on); apply(); };
   };
   tg('#tgTr', 'no-tr', true, 'showTr');
-  tg('#tgLit', 'lit', false, 'showLit');
+  if ($('#tgLit')) tg('#tgLit', 'lit', false, 'showLit');
 
   // English: shown -> blur (tap line to reveal) -> hidden
   const EN = ['shown', 'blur', 'hidden'], ENL = { shown: 'EN', blur: 'EN 👁', hidden: 'EN ✕' };
@@ -101,10 +101,11 @@
   $('#gap').onclick = () => { gap = GAPS[(GAPS.indexOf(gap) + 1) % GAPS.length]; store.set('gap', gap); applyGap(); };
 
   // ---------- Per-line play / loop ----------
+  let cur = store.get('pos:' + L.lang + L.num, 0);
   const lineEl = i => $(`.line[data-i="${i}"]`);
   $$('button.play, button.chip').forEach(b => b.onclick = async () => {
     stopAll();
-    const row = b.closest('.line'); if (row) row.classList.add('playing');
+    const row = b.closest('.line'); if (row) { row.classList.add('playing'); cur = +row.dataset.i; store.set('pos:' + L.lang + L.num, cur); }
     await play(b.dataset.src);
     if (row) row.classList.remove('playing');
   });
@@ -124,21 +125,22 @@
   });
 
   // ---------- Play all (+ lock-screen controls) ----------
-  let cur = 0;
+  
   async function playFrom(start) {
     stopAll(); const b = $('#playAll'); b.classList.add('active'); b.textContent = '■ Stop'; keepAwake(true);
     const my = stopFlag;
     for (cur = start; cur < L.lines.length && my === stopFlag; cur++) {
+      store.set('pos:' + L.lang + L.num, cur);
       const row = lineEl(cur); row.classList.add('playing'); row.scrollIntoView({ block: 'center', behavior: 'smooth' });
       const d = await play(L.lines[cur].audio); row.classList.remove('playing');
       if (my !== stopFlag) return;
       if (gap) { buzz(25); await sleep(d * 1000 * gap / rate + 600); } else await sleep(450);
     }
-    if (my === stopFlag) { b.classList.remove('active'); b.textContent = '▶ Play all'; keepAwake(false); }
+    if (my === stopFlag) { cur = 0; store.set('pos:' + L.lang + L.num, 0); b.classList.remove('active'); b.textContent = '▶ Play all'; keepAwake(false); }
   }
   $('#playAll').onclick = () => {
     if ($('#playAll').classList.contains('active')) { stopAll(); $('#playAll').textContent = '▶ Play all'; return; }
-    playFrom(0);
+    playFrom(cur >= L.lines.length - 1 ? 0 : cur);
   };
   if ('mediaSession' in navigator) {
     try {
@@ -178,7 +180,7 @@
   });
 
   // ---------- Role-play ----------
-  $('#rpStart').onclick = async () => {
+  if ($('#rpStart')) $('#rpStart').onclick = async () => {
     const btn = $('#rpStart'), stage = $('#rpStage');
     if (btn.classList.contains('active')) { stopAll(); stage.hidden = true; btn.textContent = '🎭 Start role-play'; return; }
     stopAll(); btn.classList.add('active'); btn.textContent = '■ Stop'; stage.hidden = false; keepAwake(true);

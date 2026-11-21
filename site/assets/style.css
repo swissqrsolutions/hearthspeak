@@ -118,3 +118,17 @@ html,body{overflow-x:hidden;max-width:100vw}
   .btns button{width:46px;height:42px}
   .remix{grid-template-columns:44px minmax(0,1fr)}
 }
+
+/* ---- v4: story layout ---- */
+.part{margin:26px 0 6px;padding:10px 14px;border-radius:12px;background:var(--accent);color:#fff;font-size:18px;position:sticky;top:46px;z-index:3}
+.scenecap{margin:18px 0 6px;padding:8px 12px;font-style:italic;color:var(--muted);border-left:3px solid var(--accent-soft);font-size:15px}
+.cast{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}
+.castm{font-size:13px;padding:3px 10px;border-radius:999px;background:var(--accent-soft)}
+.epaudio{margin-top:10px}
+.listen{padding:10px 12px}
+.next{border-color:var(--accent);font-style:italic}
+.c-sam{color:#2e7d32}.c-appa{color:#1565c0}.c-amma{color:#ad1457}.c-shwe{color:#6a1b9a}.c-kiran{color:#e65100}.c-ajji{color:#795548}
+.c-manju{color:#00838f}.c-vendor{color:#558b2f}.c-vimala{color:#c2185b}.c-shankar{color:#283593}.c-sumitra{color:#880e4f}.c-pradeep{color:#00695c}
+.castm.c-sam,.castm.c-appa,.castm.c-amma,.castm.c-shwe,.castm.c-kiran,.castm.c-ajji{font-weight:600}
+.line[data-who="sam"]{background:var(--you);box-shadow:inset 3px 0 0 var(--you-line)}
+@media (prefers-color-scheme: dark){.c-sam{color:#81c784}.c-appa{color:#64b5f6}.c-amma{color:#f48fb1}.c-shwe{color:#ce93d8}.c-kiran{color:#ffb74d}.c-ajji{color:#bcaaa4}.c-manju{color:#4dd0e1}.c-vendor{color:#aed581}.c-vimala{color:#f06292}.c-shankar{color:#9fa8da}.c-sumitra{color:#f48fb1}.c-pradeep{color:#80cbc4}}
