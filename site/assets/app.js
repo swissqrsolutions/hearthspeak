@@ -11,7 +11,10 @@
   // Offline: register service worker when served over http(s)
   if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
     const sw = document.body.dataset.lang ? new URL('../../sw.js', location.href) : new URL('sw.js', location.href);
-    navigator.serviceWorker.register(sw).catch(() => {});
+    navigator.serviceWorker.register(sw, { updateViaCache: 'none' }).then(r => r.update()).catch(() => {});
+    // when a new version takes over, reload once so you always see the latest lesson
+    let reloaded = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => { if (!reloaded) { reloaded = true; location.reload(); } });
     try { navigator.storage && navigator.storage.persist && navigator.storage.persist(); } catch {}
   }
 
@@ -31,7 +34,7 @@
       msg.textContent = 'Downloading…';
       try {
         const files = await (await fetch('files.json', { cache: 'no-store' })).json();
-        const c = await caches.open('hs-v2');
+        const c = await caches.open('hs-v3');
         let n = 0;
         for (const f of files) { await c.add(f).catch(() => {}); msg.textContent = `Saved ${++n}/${files.length}`; }
         msg.textContent = `✓ Saved ${files.length} files. Works without internet now.`;

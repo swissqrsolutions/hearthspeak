@@ -1,6 +1,6 @@
 // Service worker: pages/css/js are network-first (updates arrive), audio is cache-first; all work offline.
 // Handles HTTP Range requests so audio seeking/scrubbing works from the offline cache.
-const CACHE = 'hs-v2';
+const CACHE = 'hs-v3';
 const isAudio = u => u.split('?')[0].endsWith('.mp3');
 self.addEventListener('install', () => self.skipWaiting());
 self.addEventListener('activate', e => e.waitUntil((async () => {
