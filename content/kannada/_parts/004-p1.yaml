@@ -1,0 +1,763 @@
+lines:
+  - chapter: "Chapter 1 — The dream and the money"
+  - section: "Kavya's spreadsheet"
+    learn: "money words: baṇḍavāḷa, lābha, naṣṭa, sāla, uḷitāya, aḍvāns · lakhs and ranges (-inda … -varege) · business conditionals: lābha bandre…, naṣṭa ādrū… · working capital"
+  - scene: "31 October 2025, late evening. A rented two-bedroom house in Jayanagar 9th Block. Mahesh Upadhya has just come home from his last day as a hotel supervisor. Kavya has her laptop open on the dining table."
+  - who: mahesh
+    t: "ಇವತ್ತು ಕೊನೆ ದಿನ ಆಯ್ತು. ಹತ್ತು ವರ್ಷ ಆ ಹೋಟೆಲ್‌ನಲ್ಲಿ ಸೂಪರ್‌ವೈಸರ್ ಆಗಿದ್ದೆ. ರಿಸೈನ್ ಲೆಟರ್ ಕೊಟ್ಟಾಗ ಕೈ ಸ್ವಲ್ಪ ನಡುಗ್ತಿತ್ತು."
+    tr: "Ivattu kone dina āytu. Hattu varṣa ā hōṭel-nalli sūparvaisar āgidde. Risain leṭar koṭṭāga kai svalpa naḍugtittu."
+    en: "That was the last day. Ten years I was a supervisor at that hotel. When I handed in the resignation letter, my hand was shaking a little."
+  - who: kavya
+    t: "ನಡುಗೋದು ಸಹಜ. ಆದ್ರೆ ಈಗ ಹಿಂದೆ ಹೋಗೋಕಾಗಲ್ಲ. ಕೂತ್ಕೋ, ಲ್ಯಾಪ್‌ಟಾಪ್‌ನಲ್ಲಿ ಶೀಟ್ ರೆಡಿ ಮಾಡಿದೀನಿ."
+    tr: "Naḍugōdu sahaja. Ādre īga hinde hōgōkāgalla. Kūtkō, lyāpṭāp-nalli śīṭ reḍi māḍidīni."
+    en: "Shaking is natural. But there's no going back now. Sit down, I've got a spreadsheet ready on the laptop."
+  - who: mahesh
+    t: "ನಿನ್ನ ಎಕ್ಸೆಲ್ ಶೀಟ್ ನೋಡಿದ್ರೆ ನನಗೆ ಹೋಟೆಲ್‌ಗಿಂತ ಜಾಸ್ತಿ ಭಯ ಆಗುತ್ತೆ."
+    tr: "Ninna eksel śīṭ nōḍidre nanage hōṭel-ginta jāsti bhaya āgutte."
+    en: "Your Excel sheets scare me more than the hotel does."
+  - who: kavya
+    t: "ಭಯ ಆಗ್ಲಿ, ಅದು ಒಳ್ಳೇದು. ಮೊದಲು ಬಂಡವಾಳ. ಐನೂರು ಸ್ಕ್ವೇರ್ ಫೀಟ್ ದರ್ಶಿನಿಗೆ ಒಟ್ಟು ಇಪ್ಪತ್ತೈದರಿಂದ ಮೂವತ್ತೈದು ಲಕ್ಷ ಬೇಕು ಅಂತ ನನ್ನ ಅಂದಾಜು."
+    tr: "Bhaya āgli, adu oḷḷēdu. Modalu baṇḍavāḷa. Ainūru skvēr fīṭ darśinige oṭṭu ippattaidarinda mūvattaidu lakṣa bēku anta nanna andāju."
+    en: "Let it scare you, that's healthy. Capital first. My estimate is that a five-hundred-square-foot darshini needs twenty-five to thirty-five lakh in all."
+  - who: mahesh
+    t: "ಮೂವತ್ತೈದು ಲಕ್ಷ? ನಾನು ಇಪ್ಪತ್ತು ಅಂದ್ಕೊಂಡಿದ್ದೆ."
+    tr: "Mūvattaidu lakṣa? Nānu ippattu andkoṇḍidde."
+    en: "Thirty-five lakh? I'd been thinking twenty."
+  - who: kavya
+    t: "ಅದಕ್ಕೇ ಶೀಟ್ ಬೇಕು. ಕೇಳು. ಜಯನಗರದಲ್ಲಿ ರೆಂಟ್ ತಿಂಗಳಿಗೆ ಸುಮಾರು ಒಂದು ಲಕ್ಷ. ಅಡ್ವಾನ್ಸ್ ಆರರಿಂದ ಹತ್ತು ತಿಂಗಳು ಕೇಳ್ತಾರೆ, ಅಂದ್ರೆ ಆರರಿಂದ ಹತ್ತು ಲಕ್ಷ ಅಲ್ಲೇ ಹೋಯ್ತು."
+    tr: "Adakkē śīṭ bēku. Kēḷu. Jayanagaradalli renṭ tingaḷige sumāru ondu lakṣa. Aḍvāns ārarinda hattu tingaḷu kēḷtāre, andre ārarinda hattu lakṣa allē hōytu."
+    en: "That's why we need the sheet. Listen. In Jayanagar, rent is about one lakh a month. Landlords ask six to ten months' advance, so six to ten lakh is gone right there."
+  - who: mahesh
+    t: "ಅಡ್ವಾನ್ಸ್ ವಾಪಸ್ ಬರುತ್ತಲ್ವಾ? ಅದು ಖರ್ಚು ಅಲ್ಲ."
+    tr: "Aḍvāns vāpas baruttalvā? Adu kharchu alla."
+    en: "But the advance comes back, doesn't it? It's not an expense."
+  - who: kavya
+    t: "ವಾಪಸ್ ಬರುತ್ತೆ, ಅಂಗಡಿ ಖಾಲಿ ಮಾಡಿದಾಗ. ಅಲ್ಲಿವರೆಗೆ ಆ ದುಡ್ಡು ನಮ್ಮ ಕೈಯಲ್ಲಿ ಇರಲ್ಲ. ಮುಂದೆ: ಇಂಟೀರಿಯರ್ ನಾಲ್ಕರಿಂದ ಆರು ಲಕ್ಷ, ಕಿಚನ್ ಸಾಮಾನು ಎಂಟರಿಂದ ಹತ್ತು."
+    tr: "Vāpas barutte, aṅgaḍi khāli māḍidāga. Allivarege ā duḍḍu namma kaiyalli iralla. Munde: iṇṭīriyar nālkarinda āru lakṣa, kichan sāmānu eṇṭarinda hattu."
+    en: "It comes back when we vacate the shop. Until then that money isn't in our hands. Next: interiors, four to six lakh; kitchen equipment, eight to ten."
+  - who: mahesh
+    t: "ಗ್ರೈಂಡರ್, ಸ್ಟೀಮರ್, ಕಾವಲಿ, ಕಾಫಿ ಬಾಯ್ಲರ್, ಫ್ರಿಜ್, ಚಿಮಣಿ… ಹೌದು, ಹತ್ತು ಲಕ್ಷ ಸುಲಭವಾಗಿ ಆಗುತ್ತೆ. ಸೆಕೆಂಡ್ ಹ್ಯಾಂಡ್ ಗ್ರೈಂಡರ್ ತಗೊಂಡ್ರೆ ಸ್ವಲ್ಪ ಉಳಿಯುತ್ತೆ."
+    tr: "Graiṇḍar, sṭīmar, kāvali, kāphi bāylar, phrij, chimaṇi… haudu, hattu lakṣa sulabhavāgi āgutte. Sekeṇḍ hyāṇḍ graiṇḍar tagoṇḍre svalpa uḷiyutte."
+    en: "Grinder, steamer, griddle, coffee boiler, fridge, chimney… yes, ten lakh goes easily. If we buy a second-hand grinder we'll save a bit."
+  - who: kavya
+    t: "ಲೈಸೆನ್ಸ್, ಸಿಎ ಫೀಸ್ ಒಂದು ಲಕ್ಷ. ಬಿಲ್ಲಿಂಗ್ ಮೆಷಿನ್, ಟೋಕನ್ ಪ್ರಿಂಟರ್ ಐವತ್ತು ಸಾವಿರ. ಮತ್ತೆ ಮುಖ್ಯವಾದದ್ದು: ವರ್ಕಿಂಗ್ ಕ್ಯಾಪಿಟಲ್. ಮೂರು ತಿಂಗಳ ಸಂಬಳ, ರೆಂಟ್, ಸಾಮಾನು. ಏಳು ಲಕ್ಷ."
+    tr: "Laisens, si-e fīs ondu lakṣa. Billiṅg meṣin, ṭōkan priṇṭar aivattu sāvira. Matte mukhyavādaddu: varkiṅg kyāpiṭal. Mūru tingaḷa sambaḷa, renṭ, sāmānu. Ēḷu lakṣa."
+    en: "Licences and the CA's fees, one lakh. Billing machine and token printer, fifty thousand. And the important one: working capital. Three months of salaries, rent and supplies. Seven lakh."
+  - who: mahesh
+    t: "ಮೊದಲ ದಿನದಿಂದಲೇ ವ್ಯಾಪಾರ ಆದ್ರೆ ಅಷ್ಟು ಬೇಕಾಗಲ್ಲ ಅಲ್ವಾ?"
+    tr: "Modala dinadindalē vyāpāra ādre aṣṭu bēkāgalla alvā?"
+    en: "If business picks up from day one, we won't need that much, will we?"
+  - who: kavya
+    t: "“ಆದ್ರೆ.” ಅದೇ ಸಮಸ್ಯೆ. ಮೊದಲ ಮೂರು ತಿಂಗಳು ನಷ್ಟ ಆದ್ರೂ ಸಂಬಳ ಕೊಡ್ಬೇಕು, ರೆಂಟ್ ಕಟ್ಬೇಕು. ಲಾಭ ಬಂದ್ರೆ ಸಂತೋಷ. ಬರದಿದ್ರೆ ಈ ದುಡ್ಡೇ ನಮ್ಮನ್ನ ಉಳಿಸೋದು."
+    tr: "“Ādre.” Adē samasye. Modala mūru tingaḷu naṣṭa ādrū sambaḷa koḍbēku, renṭ kaṭbēku. Lābha bandre santōṣa. Baradidre ī duḍḍē nammanna uḷisōdu."
+    en: "“If.” That's the problem. Even if we make a loss for the first three months, we still have to pay salaries and rent. If there's profit, wonderful. If there isn't, this money is what keeps us alive."
+  - who: mahesh
+    t: "ಸರಿ ಮೇಡಂ ಅಕೌಂಟೆಂಟ್. ಒಟ್ಟು ಎಷ್ಟು?"
+    tr: "Sari mēḍam akauṇṭeṇṭ. Oṭṭu eṣṭu?"
+    en: "Yes, Madam Accountant. What's the total?"
+  - who: kavya
+    t: "ಅಡ್ವಾನ್ಸ್ ಎಂಟು ಅಂದ್ಕೊಂಡ್ರೆ, ಮೂವತ್ತೆರಡು ಲಕ್ಷ. ಈಗ ನಮ್ಮ ಹತ್ರ ಇರೋದು ನೋಡು. ಎಫ್‌ಡಿ ಐದು ಲಕ್ಷ, ನಿನ್ನ ಪಿಎಫ್ ನಾಲ್ಕು ಲಕ್ಷ. ಒಟ್ಟು ಒಂಬತ್ತು."
+    tr: "Aḍvāns eṇṭu andkoṇḍre, mūvatteraḍu lakṣa. Īga namma hatra irōdu nōḍu. Ef-ḍi aidu lakṣa, ninna pi-ef nālku lakṣa. Oṭṭu ombattu."
+    en: "If we assume eight for the advance, thirty-two lakh. Now look at what we have. Five lakh in the FD, four lakh from your PF. Nine in total."
+  - who: mahesh
+    t: "ಒಂಬತ್ತು ಲಕ್ಷ. ಅಂದ್ರೆ ಇಪ್ಪತ್ಮೂರು ಲಕ್ಷ ಕಮ್ಮಿ ಬೀಳುತ್ತೆ."
+    tr: "Ombattu lakṣa. Andre ippatmūru lakṣa kammi bīḷutte."
+    en: "Nine lakh. So we're twenty-three lakh short."
+  - who: kavya
+    t: "ಅದಕ್ಕೇ ಮೂರು ದಾರಿ. ಬ್ಯಾಂಕ್‌ನಿಂದ ಮುದ್ರಾ ಲೋನ್, ನಿತಿನ್ ಹೇಳಿದ ಎಂಟು ಲಕ್ಷ, ಮತ್ತೆ… ಅಮ್ಮ ನಿನ್ನೆ ಏನು ಹೇಳಿದ್ರು ಗೊತ್ತಲ್ವಾ."
+    tr: "Adakkē mūru dāri. Byāṅk-ninda mudrā lōn, Nitin hēḷida eṇṭu lakṣa, matte… amma ninne ēnu hēḷidru gottalvā."
+    en: "Which is why there are three ways. A MUDRA loan from the bank, the eight lakh Nitin offered, and… you know what Amma said yesterday."
+  - who: mahesh
+    t: "ಅಮ್ಮನ ಚಿನ್ನ ಮುಟ್ಟೋದು ಬೇಡ, ಕಾವ್ಯ. ಅದು ಅಪ್ಪ ಮಾಡಿಸಿಕೊಟ್ಟಿದ್ದು."
+    tr: "Ammana chinna muṭṭōdu bēḍa, Kāvya. Adu appa māḍisikoṭṭiddu."
+    en: "Let's not touch Amma's gold, Kavya. Appa had it made for her."
+  - who: kavya
+    t: "ನಾನು ಮಾರು ಅಂತ ಹೇಳ್ತಿಲ್ಲ. ಗೋಲ್ಡ್ ಲೋನ್, ಅದೂ ಬೇಕಾದ್ರೆ ಮಾತ್ರ. ನೀನೇ ಅಮ್ಮನ ಹತ್ರ ಮಾತಾಡು."
+    tr: "Nānu māru anta hēḷtilla. Gōlḍ lōn, adū bēkādre mātra. Nīnē ammana hatra mātāḍu."
+    en: "I'm not saying sell it. A gold loan, and only if we need it. Talk to Amma yourself."
+
+  - section: "Amma's fears"
+    learn: "family pressure: kai suṭkō, bīdige baru, nālku jana ēnantāre · chinna aḍaviḍu (pawn gold) vs māru (sell) · promises: ondu varṣa ṭaim koḍi · past habitual -ttidru"
+  - scene: "Next morning, 6 a.m. Amma (Sharadamma) has lit the lamp in the small prayer corner. Mahesh sits on the floor beside her."
+  - who: amma
+    t: "ಮಹೇಶ, ಬಾ ಇಲ್ಲಿ. ದೇವರಿಗೆ ದೀಪ ಹಚ್ಚಿದೀನಿ. ಒಂದು ಮಾತು ಕೇಳ್ತೀನಿ, ಬೇಜಾರ್ ಮಾಡ್ಕೋಬೇಡ."
+    tr: "Mahēśa, bā illi. Dēvarige dīpa hacchidīni. Ondu mātu kēḷtīni, bējār māḍkōbēḍa."
+    en: "Mahesha, come here. I've lit the lamp for God. I'm going to ask you something; don't be upset."
+  - who: mahesh
+    t: "ಹೇಳಮ್ಮ."
+    tr: "Hēḷamma."
+    en: "Go on, Amma."
+  - who: amma
+    t: "ಒಳ್ಳೆ ಕೆಲಸ, ತಿಂಗಳು ತಿಂಗಳು ಸರಿಯಾಗಿ ಸಂಬಳ. ಅದನ್ನ ಬಿಟ್ಟು ಹೋಟೆಲ್ ಯಾಕೆ ಬೇಕಿತ್ತು? ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಯಾರೂ ಬಿಸಿನೆಸ್ ಮಾಡಿಲ್ಲ."
+    tr: "Oḷḷe kelasa, tingaḷu tingaḷu sariyāgi sambaḷa. Adanna biṭṭu hōṭel yāke bēkittu? Namma maneyalli yārū bisines māḍilla."
+    en: "A good job, a salary on time every month. Why did you need a hotel instead? Nobody in our family has ever run a business."
+  - who: mahesh
+    t: "ಅದಕ್ಕೇ ಅಮ್ಮ. ಹತ್ತು ವರ್ಷ ಬೇರೆಯವರ ಹೋಟೆಲ್‌ಗೆ ದುಡಿದೆ. ಅಡುಗೆಮನೆ, ಸ್ಟಾಫ್, ಲೆಕ್ಕ, ಗಿರಾಕಿ… ಎಲ್ಲಾ ನಾನೇ ನೋಡ್ತಿದ್ದೆ. ಲಾಭ ಮಾತ್ರ ಓನರ್‌ಗೆ ಹೋಗ್ತಿತ್ತು."
+    tr: "Adakkē amma. Hattu varṣa bēreyavara hōṭel-ge duḍide. Aḍugemane, sṭāf, lekka, girāki… ellā nānē nōḍtidde. Lābha mātra ōnar-ge hōgtittu."
+    en: "That's exactly why, Amma. For ten years I slaved for someone else's hotel. The kitchen, the staff, the accounts, the customers… I handled all of it. Only the profit went to the owner."
+  - who: amma
+    t: "ಲಾಭ ಓನರ್‌ಗೆ, ನಷ್ಟನೂ ಓನರ್‌ಗೆ. ಈಗ ನಷ್ಟ ಆದ್ರೆ ಯಾರಿಗೆ? ಪೇಪರ್‌ನಲ್ಲಿ ನೋಡ್ತಿರ್ತೀನಿ, ಎಷ್ಟು ಹೋಟೆಲ್ ಮುಚ್ಚಿಹೋಗ್ತಿವೆ."
+    tr: "Lābha ōnar-ge, naṣṭanū ōnar-ge. Īga naṣṭa ādre yārige? Pēpar-nalli nōḍtirtīni, eṣṭu hōṭel mucchihōgtive."
+    en: "Profit to the owner, and loss to the owner too. Now if there's a loss, whose is it? I keep reading in the paper how many hotels are shutting down."
+  - who: mahesh
+    t: "ಮುಚ್ಚಿಹೋಗ್ತಿರೋದು ದೊಡ್ಡ ದೊಡ್ಡ ರೆಸ್ಟೋರೆಂಟ್‌ಗಳು. ದರ್ಶಿನಿ ಬೇರೆ ಅಮ್ಮ. ಕುರ್ಚಿ ಇಲ್ಲ, ವೇಟರ್ ಇಲ್ಲ, ಮೆನು ಚಿಕ್ಕದು. ಜನ ಬರ್ತಾರೆ, ನಿಂತ್ಕೊಂಡು ತಿಂತಾರೆ, ಹೋಗ್ತಾರೆ."
+    tr: "Mucchihōgtirōdu doḍḍa doḍḍa resṭōreṇṭ-gaḷu. Darśini bēre amma. Kurchi illa, vēṭar illa, menu chikkadu. Jana bartāre, nintkoṇḍu tintāre, hōgtāre."
+    en: "The ones shutting down are the big restaurants. A darshini is different, Amma. No chairs, no waiters, a small menu. People come, eat standing, and leave."
+  - who: amma
+    t: "ನಿಂತ್ಕೊಂಡು ತಿನ್ನೋರು ಬರ್ಬೇಕಲ್ಲ. ನಿಮ್ಮಪ್ಪ ಇದ್ದಿದ್ರೆ ಏನು ಹೇಳ್ತಿದ್ರೋ. ಕೈ ಸುಟ್ಕೊಂಡು ಬೀದಿಗೆ ಬಂದ್ರೆ ನಾಲ್ಕು ಜನ ಏನಂತಾರೆ?"
+    tr: "Nintkoṇḍu tinnōru barbēkalla. Nimmappa iddidre ēnu hēḷtidrō. Kai suṭkoṇḍu bīdige bandre nālku jana ēnantāre?"
+    en: "Those standing eaters still have to come. I wonder what your father would have said if he were alive. If you burn your fingers and end up on the street, what will people say?"
+  - who: mahesh
+    t: "ಅಪ್ಪ ಉಡುಪಿಯಲ್ಲಿ ಹೋಟೆಲ್‌ನಲ್ಲೇ ಕೆಲಸ ಮಾಡ್ತಿದ್ರು ಅಮ್ಮ. “ಒಂದಿನ ನಮ್ಮದೇ ಒಂದು ಸಣ್ಣ ಹೋಟೆಲ್” ಅಂತ ಅವರೇ ಹೇಳ್ತಿದ್ರು. ನೆನಪಿಲ್ವಾ?"
+    tr: "Appa uḍupiyalli hōṭel-nallē kelasa māḍtidru amma. “Ondina nammadē ondu saṇṇa hōṭel” anta avarē hēḷtidru. Nenapilvā?"
+    en: "Appa worked in a hotel in Udupi himself, Amma. He was the one who used to say, “One day, a small hotel of our own.” Don't you remember?"
+  - who: amma
+    t: "ನೆನಪಿದೆ. ಅದಕ್ಕೇ ಭಯ. ಅವರ ಕನಸು ನಿನ್ನ ತಲೆ ಮೇಲೆ ಭಾರ ಆಗ್ಬಾರ್ದು."
+    tr: "Nenapide. Adakkē bhaya. Avara kanasu ninna tale mēle bhāra āgbārdu."
+    en: "(After a silence) I remember. That's why I'm afraid. His dream shouldn't become a weight on your head."
+  - who: mahesh
+    t: "ಭಾರ ಅಲ್ಲಮ್ಮ. ಒಂದು ವರ್ಷ ಟೈಮ್ ಕೊಡು. ಆಗಿಲ್ಲಾಂದ್ರೆ ಬಿಟ್ಬಿಡ್ತೀನಿ, ಮತ್ತೆ ಕೆಲಸಕ್ಕೆ ಸೇರ್ತೀನಿ. ಬೆಂಗಳೂರಲ್ಲಿ ಹೋಟೆಲ್ ಸೂಪರ್‌ವೈಸರ್‌ಗೆ ಕೆಲಸಕ್ಕೆ ಕೊರತೆ ಇಲ್ಲ."
+    tr: "Bhāra allamma. Ondu varṣa ṭaim koḍu. Āgillāndre biṭbiḍtīni, matte kelasakke sērtīni. Beṅgaḷūralli hōṭel sūparvaisar-ge kelasakke korate illa."
+    en: "It's not a weight, Amma. Give me one year. If it doesn't work, I'll drop it and go back to a job. There's no shortage of work for a hotel supervisor in Bengaluru."
+  - who: amma
+    t: "ಸರಿ. ಹಾಗಾದ್ರೆ ಇದನ್ನ ತಗೋ. ನನ್ನ ಬಳೆ, ಸರ. ಸುಮಾರು ಎಂಬತ್ತು ಗ್ರಾಂ ಇರ್ಬೋದು."
+    tr: "Sari. Hāgādre idanna tagō. Nanna baḷe, sara. Sumāru embattu grām irbōdu."
+    en: "All right. Then take this. My bangles and my chain. Must be about eighty grams."
+  - who: mahesh
+    t: "ಅಮ್ಮ, ಇಲ್ಲ. ನಿನ್ನ ಚಿನ್ನ ಮಾರಿ ನಾನು ಹೋಟೆಲ್ ಮಾಡಲ್ಲ."
+    tr: "Amma, illa. Ninna chinna māri nānu hōṭel māḍalla."
+    en: "Amma, no. I'm not opening a hotel by selling your gold."
+  - who: amma
+    t: "ಮಾರು ಅಂದ್ನಾ? ಬ್ಯಾಂಕ್‌ನಲ್ಲಿ ಅಡವಿಡು. ಚಿನ್ನ ಲಾಕರ್‌ನಲ್ಲಿ ಮಲಗಿದ್ರೇನು, ಬ್ಯಾಂಕ್‌ನಲ್ಲಿ ಮಲಗಿದ್ರೇನು. ಬಡ್ಡಿ ಮಾತ್ರ ಸರಿಯಾಗಿ ಕಟ್ಟು. ಎರಡು ವರ್ಷದಲ್ಲಿ ಬಿಡಿಸ್ಕೊಂಡು ಬರ್ಬೇಕು."
+    tr: "Māru andnā? Byāṅk-nalli aḍaviḍu. Chinna lākar-nalli malagidrēnu, byāṅk-nalli malagidrēnu. Baḍḍi mātra sariyāgi kaṭṭu. Eraḍu varṣadalli biḍiskoṇḍu barbēku."
+    en: "Did I say sell? Pawn it at the bank. What difference does it make whether the gold sleeps in a locker or in a bank? Just pay the interest properly. And you must redeem it within two years."
+  - who: mahesh
+    t: "ಈಗಿನ ಚಿನ್ನದ ರೇಟ್‌ನಲ್ಲಿ ಐದು ಲಕ್ಷ ಸುಲಭವಾಗಿ ಸಿಗುತ್ತೆ ಅಂತ ಕಾವ್ಯ ಹೇಳ್ತಿದ್ಳು. ಆದ್ರೆ ಅದು ಕೊನೆಗೆ. ಬೇರೆ ದಾರಿ ಇಲ್ದಿದ್ರೆ ಮಾತ್ರ."
+    tr: "Īgina chinnada rēṭ-nalli aidu lakṣa sulabhavāgi sigutte anta Kāvya hēḷtidḷu. Ādre adu konege. Bēre dāri ildidre mātra."
+    en: "Kavya was saying that at today's gold price we'd easily get five lakh. But that comes last. Only if there's no other way."
+  - who: amma
+    t: "ಹಾಗೇ ಮಾಡು. ಮತ್ತೊಂದು. ಚಟ್ನಿ ನಾನೇ ಮಾಡ್ತೀನಿ. ಹೊರಗಿನವರ ಚಟ್ನಿ ಬಾಯಲ್ಲಿ ಇಡೋಕಾಗಲ್ಲ."
+    tr: "Hāgē māḍu. Mattondu. Chaṭni nānē māḍtīni. Horaginavara chaṭni bāyalli iḍōkāgalla."
+    en: "Do that. One more thing. I'll make the chutney myself. Other people's chutney isn't fit to put in your mouth."
+  - who: mahesh
+    t: "ಅಮ್ಮನ ಚಟ್ನಿ ಇದ್ರೆ ಅರ್ಧ ಬಿಸಿನೆಸ್ ಗೆದ್ದ ಹಾಗೆ."
+    tr: "Ammana chaṭni idre ardha bisines gedda hāge."
+    en: "With Amma's chutney, half the business is already won."
+
+  - section: "Nitin, the sleeping partner"
+    learn: "pālu, pāludāra, sleeping/working partner · percentages and ratios (eppattu-mūvattu) · concessive -drū: lābha bandrū…, naṣṭa ādrū… · writing it down: pēpar-nalli irbēku"
+  - scene: "Saturday evening. Nitin, Mahesh's cousin, comes straight from his IT office in Electronic City. Kavya puts the laptop between them."
+  - who: nitin
+    t: "ಅಣ್ಣ, ಕೇಳಿದೆ, ರಿಸೈನ್ ಮಾಡಿದ್ಯಂತೆ! ಧೈರ್ಯ ಬೇಕು. ನಾನು ಹೇಳಿದ ಮಾತು ಈಗಲೂ ಇದೆ. ಎಂಟು ಲಕ್ಷ ರೆಡಿ."
+    tr: "Aṇṇa, kēḷide, risain māḍidyante! Dhairya bēku. Nānu hēḷida mātu īgalū ide. Eṇṭu lakṣa reḍi."
+    en: "Anna, I heard you've resigned! That takes guts. My offer still stands. Eight lakh, ready."
+  - who: mahesh
+    t: "ನಿತಿನ್, ಅದು ಸಣ್ಣ ದುಡ್ಡು ಅಲ್ಲ. ನಿನ್ನ ಮದುವೆಗೆ ಅಂತ ಉಳಿಸಿದ್ದು ಅಲ್ವಾ?"
+    tr: "Nitin, adu saṇṇa duḍḍu alla. Ninna maduvege anta uḷisiddu alvā?"
+    en: "Nitin, that's not small money. Didn't you save it for your wedding?"
+  - who: nitin
+    t: "ಮದುವೆ ಇನ್ನೂ ಎರಡು ವರ್ಷ ಆಗಲ್ಲ. ಎಫ್‌ಡಿಯಲ್ಲಿ ಇಟ್ರೆ ಆರೂವರೆ, ಏಳು ಪರ್ಸೆಂಟ್ ಬರುತ್ತೆ. ನಿನ್ನ ಹೋಟೆಲ್‌ನಲ್ಲಿ ಇಟ್ರೆ ಜಾಸ್ತಿ ಬರಬಹುದು. ಬರದಿದ್ರೂ ನಮ್ಮವರ ಕೈಯಲ್ಲೇ ಇರುತ್ತೆ."
+    tr: "Maduve innū eraḍu varṣa āgalla. Ef-ḍiyalli iṭre ārūvare, ēḷu parsenṭ barutte. Ninna hōṭel-nalli iṭre jāsti barabahudu. Baradidrū nammavara kaiyallē irutte."
+    en: "The wedding's not for another two years. In an FD it earns six and a half, seven percent. In your hotel it might earn more. And even if it doesn't, it stays in the family's hands."
+  - who: kavya
+    t: "ನಿತಿನ್, ಒಂದು ವಿಷಯ ಮೊದಲೇ ಸ್ಪಷ್ಟ ಮಾಡೋಣ. ಸಂಬಂಧಿಕರ ಮಧ್ಯೆ ದುಡ್ಡಿನ ಜಗಳ ಆಗೋದು ಮಾತು ಬರೆದಿಡದೆ ಇದ್ದಾಗ. ಅದಕ್ಕೇ ಎಲ್ಲಾ ಪೇಪರ್‌ನಲ್ಲಿ ಇರ್ಬೇಕು."
+    tr: "Nitin, ondu viṣaya modalē spaṣṭa māḍōṇa. Sambandhikara madhye duḍḍina jagaḷa āgōdu mātu barediḍade iddāga. Adakkē ellā pēpar-nalli irbēku."
+    en: "Nitin, let's make one thing clear up front. Money fights between relatives happen when nothing was put in writing. So everything has to be on paper."
+  - who: nitin
+    t: "ಖಂಡಿತ ಅತ್ತಿಗೆ. ನಾನು ಸಾಫ್ಟ್‌ವೇರ್‌ನವನು, ಅಗ್ರಿಮೆಂಟ್ ಇಲ್ದೆ ಏನೂ ಮಾಡಲ್ಲ. ನಾನು ಹೋಟೆಲ್‌ಗೆ ಬಂದು ಕೆಲಸ ಮಾಡಲ್ಲ, ಅದು ಅಣ್ಣನ ಏರಿಯಾ. ನಾನು ಸ್ಲೀಪಿಂಗ್ ಪಾರ್ಟ್ನರ್ ಅಷ್ಟೇ."
+    tr: "Khaṇḍita attige. Nānu sāphṭvēr-navanu, agrimeṇṭ ilde ēnū māḍalla. Nānu hōṭel-ge bandu kelasa māḍalla, adu aṇṇana ēriyā. Nānu slīpiṅg pārṭnar aṣṭē."
+    en: "Absolutely, Attige. I'm a software guy, I do nothing without an agreement. I won't come and work in the hotel, that's Anna's area. I'm just a sleeping partner."
+  - who: mahesh
+    t: "ಹಾಗಾದ್ರೆ ಪಾಲು ಹೇಗೆ? ನಮ್ಮದು ಒಂಬತ್ತು, ಅಮ್ಮನ ಗೋಲ್ಡ್ ಲೋನ್ ಬೇಕಾದ್ರೆ ಇನ್ನೂ ಐದು. ನಿನ್ನದು ಎಂಟು."
+    tr: "Hāgādre pālu hēge? Nammadu ombattu, ammana gōlḍ lōn bēkādre innū aidu. Ninnadu eṇṭu."
+    en: "Then how do we split the shares? Ours is nine, plus five from Amma's gold loan if we need it. Yours is eight."
+  - who: nitin
+    t: "ದುಡ್ಡಿನ ಲೆಕ್ಕದಲ್ಲಿ ನೋಡಿದ್ರೆ ನನ್ನದು ಸುಮಾರು ಮೂವತ್ತಾರು ಪರ್ಸೆಂಟ್ ಆಗುತ್ತೆ. ಆದ್ರೆ ದಿನಾ ಬೆಳಗ್ಗೆ ನಾಲ್ಕು ಗಂಟೆಗೆ ಎದ್ದು ಹೋಗೋದು ನೀನು. ನಿನ್ನ ಕೆಲಸಕ್ಕೂ ಬೆಲೆ ಇರ್ಬೇಕು."
+    tr: "Duḍḍina lekkadalli nōḍidre nannadu sumāru mūvattāru parsenṭ āgutte. Ādre dinā beḷagge nālku gaṇṭege eddu hōgōdu nīnu. Ninna kelasakkū bele irbēku."
+    en: "By the money alone, mine comes to about thirty-six percent. But you're the one getting up at four every morning. Your work has to count for something too."
+  - who: kavya
+    t: "ಅದಕ್ಕೇ ನನ್ನ ಐಡಿಯಾ. ಮಹೇಶ್‌ಗೆ ವರ್ಕಿಂಗ್ ಪಾರ್ಟ್ನರ್ ಆಗಿ ತಿಂಗಳಿಗೆ ಒಂದು ಸಂಬಳ. ಅದನ್ನ ಕಳೆದು ಉಳಿಯೋ ಲಾಭದಲ್ಲಿ ಎಪ್ಪತ್ತು-ಮೂವತ್ತು. ಎಪ್ಪತ್ತು ನಮಗೆ, ಮೂವತ್ತು ನಿನಗೆ."
+    tr: "Adakkē nanna aiḍiyā. Mahēś-ge varkiṅg pārṭnar āgi tingaḷige ondu sambaḷa. Adanna kaḷedu uḷiyō lābhadalli eppattu-mūvattu. Eppattu namage, mūvattu ninage."
+    en: "Hence my idea. Mahesh draws a monthly salary as the working partner. Whatever profit is left after that gets split seventy-thirty. Seventy to us, thirty to you."
+  - who: nitin
+    t: "ಎಪ್ಪತ್ತು-ಮೂವತ್ತು ಓಕೆ. ಆದ್ರೆ ನಷ್ಟ ಆದ್ರೆ?"
+    tr: "Eppattu-mūvattu ōke. Ādre naṣṭa ādre?"
+    en: "Seventy-thirty is fine. But what if there's a loss?"
+  - who: kavya
+    t: "ನಷ್ಟನೂ ಅದೇ ಅನುಪಾತದಲ್ಲಿ. ಲಾಭ ಬಂದ್ರೆ ಹಂಚ್ಕೊಳ್ತೀವಿ, ನಷ್ಟ ಆದ್ರೂ ಹಂಚ್ಕೊಳ್ತೀವಿ. ಮತ್ತೆ ಮೊದಲ ಒಂದು ವರ್ಷ ಲಾಭ ಬಂದ್ರೂ ಯಾರೂ ಹೊರಗೆ ತೆಗೆಯಲ್ಲ. ಎಲ್ಲಾ ಬಿಸಿನೆಸ್‌ಗೇ."
+    tr: "Naṣṭanū adē anupātadalli. Lābha bandre hanchkoḷtīvi, naṣṭa ādrū hanchkoḷtīvi. Matte modala ondu varṣa lābha bandrū yārū horage tegeyalla. Ellā bisines-gē."
+    en: "The loss in the same ratio. If there's profit we share it; if there's a loss, we share that too. And for the first year, even if there is a profit, nobody takes any out. It all goes back into the business."
+  - who: nitin
+    t: "ಒಪ್ಪಿಗೆ. ಒಂದೇ ಕಂಡೀಷನ್. ಪ್ರತಿ ತಿಂಗಳು ಒಂದು ಸಣ್ಣ ರಿಪೋರ್ಟ್ ಕಳಿಸಿ. ಕಲೆಕ್ಷನ್, ಖರ್ಚು, ಬ್ಯಾಂಕ್ ಬ್ಯಾಲೆನ್ಸ್. ನಂಬಿಕೆ ಇಲ್ಲ ಅಂತ ಅಲ್ಲ, ಅಭ್ಯಾಸ ಅಷ್ಟೇ."
+    tr: "Oppige. Ondē kaṇḍīṣan. Prati tingaḷu ondu saṇṇa ripōrṭ kaḷisi. Kalekṣan, kharchu, byāṅk byālens. Nambike illa anta alla, abhyāsa aṣṭē."
+    en: "Agreed. Just one condition. Send me a short report every month. Takings, expenses, bank balance. Not because I don't trust you; it's just habit."
+  - who: mahesh
+    t: "ಅದು ಕಾವ್ಯ ಡಿಪಾರ್ಟ್‌ಮೆಂಟ್. ನಿನಗೆ ರಿಪೋರ್ಟ್ ಅಲ್ಲ, ಆಡಿಟ್ ಬರುತ್ತೆ."
+    tr: "Adu Kāvya ḍipārṭmeṇṭ. Ninage ripōrṭ alla, āḍiṭ barutte."
+    en: "That's Kavya's department. You won't get a report, you'll get an audit."
+  - who: nitin
+    t: "ಗೊತ್ತು ಗೊತ್ತು. ಇನ್ನೊಂದು ಪ್ರಶ್ನೆ, ಅಣ್ಣ. ನಾಳೆ ನನಗೆ ದುಡ್ಡು ವಾಪಸ್ ಬೇಕು ಅಂದ್ರೆ?"
+    tr: "Gottu gottu. Innondu praśne, aṇṇa. Nāḷe nanage duḍḍu vāpas bēku andre?"
+    en: "I know, I know. One more question, Anna. What if one day I need the money back?"
+  - who: kavya
+    t: "ಅದು ಡೀಡ್‌ನಲ್ಲಿ ಬರೀಬೇಕು. ಉದಾಹರಣೆಗೆ, ಮೂರು ವರ್ಷ ಯಾರೂ ಕ್ಯಾಪಿಟಲ್ ವಾಪಸ್ ಕೇಳೋ ಹಾಗಿಲ್ಲ, ಆಮೇಲೆ ಆರು ತಿಂಗಳ ನೋಟಿಸ್ ಕೊಟ್ಟು ಹೊರಗೆ ಬರಬಹುದು. ಇದೆಲ್ಲ ಭಟ್ರ ಹತ್ರ ಕೇಳೋಣ. ಸೋಮವಾರ ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್ ತಗೊಂಡಿದೀನಿ."
+    tr: "Adu ḍīḍ-nalli barībēku. Udāharaṇege, mūru varṣa yārū kyāpiṭal vāpas kēḷō hāgilla, āmēle āru tingaḷa nōṭis koṭṭu horage barabahudu. Idella Bhaṭra hatra kēḷōṇa. Sōmavāra apāyiṇṭmeṇṭ tagoṇḍidīni."
+    en: "That has to be written into the deed. For example: for three years nobody may ask for their capital back; after that, you can exit with six months' notice. Let's ask Mr. Bhat about all this. I've got an appointment for Monday."
+
+  - section: "The CA: which kind of business?"
+    learn: "proprietorship / partnership deed / LLP · liability: limited vs unlimited · obligation and permission: māḍbēku, māḍisbēku, māḍbahudu, māḍō hāgilla · kaḍḍāya (compulsory) · professional advice register"
+  - scene: "Monday, 10 a.m. Mr. Bhat's CA office in Basavanagudi: files to the ceiling, a calendar from a cooperative bank, a ceiling fan. Kavya works here; today she sits on the client side with Mahesh and Nitin."
+  - who: ca
+    t: "ಬನ್ನಿ ಮಹೇಶ್ ಅವರೇ, ಕೂತ್ಕೊಳ್ಳಿ. ಕಾವ್ಯ ಎಲ್ಲಾ ಹೇಳಿದ್ದಾರೆ. ಮೊದಲು ಒಂದು ಪ್ರಶ್ನೆ: ಬಿಸಿನೆಸ್ ಯಾರ ಹೆಸರಲ್ಲಿ ನಡೀಬೇಕು ಅಂತ ಯೋಚನೆ ಮಾಡಿದೀರಾ?"
+    tr: "Banni Mahēś avarē, kūtkoḷḷi. Kāvya ellā hēḷiddāre. Modalu ondu praśne: bisines yāra hesaralli naḍībēku anta yōchane māḍidīrā?"
+    en: "Come in, Mahesh, please sit. Kavya has told me everything. First, one question: have you thought about whose name the business should run under?"
+  - who: mahesh
+    t: "ಅದನ್ನೇ ಕೇಳೋಕೆ ಬಂದಿದೀನಿ ಸಾರ್. ಪ್ರೊಪ್ರೈಟರ್‌ಶಿಪ್, ಪಾರ್ಟ್ನರ್‌ಶಿಪ್, ಎಲ್‌ಎಲ್‌ಪಿ… ಯಾವುದು ಒಳ್ಳೇದು?"
+    tr: "Adannē kēḷōke bandidīni sār. Propraiṭarśip, pārṭnarśip, el-el-pi… yāvudu oḷḷēdu?"
+    en: "That's exactly what I came to ask, sir. Proprietorship, partnership, LLP… which is best?"
+  - who: ca
+    t: "ಮೂರಕ್ಕೂ ಅದರದ್ದೇ ಲಾಭ-ನಷ್ಟ ಇದೆ. ಪ್ರೊಪ್ರೈಟರ್‌ಶಿಪ್ ಅತಿ ಸುಲಭ. ಬೇರೆ ರಿಜಿಸ್ಟ್ರೇಷನ್ ಬೇಕಾಗಲ್ಲ, ನಿಮ್ಮ ಹೆಸರಲ್ಲೇ ಉದ್ಯಮ್, ಜಿಎಸ್‌ಟಿ, ಟ್ರೇಡ್ ಲೈಸೆನ್ಸ್. ಆದ್ರೆ ಆಗ ನಿತಿನ್ ಅವರು ಪಾರ್ಟ್ನರ್ ಆಗೋಕಾಗಲ್ಲ. ಅವರ ದುಡ್ಡನ್ನ ನಿಮಗೆ ಕೊಟ್ಟ ಸಾಲ ಅಂತ ತೋರಿಸ್ಬೇಕಾಗುತ್ತೆ."
+    tr: "Mūrakkū adaraddē lābha-naṣṭa ide. Propraiṭarśip ati sulabha. Bēre rijisṭrēṣan bēkāgalla, nimma hesarallē udyam, ji-es-ṭi, ṭrēḍ laisens. Ādre āga Nitin avaru pārṭnar āgōkāgalla. Avara duḍḍanna nimage koṭṭa sāla anta tōrisbēkāgutte."
+    en: "All three have their pros and cons. A proprietorship is the simplest. No separate registration: Udyam, GST and the trade licence all in your own name. But then Nitin can't be a partner. His money would have to be shown as a loan to you."
+  - who: kavya
+    t: "ಸಾಲ ಅಂದ್ರೆ ಲಾಭ ಇರಲಿ ಇಲ್ಲದಿರಲಿ, ಬಡ್ಡಿ ಕೊಡ್ಬೇಕು. ಅದು ಮೊದಲ ವರ್ಷ ನಮಗೆ ಕಷ್ಟ."
+    tr: "Sāla andre lābha irali illadirali, baḍḍi koḍbēku. Adu modala varṣa namage kaṣṭa."
+    en: "A loan means paying interest whether there's profit or not. That would be hard for us in the first year."
+  - who: ca
+    t: "ಸರಿಯಾಗಿ ಹೇಳಿದ್ರಿ. ಎರಡನೇದು ಪಾರ್ಟ್ನರ್‌ಶಿಪ್ ಫರ್ಮ್. ಸ್ಟ್ಯಾಂಪ್ ಪೇಪರ್ ಮೇಲೆ ಪಾರ್ಟ್ನರ್‌ಶಿಪ್ ಡೀಡ್ ಮಾಡಿಸ್ಬೇಕು. ಯಾರು ಎಷ್ಟು ಕ್ಯಾಪಿಟಲ್ ಹಾಕ್ತಾರೆ, ಲಾಭ-ನಷ್ಟ ಯಾವ ಅನುಪಾತದಲ್ಲಿ, ವರ್ಕಿಂಗ್ ಪಾರ್ಟ್ನರ್‌ಗೆ ಎಷ್ಟು ಸಂಬಳ, ಯಾರಾದ್ರೂ ಹೊರಗೆ ಹೋದ್ರೆ ಏನು… ಎಲ್ಲಾ ಅದರಲ್ಲಿ ಬರೀಬೇಕು."
+    tr: "Sariyāgi hēḷidri. Eraḍanēdu pārṭnarśip pharm. Sṭyāmp pēpar mēle pārṭnarśip ḍīḍ māḍisbēku. Yāru eṣṭu kyāpiṭal hāktāre, lābha-naṣṭa yāva anupātadalli, varkiṅg pārṭnar-ge eṣṭu sambaḷa, yārādrū horage hōdre ēnu… ellā adaralli barībēku."
+    en: "Exactly right. The second is a partnership firm. You have a partnership deed drawn up on stamp paper. Who puts in how much capital, in what ratio profit and loss are shared, how much the working partner is paid, what happens if someone leaves… all of that has to be written in it."
+  - who: nitin
+    t: "ಅದನ್ನ ರಿಜಿಸ್ಟರ್ ಮಾಡಿಸೋದು ಕಡ್ಡಾಯನಾ ಸಾರ್?"
+    tr: "Adanna rijisṭar māḍisōdu kaḍḍāyanā sār?"
+    en: "Is it compulsory to get it registered, sir?"
+  - who: ca
+    t: "ಕಡ್ಡಾಯ ಅಲ್ಲ. ಆದ್ರೆ ರಿಜಿಸ್ಟ್ರಾರ್ ಆಫ್ ಫರ್ಮ್ಸ್‌ನಲ್ಲಿ ರಿಜಿಸ್ಟರ್ ಮಾಡಿಸಿದ್ರೆ ಒಳ್ಳೇದು. ನಾಳೆ ಯಾರ ಜೊತೆನಾದ್ರೂ ತಕರಾರು ಬಂದು ಕೋರ್ಟ್‌ಗೆ ಹೋಗ್ಬೇಕಾದ್ರೆ, ರಿಜಿಸ್ಟರ್ ಆಗಿರೋ ಫರ್ಮ್‌ಗೆ ಸುಲಭ. ಖರ್ಚು ಅಷ್ಟೇನೂ ಇಲ್ಲ."
+    tr: "Kaḍḍāya alla. Ādre rijisṭrār āph pharms-nalli rijisṭar māḍisidre oḷḷēdu. Nāḷe yāra jotenādrū takarāru bandu kōrṭ-ge hōgbēkādre, rijisṭar āgirō pharm-ge sulabha. Kharchu aṣṭēnū illa."
+    en: "It's not compulsory. But it's better to register it with the Registrar of Firms. If tomorrow there's a dispute with anyone and you have to go to court, it's easier for a registered firm. It doesn't cost much."
+  - who: mahesh
+    t: "ಒಂದು ಭಯ ಸಾರ್. ಪಾರ್ಟ್ನರ್‌ಶಿಪ್‌ನಲ್ಲಿ ನಷ್ಟ ಆದ್ರೆ ನಿತಿನ್ ಮನೆಗೂ ತೊಂದರೆ ಆಗುತ್ತಾ?"
+    tr: "Ondu bhaya sār. Pārṭnarśip-nalli naṣṭa ādre Nitin manegū tondare āguttā?"
+    en: "One worry, sir. In a partnership, if there's a loss, does it cause trouble for Nitin's household too?"
+  - who: ca
+    t: "ಹೌದು, ಅದನ್ನ ನಾನು ಮುಚ್ಚಿಡಲ್ಲ. ಪಾರ್ಟ್ನರ್‌ಶಿಪ್‌ನಲ್ಲಿ ಲಯಬಿಲಿಟಿ ಅನ್‌ಲಿಮಿಟೆಡ್. ಫರ್ಮ್ ಸಾಲ ತೀರಿಸದಿದ್ರೆ ಪಾರ್ಟ್ನರ್‌ಗಳ ಸ್ವಂತ ಆಸ್ತಿಗೂ ಕೈ ಹಾಕಬಹುದು. ಅದಕ್ಕೇ ಮೂರನೇದು ಎಲ್‌ಎಲ್‌ಪಿ. ಲಿಮಿಟೆಡ್ ಲಯಬಿಲಿಟಿ, ನೀವು ಹಾಕಿದ ದುಡ್ಡಿನಷ್ಟೇ ರಿಸ್ಕ್."
+    tr: "Haudu, adanna nānu mucchiḍalla. Pārṭnarśip-nalli layabiliṭi an-limiṭeḍ. Pharm sāla tīrisadidre pārṭnar-gaḷa svanta āstigū kai hākabahudu. Adakkē mūranēdu el-el-pi. Limiṭeḍ layabiliṭi, nīvu hākida duḍḍinaṣṭē risk."
+    en: "Yes, I won't hide that. In a partnership, liability is unlimited. If the firm can't repay its debts, creditors can go after the partners' personal property too. That's why the third option is an LLP. Limited liability: you risk only what you've put in."
+  - who: nitin
+    t: "ಹಾಗಾದ್ರೆ ಎಲ್‌ಎಲ್‌ಪಿನೇ ಮಾಡೋಣ ಅಲ್ವಾ?"
+    tr: "Hāgādre el-el-pinē māḍōṇa alvā?"
+    en: "Then let's just do an LLP, right?"
+  - who: ca
+    t: "ಕೇಳೋಕೆ ಚೆನ್ನಾಗಿದೆ. ಆದ್ರೆ ಎಲ್‌ಎಲ್‌ಪಿಗೆ ಪ್ರತಿ ವರ್ಷ ಎಂಸಿಎ ಫೈಲಿಂಗ್ ಮಾಡ್ಬೇಕು, ಟರ್ನ್‌ಓವರ್ ಜಾಸ್ತಿ ಆದ್ರೆ ಆಡಿಟ್, ನನ್ನ ಫೀಸ್ ಬೇರೆ. ಡೆಡ್‌ಲೈನ್ ತಪ್ಪಿದ್ರೆ ದಿನಕ್ಕೆ ನೂರು ರೂಪಾಯಿ ದಂಡ. ಒಂದು ಸಣ್ಣ ದರ್ಶಿನಿಗೆ ಅದು ಸ್ವಲ್ಪ ಭಾರ. ಮತ್ತೆ ಬ್ಯಾಂಕ್‌ನವರು ಹೇಗಿದ್ರೂ ಸಾಮಾನ್ಯವಾಗಿ ನಿಮ್ಮ ಪರ್ಸನಲ್ ಗ್ಯಾರಂಟಿ ಕೇಳ್ತಾರೆ."
+    tr: "Kēḷōke chennāgide. Ādre el-el-pige prati varṣa em-si-e phailiṅg māḍbēku, ṭarn-ōvar jāsti ādre āḍiṭ, nanna phīs bēre. Ḍeḍlain tappidre dinakke nūru rūpāyi daṇḍa. Ondu saṇṇa darśinige adu svalpa bhāra. Matte byāṅk-navaru hēgidrū sāmānyavāgi nimma parsanal gyāraṇṭi kēḷtāre."
+    en: "Sounds good. But an LLP has to file with the MCA every year, needs an audit once turnover grows, and then there are my fees. Miss a deadline and it's a hundred rupees a day in penalties. For a small darshini that's a bit heavy. And the bank will usually ask for your personal guarantee anyway."
+  - who: kavya
+    t: "ಹಾಗಾದ್ರೆ ನಿಮ್ಮ ಸಲಹೆ ಏನು ಸಾರ್?"
+    tr: "Hāgādre nimma salahe ēnu sār?"
+    en: "So what do you advise, sir?"
+  - who: ca
+    t: "ನಿಮ್ಮ ಕೇಸ್‌ನಲ್ಲಿ ರಿಜಿಸ್ಟರ್ಡ್ ಪಾರ್ಟ್ನರ್‌ಶಿಪ್ ಸಾಕು ಅನ್ಸುತ್ತೆ. ಡೀಡ್‌ನಲ್ಲಿ ಬರೆಯೋಣ: ನಿತಿನ್ ಅವರು ದಿನದ ಕೆಲಸದಲ್ಲಿ ಇರಲ್ಲ, ಆದ್ರೆ ಅವರ ಒಪ್ಪಿಗೆ ಇಲ್ದೆ ಐದು ಲಕ್ಷಕ್ಕಿಂತ ಜಾಸ್ತಿ ಸಾಲ ಮಾಡೋ ಹಾಗಿಲ್ಲ. ಅದು ಅವರಿಗೆ ಭದ್ರತೆ. ಎರಡು ಮೂರು ವರ್ಷ ಆದ್ಮೇಲೆ ಬಿಸಿನೆಸ್ ಬೆಳೆದ್ರೆ ಎಲ್‌ಎಲ್‌ಪಿಗೆ ಬದಲಾಯಿಸಬಹುದು."
+    tr: "Nimma kēs-nalli rijisṭarḍ pārṭnarśip sāku ansutte. Ḍīḍ-nalli bareyōṇa: Nitin avaru dinada kelasadalli iralla, ādre avara oppige ilde aidu lakṣakkinta jāsti sāla māḍō hāgilla. Adu avarige bhadrate. Eraḍu mūru varṣa ādmēle bisines beḷedre el-el-pige badalāyisabahudu."
+    en: "In your case I think a registered partnership is enough. We'll write into the deed that Nitin isn't involved in the day-to-day work, but no borrowing above five lakh may be done without his consent. That protects him. If the business grows in two or three years, you can convert to an LLP."
+  - who: mahesh
+    t: "ವರ್ಕಿಂಗ್ ಪಾರ್ಟ್ನರ್ ಸಂಬಳದ ಬಗ್ಗೆ ಕಾವ್ಯ ಹೇಳಿದ್ಲು. ಅದು ಸರೀನಾ ಸಾರ್?"
+    tr: "Varkiṅg pārṭnar sambaḷada bagge Kāvya hēḷidlu. Adu sarīnā sār?"
+    en: "Kavya mentioned a salary for the working partner. Is that all right, sir?"
+  - who: ca
+    t: "ಸರಿ, ಮತ್ತೆ ಟ್ಯಾಕ್ಸ್ ದೃಷ್ಟಿಯಿಂದಲೂ ಒಳ್ಳೇದು. ಡೀಡ್‌ನಲ್ಲಿ ಬರೆದಿದ್ರೆ ಮಾತ್ರ ಫರ್ಮ್ ಅದನ್ನ ಖರ್ಚು ಅಂತ ತೋರಿಸಬಹುದು, ಇನ್‌ಕಮ್ ಟ್ಯಾಕ್ಸ್ ಲಿಮಿಟ್ ಒಳಗೆ. ಎಷ್ಟು ಇಡಬೇಕು ಅನ್ನೋದನ್ನ ಲೆಕ್ಕ ಹಾಕಿ ಹೇಳ್ತೀನಿ. ಮೊದಲ ವರ್ಷ ಸಣ್ಣದಾಗಿ ಇಟ್ಕೊಳ್ಳಿ."
+    tr: "Sari, matte ṭyāks dṛṣṭiyindalū oḷḷēdu. Ḍīḍ-nalli baredidre mātra pharm adanna kharchu anta tōrisabahudu, in-kam ṭyāks limiṭ oḷage. Eṣṭu iḍabēku annōdanna lekka hāki hēḷtīni. Modala varṣa saṇṇadāgi iṭkoḷḷi."
+    en: "It's fine, and it's good from a tax point of view too. Only if it's written in the deed can the firm show it as an expense, within the income-tax limit. I'll work out how much to set and tell you. Keep it small in the first year."
+  - who: ca
+    t: "ಇನ್ನೊಂದು. ಮುದ್ರಾ ಲೋನ್‌ಗೆ ಬ್ಯಾಂಕ್ ಪ್ರಾಜೆಕ್ಟ್ ರಿಪೋರ್ಟ್ ಕೇಳುತ್ತೆ: ಸಾಮಾನಿನ ಕೊಟೇಷನ್, ಮೂರು ವರ್ಷದ ಸೇಲ್ಸ್ ಅಂದಾಜು, ಖರ್ಚು, ಇಎಂಐ ಹೇಗೆ ಕಟ್ತೀರಿ ಅಂತ. ಅದನ್ನ ನಮ್ಮ ಆಫೀಸ್‌ನಿಂದ ಮಾಡಿಸ್ಕೊಡ್ತೀನಿ. ಉದ್ಯಮ್ ರಿಜಿಸ್ಟ್ರೇಷನ್ ಈಗಲೇ ಮಾಡಿ. ಅದು ಫ್ರೀ, ಆನ್‌ಲೈನ್, ಆಧಾರ್ ಇದ್ರೆ ಸಾಕು."
+    tr: "Innondu. Mudrā lōn-ge byāṅk prājekṭ ripōrṭ kēḷutte: sāmānina koṭēṣan, mūru varṣada sēls andāju, kharchu, i-em-ai hēge kaṭtīri anta. Adanna namma āphīs-ninda māḍiskoḍtīni. Udyam rijisṭrēṣan īgalē māḍi. Adu phrī, ān-lain, ādhār idre sāku."
+    en: "One more thing. For a MUDRA loan the bank will ask for a project report: equipment quotations, three years of projected sales, expenses, how you'll pay the EMI. I'll have our office prepare it for you. Do the Udyam registration right away. It's free, online, and all you need is Aadhaar."
+  - who: kavya
+    t: "ಡೀಡ್ ಯಾವಾಗ ರೆಡಿ ಆಗುತ್ತೆ ಸಾರ್?"
+    tr: "Ḍīḍ yāvāga reḍi āgutte sār?"
+    en: "When will the deed be ready, sir?"
+  - who: ca
+    t: "ಡ್ರಾಫ್ಟ್ ಈ ವಾರ. ನೀವು ಮೂವರೂ ಪೂರ್ತಿ ಓದಿ, ಬದಲಾವಣೆ ಇದ್ರೆ ಹೇಳಿ. ಓದದೆ ಸೈನ್ ಮಾಡ್ಬೇಡಿ. ಅದು ನನ್ನ ಮೊದಲ ಸಲಹೆ, ಕೊನೆ ಸಲಹೆನೂ ಅದೇ."
+    tr: "Ḍrāphṭ ī vāra. Nīvu mūvarū pūrti ōdi, badalāvaṇe idre hēḷi. Ōdade sain māḍbēḍi. Adu nanna modala salahe, kone salahenū adē."
+    en: "The draft this week. All three of you read it fully and tell me if anything needs changing. Don't sign without reading. That's my first piece of advice, and my last."
+
+  - section: "The bank: a MUDRA loan"
+    learn: "loan words: sāla, baḍḍi, i-em-ai, kolyāṭaral-phrī, hypothecation · MUDRA Shishu / Kishore / Tarun / Tarun Plus · a document list · hedged facts: sāmānyavāgi, ḍipeṇḍ āgutte, prāmis māḍalla"
+  - scene: "Thursday, 6 November 2025. A public-sector bank branch on 11th Main, Jayanagar. Ms. Rashmi handles MSME loans from a small cabin with a glass door. The partnership deed was signed the day before."
+  - who: bank
+    t: "ನಮಸ್ಕಾರ, ಕೂತ್ಕೊಳ್ಳಿ. ಮುದ್ರಾ ಲೋನ್ ಬಗ್ಗೆ ಮಾತಾಡ್ಬೇಕು ಅಂದ್ರಿ ಅಲ್ವಾ? ಎಷ್ಟು ಬೇಕು, ಯಾವುದಕ್ಕೆ?"
+    tr: "Namaskāra, kūtkoḷḷi. Mudrā lōn bagge mātāḍbēku andri alvā? Eṣṭu bēku, yāvudakke?"
+    en: "Hello, please sit. You said you wanted to talk about a MUDRA loan? How much do you need, and for what?"
+  - who: mahesh
+    t: "ಜಯನಗರದಲ್ಲಿ ಒಂದು ವೆಜ್ ದರ್ಶಿನಿ ಶುರು ಮಾಡ್ತಿದೀವಿ ಮೇಡಂ. ಕಿಚನ್ ಸಾಮಾನು, ಇಂಟೀರಿಯರ್‌ಗೆ ಹತ್ತು ಲಕ್ಷ ಬೇಕಾಗಿತ್ತು."
+    tr: "Jayanagaradalli ondu vej darśini śuru māḍtidīvi mēḍam. Kichan sāmānu, iṇṭīriyar-ge hattu lakṣa bēkāgittu."
+    en: "We're starting a vegetarian darshini in Jayanagar, madam. We were hoping for ten lakh for kitchen equipment and interiors."
+  - who: bank
+    t: "ಸರಿ. ಮುದ್ರಾದಲ್ಲಿ ಈಗ ನಾಲ್ಕು ಕೆಟಗರಿ ಇವೆ. ಶಿಶು ಐವತ್ತು ಸಾವಿರದವರೆಗೆ, ಕಿಶೋರ್ ಐದು ಲಕ್ಷದವರೆಗೆ, ತರುಣ್ ಹತ್ತು ಲಕ್ಷದವರೆಗೆ. ತರುಣ್ ಪ್ಲಸ್ ಅಂತ ಇಪ್ಪತ್ತು ಲಕ್ಷದವರೆಗೆ ಇದೆ, ಆದ್ರೆ ಅದು ಹಿಂದೆ ತರುಣ್ ಲೋನ್ ತಗೊಂಡು ಸರಿಯಾಗಿ ತೀರಿಸಿದವರಿಗೆ ಮಾತ್ರ. ನಿಮಗೆ ಇದು ಮೊದಲ ಸಲ, ಅಂದ್ರೆ ಮ್ಯಾಕ್ಸಿಮಮ್ ಹತ್ತು ಲಕ್ಷ."
+    tr: "Sari. Mudrādalli īga nālku keṭagari ive. Śiśu aivattu sāviradavarege, Kiśōr aidu lakṣadavarege, Taruṇ hattu lakṣadavarege. Taruṇ Plas anta ippattu lakṣadavarege ide, ādre adu hinde Taruṇ lōn tagoṇḍu sariyāgi tīrisidavarige mātra. Nimage idu modala sala, andre myāksimam hattu lakṣa."
+    en: "All right. MUDRA now has four categories. Shishu up to fifty thousand, Kishore up to five lakh, Tarun up to ten lakh. There's Tarun Plus up to twenty lakh, but only for people who took a Tarun loan before and repaid it properly. For you it's the first time, so the maximum is ten lakh."
+  - who: mahesh
+    t: "ಹತ್ತು ಲಕ್ಷ ಸಾಕು ಮೇಡಂ. ಸೆಕ್ಯೂರಿಟಿ ಏನಾದ್ರೂ ಕೊಡ್ಬೇಕಾ? ಮನೆ ನಮ್ಮದಲ್ಲ, ಬಾಡಿಗೆ ಮನೆ."
+    tr: "Hattu lakṣa sāku mēḍam. Sekyūriṭi ēnādrū koḍbēkā? Mane nammadalla, bāḍige mane."
+    en: "Ten lakh is enough, madam. Do we have to give any security? The house isn't ours, it's rented."
+  - who: bank
+    t: "ಮುದ್ರಾ ಲೋನ್ ಕೊಲ್ಯಾಟರಲ್-ಫ್ರೀ. ಮನೆ, ಜಮೀನು ಅಡವಿಡೋದು ಬೇಕಾಗಲ್ಲ, ಸರ್ಕಾರದ ಗ್ಯಾರಂಟಿ ಸ್ಕೀಮ್ ಇದೆ. ಆದ್ರೆ ಲೋನ್ ದುಡ್ಡಲ್ಲಿ ತಗೊಂಡ ಮೆಷಿನ್, ಸಾಮಾನು ಬ್ಯಾಂಕ್‌ಗೆ ಹೈಪೋಥಿಕೇಟ್ ಆಗಿರುತ್ತೆ. ಲೋನ್ ಮುಗಿಯೋವರೆಗೆ ಅವನ್ನ ಮಾರೋ ಹಾಗಿಲ್ಲ."
+    tr: "Mudrā lōn kolyāṭaral-phrī. Mane, jamīnu aḍaviḍōdu bēkāgalla, sarkārada gyāraṇṭi skīm ide. Ādre lōn duḍḍalli tagoṇḍa meṣin, sāmānu byāṅk-ge haipōthikēṭ āgirutte. Lōn mugiyōvarege avanna mārō hāgilla."
+    en: "MUDRA loans are collateral-free. No need to mortgage a house or land; there's a government guarantee scheme. But the machines and equipment bought with the loan are hypothecated to the bank. You can't sell them until the loan is repaid."
+  - who: kavya
+    t: "ಬಡ್ಡಿ ಎಷ್ಟಾಗುತ್ತೆ ಮೇಡಂ?"
+    tr: "Baḍḍi eṣṭāgutte mēḍam?"
+    en: "What would the interest be, madam?"
+  - who: bank
+    t: "ಮುದ್ರಾಗೆ ಒಂದೇ ಫಿಕ್ಸ್‌ಡ್ ರೇಟ್ ಅಂತ ಇಲ್ಲ, ಪ್ರತಿ ಬ್ಯಾಂಕ್‌ದು ಬೇರೆ ಬೇರೆ. ನಮ್ಮಲ್ಲಿ ಈಗ ಸುಮಾರು ಒಂಬತ್ತೂವರೆಯಿಂದ ಹನ್ನೊಂದು ಪರ್ಸೆಂಟ್ ನಡೀತಿದೆ, ನಿಮ್ಮ ಸಿಬಿಲ್ ಸ್ಕೋರ್ ಮೇಲೆ ಡಿಪೆಂಡ್ ಆಗುತ್ತೆ. ರೆಪೋ ರೇಟ್ ಬದಲಾದ್ರೆ ಇದೂ ಬದಲಾಗಬಹುದು. ಫೈನಲ್ ರೇಟ್ ಸ್ಯಾಂಕ್ಷನ್ ಲೆಟರ್‌ನಲ್ಲಿ ಇರುತ್ತೆ."
+    tr: "Mudrāge ondē phiksḍ rēṭ anta illa, prati byāṅk-du bēre bēre. Nammalli īga sumāru ombattūvareyinda hannondu parsenṭ naḍītide, nimma sibil skōr mēle ḍipeṇḍ āgutte. Repō rēṭ badalādre idū badalāgabahudu. Phainal rēṭ syāṅkṣan leṭar-nalli irutte."
+    en: "There's no single fixed rate for MUDRA; every bank is different. With us it's currently around nine and a half to eleven percent, depending on your CIBIL score. If the repo rate changes, this can change too. The final rate will be in the sanction letter."
+  - who: mahesh
+    t: "ಸಿಬಿಲ್ ಏಳುನೂರ ಅರವತ್ತು ಇದೆ ಮೇಡಂ. ಬೈಕ್ ಲೋನ್ ಟೈಮ್‌ಗೆ ಸರಿಯಾಗಿ ಕಟ್ಟಿ ಮುಗಿಸಿದೀನಿ."
+    tr: "Sibil ēḷunūra aravattu ide mēḍam. Baik lōn ṭaim-ge sariyāgi kaṭṭi mugisidīni."
+    en: "My CIBIL is seven hundred and sixty, madam. I paid off my bike loan on time."
+  - who: bank
+    t: "ಒಳ್ಳೇದು, ಅದು ತುಂಬಾ ಸಹಾಯ ಆಗುತ್ತೆ. ಈಗ ಡಾಕ್ಯುಮೆಂಟ್ಸ್ ಬರ್ಕೊಳ್ಳಿ. ಆಧಾರ್, ಪ್ಯಾನ್, ಉದ್ಯಮ್ ಸರ್ಟಿಫಿಕೇಟ್, ಪಾರ್ಟ್ನರ್‌ಶಿಪ್ ಡೀಡ್, ಫರ್ಮ್‌ನ ಪ್ಯಾನ್ ಮತ್ತೆ ಕರೆಂಟ್ ಅಕೌಂಟ್, ಪ್ರಾಜೆಕ್ಟ್ ರಿಪೋರ್ಟ್, ಸಾಮಾನಿನ ಕೊಟೇಷನ್ಸ್, ಆರು ತಿಂಗಳ ಬ್ಯಾಂಕ್ ಸ್ಟೇಟ್‌ಮೆಂಟ್, ಎರಡು ವರ್ಷದ ಐಟಿಆರ್. ಮುಖ್ಯವಾಗಿ, ಅಂಗಡಿಯ ರೆಂಟ್ ಅಗ್ರಿಮೆಂಟ್."
+    tr: "Oḷḷēdu, adu tumbā sahāya āgutte. Īga ḍākyumeṇṭs barkoḷḷi. Ādhār, pyān, udyam sarṭiphikēṭ, pārṭnarśip ḍīḍ, pharm-na pyān matte karaṇṭ akauṇṭ, prājekṭ ripōrṭ, sāmānina koṭēṣans, āru tingaḷa byāṅk sṭēṭmeṇṭ, eraḍu varṣada ai-ṭi-ār. Mukhyavāgi, aṅgaḍiya renṭ agrimeṇṭ."
+    en: "Good, that helps a lot. Now note down the documents. Aadhaar, PAN, Udyam certificate, partnership deed, the firm's PAN and current account, project report, equipment quotations, six months of bank statements, two years of ITRs. And most importantly, the rent agreement for the shop."
+  - who: mahesh
+    t: "ಅಂಗಡಿ ಇನ್ನೂ ಸಿಕ್ಕಿಲ್ಲ ಮೇಡಂ. ಹುಡುಕ್ತಿದೀವಿ."
+    tr: "Aṅgaḍi innū sikkilla mēḍam. Huḍuktidīvi."
+    en: "We haven't found the shop yet, madam. We're looking."
+  - who: bank
+    t: "ಹಾಗಾದ್ರೆ ಮೊದಲು ಜಾಗ ಫೈನಲ್ ಮಾಡಿ. ಅಡ್ರೆಸ್ ಇಲ್ದೆ ಲೋನ್ ಫೈಲ್ ಮುಂದೆ ಹೋಗಲ್ಲ. ಇನ್ನೊಂದು ವಿಷಯ: ಪ್ರಾಜೆಕ್ಟ್‌ನ ಪೂರ್ತಿ ಖರ್ಚು ಬ್ಯಾಂಕ್ ಕೊಡಲ್ಲ. ನಿಮ್ಮ ಕಡೆಯಿಂದಾನೂ ಒಂದು ಭಾಗ ಇರ್ಬೇಕು, ಮಾರ್ಜಿನ್ ಅಂತ ನಮ್ಮ ಕ್ರೆಡಿಟ್ ಟೀಮ್ ಕೇಳುತ್ತೆ. ನಿಮ್ಮ ಕೇಸ್‌ನಲ್ಲಿ ಅದು ಇದೆ ಅನ್ಸುತ್ತೆ."
+    tr: "Hāgādre modalu jāga phainal māḍi. Aḍres ilde lōn phail munde hōgalla. Innondu viṣaya: prājekṭ-na pūrti kharchu byāṅk koḍalla. Nimma kaḍeyindānū ondu bhāga irbēku, mārjin anta namma kreḍiṭ ṭīm kēḷutte. Nimma kēs-nalli adu ide ansutte."
+    en: "Then fix the place first. Without an address the loan file won't move. One more thing: the bank won't fund the entire project cost. Our credit team expects a share from your side too, what we call margin. In your case it looks like you have it."
+  - who: kavya
+    t: "ಹತ್ತು ಲಕ್ಷಕ್ಕೆ ಇಎಂಐ ಎಷ್ಟು ಬರುತ್ತೆ? ಎಷ್ಟು ವರ್ಷ?"
+    tr: "Hattu lakṣakke i-em-ai eṣṭu barutte? Eṣṭu varṣa?"
+    en: "What would the EMI be on ten lakh? Over how many years?"
+  - who: bank
+    t: "ಸಾಮಾನ್ಯವಾಗಿ ಐದು ವರ್ಷ. ಹತ್ತು ಪರ್ಸೆಂಟ್ ಅಂದ್ಕೊಂಡ್ರೆ ತಿಂಗಳಿಗೆ ಸುಮಾರು ಇಪ್ಪತ್ತೊಂದು ಸಾವಿರದ ಇನ್ನೂರೈವತ್ತು. ಶುರುವಿನಲ್ಲಿ ಕೆಲವು ತಿಂಗಳು ಮೊರಟೋರಿಯಂ ಕೇಳಬಹುದು, ಆದ್ರೆ ಅದು ಕ್ರೆಡಿಟ್ ಟೀಮ್ ತೀರ್ಮಾನ. ನಾನು ಈಗಲೇ ಪ್ರಾಮಿಸ್ ಮಾಡಲ್ಲ."
+    tr: "Sāmānyavāgi aidu varṣa. Hattu parsenṭ andkoṇḍre tingaḷige sumāru ippattondu sāvirada innūraivattu. Śuruvinalli kelavu tingaḷu moraṭōriyam kēḷabahudu, ādre adu kreḍiṭ ṭīm tīrmāna. Nānu īgalē prāmis māḍalla."
+    en: "Usually five years. At ten percent, about twenty-one thousand two hundred and fifty a month. You can ask for a moratorium for a few months at the start, but that's the credit team's decision. I won't promise it now."
+  - who: mahesh
+    t: "ದುಡ್ಡು ನಮ್ಮ ಅಕೌಂಟ್‌ಗೆ ಬರುತ್ತಾ ಮೇಡಂ?"
+    tr: "Duḍḍu namma akauṇṭ-ge baruttā mēḍam?"
+    en: "Does the money come into our account, madam?"
+  - who: bank
+    t: "ಸಾಮಾನಿನ ದುಡ್ಡು ಕೊಟೇಷನ್ ಪ್ರಕಾರ ನೇರವಾಗಿ ಸಪ್ಲೈಯರ್‌ಗೆ ಹೋಗುತ್ತೆ. ಬಿಲ್ ನಮಗೆ ಕೊಡ್ಬೇಕು. ಆಮೇಲೆ ನಮ್ಮವರು ಅಂಗಡಿಗೆ ಬಂದು ನೋಡ್ತಾರೆ, ಸಾಮಾನು ನಿಜವಾಗ್ಲೂ ಇದೆಯಾ ಅಂತ."
+    tr: "Sāmānina duḍḍu koṭēṣan prakāra nēravāgi saplaiyar-ge hōgutte. Bil namage koḍbēku. Āmēle nammavaru aṅgaḍige bandu nōḍtāre, sāmānu nijavāglū ideyā anta."
+    en: "The money for equipment goes straight to the supplier, as per the quotation. You have to give us the bills. Later our people come to the shop to check that the equipment is really there."
+  - who: mahesh
+    t: "ಸರಿ ಮೇಡಂ. ಏಜೆಂಟ್ ಮೂಲಕ ಹೋದ್ರೆ ಬೇಗ ಆಗುತ್ತೆ ಅಂತ ಒಬ್ಬರು ಹೇಳ್ತಿದ್ರು…"
+    tr: "Sari mēḍam. Ējeṇṭ mūlaka hōdre bēga āgutte anta obbaru hēḷtidru…"
+    en: "All right, madam. Someone was telling me it goes faster through an agent…"
+  - who: bank
+    t: "ಯಾರಿಗೂ ಒಂದು ರೂಪಾಯಿ ಕೊಡ್ಬೇಡಿ. ಮುದ್ರಾಗೆ ಏಜೆಂಟ್ ಬೇಕಾಗಿಲ್ಲ, ಎಲ್ಲಾ ಬ್ರಾಂಚ್‌ನಲ್ಲೇ ಆಗುತ್ತೆ. ಡಾಕ್ಯುಮೆಂಟ್ ಪೂರ್ತಿ ಇದ್ರೆ ಮೂರು ನಾಲ್ಕು ವಾರ. ಅರ್ಧ ಫೈಲ್ ತಂದ್ರೆ ಮೂರು ತಿಂಗಳು."
+    tr: "Yārigū ondu rūpāyi koḍbēḍi. Mudrāge ējeṇṭ bēkāgilla, ellā brāñch-nallē āgutte. Ḍākyumeṇṭ pūrti idre mūru nālku vāra. Ardha phail tandre mūru tingaḷu."
+    en: "Don't give anyone a single rupee. MUDRA doesn't need an agent; everything happens here in the branch. With complete documents, three or four weeks. Bring half a file and it's three months."
+  - who: kavya
+    t: "ಅಂದ್ರೆ ಎಲ್ಲಾ ಜಾಗದ ಮೇಲೆ ನಿಂತಿದೆ. ನಾಳೆನೇ ಬ್ರೋಕರ್‌ಗೆ ಫೋನ್ ಮಾಡು."
+    tr: "Andre ellā jāgada mēle nintide. Nāḷenē brōkar-ge phōn māḍu."
+    en: "(Outside, on the steps) So everything depends on the place. Call the broker tomorrow itself."
+  - who: mahesh
+    t: "ಪ್ರಕಾಶ್ ಅಂತ ಒಬ್ಬರು ಇದಾರೆ. ಜಯನಗರದಲ್ಲಿ ಇಪ್ಪತ್ತು ವರ್ಷದಿಂದ ಕಮರ್ಷಿಯಲ್ ಜಾಗ ಮಾತ್ರ ಮಾಡ್ತಾರೆ. ಶನಿವಾರ ಮೂರು ಜಾಗ ತೋರಿಸ್ತೀನಿ ಅಂದಿದಾರೆ."
+    tr: "Prakāś anta obbaru idāre. Jayanagaradalli ippattu varṣadinda kamarṣiyal jāga mātra māḍtāre. Śanivāra mūru jāga tōristīni andidāre."
+    en: "There's a man called Prakash. For twenty years he's dealt only in commercial property in Jayanagar. He's said he'll show me three places on Saturday."
+
+  - chapter: "Chapter 2 — Finding the space"
+  - section: "Three spaces with the broker"
+    learn: "location words: mēn rōḍ, krās, kārnar, bas sṭyāṇḍ, phuṭpāt · rent per square foot · comparisons with -ginta · checking water, drainage, power and the chimney route"
+  - scene: "Saturday, 8 November 2025. Rajyotsava month: red-and-yellow flags still hang across the streets of Jayanagar. Prakash, the commercial broker, waits on his scooter near the 4th Block bus stand."
+  - who: broker
+    t: "ನಮಸ್ಕಾರ ಮಹೇಶ್ ಅವರೇ. ರಾಜ್ಯೋತ್ಸವ ತಿಂಗಳಲ್ಲಿ ಹೊಸ ಬಿಸಿನೆಸ್‌ಗೆ ಜಾಗ ನೋಡ್ತಿದೀರಿ, ಒಳ್ಳೆ ಶಕುನ. ಇವತ್ತು ಮೂರು ತೋರಿಸ್ತೀನಿ. ಮೊದಲು ನನ್ನ ರೂಲ್ ಹೇಳ್ಬಿಡ್ತೀನಿ: ಡೀಲ್ ಆದ್ರೆ ಒಂದು ತಿಂಗಳ ಬಾಡಿಗೆ ನನ್ನ ಕಮಿಷನ್. ಆಗದಿದ್ರೆ ಒಂದು ರೂಪಾಯಿನೂ ಇಲ್ಲ."
+    tr: "Namaskāra Mahēś avarē. Rājyōtsava tingaḷalli hosa bisines-ge jāga nōḍtidīri, oḷḷe śakuna. Ivattu mūru tōristīni. Modalu nanna rūl hēḷbiḍtīni: ḍīl ādre ondu tingaḷa bāḍige nanna kamiṣan. Āgadidre ondu rūpāyinū illa."
+    en: "Hello, Mahesh. Looking for a place for a new business in Rajyotsava month, that's a good omen. I'll show you three today. Let me tell you my rule first: if the deal happens, one month's rent is my commission. If it doesn't, not a single rupee."
+  - who: mahesh
+    t: "ಸರಿ ಪ್ರಕಾಶ್ ಅವರೇ. ನನಗೆ ಬೇಕಾಗಿರೋದು ನಾನೂರೈವತ್ತರಿಂದ ಆರುನೂರು ಸ್ಕ್ವೇರ್ ಫೀಟ್, ಗ್ರೌಂಡ್ ಫ್ಲೋರ್, ನೀರು, ತ್ರೀ-ಫೇಸ್ ಕರೆಂಟ್, ಮತ್ತೆ ಚಿಮಣಿ ಹಾಕೋಕೆ ಜಾಗ. ಚಿಮಣಿ ಇಲ್ದೆ ಹೋಟೆಲ್ ಆಗಲ್ಲ."
+    tr: "Sari Prakāś avarē. Nanage bēkāgirōdu nānūraivattarinda ārunūru skvēr fīṭ, grauṇḍ phlōr, nīru, trī-phēs karaṇṭ, matte chimaṇi hākōke jāga. Chimaṇi ilde hōṭel āgalla."
+    en: "Fine, Prakash. What I need is four hundred and fifty to six hundred square feet, ground floor, water, three-phase power, and room to put in a chimney. No hotel without a chimney."
+  - who: broker
+    t: "ಗೊತ್ತು ಗೊತ್ತು, ಹೋಟೆಲ್‌ನವರ ಜೊತೆ ತುಂಬಾ ಕೆಲಸ ಮಾಡಿದೀನಿ. ಮೊದಲನೇದು ಇಲ್ಲೇ, ಹನ್ನೊಂದನೇ ಮೇನ್ ರೋಡ್ ಮೇಲೆ. ಬನ್ನಿ."
+    tr: "Gottu gottu, hōṭel-navara jote tumbā kelasa māḍidīni. Modalanēdu illē, hannondanē mēn rōḍ mēle. Banni."
+    en: "I know, I know, I've done plenty of work with hotel people. The first one is right here, on 11th Main Road. Come."
+  - scene: "The first space: a narrow shop on 11th Main, between a saree shop and a mobile store. Buses and autos roar past."
+  - who: broker
+    t: "ನೋಡಿ, ನಾನೂರೈವತ್ತು ಸ್ಕ್ವೇರ್ ಫೀಟ್, ಮೇನ್ ರೋಡ್ ಫ್ರಂಟೇಜ್. ದಿನಾ ಸಾವಿರಾರು ಜನ ಈ ಫುಟ್‌ಪಾತ್ ಮೇಲೆ ನಡೀತಾರೆ. ಬೋರ್ಡ್ ಹಾಕಿದ್ರೆ ದೂರದಿಂದ ಕಾಣುತ್ತೆ."
+    tr: "Nōḍi, nānūraivattu skvēr fīṭ, mēn rōḍ phraṇṭēj. Dinā sāvirāru jana ī phuṭpāt mēle naḍītāre. Bōrḍ hākidre dūradinda kāṇutte."
+    en: "Look: four hundred and fifty square feet, main-road frontage. Thousands of people walk along this footpath every day. Put up a board and it's visible from far away."
+  - who: mahesh
+    t: "ರೆಂಟ್ ಎಷ್ಟು?"
+    tr: "Renṭ eṣṭu?"
+    en: "What's the rent?"
+  - who: broker
+    t: "ಸ್ಕ್ವೇರ್ ಫೀಟ್‌ಗೆ ಇನ್ನೂರೈವತ್ತು. ಅಂದ್ರೆ ತಿಂಗಳಿಗೆ ಒಂದು ಲಕ್ಷ ಹನ್ನೆರಡೂವರೆ ಸಾವಿರ. ಹತ್ತು ತಿಂಗಳ ಅಡ್ವಾನ್ಸ್."
+    tr: "Skvēr fīṭ-ge innūraivattu. Andre tingaḷige ondu lakṣa hanneraḍūvare sāvira. Hattu tingaḷa aḍvāns."
+    en: "Two hundred and fifty a square foot. So one lakh twelve and a half thousand a month. Ten months' advance."
+  - who: mahesh
+    t: "ಹನ್ನೊಂದು ಲಕ್ಷಕ್ಕಿಂತ ಜಾಸ್ತಿ ಅಡ್ವಾನ್ಸ್! ಮೇಲೆ ಏನಿದೆ?"
+    tr: "Hannondu lakṣakkinta jāsti aḍvāns! Mēle ēnide?"
+    en: "More than eleven lakh in advance! What's upstairs?"
+  - who: broker
+    t: "ಮೇಲೆ ಮೂರು ಫ್ಲೋರ್ ಫ್ಲ್ಯಾಟ್ಸ್. ಅದೇ ಸ್ವಲ್ಪ ಸಮಸ್ಯೆ. ಚಿಮಣಿ ಡಕ್ಟ್ ಹಿಂದಿನಿಂದ ಟೆರೇಸ್ ತನಕ ತಗೊಂಡು ಹೋಗ್ಬೇಕು, ಅದಕ್ಕೆ ಅಪಾರ್ಟ್‌ಮೆಂಟ್ ಅಸೋಸಿಯೇಷನ್ ಒಪ್ಪಿಗೆ ಬೇಕು."
+    tr: "Mēle mūru phlōr phlyāṭs. Adē svalpa samasye. Chimaṇi ḍakṭ hindininda ṭerēs tanaka tagoṇḍu hōgbēku, adakke apārṭmeṇṭ asōsiyēṣan oppige bēku."
+    en: "Three floors of flats. That's the slight problem. The chimney duct has to go up the back to the terrace, and that needs the apartment association's approval."
+  - who: mahesh
+    t: "ಅವರು ಒಪ್ಪಲ್ಲ, ನನಗೆ ಗೊತ್ತು. ಒಗ್ಗರಣೆ ವಾಸನೆ ಮೂರನೇ ಫ್ಲೋರ್‌ಗೆ ಹೋದ್ರೆ ಮೊದಲ ವಾರದಲ್ಲೇ ಕಂಪ್ಲೇಂಟ್. ಪಾರ್ಕಿಂಗ್?"
+    tr: "Avaru oppalla, nanage gottu. Oggaraṇe vāsane mūranē phlōr-ge hōdre modala vāradallē kamplēṇṭ. Pārkiṅg?"
+    en: "They won't agree, I know it. Once the smell of tempering reaches the third floor, there'll be complaints in the first week. Parking?"
+  - who: broker
+    t: "ಪಾರ್ಕಿಂಗ್… ರೋಡ್ ಮೇಲೆ. ಆದ್ರೆ ದರ್ಶಿನಿಗೆ ಬರೋರು ಹತ್ತು ನಿಮಿಷ ನಿಲ್ತಾರೆ ಅಷ್ಟೇ ಅಲ್ವಾ."
+    tr: "Pārkiṅg… rōḍ mēle. Ādre darśinige barōru hattu nimiṣa niltāre aṣṭē alvā."
+    en: "Parking… on the road. But darshini customers only stop for ten minutes, don't they?"
+  - who: mahesh
+    t: "ಹತ್ತು ನಿಮಿಷದಲ್ಲೂ ಟ್ರಾಫಿಕ್ ಪೊಲೀಸ್ ಬೈಕ್ ಎತ್ಕೊಂಡು ಹೋಗ್ತಾರೆ. ಸರಿ, ಎರಡನೇದು ತೋರಿಸಿ."
+    tr: "Hattu nimiṣadallū ṭrāphik polīs baik etkoṇḍu hōgtāre. Sari, eraḍanēdu tōrisi."
+    en: "Even in ten minutes the traffic police will tow the bike away. Fine, show me the second one."
+  - scene: "The second space: a side lane in 9th Block, ten minutes away. Quiet, shady trees, a school gate across the road."
+  - who: broker
+    t: "ಇದು ಆರುನೂರು ಸ್ಕ್ವೇರ್ ಫೀಟ್. ದೊಡ್ಡ ಜಾಗ, ಹಿಂದೆ ಓಪನ್ ಸ್ಪೇಸ್ ಕೂಡ ಇದೆ. ರೆಂಟ್ ಬರೀ ನೂರಾ ಹತ್ತು ರೂಪಾಯಿ ಸ್ಕ್ವೇರ್ ಫೀಟ್‌ಗೆ, ಅರವತ್ತಾರು ಸಾವಿರ. ಅಡ್ವಾನ್ಸ್ ಆರು ತಿಂಗಳು ಸಾಕು ಅಂತಿದಾರೆ ಓನರ್."
+    tr: "Idu ārunūru skvēr fīṭ. Doḍḍa jāga, hinde ōpan spēs kūḍa ide. Renṭ barī nūrā hattu rūpāyi skvēr fīṭ-ge, aravattāru sāvira. Aḍvāns āru tingaḷu sāku antidāre ōnar."
+    en: "This is six hundred square feet. A big place, with open space at the back too. Rent just a hundred and ten rupees a square foot: sixty-six thousand. The owner says six months' advance is enough."
+  - who: mahesh
+    t: "ರೆಂಟ್ ಹೆಚ್ಚು ಕಮ್ಮಿ ಅರ್ಧ. ಆದ್ರೆ ರೋಡ್ ನೋಡಿ. ಐದು ನಿಮಿಷದಲ್ಲಿ ಎಷ್ಟು ಜನ ಹೋದ್ರು? ನಾಲ್ಕು ಜನ, ಒಂದು ನಾಯಿ."
+    tr: "Renṭ heccu kammi ardha. Ādre rōḍ nōḍi. Aidu nimiṣadalli eṣṭu jana hōdru? Nālku jana, ondu nāyi."
+    en: "The rent's almost half. But look at the road. How many people went past in five minutes? Four people and a dog."
+  - who: broker
+    t: "ಎದುರಿಗೆ ಸ್ಕೂಲ್ ಇದೆ ಅಲ್ವಾ. ಬೆಳಗ್ಗೆ ಎಂಟು ಗಂಟೆಗೆ ಪೇರೆಂಟ್ಸ್ ಮಕ್ಕಳನ್ನ ಬಿಡೋಕೆ ಬರ್ತಾರೆ, ಬಿಟ್ಟು ಒಂದು ಕಾಫಿ ಕುಡೀತಾರೆ."
+    tr: "Edurige skūl ide alvā. Beḷagge eṇṭu gaṇṭege pēreṇṭs makkaḷanna biḍōke bartāre, biṭṭu ondu kāphi kuḍītāre."
+    en: "There's a school opposite, isn't there? At eight in the morning parents come to drop their children, and after that they'll have a coffee."
+  - who: mahesh
+    t: "ಬೆಳಗ್ಗೆ ಒಂದು ಗಂಟೆ ವ್ಯಾಪಾರ. ಮಧ್ಯಾಹ್ನ, ಸಂಜೆ? ಸ್ಕೂಲ್ ರಜೆ ಇದ್ದಾಗ? ಮತ್ತೆ ಇಲ್ಲಿ ನೀರು ಹೇಗೆ?"
+    tr: "Beḷagge ondu gaṇṭe vyāpāra. Madhyāhna, sañje? Skūl raje iddāga? Matte illi nīru hēge?"
+    en: "One hour of business in the morning. And the afternoon, the evening? School holidays? And how's the water here?"
+  - who: broker
+    t: "ಕಾವೇರಿ ಕನೆಕ್ಷನ್ ಇಲ್ಲ, ಬೋರ್‌ವೆಲ್. ಬೇಸಿಗೆಯಲ್ಲಿ ಟ್ಯಾಂಕರ್ ತರಿಸ್ಬೇಕಾಗಬಹುದು. ಡ್ರೈನೇಜ್ ಲೈನ್ ಹಳೇದು, ಮಳೆಗಾಲದಲ್ಲಿ ಬ್ಲಾಕ್ ಆಗುತ್ತೆ ಅಂತ ಪಕ್ಕದವರು ಹೇಳ್ತಾರೆ. ನಾನು ಮುಚ್ಚಿಡಲ್ಲ."
+    tr: "Kāvēri kanekṣan illa, bōrvel. Bēsigeyalli ṭyāṅkar tarisbēkāgabahudu. Ḍrainēj lain haḷēdu, maḷegāladalli blāk āgutte anta pakkadavaru hēḷtāre. Nānu mucchiḍalla."
+    en: "No Cauvery connection, a borewell. In summer you may have to get tankers in. The drainage line is old; the neighbours say it blocks in the rainy season. I won't hide it."
+  - who: mahesh
+    t: "ಅದಕ್ಕೇ ನಿಮ್ಮ ಹತ್ರ ಬಂದಿದ್ದು. ದರ್ಶಿನಿಗೆ ದಿನಾ ಸಾವಿರಾರು ಲೀಟರ್ ನೀರು ಬೇಕು. ಇಡ್ಲಿ, ದೋಸೆ ಹಿಟ್ಟು, ಕಾಫಿ, ಪಾತ್ರೆ ತೊಳೆಯೋದು… ನೀರು ಇಲ್ಲಾಂದ್ರೆ ಅಂಗಡಿ ಇಲ್ಲ. ಮೂರನೇದು?"
+    tr: "Adakkē nimma hatra bandiddu. Darśinige dinā sāvirāru līṭar nīru bēku. Iḍli, dōse hiṭṭu, kāphi, pātre toḷeyōdu… nīru illāndre aṅgaḍi illa. Mūranēdu?"
+    en: "That's why I came to you. A darshini needs thousands of litres of water a day. Idli and dosa batter, coffee, washing vessels… no water, no shop. The third one?"
+  - who: broker
+    t: "ಮೂರನೇದನ್ನ ಬೇಕಂತಾನೇ ಕೊನೆಗೆ ಇಟ್ಟಿದ್ದೆ. ನಾಲ್ಕನೇ ಬ್ಲಾಕ್, ಬಸ್ ಸ್ಟ್ಯಾಂಡ್‌ನಿಂದ ಮೂರು ನಿಮಿಷ ನಡಿಗೆ. ಮೇನ್ ರೋಡ್ ಅಲ್ಲ, ಆದ್ರೆ ಮೇನ್ ರೋಡ್‌ನಿಂದ ಮೊದಲ ಕ್ರಾಸ್. ಬನ್ನಿ."
+    tr: "Mūranēdanna bēkantānē konege iṭṭidde. Nālkanē blāk, bas sṭyāṇḍ-ninda mūru nimiṣa naḍige. Mēn rōḍ alla, ādre mēn rōḍ-ninda modala krās. Banni."
+    en: "I kept the third one for last on purpose. 4th Block, three minutes' walk from the bus stand. Not the main road, but the first cross off it. Come."
+  - scene: "The third space: a corner unit on a busy cross road, three minutes from the 4th Block bus stand. An old two-storey house; the owner lives upstairs. The ground floor used to be a stationery shop."
+  - who: broker
+    t: "ಐನೂರು ಸ್ಕ್ವೇರ್ ಫೀಟ್, ಕಾರ್ನರ್ ಜಾಗ, ಎರಡು ಕಡೆ ರೋಡ್. ಮೊದಲು ಸ್ಟೇಷನರಿ ಅಂಗಡಿ ಇತ್ತು. ಬೆಳಗ್ಗೆ ಬಸ್ ಹಿಡಿಯೋರು, ಆಫೀಸ್‌ನವರು, ಮೆಟ್ರೋ ಕಡೆಯಿಂದ ನಡ್ಕೊಂಡು ಬರೋರು, ಕಾಂಪ್ಲೆಕ್ಸ್‌ಗೆ ಶಾಪಿಂಗ್‌ಗೆ ಬರೋರು… ಎಲ್ಲಾ ಇದೇ ರೋಡಲ್ಲಿ ಹೋಗ್ತಾರೆ."
+    tr: "Ainūru skvēr fīṭ, kārnar jāga, eraḍu kaḍe rōḍ. Modalu sṭēṣanari aṅgaḍi ittu. Beḷagge bas hiḍiyōru, āphīs-navaru, meṭrō kaḍeyinda naḍkoṇḍu barōru, kāmpleks-ge śāpiṅg-ge barōru… ellā idē rōḍalli hōgtāre."
+    en: "Five hundred square feet, a corner spot, road on two sides. It used to be a stationery shop. Morning bus catchers, office people, people walking over from the metro, shoppers heading to the complex… they all use this road."
+  - who: mahesh
+    t: "ಹಿಂದೆ ನೋಡಬಹುದಾ?"
+    tr: "Hinde nōḍabahudā?"
+    en: "Can I see the back?"
+  - who: broker
+    t: "ಬನ್ನಿ. ಹಿಂದೆ ಎಂಟಡಿ ಓಪನ್ ಜಾಗ. ಚಿಮಣಿ ಡಕ್ಟ್ ಇಲ್ಲಿಂದ ನೇರವಾಗಿ ಮೇಲೆ ತಗೊಂಡು ಹೋಗಬಹುದು, ಓನರ್ ಮನೆ ಕಿಟಕಿಯಿಂದ ದೂರ. ಕಾವೇರಿ ನೀರು ಇದೆ, ಸಂಪ್ ಇದೆ. ತ್ರೀ-ಫೇಸ್ ಇಲ್ಲ, ಬೆಸ್ಕಾಂಗೆ ಅಪ್ಲೈ ಮಾಡ್ಬೇಕು."
+    tr: "Banni. Hinde eṇṭaḍi ōpan jāga. Chimaṇi ḍakṭ illinda nēravāgi mēle tagoṇḍu hōgabahudu, ōnar mane kiṭakiyinda dūra. Kāvēri nīru ide, samp ide. Trī-phēs illa, Beskāṅge aplai māḍbēku."
+    en: "Come. Eight feet of open space at the back. The chimney duct can go straight up from here, away from the owner's windows. There's Cauvery water and a sump. No three-phase; you'd have to apply to BESCOM."
+  - who: mahesh
+    t: "ಡ್ರೈನೇಜ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತೆ?"
+    tr: "Ḍrainēj ellige hōgutte?"
+    en: "(Crouching by the floor drain) Where does the drainage go?"
+  - who: broker
+    t: "ಮುಂದೆ ಮೇನ್ ಲೈನ್‌ಗೆ. ಆದ್ರೆ ಹೋಟೆಲ್‌ಗೆ ನೀವು ಗ್ರೀಸ್ ಟ್ರ್ಯಾಪ್ ಹಾಕಿಸ್ಬೇಕು. ಇಲ್ಲಾಂದ್ರೆ ಎಣ್ಣೆ ಹೋಗಿ ಲೈನ್ ಬ್ಲಾಕ್ ಆಗುತ್ತೆ, ಆಮೇಲೆ ಪಾಲಿಕೆಯವರು ನೋಟಿಸ್ ಕೊಡ್ತಾರೆ."
+    tr: "Munde mēn lain-ge. Ādre hōṭel-ge nīvu grīs ṭryāp hākisbēku. Illāndre eṇṇe hōgi lain blāk āgutte, āmēle pālikeyavaru nōṭis koḍtāre."
+    en: "Out front, into the main line. But for a hotel you'll have to get a grease trap installed. Otherwise oil goes down, the line blocks, and then the corporation people send you a notice."
+  - who: mahesh
+    t: "ರೆಂಟ್?"
+    tr: "Renṭ?"
+    en: "Rent?"
+  - who: broker
+    t: "ಇನ್ನೂರು ರೂಪಾಯಿ ಸ್ಕ್ವೇರ್ ಫೀಟ್‌ಗೆ, ತಿಂಗಳಿಗೆ ಒಂದು ಲಕ್ಷ. ಹತ್ತು ತಿಂಗಳ ಅಡ್ವಾನ್ಸ್ ಅಂತಿದಾರೆ. ಓನರ್ ವೆಂಕಟೇಶ ಮೂರ್ತಿ ಅಂತ, ಎಪ್ಪತ್ತು ವರ್ಷ, ರಿಟೈರ್ಡ್ ಬ್ಯಾಂಕ್ ಮ್ಯಾನೇಜರ್. ಸ್ವಲ್ಪ ಸ್ಟ್ರಿಕ್ಟ್, ಆದ್ರೆ ಮಾತಿಗೆ ತಪ್ಪೋ ಮನುಷ್ಯ ಅಲ್ಲ."
+    tr: "Innūru rūpāyi skvēr fīṭ-ge, tingaḷige ondu lakṣa. Hattu tingaḷa aḍvāns antidāre. Ōnar Veṅkaṭēśa Mūrti anta, eppattu varṣa, riṭairḍ byāṅk myānējar. Svalpa sṭrikṭ, ādre mātige tappō manuṣya alla."
+    en: "Two hundred rupees a square foot: one lakh a month. He's asking ten months' advance. The owner is Venkatesh Murthy, seventy, a retired bank manager. A bit strict, but not a man who goes back on his word."
+  - who: mahesh
+    t: "ಹತ್ತು ಲಕ್ಷ ಅಡ್ವಾನ್ಸ್… ಆ ದುಡ್ಡಲ್ಲಿ ಅರ್ಧ ಕಿಚನ್ ಬರುತ್ತೆ."
+    tr: "Hattu lakṣa aḍvāns… ā duḍḍalli ardha kichan barutte."
+    en: "Ten lakh advance… that money would buy half a kitchen."
+  - who: broker
+    t: "ಅಡ್ವಾನ್ಸ್ ಮಾತಾಡಬಹುದು. ಅವರು ಹೇಳೋದು ಹತ್ತು, ಆದ್ರೆ ಎಂಟು ಏಳಕ್ಕೆ ಬರಬಹುದು. ಹೋಟೆಲ್ ಅಂದ್ರೆ ಸ್ವಲ್ಪ ಹೆದರ್ತಾರೆ: ಹೊಗೆ, ಜಿರಳೆ, ರಾತ್ರಿ ಗಲಾಟೆ. ಅದನ್ನ ನೀವು ಸಮಾಧಾನ ಮಾಡಿದ್ರೆ ಅರ್ಧ ಡೀಲ್ ಮುಗೀತು. ಆದ್ರೆ ಬೇಗ ಹೇಳಿ, ಇನ್ನೊಂದು ಪಾರ್ಟಿ ಮೊಬೈಲ್ ಶಾಪ್‌ಗೆ ಕೇಳ್ತಿದಾರೆ."
+    tr: "Aḍvāns mātāḍabahudu. Avaru hēḷōdu hattu, ādre eṇṭu ēḷakke barabahudu. Hōṭel andre svalpa hedartāre: hoge, jiraḷe, rātri galāṭe. Adanna nīvu samādhāna māḍidre ardha ḍīl mugītu. Ādre bēga hēḷi, innondu pārṭi mobail śāp-ge kēḷtidāre."
+    en: "The advance can be negotiated. He says ten, but he may come down to eight or seven. A hotel scares him a little: smoke, cockroaches, noise at night. If you can reassure him on that, half the deal is done. But tell me soon; another party is asking for it for a mobile shop."
+  - who: mahesh
+    t: "ಬ್ರೋಕರ್ ಹೇಳೋ “ಇನ್ನೊಂದು ಪಾರ್ಟಿ” ಎಷ್ಟು ನಿಜ ಅಂತ ನನಗೆ ಹತ್ತು ವರ್ಷದ ಅನುಭವ ಇದೆ, ಪ್ರಕಾಶ್ ಅವರೇ. ಸೋಮವಾರ ಹೇಳ್ತೀನಿ. ಈ ವೀಕೆಂಡ್ ಬೆಳಗ್ಗೆ, ಸಂಜೆ ಇಲ್ಲಿ ಬಂದು ನಿಂತು ಜನ ಎಣಿಸ್ತೀನಿ."
+    tr: "Brōkar hēḷō “innondu pārṭi” eṣṭu nija anta nanage hattu varṣada anubhava ide, Prakāś avarē. Sōmavāra hēḷtīni. Ī vīkeṇḍ beḷagge, sañje illi bandu nintu jana eṇistīni."
+    en: "I have ten years' experience of how real a broker's “other party” is, Prakash. I'll tell you on Monday. This weekend I'll come and stand here morning and evening and count people."
+  - who: broker
+    t: "ಓಹೋ, ಲೆಕ್ಕದ ಮನುಷ್ಯ ನೀವು. ಸರಿ, ಎಣಿಸಿ. ಆದ್ರೆ ಸೋಮವಾರ ಅಂದ್ರೆ ಸೋಮವಾರ."
+    tr: "Ōhō, lekkada manuṣya nīvu. Sari, eṇisi. Ādre Sōmavāra andre Sōmavāra."
+    en: "Oho, a numbers man. Fine, count. But Monday means Monday."
+
+  - section: "Counting feet, comparing numbers"
+    learn: "comparatives and superlatives: -ginta jāsti, ellakkinta agga · times and ratios: aidu paṭṭu, ondūvare paṭṭu · break-even per day · hypothetical: koṭre…, āgutte"
+  - scene: "Sunday night. Mahesh has stood at both corners, morning and evening, with a notebook and a hand counter. Kavya and Amma at the table; Nitin on a video call."
+  - who: mahesh
+    t: "ಬೆಳಗ್ಗೆ ಏಳರಿಂದ ಎಂಟರವರೆಗೆ ಆ ಕಾರ್ನರ್ ಮುಂದೆ ನಾನೂರ ಎಪ್ಪತ್ತು ಜನ ನಡ್ಕೊಂಡು ಹೋದ್ರು. ಸಂಜೆ ಐದರಿಂದ ಆರರವರೆಗೆ ಐನೂರಕ್ಕಿಂತ ಜಾಸ್ತಿ. ಒಂಬತ್ತನೇ ಬ್ಲಾಕ್‌ನ ಸೈಡ್ ರೋಡ್‌ನಲ್ಲಿ ಅದೇ ಟೈಮ್‌ಗೆ ತೊಂಬತ್ತು ಜನ."
+    tr: "Beḷagge ēḷarinda eṇṭaravarege ā kārnar munde nānūra eppattu jana naḍkoṇḍu hōdru. Sañje aidarinda āraravarege ainūrakkinta jāsti. Ombattanē blāk-na saiḍ rōḍ-nalli adē ṭaim-ge tombattu jana."
+    en: "From seven to eight in the morning, four hundred and seventy people walked past that corner. From five to six in the evening, more than five hundred. In the 9th Block side lane, at the same times, ninety."
+  - who: nitin
+    t: "ಐದು ಪಟ್ಟು ಜಾಸ್ತಿ! ಆದ್ರೆ ರೆಂಟ್ ಒಂದೂವರೆ ಪಟ್ಟು ಮಾತ್ರ ಜಾಸ್ತಿ. ಅದು ಒಳ್ಳೆ ಲೆಕ್ಕ."
+    tr: "Aidu paṭṭu jāsti! Ādre renṭ ondūvare paṭṭu mātra jāsti. Adu oḷḷe lekka."
+    en: "Five times more! But the rent is only one and a half times more. That's good maths."
+  - who: kavya
+    t: "ನಡ್ಕೊಂಡು ಹೋಗೋರೆಲ್ಲಾ ಗಿರಾಕಿ ಅಲ್ಲ. ಆದ್ರೂ ನೂರರಲ್ಲಿ ಐದು ಜನ ನಿಂತು ಕಾಫಿ ಕುಡಿದ್ರೂ ದಿನಕ್ಕೆ ಮುನ್ನೂರು ನಾನೂರು ಬಿಲ್. ಸೈಡ್ ರೋಡ್‌ನಲ್ಲಿ ಅದು ಕನಸು."
+    tr: "Naḍkoṇḍu hōgōrellā girāki alla. Ādrū nūraralli aidu jana nintu kāphi kuḍidrū dinakke munnūru nānūru bil. Saiḍ rōḍ-nalli adu kanasu."
+    en: "Not everyone walking past is a customer. Still, even if five in a hundred stop for a coffee, that's three or four hundred bills a day. In the side lane that's a dream."
+  - who: mahesh
+    t: "ಮೇನ್ ರೋಡ್ ಜಾಗ ಎಲ್ಲಕ್ಕಿಂತ ಚೆನ್ನಾಗಿ ಕಾಣುತ್ತೆ, ಆದ್ರೆ ಚಿಮಣಿ ಸಮಸ್ಯೆ, ಪಾರ್ಕಿಂಗ್ ಇಲ್ಲ, ರೆಂಟ್ ಎಲ್ಲಕ್ಕಿಂತ ಜಾಸ್ತಿ. ಸೈಡ್ ರೋಡ್ ಎಲ್ಲಕ್ಕಿಂತ ಅಗ್ಗ, ಆದ್ರೆ ಜನ ಇಲ್ಲ, ಕಾವೇರಿ ನೀರಿಲ್ಲ. ನಾಲ್ಕನೇ ಬ್ಲಾಕ್ ಕಾರ್ನರ್ ಮಧ್ಯದಲ್ಲಿ ಇದೆ, ಎಲ್ಲಾ ರೀತಿಯಲ್ಲೂ."
+    tr: "Mēn rōḍ jāga ellakkinta chennāgi kāṇutte, ādre chimaṇi samasye, pārkiṅg illa, renṭ ellakkinta jāsti. Saiḍ rōḍ ellakkinta agga, ādre jana illa, Kāvēri nīrilla. Nālkanē blāk kārnar madhyadalli ide, ellā rītiyallū."
+    en: "The main-road place looks the best of all, but there's the chimney problem, no parking, and the highest rent. The side lane is the cheapest, but no people and no Cauvery water. The 4th Block corner sits in the middle, in every way."
+  - who: kavya
+    t: "ಒಂದು ಲಕ್ಷ ರೆಂಟ್ ಅಂದ್ರೆ ದಿನಕ್ಕೆ ಮೂರು ಸಾವಿರದ ಮುನ್ನೂರು. ಒಂದು ಪ್ಲೇಟ್ ಮೇಲೆ ಮೂವತ್ತು ರೂಪಾಯಿ ಉಳಿಯುತ್ತೆ ಅಂದ್ಕೊಂಡ್ರೂ, ಬರೀ ರೆಂಟ್‌ಗೆ ದಿನಾ ನೂರಾ ಹತ್ತು ಪ್ಲೇಟ್ ಮಾರ್ಬೇಕು."
+    tr: "Ondu lakṣa renṭ andre dinakke mūru sāvirada munnūru. Ondu plēṭ mēle mūvattu rūpāyi uḷiyutte andkoṇḍrū, barī renṭ-ge dinā nūrā hattu plēṭ mārbēku."
+    en: "One lakh in rent is three thousand three hundred a day. Even assuming thirty rupees left over on each plate, we'd have to sell a hundred and ten plates a day just for the rent."
+  - who: mahesh
+    t: "ಆ ಕಾರ್ನರ್‌ನಲ್ಲಿ ನೂರಾ ಹತ್ತು ಪ್ಲೇಟ್ ಬೆಳಗ್ಗೆ ಒಂಬತ್ತು ಗಂಟೆ ಒಳಗೇ ಹೋಗುತ್ತೆ. ಸೈಡ್ ರೋಡ್‌ನಲ್ಲಿ ಇಡೀ ದಿನ ಬೇಕಾಗುತ್ತೆ."
+    tr: "Ā kārnar-nalli nūrā hattu plēṭ beḷagge ombattu gaṇṭe oḷagē hōgutte. Saiḍ rōḍ-nalli iḍī dina bēkāgutte."
+    en: "At that corner, a hundred and ten plates will go before nine in the morning. In the side lane it would take all day."
+  - who: nitin
+    t: "ಹಾಗಾದ್ರೆ ಡಿಸಿಷನ್ ಆಗೋಯ್ತು ಅಲ್ವಾ? ಅಡ್ವಾನ್ಸ್ ಒಂದೇ ಪ್ರಾಬ್ಲಮ್."
+    tr: "Hāgādre ḍisiṣan āgōytu alvā? Aḍvāns ondē prāblam."
+    en: "So the decision's made, isn't it? The advance is the only problem."
+  - who: kavya
+    t: "ಹತ್ತು ಲಕ್ಷ ಅಡ್ವಾನ್ಸ್ ಕೊಟ್ರೆ ನಮ್ಮ ವರ್ಕಿಂಗ್ ಕ್ಯಾಪಿಟಲ್ ಅರ್ಧ ಆಗುತ್ತೆ. ಏಳಕ್ಕಿಂತ ಜಾಸ್ತಿ ಕೊಡೋದು ಬೇಡ. ಅದು ನನ್ನ ಲಕ್ಷ್ಮಣ ರೇಖೆ."
+    tr: "Hattu lakṣa aḍvāns koṭre namma varkiṅg kyāpiṭal ardha āgutte. Ēḷakkinta jāsti koḍōdu bēḍa. Adu nanna lakṣmaṇa rēkhe."
+    en: "If we pay ten lakh in advance, our working capital is cut in half. Not more than seven. That's my line in the sand."
+  - who: amma
+    t: "ಓನರ್ ಮೇಲೇ ಇದ್ರೆ ಒಳ್ಳೇದು ಮಗ, ಜಾಗ ಚೆನ್ನಾಗಿ ನೋಡ್ಕೊಳ್ತಾರೆ. ಆದ್ರೆ ದಿನಾ ನಿನ್ನ ಅಂಗಡಿ ಮೇಲೆ ಅವರ ಕಣ್ಣು ಇರುತ್ತೆ, ಅದನ್ನೂ ನೆನಪಿಟ್ಕೋ."
+    tr: "Ōnar mēlē idre oḷḷēdu maga, jāga chennāgi nōḍkoḷtāre. Ādre dinā ninna aṅgaḍi mēle avara kaṇṇu irutte, adannū nenapiṭkō."
+    en: "It's good if the owner lives upstairs, son; he'll look after the place. But his eyes will be on your shop every day. Remember that too."
+  - who: mahesh
+    t: "ಅದಕ್ಕೇ ಮೊದಲ ಮೀಟಿಂಗ್‌ನಲ್ಲೇ ಅವರ ರೂಲ್ಸ್ ಎಲ್ಲಾ ಕೇಳಿ ಬರ್ಕೊಳ್ತೀನಿ. ಆಮೇಲೆ ಜಗಳ ಬೇಡ."
+    tr: "Adakkē modala mīṭiṅg-nallē avara rūls ellā kēḷi barkoḷtīni. Āmēle jagaḷa bēḍa."
+    en: "That's why I'll ask about all his rules at the very first meeting and write them down. No fights later."
+  - who: kavya
+    t: "ಮತ್ತೆ ಹನ್ನೊಂದು ತಿಂಗಳ ಅಗ್ರಿಮೆಂಟ್‌ಗೆ ಒಪ್ಪಬೇಡ. ಇಂಟೀರಿಯರ್‌ಗೆ ಆರು ಲಕ್ಷ ಹಾಕಿ, ಹನ್ನೊಂದು ತಿಂಗಳಲ್ಲಿ “ಖಾಲಿ ಮಾಡಿ” ಅಂದ್ರೆ? ಕನಿಷ್ಠ ಮೂರು ವರ್ಷ, ರಿಜಿಸ್ಟರ್ಡ್ ಅಗ್ರಿಮೆಂಟ್. ಬ್ಯಾಂಕ್‌ನವರೂ ಅದನ್ನೇ ನೋಡ್ತಾರೆ."
+    tr: "Matte hannondu tingaḷa agrimeṇṭ-ge oppabēḍa. Iṇṭīriyar-ge āru lakṣa hāki, hannondu tingaḷalli “khāli māḍi” andre? Kaniṣṭha mūru varṣa, rijisṭarḍ agrimeṇṭ. Byāṅk-navarū adannē nōḍtāre."
+    en: "And don't agree to an eleven-month agreement. We put six lakh into interiors, and in eleven months he says “vacate”? At least three years, a registered agreement. The bank will look at exactly that too."
+
+  - section: "Negotiating with Mr. Venkatesh Murthy"
+    learn: "negotiation: kammi māḍkoḷḷi, adakkinta keḷage baralla, madhyadalli mīṭ māḍōṇa · lease terms: lāk-in, ērike (escalation), renṭ-phrī, nōṭis · polite refusal to an elder · -ō hāgilla (not allowed)"
+  - scene: "Tuesday, 11 November 2025, 10 a.m. Mr. Venkatesh Murthy's living room above the shop: a wall clock, a framed photo of his late wife, filter coffee in steel tumblers. Prakash sits near the door."
+  - who: landlord
+    t: "ಬನ್ನಿ, ಕೂತ್ಕೊಳ್ಳಿ. ಕಾಫಿ ತಗೊಳ್ಳಿ. ಪ್ರಕಾಶ್ ಹೇಳಿದ್ರು, ನೀವು ಉಡುಪಿಯವರು, ಹೋಟೆಲ್ ಲೈನ್‌ನಲ್ಲಿ ಹತ್ತು ವರ್ಷ ಇದ್ದೋರು ಅಂತ."
+    tr: "Banni, kūtkoḷḷi. Kāphi tagoḷḷi. Prakāś hēḷidru, nīvu uḍupiyavaru, hōṭel lain-nalli hattu varṣa iddōru anta."
+    en: "Come, sit. Have some coffee. Prakash told me you're from Udupi and have been in the hotel line for ten years."
+  - who: mahesh
+    t: "ಹೌದು ಸಾರ್. ಕಾಫಿ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ. ಮನೆಯಲ್ಲೇ ಡಿಕಾಕ್ಷನ್ ಹಾಕ್ತೀರಾ?"
+    tr: "Haudu sār. Kāphi tumbā chennāgide. Maneyallē ḍikākṣan hāktīrā?"
+    en: "Yes, sir. The coffee's excellent. Do you make the decoction at home?"
+  - who: landlord
+    t: "ಐವತ್ತು ವರ್ಷದಿಂದ ಅದೇ ಫಿಲ್ಟರ್. ನನ್ನ ಹೆಂಡತಿ ಇದ್ದಾಗ ಅವಳು ಹಾಕ್ತಿದ್ಲು, ಈಗ ನಾನು. ಸರಿ, ವಿಷಯಕ್ಕೆ ಬರೋಣ. ನಾನು ನೇರವಾಗಿ ಮಾತಾಡೋನು. ಹೋಟೆಲ್ ಅಂದ್ರೆ ನನಗೆ ಸ್ವಲ್ಪ ಭಯ. ಹೊಗೆ, ಎಣ್ಣೆ ವಾಸನೆ, ಜಿರಳೆ, ಇಲಿ, ರಾತ್ರಿ ಹನ್ನೆರಡು ಗಂಟೆ ತನಕ ಪಾತ್ರೆ ಸದ್ದು. ನಾನು ಮೇಲೇ ಇರೋದು."
+    tr: "Aivattu varṣadinda adē philṭar. Nanna heṇḍati iddāga avaḷu hāktidlu, īga nānu. Sari, viṣayakke barōṇa. Nānu nēravāgi mātāḍōnu. Hōṭel andre nanage svalpa bhaya. Hoge, eṇṇe vāsane, jiraḷe, ili, rātri hanneraḍu gaṇṭe tanaka pātre saddu. Nānu mēlē irōdu."
+    en: "The same filter for fifty years. When my wife was alive she made it; now I do. Right, let's come to the point. I speak plainly. A hotel worries me a little. Smoke, the smell of oil, cockroaches, rats, the clatter of vessels till midnight. I live right upstairs."
+  - who: mahesh
+    t: "ನಿಮ್ಮ ಭಯ ಸರಿ ಸಾರ್. ಒಂದೊಂದಾಗಿ ಹೇಳ್ತೀನಿ. ಚಿಮಣಿ ಡಕ್ಟ್ ಹಿಂದಿನ ಜಾಗದಿಂದ ನಿಮ್ಮ ಟೆರೇಸ್‌ಗಿಂತ ಮೂರು ಅಡಿ ಮೇಲೆ ತನಕ ಹಾಕಿಸ್ತೀನಿ. ನಿಮ್ಮ ಕಿಟಕಿ ಕಡೆ ಹೊಗೆ ಬರಲ್ಲ. ಪೆಸ್ಟ್ ಕಂಟ್ರೋಲ್ ತಿಂಗಳಿಗೊಂದ್ಸಲ, ಅದರ ರಿಪೋರ್ಟ್ ನಿಮಗೂ ಕೊಡ್ತೀನಿ."
+    tr: "Nimma bhaya sari sār. Ondondāgi hēḷtīni. Chimaṇi ḍakṭ hindina jāgadinda nimma ṭerēs-ginta mūru aḍi mēle tanaka hākistīni. Nimma kiṭaki kaḍe hoge baralla. Pesṭ kaṇṭrōl tingaḷigondsala, adara ripōrṭ nimagū koḍtīni."
+    en: "Your worries are fair, sir. Let me take them one by one. I'll have the chimney duct run from the back up to three feet above your terrace. No smoke will come towards your windows. Pest control once a month, and I'll give you a copy of the report too."
+  - who: landlord
+    t: "ಟೈಮಿಂಗ್?"
+    tr: "Ṭaimiṅg?"
+    en: "Timings?"
+  - who: mahesh
+    t: "ಬೆಳಗ್ಗೆ ಆರರಿಂದ ರಾತ್ರಿ ಹತ್ತು. ಹತ್ತೂವರೆ ಒಳಗೆ ಶಟರ್ ಕೆಳಗೆ. ದರ್ಶಿನಿ ಲೇಟ್ ನೈಟ್ ಬಿಸಿನೆಸ್ ಅಲ್ಲ ಸಾರ್, ಬೆಳಗ್ಗೆನೇ ನಮ್ಮ ಮುಖ್ಯ ವ್ಯಾಪಾರ."
+    tr: "Beḷagge ārarinda rātri hattu. Hattūvare oḷage śaṭar keḷage. Darśini lēṭ naiṭ bisines alla sār, beḷaggenē namma mukhya vyāpāra."
+    en: "Six in the morning to ten at night. Shutter down by ten-thirty. A darshini isn't a late-night business, sir; the morning is our main trade."
+  - who: landlord
+    t: "ಆರಕ್ಕೆ ಓಪನ್ ಅಂದ್ರೆ ಗ್ರೈಂಡರ್ ನಾಲ್ಕು ಗಂಟೆಗೇ ಶುರು ಆಗುತ್ತೆ ಅಲ್ವಾ? ಅದರ ಸದ್ದು ನನ್ನ ಬೆಡ್‌ರೂಮ್ ಕೆಳಗೆ."
+    tr: "Ārakke ōpan andre graiṇḍar nālku gaṇṭegē śuru āgutte alvā? Adara saddu nanna beḍrūm keḷage."
+    en: "If you open at six, the grinder starts at four, doesn't it? And the noise will be right under my bedroom."
+  - who: mahesh
+    t: "ಹಿಟ್ಟು ಹಿಂದಿನ ದಿನ ಸಂಜೆನೇ ರುಬ್ತೀವಿ ಸಾರ್. ಹಿಟ್ಟು ಹುದುಗೋಕೆ ರಾತ್ರಿ ಬೇಕೇ ಬೇಕು. ಬೆಳಗ್ಗೆ ಗ್ರೈಂಡರ್ ಓಡಲ್ಲ. ಮತ್ತೆ ಗ್ರೈಂಡರ್ ನಿಮ್ಮ ಬೆಡ್‌ರೂಮ್ ಕೆಳಗೆ ಇಡಲ್ಲ, ರೋಡ್ ಕಡೆ ಇಡ್ತೀವಿ, ರಬ್ಬರ್ ಪ್ಯಾಡ್ ಮೇಲೆ."
+    tr: "Hiṭṭu hindina dina sañjenē rubtīvi sār. Hiṭṭu hudugōke rātri bēkē bēku. Beḷagge graiṇḍar ōḍalla. Matte graiṇḍar nimma beḍrūm keḷage iḍalla, rōḍ kaḍe iḍtīvi, rabbar pyāḍ mēle."
+    en: "We grind the batter the evening before, sir. Batter needs the night to ferment. The grinder doesn't run in the morning. And we won't put it under your bedroom; it'll go on the road side, on a rubber pad."
+  - who: landlord
+    t: "ಹುಂ. ಹೋಟೆಲ್ ಕೆಲಸ ಗೊತ್ತಿರೋರು ಅಂತ ಕಾಣುತ್ತೆ. ಇನ್ನೊಂದು ಕಂಡೀಷನ್: ಇದು ಪ್ಯೂರ್ ವೆಜ್ ಆಗಿರ್ಬೇಕು. ಮೊಟ್ಟೆ ಕೂಡ ಬೇಡ."
+    tr: "Huṁ. Hōṭel kelasa gottirōru anta kāṇutte. Innondu kaṇḍīṣan: idu pyūr vej āgirbēku. Moṭṭe kūḍa bēḍa."
+    en: "Hm. Looks like you know hotel work. One more condition: it has to be pure veg. Not even eggs."
+  - who: mahesh
+    t: "ಅದರಲ್ಲಿ ಚರ್ಚೆನೇ ಇಲ್ಲ ಸಾರ್. ಉಡುಪಿ ಶೈಲಿ ವೆಜ್ ದರ್ಶಿನಿ ಅದು. ಮೊಟ್ಟೆ ಅಡುಗೆಮನೆ ಒಳಗೂ ಬರಲ್ಲ."
+    tr: "Adaralli charchenē illa sār. Uḍupi śaili vej darśini adu. Moṭṭe aḍugemane oḷagū baralla."
+    en: "No argument there, sir. It's an Udupi-style veg darshini. Eggs won't even enter the kitchen."
+  - who: landlord
+    t: "ಸರಿ. ಈಗ ದುಡ್ಡಿನ ವಿಷಯ. ಒಂದು ಲಕ್ಷ ರೆಂಟ್, ಹತ್ತು ತಿಂಗಳ ಅಡ್ವಾನ್ಸ್, ವರ್ಷಕ್ಕೆ ಐದು ಪರ್ಸೆಂಟ್ ಏರಿಕೆ. ಹನ್ನೊಂದು ತಿಂಗಳ ಅಗ್ರಿಮೆಂಟ್, ಆಮೇಲೆ ರಿನೀವ್ ಮಾಡೋಣ."
+    tr: "Sari. Īga duḍḍina viṣaya. Ondu lakṣa renṭ, hattu tingaḷa aḍvāns, varṣakke aidu parsenṭ ērike. Hannondu tingaḷa agrimeṇṭ, āmēle rinīv māḍōṇa."
+    en: "Fine. Now the money. One lakh rent, ten months' advance, a five percent increase every year. An eleven-month agreement, and then we renew."
+  - who: mahesh
+    t: "ಸಾರ್, ನನ್ನ ಕಡೆಯಿಂದ ಸ್ವಲ್ಪ ಹೇಳ್ತೀನಿ, ಆಮೇಲೆ ನೀವು ತೀರ್ಮಾನ ಮಾಡಿ. ಹತ್ತು ತಿಂಗಳ ಅಡ್ವಾನ್ಸ್ ನನಗೆ ತುಂಬಾ ಜಾಸ್ತಿ ಆಗುತ್ತೆ. ಆ ದುಡ್ಡು ಕಿಚನ್‌ಗೆ ಬೇಕು. ಆರು ತಿಂಗಳು ಮಾಡ್ಕೊಳ್ಳಿ."
+    tr: "Sār, nanna kaḍeyinda svalpa hēḷtīni, āmēle nīvu tīrmāna māḍi. Hattu tingaḷa aḍvāns nanage tumbā jāsti āgutte. Ā duḍḍu kichan-ge bēku. Āru tingaḷu māḍkoḷḷi."
+    en: "Sir, let me say a little from my side, and then you decide. Ten months' advance is too much for me. That money is needed for the kitchen. Please make it six months."
+  - who: landlord
+    t: "ಆರು? ಆಗಲ್ಲಪ್ಪ. ಹೋಟೆಲ್ ಅಂದ್ರೆ ಗೋಡೆ, ಫ್ಲೋರ್ ಎಲ್ಲಾ ಹಾಳಾಗುತ್ತೆ. ನಾಳೆ ನೀವು ಬಿಟ್ಟು ಹೋದ್ರೆ ರಿಪೇರಿ ನನ್ನ ತಲೆಗೆ. ಅಡ್ವಾನ್ಸೇ ನನ್ನ ಭದ್ರತೆ."
+    tr: "Āru? Āgallappa. Hōṭel andre gōḍe, phlōr ellā hāḷāgutte. Nāḷe nīvu biṭṭu hōdre ripēri nanna talege. Aḍvānsē nanna bhadrate."
+    en: "Six? Not possible, son. A hotel ruins the walls, the floor, everything. If you leave tomorrow, the repairs land on my head. The advance is my only security."
+  - who: mahesh
+    t: "ಅರ್ಥ ಆಗುತ್ತೆ ಸಾರ್. ಅದಕ್ಕೇ ಅಗ್ರಿಮೆಂಟ್‌ನಲ್ಲೇ ಬರೆಯೋಣ: ಖಾಲಿ ಮಾಡುವಾಗ ಜಾಗ ಹೇಗೆ ಕೊಟ್ಟಿದ್ರೋ ಹಾಗೇ ವಾಪಸ್. ರಿಪೇರಿ ಖರ್ಚು ಇದ್ರೆ ಅಡ್ವಾನ್ಸ್‌ನಲ್ಲಿ ಕಳೆದುಕೊಳ್ಳಿ. ಆದ್ರೆ ಹತ್ತು ತಿಂಗಳು ಬೇಡ ಸಾರ್."
+    tr: "Artha āgutte sār. Adakkē agrimeṇṭ-nallē bareyōṇa: khāli māḍuvāga jāga hēge koṭṭidrō hāgē vāpas. Ripēri kharchu idre aḍvāns-nalli kaḷedukoḷḷi. Ādre hattu tingaḷu bēḍa sār."
+    en: "I understand, sir. So let's write it into the agreement: when I vacate, the place comes back exactly as you gave it. If there are repair costs, deduct them from the advance. But not ten months, sir."
+  - who: landlord
+    t: "ಎಂಟು ತಿಂಗಳು. ಅದಕ್ಕಿಂತ ಕೆಳಗೆ ಬರಲ್ಲ."
+    tr: "Eṇṭu tingaḷu. Adakkinta keḷage baralla."
+    en: "Eight months. I won't go lower than that."
+  - who: broker
+    t: "ಸಾರ್, ಮಹೇಶ್ ಅವರು ಒಳ್ಳೆ ಹುಡುಗ, ಲಾಂಗ್ ಟರ್ಮ್ ಇರ್ತಾರೆ. ಏಳಕ್ಕೆ ಮುಗಿಸ್ಬಿಡಿ. ಎಂಟು ತಿಂಗಳಿಂದ ಜಾಗ ಖಾಲಿ ಇದೆ ಅಲ್ವಾ."
+    tr: "Sār, Mahēś avaru oḷḷe huḍuga, lāṅg ṭarm irtāre. Ēḷakke mugisbiḍi. Eṇṭu tingaḷinda jāga khāli ide alvā."
+    en: "Sir, Mahesh is a good lad, he'll stay long-term. Close it at seven. The place has been empty for eight months, hasn't it?"
+  - who: landlord
+    t: "ಪ್ರಕಾಶ್, ನೀನು ಯಾರ ಕಡೆ? ಮೊನ್ನೆ ಮೊಬೈಲ್ ಅಂಗಡಿ ಪಾರ್ಟಿ ಇದೆ ಅಂತ ನನಗೆ ಹೇಳಿದ್ದೆ."
+    tr: "Prakāś, nīnu yāra kaḍe? Monne mobail aṅgaḍi pārṭi ide anta nanage hēḷidde."
+    en: "Prakash, whose side are you on? Just the other day you told me there was a mobile-shop party."
+  - who: broker
+    t: "ಇದೆ ಸಾರ್, ಆದ್ರೆ ಅವರು ಮೂರು ತಿಂಗಳ ಅಡ್ವಾನ್ಸ್ ಅಂತಿದಾರೆ. ಇವರು ಏಳು ಕೊಡ್ತಾರೆ."
+    tr: "Ide sār, ādre avaru mūru tingaḷa aḍvāns antidāre. Ivaru ēḷu koḍtāre."
+    en: "There is, sir, but they're offering three months' advance. He'll give seven."
+  - who: landlord
+    t: "ಸರಿ. ಏಳು ತಿಂಗಳು. ಆದ್ರೆ ಹಾಗಾದ್ರೆ ರೆಂಟ್ ಒಂದು ಲಕ್ಷನೇ, ಅದರಲ್ಲಿ ಚೌಕಾಸಿ ಇಲ್ಲ."
+    tr: "Sari. Ēḷu tingaḷu. Ādre hāgādre renṭ ondu lakṣanē, adaralli chaukāsi illa."
+    en: "(Sighing) All right. Seven months. But in that case the rent stays at one lakh, no haggling on that."
+  - who: mahesh
+    t: "ರೆಂಟ್ ಒಂದು ಲಕ್ಷ ಓಕೆ ಸಾರ್. ಇನ್ನು ಎರಡು ವಿಷಯ. ಮೊದಲನೇದು, ಇಂಟೀರಿಯರ್, ಚಿಮಣಿ, ಗ್ರೀಸ್ ಟ್ರ್ಯಾಪ್, ಕಿಚನ್ ಸೆಟಪ್ ಮಾಡೋಕೆ ಕನಿಷ್ಠ ಎರಡು ತಿಂಗಳು ಬೇಕು. ಆ ಟೈಮ್‌ನಲ್ಲಿ ವ್ಯಾಪಾರ ಇರಲ್ಲ. ಎರಡು ತಿಂಗಳು ರೆಂಟ್-ಫ್ರೀ ಕೊಡಿ."
+    tr: "Renṭ ondu lakṣa ōke sār. Innu eraḍu viṣaya. Modalanēdu, iṇṭīriyar, chimaṇi, grīs ṭryāp, kichan seṭap māḍōke kaniṣṭha eraḍu tingaḷu bēku. Ā ṭaim-nalli vyāpāra iralla. Eraḍu tingaḷu renṭ-phrī koḍi."
+    en: "One lakh rent is fine, sir. Two more things. First, the interiors, chimney, grease trap and kitchen set-up will take at least two months. There's no business during that time. Please give two months rent-free."
+  - who: landlord
+    t: "ಎರಡು ತಿಂಗಳು ಫ್ರೀ ಅಂದ್ರೆ ಎರಡು ಲಕ್ಷ! ಒಂದು ತಿಂಗಳು ಕೊಡ್ತೀನಿ. ಡಿಸೆಂಬರ್ ಫ್ರೀ, ಜನವರಿ ಒಂದರಿಂದ ರೆಂಟ್."
+    tr: "Eraḍu tingaḷu phrī andre eraḍu lakṣa! Ondu tingaḷu koḍtīni. Ḍisembar phrī, Janavari ondarinda renṭ."
+    en: "Two months free means two lakh! I'll give one month. December free, rent from the first of January."
+  - who: mahesh
+    t: "ಸರಿ ಸಾರ್, ಒಪ್ಪಿಗೆ. ಎರಡನೇದು: ಹನ್ನೊಂದು ತಿಂಗಳ ಅಗ್ರಿಮೆಂಟ್ ನನಗೆ ಆಗಲ್ಲ. ಆರು ಲಕ್ಷ ಇಂಟೀರಿಯರ್‌ಗೆ ಹಾಕ್ತೀನಿ, ಬ್ಯಾಂಕ್ ಲೋನ್ ಐದು ವರ್ಷದ್ದು. ಹನ್ನೊಂದು ತಿಂಗಳಲ್ಲಿ ಖಾಲಿ ಮಾಡಿ ಅಂದ್ರೆ ನಾನು ಬೀದಿಗೆ ಬರ್ತೀನಿ. ಕನಿಷ್ಠ ಮೂರು ವರ್ಷದ ರಿಜಿಸ್ಟರ್ಡ್ ಲೀಸ್ ಬೇಕು."
+    tr: "Sari sār, oppige. Eraḍanēdu: hannondu tingaḷa agrimeṇṭ nanage āgalla. Āru lakṣa iṇṭīriyar-ge hāktīni, byāṅk lōn aidu varṣaddu. Hannondu tingaḷalli khāli māḍi andre nānu bīdige bartīni. Kaniṣṭha mūru varṣada rijisṭarḍ līs bēku."
+    en: "All right, sir, agreed. Second: an eleven-month agreement won't work for me. I'm putting six lakh into interiors, and the bank loan is for five years. If you tell me to vacate after eleven months, I'm on the street. I need at least a three-year registered lease."
+  - who: landlord
+    t: "ಜನ ಹನ್ನೊಂದು ತಿಂಗಳು ಯಾಕೆ ಮಾಡ್ತಾರೆ ಗೊತ್ತಾ? ರಿಜಿಸ್ಟ್ರೇಷನ್ ಖರ್ಚು ಇಲ್ಲ, ಸಬ್-ರಿಜಿಸ್ಟ್ರಾರ್ ಆಫೀಸ್ ಓಡಾಟ ಇಲ್ಲ. ಮತ್ತೆ ಬಾಡಿಗೆದಾರ ಸರಿ ಇಲ್ಲಾಂದ್ರೆ ಸುಲಭವಾಗಿ ಕಳಿಸಬಹುದು. ನಾನು ಮೂವತ್ತೈದು ವರ್ಷ ಬ್ಯಾಂಕ್‌ನಲ್ಲಿ ಇದ್ದೋನು, ಎಲ್ಲಾ ಗೊತ್ತು."
+    tr: "Jana hannondu tingaḷu yāke māḍtāre gottā? Rijisṭrēṣan kharchu illa, sab-rijisṭrār āphīs ōḍāṭa illa. Matte bāḍigedāra sari illāndre sulabhavāgi kaḷisabahudu. Nānu mūvattaidu varṣa byāṅk-nalli iddōnu, ellā gottu."
+    en: "Do you know why people do eleven months? No registration cost, no running around the Sub-Registrar's office. And if the tenant's no good, you can send him off easily. I was in a bank for thirty-five years; I know it all."
+  - who: mahesh
+    t: "ನಿಮಗೂ ಭದ್ರತೆ ಬೇಕು, ನನಗೂ ಬೇಕು ಸಾರ್. ಹಾಗಾದ್ರೆ ಹೀಗೆ ಮಾಡೋಣ: ಮೂರು ವರ್ಷದ ಲೀಸ್, ಮೊದಲ ಒಂದು ವರ್ಷ ಲಾಕ್-ಇನ್. ಆ ಟೈಮ್‌ನಲ್ಲಿ ನೀವು ನನ್ನನ್ನ ಕಳಿಸೋ ಹಾಗಿಲ್ಲ, ನಾನೂ ಬಿಟ್ಟು ಹೋಗೋ ಹಾಗಿಲ್ಲ. ನಾನು ಬಿಟ್ಟು ಹೋದ್ರೆ ಉಳಿದ ತಿಂಗಳ ರೆಂಟ್ ಅಡ್ವಾನ್ಸ್‌ನಿಂದ ಕಳೆದುಕೊಳ್ಳಿ. ಆಮೇಲೆ ಯಾರಾದ್ರೂ ಮೂರು ತಿಂಗಳ ನೋಟಿಸ್ ಕೊಟ್ಟು ಮುಗಿಸಬಹುದು. ರಿಜಿಸ್ಟ್ರೇಷನ್ ಖರ್ಚು ನಾನೇ ಕೊಡ್ತೀನಿ."
+    tr: "Nimagū bhadrate bēku, nanagū bēku sār. Hāgādre hīge māḍōṇa: mūru varṣada līs, modala ondu varṣa lāk-in. Ā ṭaim-nalli nīvu nannanna kaḷisō hāgilla, nānū biṭṭu hōgō hāgilla. Nānu biṭṭu hōdre uḷida tingaḷa renṭ aḍvāns-ninda kaḷedukoḷḷi. Āmēle yārādrū mūru tingaḷa nōṭis koṭṭu mugisabahudu. Rijisṭrēṣan kharchu nānē koḍtīni."
+    en: "You need security, and so do I, sir. So let's do this: a three-year lease with a one-year lock-in at the start. During that time you can't send me away, and I can't walk out. If I do walk out, deduct the remaining months' rent from the advance. After that, either of us can end it with three months' notice. And I'll pay the registration costs myself."
+  - who: landlord
+    t: "ರಿಜಿಸ್ಟ್ರೇಷನ್ ಖರ್ಚು ನಿಮ್ದು… ಹುಂ. ಲಾಕ್-ಇನ್ ಎರಡು ವರ್ಷ ಮಾಡಿ. ಹೋಟೆಲ್‌ಗೆ ಅಂತ ನಾನು ಡ್ರೈನೇಜ್, ಕರೆಂಟ್ ಎಲ್ಲಾ ಬದಲಾಯಿಸ್ಬೇಕು. ಒಂದು ವರ್ಷದಲ್ಲಿ ನೀವು ಹೋದ್ರೆ ನನಗೆ ನಷ್ಟ."
+    tr: "Rijisṭrēṣan kharchu nimdu… huṁ. Lāk-in eraḍu varṣa māḍi. Hōṭel-ge anta nānu ḍrainēj, karaṇṭ ellā badalāyisbēku. Ondu varṣadalli nīvu hōdre nanage naṣṭa."
+    en: "The registration costs are yours… hm. Make the lock-in two years. I have to change the drainage, the wiring, everything for a hotel. If you leave within a year, I lose out."
+  - who: mahesh
+    t: "ಒಂದೂವರೆ ವರ್ಷ ಸಾರ್. ಮಧ್ಯದಲ್ಲಿ ಮೀಟ್ ಮಾಡೋಣ."
+    tr: "Ondūvare varṣa sār. Madhyadalli mīṭ māḍōṇa."
+    en: "A year and a half, sir. Let's meet in the middle."
+  - who: landlord
+    t: "ಒಂದೂವರೆ ವರ್ಷ. ಸರಿ. ಐದು ಪರ್ಸೆಂಟ್ ಏರಿಕೆ ಪ್ರತಿ ವರ್ಷ, ಅದು ಮಾತ್ರ ಬದಲಾಗಲ್ಲ."
+    tr: "Ondūvare varṣa. Sari. Aidu parsenṭ ērike prati varṣa, adu mātra badalāgalla."
+    en: "A year and a half. Fine. Five percent increase every year; that alone doesn't change."
+  - who: mahesh
+    t: "ಐದು ಪರ್ಸೆಂಟ್ ಓಕೆ ಸಾರ್. ಈಗ ಸಿವಿಲ್ ಕೆಲಸ. ಯಾರು ಏನು ಮಾಡಿಸೋದು ಅಂತ ಈಗಲೇ ಸ್ಪಷ್ಟ ಆದ್ರೆ ಒಳ್ಳೇದು."
+    tr: "Aidu parsenṭ ōke sār. Īga sivil kelasa. Yāru ēnu māḍisōdu anta īgalē spaṣṭa ādre oḷḷēdu."
+    en: "Five percent is fine, sir. Now the civil work. Better to be clear now about who gets what done."
+  - who: landlord
+    t: "ನಾನು ಮಾಡಿಸ್ತೀನಿ: ಹಿಂದಿನ ಗೋಡೆಯಲ್ಲಿ ತೇವ ಇದೆ, ಅದನ್ನ ಸರಿ ಮಾಡಿಸ್ತೀನಿ. ಮೇನ್ ಲೈನ್ ತನಕ ಹೊಸ ಡ್ರೈನೇಜ್ ಪೈಪ್ ಹಾಕಿಸ್ತೀನಿ. ತ್ರೀ-ಫೇಸ್‌ಗೆ ಬೆಸ್ಕಾಂಗೆ ನನ್ನ ಹೆಸರಲ್ಲಿ ಅಪ್ಲೈ ಮಾಡ್ತೀನಿ, ಡೆಪಾಸಿಟ್ ನೀವು ಕಟ್ಟಿ. ಒಳಗಿನ ಕೆಲಸ ಎಲ್ಲಾ ನಿಮ್ದು: ಟೈಲ್ಸ್, ಕೌಂಟರ್, ಚಿಮಣಿ, ಗ್ರೀಸ್ ಟ್ರ್ಯಾಪ್, ಬೋರ್ಡ್. ಗೋಡೆ ಒಡೆಯೋದಾದ್ರೆ ಮೊದಲು ನನ್ನನ್ನ ಕೇಳಿ."
+    tr: "Nānu māḍistīni: hindina gōḍeyalli tēva ide, adanna sari māḍistīni. Mēn lain tanaka hosa ḍrainēj paip hākistīni. Trī-phēs-ge Beskāṅge nanna hesaralli aplai māḍtīni, ḍepāsiṭ nīvu kaṭṭi. Oḷagina kelasa ellā nimdu: ṭails, kauṇṭar, chimaṇi, grīs ṭryāp, bōrḍ. Gōḍe oḍeyōdādre modalu nannanna kēḷi."
+    en: "I'll get these done: the back wall is damp, I'll have it fixed. I'll have a new drainage pipe laid up to the main line. I'll apply to BESCOM for three-phase in my name, and you pay the deposit. All the inside work is yours: tiles, counters, chimney, grease trap, signboard. If any wall needs breaking, ask me first."
+  - who: mahesh
+    t: "ಕರೆಂಟ್ ಬಿಲ್, ನೀರಿನ ಬಿಲ್?"
+    tr: "Karaṇṭ bil, nīrina bil?"
+    en: "Electricity bill, water bill?"
+  - who: landlord
+    t: "ಅಂಗಡಿಗೆ ಬೇರೆ ಮೀಟರ್ ಇದೆ, ಆ ಬಿಲ್ ನೀವೇ ಕಟ್ಟಿ. ನೀರಿಗೆ ಬೇರೆ ಮೀಟರ್ ಇಲ್ಲ. ಹೋಟೆಲ್ ನೀರು ಜಾಸ್ತಿ ಬಳಸುತ್ತೆ, ಅದಕ್ಕೆ ತಿಂಗಳಿಗೆ ಒಂದು ಫಿಕ್ಸ್‌ಡ್ ಅಮೌಂಟ್ ಮಾಡೋಣ, ಮೂರು ಸಾವಿರ. ಪ್ರಾಪರ್ಟಿ ಟ್ಯಾಕ್ಸ್ ನನ್ನದು."
+    tr: "Aṅgaḍige bēre mīṭar ide, ā bil nīvē kaṭṭi. Nīrige bēre mīṭar illa. Hōṭel nīru jāsti baḷasutte, adakke tingaḷige ondu phiksḍ amauṇṭ māḍōṇa, mūru sāvira. Prāparṭi ṭyāks nannadu."
+    en: "The shop has its own meter; you pay that bill. There's no separate water meter. A hotel uses a lot of water, so let's fix an amount per month: three thousand. Property tax is mine."
+  - who: mahesh
+    t: "ಸರಿ ಸಾರ್. ಕೊನೆಯದು: ಮುಂದೆ ಬೋರ್ಡ್. ಕನ್ನಡ ದೊಡ್ಡದಾಗಿ ಇರ್ಬೇಕು, ಅರವತ್ತು ಪರ್ಸೆಂಟ್ ಅಂತ ರೂಲ್ ಇದೆ. ಅದಕ್ಕೆ ಸಾಕಷ್ಟು ಜಾಗ ಬೇಕು."
+    tr: "Sari sār. Koneyadu: munde bōrḍ. Kannaḍa doḍḍadāgi irbēku, aravattu parsenṭ anta rūl ide. Adakke sākaṣṭu jāga bēku."
+    en: "All right, sir. Last thing: the board in front. The Kannada has to be big; there's a sixty-percent rule. I'll need enough space for it."
+  - who: landlord
+    t: "ಕನ್ನಡ ಬೋರ್ಡ್‌ಗೆ ನಾನು ಯಾವತ್ತೂ ಬೇಡ ಅನ್ನಲ್ಲ. ಆದ್ರೆ ನನ್ನ ಬಾಲ್ಕನಿ ಮುಚ್ಚೋ ಹಾಗೆ ಬೇಡ. ಸರಿ ಪ್ರಕಾಶ್, ಎಲ್ಲಾ ಸೇರಿಸಿ ಒಂದ್ಸಲ ಹೇಳು."
+    tr: "Kannaḍa bōrḍ-ge nānu yāvattū bēḍa annalla. Ādre nanna bālkani mucchō hāge bēḍa. Sari Prakāś, ellā sērisi ondsala hēḷu."
+    en: "I'll never say no to a Kannada board. Just don't cover my balcony. All right, Prakash, put it all together and say it once."
+  - who: broker
+    t: "ಹೇಳ್ತೀನಿ ಸಾರ್. ರೆಂಟ್ ತಿಂಗಳಿಗೆ ಒಂದು ಲಕ್ಷ, ಜನವರಿ ಒಂದರಿಂದ. ಡಿಸೆಂಬರ್ ಫಿಟ್-ಔಟ್‌ಗೆ ಫ್ರೀ. ಅಡ್ವಾನ್ಸ್ ಏಳು ಲಕ್ಷ, ಬಡ್ಡಿ ಇಲ್ಲ, ಖಾಲಿ ಮಾಡುವಾಗ ರಿಪೇರಿ ಖರ್ಚು ಕಳೆದು ವಾಪಸ್. ಮೂರು ವರ್ಷದ ರಿಜಿಸ್ಟರ್ಡ್ ಲೀಸ್, ಹದಿನೆಂಟು ತಿಂಗಳ ಲಾಕ್-ಇನ್, ಆಮೇಲೆ ಮೂರು ತಿಂಗಳ ನೋಟಿಸ್. ವರ್ಷಕ್ಕೆ ಐದು ಪರ್ಸೆಂಟ್ ಏರಿಕೆ. ಪ್ಯೂರ್ ವೆಜ್, ರಾತ್ರಿ ಹತ್ತೂವರೆಗೆ ಕ್ಲೋಸ್."
+    tr: "Hēḷtīni sār. Renṭ tingaḷige ondu lakṣa, Janavari ondarinda. Ḍisembar phiṭ-auṭ-ge phrī. Aḍvāns ēḷu lakṣa, baḍḍi illa, khāli māḍuvāga ripēri kharchu kaḷedu vāpas. Mūru varṣada rijisṭarḍ līs, hadineṇṭu tingaḷa lāk-in, āmēle mūru tingaḷa nōṭis. Varṣakke aidu parsenṭ ērike. Pyūr vej, rātri hattūvarege klōs."
+    en: "Here it is, sir. Rent one lakh a month from the first of January. December free for the fit-out. Advance seven lakh, interest-free, returned on vacating minus any repair costs. A three-year registered lease, eighteen-month lock-in, then three months' notice. Five percent increase a year. Pure veg, closed by ten-thirty at night."
+  - who: landlord
+    t: "ಸರಿ. ಟೋಕನ್ ಅಡ್ವಾನ್ಸ್ ಎಷ್ಟು ಕೊಡ್ತೀರಿ?"
+    tr: "Sari. Ṭōkan aḍvāns eṣṭu koḍtīri?"
+    en: "Fine. How much token advance will you give?"
+  - who: mahesh
+    t: "ಒಂದು ಲಕ್ಷ ಸಾರ್, ಈಗಲೇ, ಬ್ಯಾಂಕ್ ಟ್ರಾನ್ಸ್‌ಫರ್‌ನಲ್ಲಿ. ಕ್ಯಾಶ್ ಬೇಡ, ಎಲ್ಲಾ ದಾಖಲೆ ಇರ್ಲಿ. ಉಳಿದ ಆರು ಲಕ್ಷ ರಿಜಿಸ್ಟ್ರೇಷನ್ ದಿನ. ಟೋಕನ್‌ಗೆ ಒಂದು ರಶೀದಿ ಕೊಡಿ ಸಾರ್."
+    tr: "Ondu lakṣa sār, īgalē, byāṅk ṭrānsphar-nalli. Kyāś bēḍa, ellā dākhale irli. Uḷida āru lakṣa rijisṭrēṣan dina. Ṭōkan-ge ondu raśīdi koḍi sār."
+    en: "One lakh, sir, right now, by bank transfer. No cash; let there be a record of everything. The remaining six lakh on the day of registration. Please give me a receipt for the token, sir."
+  - who: landlord
+    t: "ಬ್ಯಾಂಕ್ ಮ್ಯಾನೇಜರ್ ಹತ್ರಾನೇ ರಶೀದಿ ಕೇಳ್ತಿದೀಯ! ಒಳ್ಳೇದು, ನನಗೆ ಇಷ್ಟ ಆಯ್ತು. ಕೊಡ್ತೀನಿ, ಇಲ್ಲಿ ಸಹಿ ಹಾಕಿ."
+    tr: "Byāṅk myānējar hatrānē raśīdi kēḷtidīya! Oḷḷēdu, nanage iṣṭa āytu. Koḍtīni, illi sahi hāki."
+    en: "You're asking a bank manager for a receipt! Good, I like that. I'll give you one; sign here."
+  - who: broker
+    t: "ಮತ್ತೆ ನನ್ನ ಕಮಿಷನ್, ಮಹೇಶ್ ಅವರೇ. ರಿಜಿಸ್ಟ್ರೇಷನ್ ದಿನ, ಒಂದು ತಿಂಗಳ ರೆಂಟ್."
+    tr: "Matte nanna kamiṣan, Mahēś avarē. Rijisṭrēṣan dina, ondu tingaḷa renṭ."
+    en: "And my commission, Mahesh. On registration day: one month's rent."
+  - who: mahesh
+    t: "ನೀವು ಓನರ್ ಕಡೆಯಿಂದಾನೂ ತಗೊಳ್ತೀರಿ ಅಂತ ನನಗೆ ಗೊತ್ತು. ನನ್ನ ಕಡೆಯಿಂದ ಅರ್ಧ ತಿಂಗಳು, ಐವತ್ತು ಸಾವಿರ. “ಮೊಬೈಲ್ ಅಂಗಡಿ ಪಾರ್ಟಿ” ಕಥೆಗೆ ಡಿಸ್ಕೌಂಟ್."
+    tr: "Nīvu ōnar kaḍeyindānū tagoḷtīri anta nanage gottu. Nanna kaḍeyinda ardha tingaḷu, aivattu sāvira. “Mobail aṅgaḍi pārṭi” kathege ḍiskauṇṭ."
+    en: "I know you're taking commission from the owner's side as well. From my side, half a month: fifty thousand. A discount for the “mobile-shop party” story."
+  - who: broker
+    t: "ಅಯ್ಯೋ… ಸರಿ, ಸರಿ. ಉಡುಪಿಯವರ ಹತ್ರ ಗೆಲ್ಲೋಕಾಗಲ್ಲ."
+    tr: "Ayyō… sari, sari. Uḍupiyavara hatra gellōkāgalla."
+    en: "Ayyo… fine, fine. You can't win against an Udupi man."
+
+  - section: "Reading the lease, registering it"
+    learn: "documents: līs ḍīḍ, ḍrāphṭ, sṭyāmp ḍyūṭi, chalan, raśīdi · causatives: badalāyisu, sērisu · reported speech: “… badalāyisi” andru · deadlines and dates"
+  - scene: "Two weeks later. The lawyer has sent the draft lease. Kavya has read every clause twice with a red pen."
+  - who: kavya
+    t: "ಡ್ರಾಫ್ಟ್ ಪೂರ್ತಿ ಓದಿದೆ. ಎರಡು ತಪ್ಪು ಇದೆ. ಲಾಕ್-ಇನ್‌ನಲ್ಲಿ “ಬಾಡಿಗೆದಾರ ಮಾತ್ರ” ಅಂತ ಬರೆದಿದೆ. ಹಾಗಾದ್ರೆ ಓನರ್ ಯಾವಾಗ ಬೇಕಾದ್ರೂ ಕಳಿಸಬಹುದು. “ಎರಡೂ ಕಡೆ” ಅಂತ ಬದಲಾಯಿಸ್ಬೇಕು."
+    tr: "Ḍrāphṭ pūrti ōdide. Eraḍu tappu ide. Lāk-in-nalli “bāḍigedāra mātra” anta baredide. Hāgādre ōnar yāvāga bēkādrū kaḷisabahudu. “Eraḍū kaḍe” anta badalāyisbēku."
+    en: "I've read the whole draft. There are two mistakes. Under lock-in it says “tenant only”. That means the owner could send us away whenever he likes. It has to be changed to “both parties”."
+  - who: mahesh
+    t: "ಎರಡನೇದು?"
+    tr: "Eraḍanēdu?"
+    en: "And the second?"
+  - who: kavya
+    t: "ಅಡ್ವಾನ್ಸ್ ಯಾವಾಗ ವಾಪಸ್ ಅಂತ ಇಲ್ಲ. “ಖಾಲಿ ಮಾಡಿದ ಮೂವತ್ತು ದಿನದೊಳಗೆ, ರಿಪೇರಿ ಖರ್ಚು ಬಿಲ್ ಸಮೇತ ಕಳೆದು” ಅಂತ ಸೇರಿಸ್ಬೇಕು. ಇಲ್ಲಾಂದ್ರೆ ವರ್ಷಗಟ್ಟಲೆ ಕಾಯ್ಬೇಕಾಗುತ್ತೆ. ಮತ್ತೆ ಲೀಸ್ ಫರ್ಮ್ ಹೆಸರಲ್ಲಿ ಇರ್ಬೇಕು, ನಿನ್ನ ಹೆಸರಲ್ಲಿ ಅಲ್ಲ. ಬ್ಯಾಂಕ್ ಅದನ್ನೇ ಕೇಳುತ್ತೆ."
+    tr: "Aḍvāns yāvāga vāpas anta illa. “Khāli māḍida mūvattu dinadoḷage, ripēri kharchu bil samēta kaḷedu” anta sērisbēku. Illāndre varṣagaṭṭale kāybēkāgutte. Matte līs pharm hesaralli irbēku, ninna hesaralli alla. Byāṅk adannē kēḷutte."
+    en: "It doesn't say when the advance comes back. We need to add: “within thirty days of vacating, after deducting repair costs with bills.” Otherwise we could be waiting for years. And the lease has to be in the firm's name, not yours. That's what the bank will ask for."
+  - who: mahesh
+    t: "ವೆಂಕಟೇಶ ಮೂರ್ತಿ ಅವರು ಒಪ್ತಾರಾ?"
+    tr: "Veṅkaṭēśa Mūrti avaru optārā?"
+    en: "Will Mr. Murthy agree?"
+  - who: kavya
+    t: "ನಿನ್ನೆ ಫೋನ್ ಮಾಡಿದ್ದೆ. “ಸರಿಯಾಗಿ ಓದಿದೀರಿ, ಬದಲಾಯಿಸಿ” ಅಂದ್ರು. ರಿಟೈರ್ಡ್ ಬ್ಯಾಂಕರ್‌ಗೆ ಪೇಪರ್ ಓದೋರು ಅಂದ್ರೆ ಇಷ್ಟ."
+    tr: "Ninne phōn māḍidde. “Sariyāgi ōdidīri, badalāyisi” andru. Riṭairḍ byāṅkar-ge pēpar ōdōru andre iṣṭa."
+    en: "I called him yesterday. He said, “You've read it properly; change it.” A retired banker likes people who read their papers."
+  - scene: "Friday, 28 November 2025. The Sub-Registrar office in Jayanagar. Mahesh, Kavya, Mr. Murthy and two witnesses on a bench, waiting for their number to be called."
+  - who: landlord
+    t: "ಸ್ಟ್ಯಾಂಪ್ ಡ್ಯೂಟಿ, ರಿಜಿಸ್ಟ್ರೇಷನ್ ಫೀಸ್ ಎಲ್ಲಾ ಆನ್‌ಲೈನ್‌ನಲ್ಲೇ ಕಟ್ಟಿದ್ರಾ?"
+    tr: "Sṭyāmp ḍyūṭi, rijisṭrēṣan phīs ellā ān-lain-nallē kaṭṭidrā?"
+    en: "Did you pay the stamp duty and registration fee online?"
+  - who: mahesh
+    t: "ಹೌದು ಸಾರ್. ಲಾಯರ್ ಲೆಕ್ಕ ಹಾಕಿದ್ರು. ರೆಂಟ್, ಅಡ್ವಾನ್ಸ್ ಮೇಲೆ ಪರ್ಸೆಂಟೇಜ್ ಲೆಕ್ಕ ಅಂತೆ. ಎಲ್ಲಾ ಸೇರಿ ಸುಮಾರು ನಲವತ್ತು ಸಾವಿರ ಆಯ್ತು. ಕರೆಕ್ಟ್ ಅಮೌಂಟ್ ಚಲನ್‌ನಲ್ಲಿ ಇದೆ."
+    tr: "Haudu sār. Lāyar lekka hākidru. Renṭ, aḍvāns mēle parsenṭēj lekka ante. Ellā sēri sumāru nalavattu sāvira āytu. Karekṭ amauṇṭ chalan-nalli ide."
+    en: "Yes, sir. The lawyer worked it out. Apparently it's a percentage of the rent and the advance. All together it came to about forty thousand. The exact amount is on the challan."
+  - who: landlord
+    t: "ನಲವತ್ತು ಸಾವಿರ ಉಳಿಸೋಕೆ ಜನ ಹನ್ನೊಂದು ತಿಂಗಳ ಅಗ್ರಿಮೆಂಟ್ ಮಾಡ್ತಾರೆ, ಆಮೇಲೆ ಕೋರ್ಟ್‌ಗೆ ಲಕ್ಷ ಲಕ್ಷ ಕೊಡ್ತಾರೆ. ನೀವು ಮಾಡಿದ್ದು ಸರಿ."
+    tr: "Nalavattu sāvira uḷisōke jana hannondu tingaḷa agrimeṇṭ māḍtāre, āmēle kōrṭ-ge lakṣa lakṣa koḍtāre. Nīvu māḍiddu sari."
+    en: "To save forty thousand, people do eleven-month agreements, and then pay lakhs and lakhs in court. You did the right thing."
+  - who: mahesh
+    t: "ನಿಮ್ಮಂಥವರ ಹತ್ರಾನೇ ಕಲಿತದ್ದು ಸಾರ್."
+    tr: "Nimmanthavara hatrānē kalitaddu sār."
+    en: "I learnt it from people like you, sir."
+  - scene: "Their number is called. Photos, thumbprints, signatures. Twenty minutes later it is done. On the steps outside, Mr. Murthy takes a bunch of keys from his pocket."
+  - who: landlord
+    t: "ಇಗೋ, ಕೀ. ಡಿಸೆಂಬರ್ ಒಂದರಿಂದ ಜಾಗ ನಿಮ್ದು. ಒಂದು ಮಾತು, ಮಹೇಶ್: ಬೆಳಗ್ಗೆ ಮೊದಲ ಕಾಫಿ ನನಗೆ. ಆದ್ರೆ ದುಡ್ಡು ಕೊಟ್ಟೇ ಕುಡೀತೀನಿ. ಓನರ್‌ಗೆ ಅಂತ ಬಿಟ್ಟಿ ಕಾಫಿ ಕೊಡೋಕೆ ಶುರು ಮಾಡಿದ್ರೆ ಬಿಸಿನೆಸ್ ಉಳಿಯಲ್ಲ."
+    tr: "Igō, kī. Ḍisembar ondarinda jāga nimdu. Ondu mātu, Mahēś: beḷagge modala kāphi nanage. Ādre duḍḍu koṭṭē kuḍītīni. Ōnar-ge anta biṭṭi kāphi koḍōke śuru māḍidre bisines uḷiyalla."
+    en: "Here, the keys. From the first of December the place is yours. One word, Mahesh: the first coffee of the morning is mine. But I'll pay for it. Once you start giving free coffee to the owner, the business won't survive."
+  - who: mahesh
+    t: "ಸರಿ ಸಾರ್. ಮೊದಲ ಟೋಕನ್ ನಿಮ್ಮದು."
+    tr: "Sari sār. Modala ṭōkan nimmadu."
+    en: "Agreed, sir. The first token is yours."
+  - who: kavya
+    t: "ಬ್ಯಾಂಕ್‌ಗೆ ಲೀಸ್ ಕಾಪಿ ಇವತ್ತೇ ಕಳಿಸ್ತೀನಿ. ರಶ್ಮಿ ಮೇಡಂ ಹೇಳಿದ ಹಾಗೆ, ಅಡ್ರೆಸ್ ಇದ್ರೆ ಫೈಲ್ ಮುಂದೆ ಹೋಗುತ್ತೆ. ಲೆಕ್ಕ ಕೇಳು: ಏಳು ಲಕ್ಷ ಅಡ್ವಾನ್ಸ್, ಐವತ್ತು ಸಾವಿರ ಕಮಿಷನ್, ನಲವತ್ತು ಸಾವಿರ ರಿಜಿಸ್ಟ್ರೇಷನ್. ನಮ್ಮ ಒಂಬತ್ತು ಲಕ್ಷದಲ್ಲಿ ಉಳಿದಿರೋದು ಒಂದು ಲಕ್ಷ ಹತ್ತು ಸಾವಿರ. ನಿತಿನ್‌ನ ಎಂಟು ಲಕ್ಷ ಮುಟ್ಟಿಲ್ಲ, ಅದು ಕಿಚನ್‌ಗೆ."
+    tr: "Byāṅk-ge līs kāpi ivattē kaḷistīni. Raśmi mēḍam hēḷida hāge, aḍres idre phail munde hōgutte. Lekka kēḷu: ēḷu lakṣa aḍvāns, aivattu sāvira kamiṣan, nalavattu sāvira rijisṭrēṣan. Namma ombattu lakṣadalli uḷidirōdu ondu lakṣa hattu sāvira. Nitin-na eṇṭu lakṣa muṭṭilla, adu kichan-ge."
+    en: "(Walking out, phone in hand) I'll send the lease copy to the bank today. Like Rashmi madam said, with an address the file will move. Listen to the numbers: seven lakh advance, fifty thousand commission, forty thousand registration. Of our nine lakh, one lakh ten thousand is left. Nitin's eight lakh is untouched; that's for the kitchen."
+  - who: mahesh
+    t: "ಮತ್ತೆ ಡಿಸೆಂಬರ್ ಒಂದೇ ತಿಂಗಳು ಫ್ರೀ. ಜನವರಿ ಒಂದರಿಂದ ದಿನಕ್ಕೆ ಮೂರು ಸಾವಿರದ ಮುನ್ನೂರು ರೆಂಟ್ ಓಡ್ತಿರುತ್ತೆ, ಅಂಗಡಿ ತೆರೆದಿರಲಿ ಬಿಡಲಿ."
+    tr: "Matte Ḍisembar ondē tingaḷu phrī. Janavari ondarinda dinakke mūru sāvirada munnūru renṭ ōḍtirutte, aṅgaḍi teredirali biḍali."
+    en: "And only December is free. From the first of January, three thousand three hundred a day in rent keeps running, whether the shop is open or not."
+  - who: kavya
+    t: "ಹಾಗಾದ್ರೆ ಓಪನಿಂಗ್ ಜನವರಿ ಕೊನೆಯೊಳಗೆ ಆಗ್ಲೇಬೇಕು. ಅಲ್ಲಿವರೆಗೆ ಲೈಸೆನ್ಸ್, ಕಿಚನ್, ಸ್ಟಾಫ್… ಎಲ್ಲಾ."
+    tr: "Hāgādre ōpaniṅg Janavari koneyoḷage āglēbēku. Allivarege laisens, kichan, sṭāf… ellā."
+    en: "Then the opening has to happen before the end of January. Before that: licences, kitchen, staff… everything."
+  - who: mahesh
+    t: "ಜನವರಿ ಇಪ್ಪತ್ತಾರು. ಗಣರಾಜ್ಯೋತ್ಸವ. ರಾಜ್ಯೋತ್ಸವದ ತಿಂಗಳಲ್ಲಿ ಜಾಗ ಸಿಕ್ತು, ಗಣರಾಜ್ಯೋತ್ಸವದ ದಿನ ಬಾಗಿಲು ತೆರೆಯೋಣ."
+    tr: "Janavari ippattāru. Gaṇarājyōtsava. Rājyōtsavada tingaḷalli jāga siktu, Gaṇarājyōtsavada dina bāgilu tereyōṇa."
+    en: "The twenty-sixth of January. Republic Day. We found the place in Rajyotsava month; let's open the doors on Republic Day."

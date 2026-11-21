@@ -19,9 +19,21 @@
 
   // ---------- sidebar (☰ on phones) + offline button ----------
   const closeNav = () => document.body.classList.remove('nav-open');
-  if ($('#navbtn')) $('#navbtn').onclick = () => document.body.classList.toggle('nav-open');
+  const openNav = expandCurrent => {
+    $$('.nav li.open').forEach(li => li.classList.toggle('open', false));
+    const here = $('.nav li.here');
+    if (expandCurrent && here) here.classList.add('open');
+    document.body.classList.add('nav-open');
+    const cur = expandCurrent && $('.navtoc li.cur');
+    requestAnimationFrame(() => (cur || $('.navhead')).scrollIntoView({ block: expandCurrent ? 'center' : 'start' }));
+  };
+  if ($('#navbtn')) $('#navbtn').onclick = () => document.body.classList.contains('nav-open') ? closeNav() : openNav(true);
+  // under every lesson in the menu: the scene you last used there
+  $$('.navlesson').forEach(a => { const last = store.get('lastsec:' + a.dataset.key, ''); if (last) { const d = document.createElement('small'); d.className = 'navlast'; d.textContent = 'Last: ' + last; a.querySelector('span').append(d); } });
+  // tapping the lesson you are in just expands/collapses its scenes
+  $$('.nav li.here > .navlesson').forEach(a => a.addEventListener('click', e => { e.preventDefault(); a.parentElement.classList.toggle('open'); }));
   // logo = home: phone opens the lesson menu; big screens (menu always visible) go to the top
-  if ($('#brand')) $('#brand').onclick = () => { if (innerWidth >= 1100) scrollTo({ top: 0, behavior: 'smooth' }); else document.body.classList.add('nav-open'); };
+  if ($('#brand')) $('#brand').onclick = () => openNav(false);
   if ($('#scrim')) $('#scrim').onclick = closeNav;
   // dark / light: follows the phone until you choose; your choice is remembered
   const isDark = () => (document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')) === 'dark';
@@ -186,6 +198,13 @@
       for (const el of kids) el.hidden = +el.dataset.page !== page;
       for (const pg of [top, bottom]) { pg.querySelector('.psel').value = page; pg.querySelector('.pprev').disabled = page === 0; pg.querySelector('.pnext').disabled = page === pages - 1; }
       if (scroll) top.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      const secs = kids.filter(e => e.classList.contains('section') && +e.dataset.page <= page);
+      const sec = secs[secs.length - 1];
+      $$('.navtoc li.cur').forEach(li => li.classList.toggle('cur', false));
+      if (sec) {
+        store.set('lastsec:' + L.lang + '-' + L.num, sec.querySelector('h3').textContent.trim());
+        const link = $('.navtoc a[href="#' + sec.id + '"]'); if (link) link.parentElement.classList.add('cur');
+      }
     }
     for (const pg of [top, bottom]) {
       pg.querySelector('.pprev').onclick = () => { stopAll(); show(page - 1, true); };

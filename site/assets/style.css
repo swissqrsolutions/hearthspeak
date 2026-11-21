@@ -167,3 +167,12 @@ button.brand{border:0;background:none;padding:0 6px 0 0;min-height:var(--tap);co
 :root[data-theme="dark"] .themebtn svg:nth-child(1){display:none}
 :root[data-theme="dark"] .themebtn svg:nth-child(2){display:block}
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .themebtn svg:nth-child(1){display:none}:root:not([data-theme="light"]) .themebtn svg:nth-child(2){display:block}}
+
+/* menu: lessons collapsed on Home; current lesson expands; last-used scene marked */
+.nav li .navtoc{display:none}
+.nav li.open .navtoc{display:block}
+.navlesson span{display:flex;flex-direction:column;min-width:0}
+.navlast{font-size:12px;opacity:.8;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.navtoc li.cur a{background:var(--accent-soft);font-weight:700}
+.navtoc li.cur a::after{content:"Last used";margin-left:auto;font-size:11px;color:var(--accent);font-weight:700}
+@media (min-width:1100px){.nav li.here .navtoc{display:block}}

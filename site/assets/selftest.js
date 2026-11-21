@@ -26,9 +26,17 @@ export async function run() {
     // sidebar
     $('#navbtn').click(); await sleep(50);
     ok('☰ opens drawer', document.body.classList.contains('nav-open') || innerWidth >= 1100);
-    document.body.classList.remove('nav-open');
+    document.body.classList.toggle('nav-open', false);
     $('#brand').click(); await sleep(50);
-    ok('logo opens the lesson menu (home)', document.body.classList.contains('nav-open') || innerWidth >= 1100);
+    ok('logo opens the lesson menu (home)', document.body.classList.contains('nav-open'));
+    ok('home shows all lessons collapsed', $$('.nav li.open').length === 0);
+    document.body.classList.toggle('nav-open', false);
+    $('#navbtn').click(); await sleep(50);
+    ok('☰ expands the current lesson', !!$('.nav li.here.open'));
+    ok('current scene marked in the menu', !!$('.navtoc li.cur'));
+    ok('last-used scene remembered', !!localStorage.getItem('lastsec:' + L.lang + '-' + L.num));
+    document.body.classList.toggle('nav-open', false);
+    $('#navbtn').click(); await sleep(50);
     const links = $$('.navtoc a'), mid = links.filter(a => a.getAttribute('href').startsWith('#s-'))[Math.floor(links.length / 2)];
     mid.click(); await sleep(150);
     const target = $(mid.getAttribute('href'));
