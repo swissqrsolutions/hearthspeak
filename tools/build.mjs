@@ -38,7 +38,7 @@ const ICON = {
   moon: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z" fill="currentColor"/></svg>',
   menu: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>',
 };
-const noEmoji = t => String(t || '').replace(/^[\p{Extended_Pictographic}\u{FE0F}\u{200D}\s]+/u, '').trim();
+const noEmoji = t => String(t || '').replace(/^[\p{Extended_Pictographic}\p{Regional_Indicator}\u{FE0F}\u{200D}\s]+/u, '').trim();
 const normWord = w => w.replace(/[!?.,…‘’“”—:;()"'\[\]–-]/g, '').trim();
 
 function buildLesson(langKey, file) {

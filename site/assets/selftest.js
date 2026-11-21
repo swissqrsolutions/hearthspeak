@@ -89,6 +89,9 @@ export async function run() {
       ok('tap shows the meaning (phone)', !!$('.gloss'));
       document.body.click(); await sleep(30);
     }
+    const emojiRe = /[\p{Extended_Pictographic}\p{Regional_Indicator}]/u;
+    const emojiTexts = [...$$('.nav a, .section h3, .chapter, .psel option')].map(e => e.textContent).filter(t => emojiRe.test(t));
+    ok('no emoji or flags in menu and headings', emojiTexts.length === 0, emojiTexts.slice(0, 2).join(' | '));
     ok('no element wider than the screen', document.documentElement.scrollWidth <= innerWidth + 1);
     const small = $$('.line:not([hidden]) .ctl button').filter(b => b.getBoundingClientRect().height < 44);
     ok('tap targets ≥ 44px', small.length === 0, `${small.length} small`);
