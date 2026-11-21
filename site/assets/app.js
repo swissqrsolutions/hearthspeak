@@ -20,20 +20,39 @@
   // ---------- sidebar (☰ on phones) + offline button ----------
   const closeNav = () => document.body.classList.remove('nav-open');
   if ($('#navbtn')) $('#navbtn').onclick = () => document.body.classList.toggle('nav-open');
+  // logo = home: phone opens the lesson menu; big screens (menu always visible) go to the top
+  if ($('#brand')) $('#brand').onclick = () => { if (innerWidth >= 1100) scrollTo({ top: 0, behavior: 'smooth' }); else document.body.classList.add('nav-open'); };
   if ($('#scrim')) $('#scrim').onclick = closeNav;
+  // dark / light: follows the phone until you choose; your choice is remembered
+  const isDark = () => (document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')) === 'dark';
+  if ($('#theme')) $('#theme').onclick = () => { const t = isDark() ? 'light' : 'dark'; document.documentElement.dataset.theme = t; store.set('theme', t); };
   $$('.navlesson').forEach(a => { if (store.get('done:' + a.dataset.key, false)) a.classList.add('done'); });
   const here = $('.nav li.here'); if (here) here.scrollIntoView({ block: 'nearest' });
+  // Save for offline: only downloads what is new or changed; removes outdated audio
   if ($('#offline')) $('#offline').onclick = async () => {
-    const msg = $('#offlineMsg');
+    const msg = $('#offlineMsg'), btn = $('#offline');
     if (!('caches' in window)) { msg.textContent = 'Offline storage not supported here.'; return; }
-    msg.textContent = 'Downloading…';
+    btn.disabled = true; msg.textContent = 'Checking…';
     try {
-      const files = await (await fetch('../../files.json', { cache: 'no-store' })).json();
+      const base = new URL('../../', location.href).href;
+      const files = await (await fetch(base + 'files.json', { cache: 'no-store' })).json();
       const c = await caches.open('hs-v3');
-      let n = 0;
-      for (const f of files) { await c.add('../../' + f).catch(() => {}); msg.textContent = `Saved ${++n}/${files.length}`; }
-      msg.textContent = '✓ Saved. Works without internet now.';
-    } catch { msg.textContent = 'Could not download (are you offline?).'; }
+      const wanted = new Set(files.map(f => base + f));
+      let added = 0, kept = 0, failed = 0, i = 0;
+      for (const f of files) {
+        const url = base + f, isAudio = f.split('?')[0].endsWith('.mp3');
+        i++;
+        if (isAudio && await c.match(url)) { kept++; }
+        else {
+          try { const r = await fetch(url, { cache: 'no-store' }); if (r.ok) { await c.put(url, r); added++; } else failed++; } catch { failed++; }
+        }
+        if (i % 20 === 0 || i === files.length) msg.textContent = `Checking ${i}/${files.length} · ${added} downloaded`;
+      }
+      let removed = 0;   // drop audio from older versions that the app no longer uses
+      for (const req of await c.keys()) if (req.url.split('?')[0].endsWith('.mp3') && !wanted.has(req.url)) { await c.delete(req); removed++; }
+      msg.textContent = `✓ Done: ${added} downloaded, ${kept} already saved${removed ? ', ' + removed + ' old removed' : ''}${failed ? ', ' + failed + ' failed (try again)' : ''}. Works offline.`;
+    } catch { msg.textContent = 'Could not check (are you offline?).'; }
+    btn.disabled = false;
   };
 
   const L = window.LESSON;

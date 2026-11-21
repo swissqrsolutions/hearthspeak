@@ -34,6 +34,8 @@ function glossFor(langKey) {
 const ICON = {
   play: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10.5-6.5z" fill="currentColor"/></svg>',
   stop: '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="7" width="10" height="10" rx="1.5" fill="currentColor"/></svg>',
+  sun: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5" fill="currentColor"/><path d="M12 2.5v2.5M12 19v2.5M4.6 4.6l1.8 1.8M17.6 17.6l1.8 1.8M2.5 12H5M19 12h2.5M4.6 19.4l1.8-1.8M17.6 6.4l1.8-1.8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>',
+  moon: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z" fill="currentColor"/></svg>',
   menu: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>',
 };
 const noEmoji = t => String(t || '').replace(/^[\p{Extended_Pictographic}\u{FE0F}\u{200D}\s]+/u, '').trim();
@@ -112,10 +114,11 @@ function buildLesson(langKey, file) {
 <link rel="stylesheet" href="../../assets/style.css">
 <link rel="manifest" href="../../manifest.webmanifest">
 <link rel="icon" href="../../assets/icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../../assets/icon-192.png"><meta name="theme-color" content="#2f4a3a">
+<script>try{var t=JSON.parse(localStorage.getItem('theme'));if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
 </head><body data-lang="${langKey}">
 <header class="top">
   <button id="navbtn" class="navbtn" aria-label="Lessons and scenes">${ICON.menu}</button>
-  <div class="brand"><img src="../../assets/icon.svg" alt="" width="28" height="28"><span>Hearthspeak</span></div>
+  <button id="brand" class="brand" aria-label="Home: all lessons"><img src="../../assets/icon.svg" alt="" width="28" height="28"><span>Hearthspeak</span></button>
   <div class="ctrl">
     <select id="speed" aria-label="Playback speed">
       <option value="0.25">0.25×</option><option value="0.5">0.5×</option><option value="0.75">0.75×</option>
@@ -178,7 +181,7 @@ function navFor(cur) {
     return `<div class="navcourse">${esc(m.name)} <span class="script" dir="${m.dir}">${esc(m.native)}</span></div>
       ${ls.length ? `<ol class="navlessons">${items}</ol>` : '<div class="navsoon">Coming soon</div>'}`;
   }).join('');
-  return `<aside id="nav" class="nav"><div class="navhead"><img src="../../assets/icon.svg" alt="" width="28" height="28">Hearthspeak</div>${courses}
+  return `<aside id="nav" class="nav"><div class="navhead"><img src="../../assets/icon.svg" alt="" width="28" height="28"><span>Hearthspeak</span><button id="theme" class="themebtn" aria-label="Switch dark or light mode">${ICON.moon}${ICON.sun}</button></div>${courses}
     <div class="navfoot"><button id="offline">Save all lessons for offline use</button><div id="offlineMsg" class="small"></div></div></aside>
   <div id="scrim" class="scrim"></div>`;
 }

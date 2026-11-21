@@ -26,6 +26,9 @@ export async function run() {
     // sidebar
     $('#navbtn').click(); await sleep(50);
     ok('☰ opens drawer', document.body.classList.contains('nav-open') || innerWidth >= 1100);
+    document.body.classList.remove('nav-open');
+    $('#brand').click(); await sleep(50);
+    ok('logo opens the lesson menu (home)', document.body.classList.contains('nav-open') || innerWidth >= 1100);
     const links = $$('.navtoc a'), mid = links.filter(a => a.getAttribute('href').startsWith('#s-'))[Math.floor(links.length / 2)];
     mid.click(); await sleep(150);
     const target = $(mid.getAttribute('href'));
