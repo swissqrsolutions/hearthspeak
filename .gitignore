@@ -1,0 +1,4 @@
+node_modules/
+tools/audio/.venv/
+tools/audio/.cache/
+__pycache__/

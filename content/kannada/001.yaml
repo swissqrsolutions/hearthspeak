@@ -1,0 +1,180 @@
+# Kannada — Lesson 1
+lang: kannada
+num: 1
+level: A1 · Stage 1 (Survival)
+title:
+  t: ಹೊಸ ನೇಬರ್
+  tr: Hosa neighbour
+  en: The new neighbour
+scene: >
+  Sam, who is from Switzerland, has just moved into a flat in Jayanagar, Bengaluru.
+  On the stairs Sam meets the neighbour, Shwetha. Her grandmother, Ajji, is
+  listening from the doorway with a steel tumbler of coffee in her hand…
+
+speakers:
+  sam:  { name: Sam,     voice: male }
+  shwe: { name: Shwetha, voice: female }
+
+# You play Sam in the role-play.
+you: sam
+
+lines:
+  - who: sam
+    t: ನಮಸ್ಕಾರ! ನಾನು ಸ್ಯಾಮ್. ಹೊಸ ನೇಬರ್.
+    tr: Namaskāra! Nānu Sām. Hosa neighbour.
+    lit: Greetings! I Sam. New neighbour.
+    en: Hello! I'm Sam, the new neighbour.
+  - who: shwe
+    t: ಓ, ನಮಸ್ಕಾರ! ನನ್ ಹೆಸ್ರು ಶ್ವೇತಾ. ನೀವು ಎಲ್ಲಿಂದ?
+    tr: Ō, namaskāra! Nan hesru Shwētā. Nīvu ellinda?
+    lit: Oh, greetings! My name Shwetha. You where-from?
+    en: Oh, hello! My name's Shwetha. Where are you from?
+  - who: sam
+    t: ಸ್ವಿಟ್ಜರ್ಲ್ಯಾಂಡಿಂದ.
+    tr: Switzerland-inda.
+    lit: Switzerland-from.
+    en: From Switzerland.
+  - who: shwe
+    t: ಅಯ್ಯೋ, ಅಷ್ಟು ದೂರದಿಂದ! ಕನ್ನಡ ಗೊತ್ತಾ?
+    tr: Ayyō, aṣṭu dūradinda! Kannaḍa gottā?
+    lit: Ayyo, that-much far-from! Kannada known-?
+    en: Wow, from so far away! Do you know Kannada?
+  - who: sam
+    t: ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ. ಕಲೀತಾ ಇದೀನಿ.
+    tr: Swalpa swalpa. Kalītā idīni.
+    lit: Little little. Learning I-am.
+    en: A little bit. I'm learning.
+  - who: shwe
+    t: ಸೂಪರ್! ಬನ್ನಿ, ಕಾಫಿ ಕುಡೀರಿ.
+    tr: Sūpar! Banni, kāfi kuḍīri.
+    lit: Super! Come (polite), coffee drink (polite).
+    en: Great! Come in, have some coffee.
+  - who: sam
+    t: ಓಕೆ, ಥ್ಯಾಂಕ್ಸ್!
+    tr: Ōke, thanks!
+    lit: OK, thanks!
+    en: OK, thanks!
+
+notes:
+  - ref: 1
+    md: >
+      **ನಮಸ್ಕಾರ namaskāra** is the all-purpose respectful *hello*, usually said with
+      palms together. Stretch the long vowels: na-mas-**kaa**-ra. In Kannada, long and short vowels
+      change meaning, so always respect the macron (ā, ī, ū, ē, ō).
+  - ref: 1
+    md: >
+      **ನಾನು nānu** = *I*. Kannada has **no word for "am/is/are"** in sentences like this:
+      *Nānu Sām* = "I Sam" = I'm Sam.
+  - ref: 1
+    md: >
+      **ಹೊಸ hosa** = new. *Neighbour* is English, which is perfectly normal in Bengaluru.
+      Mixing English nouns into Kannada (**Kanglish**) is how natives speak. The "pure" word
+      *nereyavaru* sounds bookish in a city flat.
+  - ref: 2
+    md: >
+      **ನನ್ ಹೆಸ್ರು nan hesru** = my name. Books write *nanna hesaru*, but people say
+      *nan hesru*. This course always teaches the **spoken** form first and shows the book form in brackets.
+  - ref: 2
+    md: >
+      **ನೀವು nīvu** = *you*, the respectful form (strangers, elders, shopkeepers, anyone you're unsure about).
+      **ನೀನು nīnu** is the intimate form (close friends, children). When in doubt, use *nīvu*.
+  - ref: 2
+    md: >
+      **ಎಲ್ಲಿಂದ ellinda** = *from where*: **elli** (where) + **-inda** (from). Kannada glues small
+      words **onto the end**: *Bengaḷūr-inda* = from Bengaluru, *Mysūr-inda* = from Mysuru.
+      Think of a train: the main word is the engine, and the small endings are carriages hooked behind it.
+  - ref: 4
+    md: >
+      **ಅಯ್ಯೋ ayyō**: the great Kannada exclamation, for surprise, pity, shock or sympathy.
+      **ಅಷ್ಟು aṣṭu** = that much / so. **ದೂರ dūra** = far → *dūra-dinda* = from far.
+  - ref: 4
+    md: >
+      **ಗೊತ್ತು gottu** = *(is) known*. **Add -ā to any sentence to make a yes/no question:**
+      *gottu* (I know) → *gottā?* (do you know?). There's no "do/does" to worry about.
+  - ref: 5
+    md: >
+      **ಸ್ವಲ್ಪ swalpa** = a little. Doubling it (*swalpa swalpa*) softens it: "just a bit".
+      **ಕಲೀತಾ ಇದೀನಿ kalītā idīni** = I am learning. Learn it as one block for now; lesson 9 opens it up
+      (*-tā idīni* = I am …-ing).
+  - ref: 6
+    md: >
+      **ಬನ್ನಿ banni** = come (polite). **ಕುಡೀರಿ kuḍīri** = drink (polite). The polite command ends in **-ri/-i**.
+      *Banni* at the door is an invitation, not a question: you go in.
+
+culture: >
+  **Filter coffee** (*kāfi*) is the heartbeat of a Bengaluru home: strong decoction, hot milk and sugar,
+  "pulled" between a steel tumbler and a *davara* bowl to make froth. Being offered coffee on your first
+  meeting is a warm welcome, and politely accepting is the right move. Elders like Ajji will be
+  delighted by even *swalpa swalpa* Kannada. Many Bengaluru residents switch to English or Hindi
+  for foreigners, so **staying in Kannada** ("Kannaḍa-dalli mātāḍi, please!") is how you'll get practice.
+
+buildup:
+  - [ { t: "ಇದೀನಿ", tr: "idīni" }, { t: "ಕಲೀತಾ ಇದೀನಿ", tr: "kalītā idīni" }, { t: "ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ. ಕಲೀತಾ ಇದೀನಿ.", tr: "swalpa swalpa. kalītā idīni." } ]
+  - [ { t: "ಎಲ್ಲಿಂದ", tr: "ellinda" }, { t: "ನೀವು ಎಲ್ಲಿಂದ?", tr: "nīvu ellinda?" } ]
+  - [ { t: "ಕುಡೀರಿ", tr: "kuḍīri" }, { t: "ಕಾಫಿ ಕುಡೀರಿ", tr: "kāfi kuḍīri" }, { t: "ಬನ್ನಿ, ಕಾಫಿ ಕುಡೀರಿ.", tr: "banni, kāfi kuḍīri." } ]
+
+remix:
+  - { t: "ನಾನು ಸ್ವಿಟ್ಜರ್ಲ್ಯಾಂಡಿಂದ.", tr: "Nānu Switzerland-inda.", en: "I'm from Switzerland." }
+  - { t: "ಶ್ವೇತಾ ಬೆಂಗಳೂರಿಂದ.", tr: "Shwētā Bengaḷūrinda.", en: "Shwetha is from Bengaluru." }
+  - { t: "ಇಂಗ್ಲಿಷ್ ಗೊತ್ತಾ?", tr: "English gottā?", en: "Do you know English?" }
+  - { t: "ಕನ್ನಡ ಗೊತ್ತು, ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ.", tr: "Kannaḍa gottu, swalpa swalpa.", en: "I know Kannada, just a little." }
+  - { t: "ಬನ್ನಿ, ಟೀ ಕುಡೀರಿ.", tr: "Banni, ṭī kuḍīri.", en: "Come, have some tea." }
+  - { t: "ನೀರು ಕುಡೀರಿ.", tr: "Nīru kuḍīri.", en: "Drink some water." }
+
+texting:
+  - { from: shwe, msg: "Hi Sam! Welcome to Bengaluru 😊 Ajji coffee ready ide, banni ☕" }
+  - { from: sam,  msg: "Namaskara Shwetha! Bartini 👍 Kannada swalpa swalpa kalitha idini 😅" }
+  - { from: shwe, msg: "Super! 👌" }
+texting_note: >
+  On WhatsApp, Kannadigas type Kannada in **Latin letters** with no macrons and loose spelling:
+  *idini, kalitha, bartini* ("I'll come"). *ide* = "is (there)".
+
+mission: >
+  Say **"Namaskāra! Nānu ___. Kannaḍa swalpa swalpa gottu."** to one Kannada speaker this week
+  (a colleague, a restaurant, an online tandem partner). Or record yourself saying Sam's lines in
+  **Your turn**, then compare with the native audio.
+
+# Ajji's explanation: en = spoken by the English narrator; t = Kannada clip; pause = seconds of silence
+ajji:
+  - en: "Come, sit, sit. I am Ajji, which means grandmother. Shwetha is my granddaughter. You just heard Sam say his first Kannada words. Let me explain them to you slowly, the way I taught my own grandchildren."
+  - en: "The first word is:"
+  - t: ನಮಸ್ಕಾರ
+  - en: "Namaskaara. It means hello, a respectful hello. Say it with me."
+  - pause: 2
+  - t: ನಮಸ್ಕಾರ
+  - pause: 2
+  - en: "Did you hear the long aa at the end? Na-mas-kaaa-ra. In Kannada we stretch long vowels like a lazy cat in the sun. Long or short can change the meaning, so take your time."
+  - en: "Next, Sam said:"
+  - t: ನಾನು ಸ್ಯಾಮ್
+  - en: "Naanu means I. And here is a beautiful thing, my dear: there is no word for am. You simply say: I, Sam. Naanu Sam. If your name is Peter: Naanu Peter. Try it with your own name now."
+  - pause: 3
+  - en: "Then he said hosa neighbour. Hosa means new. And neighbour, well, that is English! In Bengaluru we mix English into Kannada all the time. People call it Kanglish. An English word inside a Kannada sentence is not a mistake. It is exactly how we talk."
+  - en: "Now Shwetha answered:"
+  - t: ನನ್ ಹೆಸ್ರು ಶ್ವೇತಾ
+  - en: "Nan hesru, my name. In books you will see nanna hesaru, but in the street we swallow the little vowels: nan hesru. I will always teach you how people really speak, and I will show you the book form only on the side."
+  - en: "Then she asked:"
+  - t: ನೀವು ಎಲ್ಲಿಂದ?
+  - en: "Neevu means you, the respectful you. For a stranger, an elder or a shopkeeper, always say neevu. For your close friend or a small child, you say neenu. If you are not sure, say neevu. Nobody ever got angry at too much respect."
+  - en: "Ellinda means from where. Elli is where. And inda means from. Now listen carefully, because this is the secret of Kannada. English says: from Switzerland. Kannada says: Switzerland, from. The little word comes at the end, hooked on like the carriage of a train. Bengaluru from:"
+  - t: ಬೆಂಗಳೂರಿಂದ
+  - en: "Mysuru from:"
+  - t: ಮೈಸೂರಿಂದ
+  - en: "So where are you from? Say your country, then inda."
+  - pause: 3
+  - en: "When Shwetha heard Switzerland, she said:"
+  - t: ಅಯ್ಯೋ, ಅಷ್ಟು ದೂರದಿಂದ!
+  - en: "Ayyo! This is our favourite word. Surprise, pity, shock, sympathy: ayyo for everything. Say it with feeling, like an auntie who just heard the price of tomatoes."
+  - pause: 2
+  - en: "Then the important question:"
+  - t: ಕನ್ನಡ ಗೊತ್ತಾ?
+  - en: "Gottu means known. Kannada gottu: Kannada is known to me, so I know Kannada. Now here is the magic. Put a long aa at the end, and it becomes a question. Gottu, I know. Gottaa? Do you know? Any sentence, add aa, and you are asking. No do, no does, nothing else."
+  - en: "And Sam gave the golden answer:"
+  - t: ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ. ಕಲೀತಾ ಇದೀನಿ.
+  - en: "Swalpa swalpa, a little, a little. Kaleetaa ideeni, I am learning. Keep this sentence in your pocket like a sweet. Every Kannadiga who hears it will smile at you. Say it with me."
+  - pause: 3
+  - t: ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ. ಕಲೀತಾ ಇದೀನಿ.
+  - pause: 3
+  - en: "And at the end, Shwetha said:"
+  - t: ಬನ್ನಿ, ಕಾಫಿ ಕುಡೀರಿ.
+  - en: "Banni, come. Kaapi kudeeri, drink coffee. Both are polite commands. They end in ri or i when you are being respectful. And when somebody in Karnataka says banni at the door, it is not really a question. You come in, you sit, you drink the coffee. Our filter coffee is strong, sweet and frothy, and it is poured from high up, like this."
+  - en: "That is lesson one, my dear. Tomorrow, listen to the dialogue again before you read anything. Then play Your turn and speak Sam's part out loud. Slowly, slowly. Swalpa swalpa. The language will settle in your ear like an old song."

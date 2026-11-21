@@ -1,0 +1,8 @@
+{
+  "name": "Hearthspeak",
+  "short_name": "Hearthspeak",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf6ef",
+  "theme_color": "#b5562b"
+}
