@@ -1,173 +1,593 @@
-# Kannada — Episode 1, Part 4 (B2): Sunday, the visit
 lines:
-  - part: "Part 4 · B2 — Sunday: the visit"
-
-  - scene: "Sunday, eight in the morning. The Rao house is in total chaos."
-  - { who: amma, t: "ಕಿರಣ್! ಇನ್ನೂ ಮಲಗಿದೀಯಾ? ಎದ್ದೇಳೋ! ಹನ್ನೊಂದು ಗಂಟೆಗೆ ಅವ್ರು ಬರ್ತಾರೆ, ಮನೆ ನೋಡಿದ್ರೆ ಸಂತೆ ಥರ ಇದೆ!", tr: "Kiraṇ! Innū malagidīyā? Eddēḷō! Hannondu gaṇṭege avru bartāre, mane nōḍidre sante thara ide!", en: "Kiran! Still in bed? Get up! They're coming at eleven and this house looks like a weekly market!" }
-  - { who: kiran, t: "ಅಮ್ಮಾ, ಸಂಡೇ ಅಮ್ಮಾ… ಅವ್ರು ನೋಡೋಕೆ ಬರ್ತಿರೋದು ಅಕ್ಕನ್ನ, ನನ್ನನ್ನಲ್ಲ.", tr: "Ammā, Sanḍē ammā… avru nōḍōke bartirōdu akkanna, nannannalla.", en: "Mum, it's Sunday… they're coming to look at Akka, not me." }
-  - { who: amma, t: "ಮಾತು ಸಾಕು. ಗಾಂಧಿಬಜಾರಿಗೆ ಹೋಗಿ ಎರಡು ಮಾರು ಮಲ್ಲಿಗೆ, ಅರ್ಧ ಕೆಜಿ ಮೈಸೂರು ಪಾಕ್ ತಗೊಂಡು ಬಾ. ಬೇಗ!", tr: "Mātu sāku. Gāndhibajārige hōgi eraḍu māru mallige, ardha keji Maisūru pāk tagonḍu bā. Bēga!", en: "Enough talk. Go to Gandhi Bazaar and get two lengths of jasmine and half a kilo of Mysore pak. Quickly!" }
-  - { who: kiran, t: "ಮೈಸೂರು ಪಾಕ್ ಯಾಕೆ? ಅವ್ರ ಹಲ್ಲು ಮುರೀಲಿ ಅಂತಾನಾ?", tr: "Maisūru pāk yāke? Avra hallu murīli antānā?", en: "Why Mysore pak? So they break their teeth?" }
-  - { who: amma, t: "ಕಿರಣ್!", tr: "Kiraṇ!", en: "Kiran!" }
-  - { who: kiran, t: "ಹೋಗ್ತಿದೀನಿ, ಹೋಗ್ತಿದೀನಿ!", tr: "Hōgtidīni, hōgtidīni!", en: "I'm going, I'm going!" }
-  - { who: appa, t: "ಲಕ್ಷ್ಮೀ, ನನ್ನ ಬಿಳಿ ಶರ್ಟ್ ಎಲ್ಲಿ? ಇಸ್ತ್ರಿಗೆ ಕೊಟ್ಟಿದ್ದೆ ತಾನೇ?", tr: "Lakṣmī, nanna biḷi sharṭ elli? Istrige koṭṭidde tānē?", en: "Lakshmi, where's my white shirt? I did send it for ironing, didn't I?" }
-  - { who: amma, t: "ಬೀರುವಿನ ಎರಡನೇ ಕಪಾಟಿನಲ್ಲಿ ಇದೆ. ಈ ಮನೇಲಿ ಎಲ್ಲಾನೂ ನಾನೇ ಹೇಳ್ಬೇಕು!", tr: "Bīruvina eraḍanē kapāṭinalli ide. Ī manēli ellānū nānē hēḷbēku!", en: "Second shelf of the cupboard. In this house I have to tell everyone everything!" }
-  - { who: appa, t: "ಈ ಶರ್ಟ್ ಸ್ವಲ್ಪ ಟೈಟ್ ಆಗಿದೆಯಲ್ಲ…", tr: "Ī sharṭ swalpa ṭaiṭ āgideyalla…", en: "This shirt's got a bit tight, hasn't it…" }
-  - { who: amma, t: "ಮೂರು ವರ್ಷದಿಂದ ದಿನಾ ಮೈಸೂರು ಪಾಕ್ ತಿಂದ್ರೆ ಇನ್ನೇನು ಆಗುತ್ತೆ!", tr: "Mūru varṣadinda dinā Maisūru pāk tindre innēnu āgutte!", en: "What else do you expect after three years of Mysore pak every day!" }
-  - { who: ajji, t: "ಲಕ್ಷ್ಮೀ, ಬಾಗಿಲಿಗೆ ತೋರಣ ಕಟ್ಟಿದ್ಯಾ? ಮಾವಿನ ಎಲೆ ಇಲ್ಲದೆ ಶುಭ ಕಾರ್ಯ ಶುರು ಆಗಲ್ಲ.", tr: "Lakṣmī, bāgilige tōraṇa kaṭṭidyā? Māvina ele illade shubha kārya shuru āgalla.", en: "Lakshmi, have you tied the toran over the door? Nothing auspicious begins without mango leaves." }
-  - { who: amma, t: "ಕಟ್ಟಿದೀನಿ ಅತ್ತೆ. ರಂಗೋಲಿನೂ ಹಾಕಿದೀನಿ.", tr: "Kaṭṭidīni atte. Rangōlinū hākidīni.", en: "I've tied it, Atte. And I've done the rangoli too." }
-  - { who: sam, t: "ಕಿರಣ್, ‘ಅತ್ತೆ’? ಅಜ್ಜಿ ಆಂಟಿಗೆ ಅತ್ತೆನಾ?", tr: "Kiraṇ, ‘atte’? Ajji ānṭige attenā?", en: "Kiran, ‘atte’? Ajji is your mum's ‘atte’?" }
-  - { who: kiran, t: "ಹೌದು, ಗಂಡನ ಅಮ್ಮ ಅತ್ತೆ. ಮದುವೆ ಆದ್ಮೇಲೆ ಅಕ್ಕನಿಗೂ ಒಬ್ರು ಅತ್ತೆ ಸಿಗ್ತಾರೆ… ಇವತ್ತು ಬರ್ತಿರೋರೇ ಆಗಬಹುದು. ದೇವರೇ ಕಾಪಾಡು!", tr: "Haudu, gaṇḍana amma atte. Maduve ādmēle akkanigū obru atte sigtāre… ivattu bartirōrē āgabahudu. Dēvarē kāpāḍu!", en: "Yes, your husband's mother is your ‘atte’. When Akka marries she'll get an atte too… maybe the very lady coming today. God save us!" }
-  - { who: sam, t: "ಆಂಟಿ, ನಾನು ಏನಾದ್ರೂ ಸಹಾಯ ಮಾಡ್ಲಾ?", tr: "Ānṭi, nānu ēnādrū sahāya māḍlā?", en: "Aunty, can I help with anything?" }
-  - { who: amma, t: "ಅಯ್ಯೋ, ಬೇಡಪ್ಪ. ನೀವು ಮನೇಲೇ ಇರಿ, ಆದ್ರೆ… ಸ್ವಲ್ಪ ಸುಮ್ಮನಿರಿ, ಆಯ್ತಾ? ಅವ್ರು ಏನೇನೋ ಅಂದ್ಕೊಂಡುಬಿಟ್ರೆ ಕಷ್ಟ.", tr: "Ayyō, bēḍappa. Nīvu manēlē iri, ādre… swalpa summaniri, āytā? Avru ēnēnō andkonḍubiṭre kaṣṭa.", en: "Oh no, dear, no need. Stay at home, but… keep a little quiet, okay? If they get the wrong idea, it'll be trouble." }
-  - { who: sam, t: "ಅರ್ಥ ಆಯ್ತು. ನಾನು ಗೋಡೆ ಮೇಲಿನ ಫೋಟೋ ಥರ ಇರ್ತೀನಿ.", tr: "Artha āytu. Nānu gōḍe mēlina phōṭō thara irtīni.", en: "Got it. I'll be like a photo on the wall." }
-
-  - scene: "In her room, Shwetha stares at a silk saree on the bed. Ajji sits beside her."
-  - { who: shwe, t: "ಅಜ್ಜಿ, ಈ ಸೀರೆ ಉಡ್ಲೇಬೇಕಾ? ಕುರ್ತಾ ಹಾಕ್ಕೋತೀನಿ ಅಂದೆ, ಅಮ್ಮ ಕೇಳ್ತಾನೇ ಇಲ್ಲ.", tr: "Ajji, ī sīre uḍlēbēkā? Kurtā hākkōtīni ande, amma kēḷtānē illa.", en: "Ajji, do I really have to wear this saree? I said I'd wear a kurta, but Mum just won't listen." }
-  - { who: ajji, t: "ಉಟ್ಕೋ ಮಗೂ. ಸೀರೇಲಿ ನೀನು ಲಕ್ಷ್ಮಿ ಥರ ಕಾಣ್ತೀಯ. ಆದ್ರೆ ಒಂದು ನೆನಪಿಟ್ಕೋ — ಸೀರೆ ನಿಂದು, ನಿರ್ಧಾರಾನೂ ನಿಂದೇ.", tr: "Uṭkō magū. Sīrēli nīnu Lakṣmi thara kāṇtīya. Ādre ondu nenapiṭkō — sīre nindu, nirdhārānū nindē.", en: "Wear it, child. In a saree you look like the goddess Lakshmi. But remember one thing — the saree is yours, and so is the decision." }
-  - { who: shwe, t: "ಅಮ್ಮ ಹಾಗೆ ಅಂದ್ಕೊಳ್ಳಲ್ಲ, ಅಜ್ಜಿ. ಅವ್ಳಿಗೆ ಒಂದು ‘ಒಳ್ಳೆ ಸಂಬಂಧ’ ಸಿಕ್ಕಿದ್ರೆ ಸಾಕು.", tr: "Amma hāge andkoḷḷalla, Ajji. Avḷige ondu ‘oḷḷe sambandha’ sikkidre sāku.", en: "Mum doesn't see it that way, Ajji. All she wants is a ‘good match’." }
-  - { who: ajji, t: "ನಿಮ್ಮಮ್ಮನ ಭಯಾನೂ ಅರ್ಥ ಮಾಡ್ಕೋ. ಹೆಣ್ಣು ಹೆತ್ತ ತಾಯಿಗೆ ಹೊಟ್ಟೆ ತುಂಬಾ ಚಿಂತೆ ಇರುತ್ತೆ.", tr: "Nimmammana bhayānū artha māḍkō. Heṇṇu hetta tāyige hoṭṭe tumbā chinte irutte.", en: "Try to understand your mother's fear too. A mother who has raised a daughter carries a belly full of worry." }
-  - { who: shwe, t: "ಅಜ್ಜಿ, ನಿನಗೆ ಹದಿನಾರಕ್ಕೇ ಮದುವೆ ಆಯ್ತು ಅಂದೆ ನಿನ್ನೆ. ನಿನಗೆ ಭಯ ಆಗಿರ್ಲಿಲ್ವಾ?", tr: "Ajji, ninage hadinārakkē maduve āytu ande ninne. Ninage bhaya āgirlilvā?", en: "Ajji, yesterday you said you were married at just sixteen. Weren't you scared?" }
-  - { who: ajji, t: "ಭಯ ಅಂತ ಹೇಳೋಕೂ ಅವಕಾಶ ಇರ್ಲಿಲ್ಲ ಕಣೇ. ನಮ್ ಕಾಲದಲ್ಲಿ ಹುಡುಗಿ ಬಾಯಿ ಬಿಡೋದೇ ತಪ್ಪು. ನಿನ್ ಕಾಲ ಬೇರೆ. ಅದನ್ನ ಉಪಯೋಗಿಸ್ಕೋ.", tr: "Bhaya anta hēḷōkū avakāsha irlilla kaṇē. Nam kāladalli huḍugi bāyi biḍōdē tappu. Nin kāla bēre. Adanna upayōgiskō.", en: "We didn't even get the chance to say we were scared, dear. In our day, a girl opening her mouth was a sin in itself. Your times are different. Make use of them." }
-
-  - { who: kiran, t: "ಬಂದೆ! ಮಲ್ಲಿಗೆ ಮಾರಿಗೆ ನೂರೈವತ್ತು ರೂಪಾಯಿ! ಮದುವೆ ಸೀಸನ್ ಅಂತ ಹೂವಿನವಳು ಡಬಲ್ ರೇಟ್ ಹೇಳಿದ್ಲು.", tr: "Bande! Mallige mārige nūraivattu rūpāyi! Maduve sīsan anta hūvinavaḷu ḍabal rēṭ hēḷidlu.", en: "I'm back! Jasmine is a hundred and fifty rupees a length! The flower lady doubled the price because it's wedding season." }
-  - { who: amma, t: "ಚೌಕಾಸಿ ಮಾಡ್ಲಿಲ್ವಾ?", tr: "Chaukāsi māḍlilvā?", en: "Didn't you bargain?" }
-  - { who: kiran, t: "ಮಾಡ್ದೆ. ಅವಳು ನನ್ನ ಮುಖ ನೋಡಿ ಇನ್ನೂ ಹತ್ತು ರೂಪಾಯಿ ಜಾಸ್ತಿ ಮಾಡಿದ್ಲು.", tr: "Māḍde. Avaḷu nanna mukha nōḍi innū hattu rūpāyi jāsti māḍidlu.", en: "I did. She took one look at my face and added another ten rupees." }
-
-  - scene: "Eleven twenty. A white Innova stops at the gate. The groom's parents, Shankar and Sumitra, step out."
-  - { who: kiran, t: "ಅಕ್ಕ, ಬಂದ್ರು! ದೊಡ್ಡ ಇನ್ನೋವಾ ಕಾರು. ಡ್ರೈವರ್ ಬೇರೆ!", tr: "Akka, bandru! Doḍḍa Innōvā kāru. Ḍraivar bēre!", en: "Akka, they're here! A big Innova. With a driver, no less!" }
-  - { who: appa, t: "ಬನ್ನಿ ಬನ್ನಿ, ನಮಸ್ಕಾರ! ಮನೆ ಸುಲಭವಾಗಿ ಸಿಕ್ತಾ?", tr: "Banni banni, namaskāra! Mane sulabhavāgi siktā?", en: "Come in, come in, namaskara! Did you find the house easily?" }
-  - { who: shankar, t: "ನಮಸ್ಕಾರ, ರಮೇಶ್ ಅವ್ರೇ. ಮನೆ ಸಿಕ್ತು, ಆದ್ರೆ ಸಿಲ್ಕ್ ಬೋರ್ಡ್ ಟ್ರಾಫಿಕ್‌ನಲ್ಲಿ ಒಂದು ಗಂಟೆ ತಪಸ್ಸು ಮಾಡಿದ್ವಿ!", tr: "Namaskāra, Ramēsh avrē. Mane siktu, ādre Silk Bōrḍ ṭrāphiknalli ondu gaṇṭe tapassu māḍidvi!", en: "Namaskara, Ramesh. We found the house, but we did an hour of penance in the Silk Board traffic!" }
-  - { who: appa, t: "ಸಿಲ್ಕ್ ಬೋರ್ಡ್ ಅಂದ್ರೆ ಬೆಂಗಳೂರಿನ ಅಗ್ನಿಪರೀಕ್ಷೆ! ಬನ್ನಿ, ಕೂತ್ಕೊಳ್ಳಿ.", tr: "Silk Bōrḍ andre Bengaḷūrina agniparīkṣe! Banni, kūtkoḷḷi.", en: "Silk Board is Bengaluru's trial by fire! Please, have a seat." }
-  - { who: amma, t: "ನಮಸ್ಕಾರ ಅಕ್ಕ. ಬನ್ನಿ, ಈ ಕಡೆ ಕೂತ್ಕೊಳ್ಳಿ, ಫ್ಯಾನ್ ಕೆಳಗೆ.", tr: "Namaskāra akka. Banni, ī kaḍe kūtkoḷḷi, phyān keḷage.", en: "Namaskara, sister. Come, sit over here, under the fan." }
-  - { who: sumitra, t: "ನಮಸ್ಕಾರ. ಎಷ್ಟು ಚೆನ್ನಾಗಿದೆ ನಿಮ್ಮ ಮನೆ! ರಂಗೋಲಿ ನೀವೇ ಹಾಕಿದ್ದಾ?", tr: "Namaskāra. Eṣṭu chennāgide nimma mane! Rangōli nīvē hākiddā?", en: "Namaskara. What a lovely home! Did you draw the rangoli yourself?" }
-  - { who: amma, t: "ಹೌದು, ಬೆಳಿಗ್ಗೆ ಐದು ಗಂಟೆಗೆ ಎದ್ದು ಹಾಕಿದೆ. ಮೊದಲು ಸ್ವಲ್ಪ ನೀರು ತಗೊಳ್ಳಿ.", tr: "Haudu, beḷigge aidu gaṇṭege eddu hākide. Modalu swalpa nīru tagoḷḷi.", en: "Yes, I got up at five to do it. Please, have some water first." }
-  - { who: ajji, t: "ಬನ್ನಿ ಬನ್ನಿ. ಚೆನ್ನಾಗಿದೀರಾ?", tr: "Banni banni. Chennāgidīrā?", en: "Welcome, welcome. Are you all well?" }
-  - { who: sumitra, t: "ಅಜ್ಜಿಗೆ ನಮಸ್ಕಾರ. ಆಶೀರ್ವಾದ ಮಾಡಿ.", tr: "Ajjige namaskāra. Āshīrvāda māḍi.", en: "Namaskara, Ajji. Please bless us." }
-  - { who: ajji, t: "ಚೆನ್ನಾಗಿರಿ, ಚೆನ್ನಾಗಿರಿ. ದೇವರು ಒಳ್ಳೇದು ಮಾಡ್ಲಿ.", tr: "Chennāgiri, chennāgiri. Dēvaru oḷḷēdu māḍli.", en: "Be well, be well. May God be good to you." }
-  - { who: shankar, t: "ಓ… ಇವರು ಯಾರು? ನೆಂಟರಾ?", tr: "Ō… ivaru yāru? Neṇṭarā?", en: "Oh… and who's this? A relative?" }
-  - { who: appa, t: "ಇಲ್ಲ ಇಲ್ಲ, ಇವರು ಸ್ಯಾಮ್, ನಮ್ಮ ಪಿಜಿ. ಸ್ವಿಟ್ಜರ್ಲ್ಯಾಂಡಿಂದ ಬಂದಿದಾರೆ, ಐಟಿಲಿ ಇದಾರೆ.", tr: "Illa illa, ivaru Sām, namma PG. Switzerland-inda bandidāre, IT-li idāre.", en: "No, no, this is Sam, our paying guest. He's from Switzerland, works in IT." }
-  - { who: sam, t: "ನಮಸ್ಕಾರ ಸಾರ್, ನಮಸ್ಕಾರ ಮೇಡಂ.", tr: "Namaskāra sār, namaskāra mēḍam.", en: "Namaskara, sir. Namaskara, madam." }
-  - { who: sumitra, t: "ಓಹ್, ಕನ್ನಡ ಬೇರೆ ಮಾತಾಡ್ತಾರೆ! ಪರವಾಗಿಲ್ವೇ!", tr: "Ōh, Kannaḍa bēre mātāḍtāre! Paravāgilvē!", en: "Oh, he even speaks Kannada! Well, well!" }
-  - { who: sam, t: "ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ, ಮೇಡಂ. ಕಲೀತಾ ಇದೀನಿ.", tr: "Swalpa swalpa, mēḍam. Kalītā idīni.", en: "Just a little, madam. I'm learning." }
-
-  - scene: "Everyone is seated. Coffee arrives. The small talk begins — but every question is also a test."
-  - { who: shankar, t: "ನಿಮ್ ಏರಿಯಾ ತುಂಬಾ ಹಸಿರಾಗಿದೆ. ಜಯನಗರ ಅಂದ್ರೆ ಜಯನಗರ! ನಮ್ ವೈಟ್‌ಫೀಲ್ಡ್ ಕಡೆ ಬರೀ ಕಾಂಕ್ರೀಟ್ ಕಾಡು.", tr: "Nim ēriyā tumbā hasirāgide. Jayanagara andre Jayanagara! Nam Waiṭphīlḍ kaḍe barī kānkrīṭ kāḍu.", en: "Your area is so green. Jayanagar really is Jayanagar! Over our way in Whitefield it's nothing but a concrete jungle." }
-  - { who: appa, t: "ಹೌದು, ಆದ್ರೆ ಇಲ್ಲೂ ಈಗ ಹಳೇ ಮನೆಗಳನ್ನೆಲ್ಲಾ ಕೆಡವಿ ಅಪಾರ್ಟ್‌ಮೆಂಟ್ ಕಟ್ತಿದಾರೆ. ಬೆಂಗಳೂರು ಮೊದಲಿನ ಹಾಗಿಲ್ಲ.", tr: "Haudu, ādre illū īga haḷē manegaḷannellā keḍavi apārṭmenṭ kaṭtidāre. Bengaḷūru modalina hāgilla.", en: "True, but even here they're knocking down all the old houses to build apartments. Bengaluru isn't what it used to be." }
-  - { who: shankar, t: "ಯಾವುದೂ ಮೊದಲಿನ ಹಾಗಿಲ್ಲ ಬಿಡಿ. ಮಕ್ಕಳೂ ಕೂಡ.", tr: "Yāvudū modalina hāgilla biḍi. Makkaḷū kūḍa.", en: "Nothing's what it used to be. Not even our children." }
-  - { who: shankar, t: "ರಮೇಶ್ ಅವ್ರೇ, ನಿಮ್ಮ ಊರು ಯಾವುದು? ಮೂಲತಃ ಬೆಂಗಳೂರಾ?", tr: "Ramēsh avrē, nimma ūru yāvudu? Mūlataḥ Bengaḷūrā?", en: "Ramesh, where's your native place? Bengaluru originally?" }
-  - { who: appa, t: "ಇಲ್ಲ, ನಮ್ಮೂರು ಮಂಡ್ಯ ಹತ್ರ, ಮದ್ದೂರು. ಅಪ್ಪನ ಕಾಲದಲ್ಲೇ ಇಲ್ಲಿಗೆ ಬಂದ್ವಿ.", tr: "Illa, nammūru Manḍya hatra, Maddūru. Appana kāladallē illige bandvi.", en: "No, our village is near Mandya — Maddur. We moved here back in my father's time." }
-  - { who: shankar, t: "ಮದ್ದೂರಾ! ಮದ್ದೂರು ವಡೆ ಊರು! ನಮ್ದು ತುಮಕೂರು ಕಡೆ. ನಿಮ್ಮ ಮನೆತನದ ಹೆಸರು… ರಾವ್ ಅಲ್ವಾ?", tr: "Maddūrā! Maddūru vaḍe ūru! Namdu Tumakūru kaḍe. Nimma manetanada hesaru… Rāv alvā?", en: "Maddur! Home of the Maddur vade! We're from the Tumakuru side. And your family name is… Rao, isn't it?" }
-  - { who: appa, t: "ಹೌದು. ಜಾತಕ ಎಲ್ಲಾ ಮುಂಚೇನೇ ನೋಡಿದೀರಿ ಅಂತ ಬ್ರೋಕರ್ ಹೇಳಿದ್ರು.", tr: "Haudu. Jātaka ellā munchēnē nōḍidīri anta brōkar hēḷidru.", en: "Yes. The marriage broker said you'd already gone through the horoscopes and all that." }
-  - { who: sumitra, t: "ಹೌದು ಹೌದು, ಜಾತಕ ಹೊಂದಾಣಿಕೆ ಆಗುತ್ತೆ, ಗೋತ್ರಾನೂ ಬೇರೆ ಬೇರೆ. ನಮ್ಮವರೇ ಅಂತ ಗೊತ್ತಾದ್ಮೇಲೆ ಸಮಾಧಾನ ಆಯ್ತು.", tr: "Haudu haudu, jātaka hondāṇike āgutte, gōtrānū bēre bēre. Nammavarē anta gottādmēle samādhāna āytu.", en: "Yes, yes, the horoscopes match, and the gotras are different. Once we knew you were ‘our own people’, we felt at ease." }
-  - { who: kiran, t: "ಬ್ರೋ, ‘ನಮ್ಮವರೇ’ ಅಂದ್ರೆ… ಅದೇ ಜಾತಿ ಅಂತ. ಆಮೇಲೆ ಹೇಳ್ತೀನಿ.", tr: "Bro, ‘nammavarē’ andre… adē jāti anta. Āmēle hēḷtīni.", en: "Bro, ‘our own people’ means… the same caste. I'll explain later." }
-  - { who: sam, t: "ಓ… ಸರಿ.", tr: "Ō… sari.", en: "Oh… okay." }
-
-  - scene: "Sumitra props her phone against the coffee flask. The groom, Pradeep, joins by video call from Seattle."
-  - { who: sumitra, t: "ಪ್ರದೀಪ್ ವಿಡಿಯೋ ಕಾಲ್‌ನಲ್ಲಿ ಬರ್ತಾನೆ. ಅಲ್ಲಿ ಈಗ ರಾತ್ರಿ ಹನ್ನೆರಡು ಗಂಟೆ, ಪಾಪ.", tr: "Pradīp viḍiyō kālnalli bartāne. Alli īga rātri hanneraḍu gaṇṭe, pāpa.", en: "Pradeep will join on video. It's midnight there now, poor thing." }
-  - { who: pradeep, t: "ಹಲೋ? ಹಲೋ? ಕೇಳಿಸ್ತಾ ಇದೆಯಾ? ನಾನು… ಫ್ರೀಜ್ ಆಗಿದೀನಾ?", tr: "Halō? Halō? Kēḷistā ideyā? Nānu… phrīj āgidīnā?", en: "Hello? Hello? Can you hear me? Am I… frozen?" }
-  - { who: kiran, t: "ಹೌದು, ನಿಮ್ ಮುಖ ಅರ್ಧ ಸ್ಮೈಲ್‌ನಲ್ಲೇ ನಿಂತುಬಿಟ್ಟಿದೆ!", tr: "Haudu, nim mukha ardha smaillē nintubiṭṭide!", en: "Yes, your face is stuck halfway through a smile!" }
-  - { who: amma, t: "ಕಿರಣ್!", tr: "Kiraṇ!", en: "Kiran!" }
-  - { who: pradeep, t: "ಈಗ ಬಂತಾ? ನಮಸ್ಕಾರ ಅಂಕಲ್, ನಮಸ್ಕಾರ ಆಂಟಿ. ಹಾಯ್ ಶ್ವೇತಾ.", tr: "Īga bantā? Namaskāra ankal, namaskāra ānṭi. Hāy Shwētā.", en: "Is it working now? Namaskara Uncle, namaskara Aunty. Hi Shwetha." }
-  - { who: shwe, t: "ಹಾಯ್… ನಮಸ್ಕಾರ. ಅಲ್ಲಿ ತುಂಬಾ ಲೇಟ್ ಆಗಿದೆ ಅಲ್ವಾ? ನಿಮಗೆ ತೊಂದರೆ ಆಯ್ತು.", tr: "Hāy… namaskāra. Alli tumbā lēṭ āgide alvā? Nimage tondare āytu.", en: "Hi… namaskara. It's really late there, isn't it? Sorry to put you through this." }
-  - { who: pradeep, t: "ಇಲ್ಲ ಇಲ್ಲ, ಪರವಾಗಿಲ್ಲ. ಸಿಯಾಟಲ್‌ನಲ್ಲಿ ಹೇಗಿದ್ರೂ ಮಳೆ, ನಿದ್ದೆ ಬರಲ್ಲ.", tr: "Illa illa, paravāgilla. Siyāṭalnalli hēgidrū maḷe, nidde baralla.", en: "No, no, it's fine. It's always raining in Seattle anyway, I can't sleep." }
-  - { who: shwe, t: "ನೀವು ಯಾವ ಕಡೆ ಕೆಲಸ ಮಾಡ್ತೀರಾ?", tr: "Nīvu yāva kaḍe kelsa māḍtīrā?", en: "What area do you work in?" }
-  - { who: pradeep, t: "ಕ್ಲೌಡ್ ಇನ್‌ಫ್ರಾ, ಒಂದು ದೊಡ್ಡ ಕಂಪನೀಲಿ. ನೀವು ಡೇಟಾ ಎಂಜಿನಿಯರ್ ಅಂತ ಅಮ್ಮ ಹೇಳಿದ್ರು. ಸ್ಪಾರ್ಕ್ ಮಾಡ್ತೀರಾ?", tr: "Klauḍ infrā, ondu doḍḍa kampanīli. Nīvu ḍēṭā enjinīyar anta amma hēḷidru. Spārk māḍtīrā?", en: "Cloud infrastructure, at a big company. Mum said you're a data engineer. Do you work with Spark?" }
-  - { who: shwe, t: "ಹೌದು, ಸ್ಪಾರ್ಕ್, ಏರ್‌ಫ್ಲೋ… ಈಗ ಒಂದು ಹೊಸ ಟೀಮ್ ಲೀಡ್ ಮಾಡ್ತಿದೀನಿ.", tr: "Haudu, Spārk, Ērphlō… īga ondu hosa ṭīm līḍ māḍtidīni.", en: "Yes, Spark, Airflow… right now I'm leading a new team." }
-  - { who: pradeep, t: "ಓ, ಸೂಪರ್! ಹಾಗಾದ್ರೆ ನಿಮಗೆ ಅಮೆರಿಕಾಗೆ ಬರೋಕೆ ಇಷ್ಟ ಇದೆಯಾ, ಅಥವಾ…", tr: "Ō, sūpar! Hāgādre nimage Amerikāge barōke iṣṭa ideyā, athavā…", en: "Oh, great! So would you like to come to America, or…" }
-  - { who: shwe, t: "ಅದನ್ನ ನಿಮ್ ಜೊತೆ ಒಂದ್ಸಲ ಸರಿಯಾಗಿ ಮಾತಾಡಿದ್ಮೇಲೆ ಹೇಳ್ತೀನಿ.", tr: "Adanna nim jote ondsala sariyāgi mātāḍidmēle hēḷtīni.", en: "I'll answer that after we've had a proper conversation, just the two of us." }
-  - { who: pradeep, t: "ಅದೂ ಸರಿ… ನಾನೂ… ನಿಮಗೆ… ಕೇಳ್…", tr: "Adū sari… nānū… nimage… kēḷ…", en: "That's fair… I also… wanted to… ask…" }
-  - { who: kiran, t: "ಹೋಯ್ತು. ಅಮೆರಿಕದ ವೈಫೈಗಿಂತ ನಮ್ ಬಿಎಂಟಿಸಿ ಬಸ್ಸೇ ವಾಸಿ.", tr: "Hōytu. Amerikada vaiphaiginta nam BMTC bassē vāsi.", en: "Gone. Our BMTC buses are more reliable than American Wi-Fi." }
-  - { who: sumitra, t: "ಆಮೇಲೆ ಮತ್ತೆ ಮಾಡ್ತಾನೆ ಬಿಡಿ.", tr: "Āmēle matte māḍtāne biḍi.", en: "Never mind, he'll call again later." }
-
-  - scene: "Amma brings out plates of uppittu and kesari bath. The questions turn to Shwetha."
-  - { who: amma, t: "ಉಪ್ಪಿಟ್ಟು, ಕೇಸರಿಬಾತ್ ತಗೊಳ್ಳಿ. ಶ್ವೇತಾನೇ ಮಾಡಿದ್ದು.", tr: "Uppiṭṭu, kēsaribāt tagoḷḷi. Shwētānē māḍiddu.", en: "Please have some uppittu and kesari bath. Shwetha made it herself." }
-  - { who: shwe, t: "ಅಮ್ಮಾ, ನಾನು ಕೇಸರಿಬಾತ್ ಮಾತ್ರ ಮಾಡಿದ್ದು…", tr: "Ammā, nānu kēsaribāt mātra māḍiddu…", en: "Mum, I only made the kesari bath…" }
-  - { who: sumitra, t: "ಆಹಾ, ಕೇಸರಿಬಾತ್ ತುಪ್ಪದಲ್ಲಿ ಮುಳುಗಿದೆ! ಹೀಗೇ ಇರ್ಬೇಕು. ಹಾಗಾದ್ರೆ ಅಡುಗೆ ಚೆನ್ನಾಗಿ ಬರುತ್ತಾ?", tr: "Āhā, kēsaribāt tuppadalli muḷugide! Hīgē irbēku. Hāgādre aḍuge chennāgi baruttā?", en: "Aha, this kesari bath is swimming in ghee! That's exactly how it should be. So, she's a good cook, then?" }
-  - { who: shwe, t: "ಬೇಕಾದಷ್ಟು ಬರುತ್ತೆ ಆಂಟಿ. ಹಸಿವಾದ್ರೆ ಯಾರಾದ್ರೂ ಕಲೀತಾರೆ.", tr: "Bēkādaṣṭu barutte ānṭi. Hasivādre yārādrū kalītāre.", en: "Well enough, Aunty. When you're hungry, anyone learns." }
-  - { who: sumitra, t: "ಹಾಂ… ಅಮೆರಿಕಾದಲ್ಲಿ ಅಡುಗೆಯವರು ಸಿಗಲ್ಲ, ಅದಕ್ಕೇ ಕೇಳಿದೆ. ಮದುವೆ ಆದ್ಮೇಲೆ ಕೆಲಸ ಬಿಟ್ಟು ಅಲ್ಲಿಗೆ ಹೋಗ್ತೀರಿ ತಾನೇ?", tr: "Hāṃ… Amerikādalli aḍugeyavaru sigalla, adakkē kēḷide. Maduve ādmēle kelsa biṭṭu allige hōgtīri tānē?", en: "Hmm… you don't get cooks in America, that's why I asked. After the wedding you'll leave your job and go there, won't you?" }
-  - { who: shwe, t: "ಕೆಲಸ ಬಿಡೋ ಪ್ರಶ್ನೆನೇ ಇಲ್ಲ ಆಂಟಿ. ನಮ್ ಕಂಪನಿಗೆ ಸಿಯಾಟಲ್‌ನಲ್ಲೂ ಆಫೀಸ್ ಇದೆ; ಟ್ರಾನ್ಸ್‌ಫರ್ ಕೇಳ್ಬಹುದು. ಇಲ್ಲಾಂದ್ರೆ ರಿಮೋಟ್.", tr: "Kelsa biḍō prashnenē illa ānṭi. Nam kampanige Siyāṭalnallū āphīs ide; ṭrānsphar kēḷbahudu. Illāndre rimōṭ.", en: "Quitting my job is out of the question, Aunty. My company has an office in Seattle too; I could ask for a transfer. Otherwise, remote." }
-  - { who: shankar, t: "ಒಳ್ಳೇದು, ಒಳ್ಳೇದು. ಈಗಿನ ಕಾಲದ ಹುಡುಗೀರು ಎಲ್ಲಾ ಪ್ಲಾನ್ ಮಾಡ್ಕೊಂಡೇ ಇರ್ತಾರೆ. ಸಂಬಳ ಎಷ್ಟು ಬರುತ್ತೆ, ಕೇಳ್ಬಹುದಾ?", tr: "Oḷḷēdu, oḷḷēdu. Īgina kālada huḍugīru ellā plān māḍkonḍē irtāre. Sambaḷa eṣṭu barutte, kēḷbahudā?", en: "Good, good. Girls these days have it all planned out. May I ask how much she earns?" }
-  - { who: appa, t: "ಅದು… ಅದು…", tr: "Adu… adu…", en: "Well… well…" }
-  - { who: shwe, t: "ಪರವಾಗಿಲ್ಲ ಅಪ್ಪಾ. ವರ್ಷಕ್ಕೆ ಮೂವತ್ತೆರಡು ಲಕ್ಷ, ಅಂಕಲ್. ಪ್ರದೀಪ್‌ಗೆ ಎಷ್ಟು ಅಂತ ನಾನೂ ಕೇಳ್ಬಹುದಾ?", tr: "Paravāgilla appā. Varṣakke mūvatteraḍu lakṣa, ankal. Pradīpge eṣṭu anta nānū kēḷbahudā?", en: "It's fine, Dad. Thirty-two lakh a year, Uncle. May I also ask what Pradeep earns?" }
-  - { who: shankar, t: "ಹ್ಹ ಹ್ಹ… ಹುಡುಗಿ ತುಂಬಾ ಸ್ಮಾರ್ಟ್!", tr: "Hha hha… huḍugi tumbā smārṭ!", en: "Ha ha… the girl is very smart!" }
-  - { who: sumitra, t: "ಅವನಿಗೆ ಡಾಲರ್‌ನಲ್ಲಿ ಬರುತ್ತೆ ಬಿಡಿ, ಹೋಲಿಕೆನೇ ಇಲ್ಲ.", tr: "Avanige ḍālarnalli barutte biḍi, hōlikenē illa.", en: "Well, he's paid in dollars — there's no comparison." }
-
-  - scene: "Shankar puts down his cup. His voice becomes softer, slower, more careful."
-  - { who: shankar, t: "ರಮೇಶ್ ಅವ್ರೇ, ಒಂದು ವಿಷಯ ಮುಕ್ತವಾಗಿ ಮಾತಾಡ್ಬಿಡೋಣ. ಆಮೇಲೆ ಮನಸ್ತಾಪ ಬರಬಾರದು ನೋಡಿ.", tr: "Ramēsh avrē, ondu viṣaya muktavāgi mātāḍbiḍōṇa. Āmēle manastāpa barabāradu nōḍi.", en: "Ramesh, let's talk openly about one matter. We don't want any hard feelings later, you see." }
-  - { who: appa, t: "ಹೇಳಿ, ಹೇಳಿ.", tr: "Hēḷi, hēḷi.", en: "Please, go ahead." }
-  - { who: shankar, t: "ನಮಗೆ ಏನೂ ಬೇಡ. ದೇವರ ದಯೆಯಿಂದ ಎಲ್ಲಾ ಇದೆ. ಆದ್ರೆ… ನಿಮಗೇ ಗೊತ್ತು, ನಮ್ಮ ಕಡೆ ಒಂದು ಪದ್ಧತಿ ಇದೆ.", tr: "Namage ēnū bēḍa. Dēvara dayeyinda ellā ide. Ādre… nimagē gottu, namma kaḍe ondu paddhati ide.", en: "We don't want anything. By God's grace we have everything. But… as you know, there's a custom in our community." }
-  - { who: sumitra, t: "ಹುಡುಗಿಗೆ ನೀವು ಪ್ರೀತಿಯಿಂದ ಹಾಕೋ ಚಿನ್ನ ಅವಳದ್ದೇ ತಾನೇ? ಒಂದು ನೂರು ಗ್ರಾಮ್… ಅದೂ ನಿಮ್ಮಿಷ್ಟ.", tr: "Huḍugige nīvu prītiyinda hākō chinna avaḷaddē tānē? Ondu nūru grām… adū nimmiṣṭa.", en: "The gold you give your daughter out of love stays hers anyway, doesn't it? About a hundred grams… that's entirely up to you, of course." }
-  - { who: shankar, t: "ಮತ್ತೆ ಮದುವೆ ಛತ್ರ — ಪ್ಯಾಲೇಸ್ ಗ್ರೌಂಡ್ಸ್ ಹತ್ರ ಒಂದು ಹಾಲ್ ನೋಡಿದೀವಿ. ನಮ್ ಕಡೆಯಿಂದಾನೇ ಒಂದು ಸಾವಿರ ಜನ ಬರ್ತಾರೆ, ಏನ್ಮಾಡೋದು.", tr: "Matte maduve chatra — Pyālēs Graunḍs hatra ondu hāl nōḍidīvi. Nam kaḍeyindānē ondu sāvira jana bartāre, ēnmāḍōdu.", en: "And then the wedding hall — we've seen one near Palace Grounds. A thousand guests will come from our side alone, what can one do." }
-  - { who: sumitra, t: "ಅಲ್ಲಿಗೆ ಹೋದ್ಮೇಲೆ ಮಕ್ಕಳಿಗೆ ಒಂದು ಕಾರು ಬೇಕೇ ಬೇಕು. ನಮ್ ನೆಂಟರೆಲ್ಲಾ ‘ಹುಡುಗಿ ಮನೆಯವರು ಏನು ಕೊಟ್ರು’ ಅಂತ ಕೇಳ್ತಾರೆ. ಮುಖ ಉಳಿಸ್ಕೋಬೇಕಲ್ಲ.", tr: "Allige hōdmēle makkaḷige ondu kāru bēkē bēku. Nam neṇṭarellā ‘huḍugi maneyavaru ēnu koṭru’ anta kēḷtāre. Mukha uḷiskōbēkalla.", en: "And once the children are over there, they'll definitely need a car. All our relatives will ask, ‘What did the girl's family give?’ We do have to save face, don't we?" }
-  - { who: appa, t: "ಅದು… ನೋಡಿ… ನಾವು… ಯೋಚನೆ ಮಾಡ್ತೀವಿ. ನಮ್ಮ ಶಕ್ತಿ ಎಷ್ಟು ಅಂತ…", tr: "Adu… nōḍi… nāvu… yōchane māḍtīvi. Namma shakti eṣṭu anta…", en: "Well… you see… we'll… think about it. Depending on what we can manage…" }
-  - { who: amma, t: "ರೀ…", tr: "Rī…", en: "Listen…" }
-  - { who: shwe, t: "ಅಪ್ಪಾ, ಒಂದು ನಿಮಿಷ. ಅಂಕಲ್, ಆಂಟಿ, ನಾನು ಗೌರವದಿಂದಾನೇ ಹೇಳ್ತಿದೀನಿ, ತಪ್ಪು ತಿಳ್ಕೋಬೇಡಿ.", tr: "Appā, ondu nimiṣa. Ankal, ānṭi, nānu gauravadindānē hēḷtidīni, tappu tiḷkōbēḍi.", en: "Dad, one minute. Uncle, Aunty, I'm saying this with all due respect — please don't take it the wrong way." }
-  - { who: shwe, t: "‘ಏನೂ ಬೇಡ’ ಅಂತ ಶುರು ಮಾಡಿ, ಚಿನ್ನ, ಛತ್ರ, ಕಾರು ಅಂತ ಪಟ್ಟಿ ಕೊಟ್ರೆ, ಅದಕ್ಕೆ ಒಂದೇ ಹೆಸರು — ವರದಕ್ಷಿಣೆ.", tr: "‘Ēnū bēḍa’ anta shuru māḍi, chinna, chatra, kāru anta paṭṭi koṭre, adakke ondē hesaru — varadakṣiṇe.", en: "If you begin with ‘we want nothing’ and then hand over a list — gold, a hall, a car — there's only one word for that: dowry." }
-  - { who: sam, t: "ಕಿರಣ್, ‘ವರದಕ್ಷಿಣೆ’ ಅಂದ್ರೆ?", tr: "Kiraṇ, ‘varadakṣiṇe’ andre?", en: "Kiran, what's ‘varadakshine’?" }
-  - { who: kiran, t: "ಡೌರಿ. ಹುಡುಗಿ ಮನೆಯವರು ಹುಡುಗನ ಮನೆಯವರಿಗೆ ಕೊಡೋ ದುಡ್ಡು, ಚಿನ್ನ. ಈಗ ಎಲ್ಲಾರೂ ಅದನ್ನ ‘ಗಿಫ್ಟ್’ ಅಂತಾರೆ.", tr: "Ḍauri. Huḍugi maneyavaru huḍugana maneyavarige koḍō duḍḍu, chinna. Īga ellārū adanna ‘gifṭ’ antāre.", en: "Dowry. The money and gold the bride's family hands to the groom's family. These days everyone calls it a ‘gift’." }
-  - { who: sumitra, t: "ಅಯ್ಯೋ, ವರದಕ್ಷಿಣೆ ಅಂತ ಯಾರು ಹೇಳಿದ್ರು? ಇದು ಬರೀ ಸಂಪ್ರದಾಯ…", tr: "Ayyō, varadakṣiṇe anta yāru hēḷidru? Idu barī sampradāya…", en: "Oh, who said anything about dowry? This is just tradition…" }
-  - { who: shwe, t: "ಸಂಪ್ರದಾಯ ಅಂತ ಹೆಸರು ಬದಲಾಯಿಸಿದ್ರೆ ಕಾನೂನು ಬದಲಾಗಲ್ಲ ಆಂಟಿ. ವರದಕ್ಷಿಣೆ ನಿಷೇಧ ಕಾಯ್ದೆ ಸಾವಿರದ ಒಂಬೈನೂರ ಅರವತ್ತೊಂದರಿಂದಾನೇ ಇದೆ. ಕೊಡೋದೂ ಅಪರಾಧ, ತಗೊಳ್ಳೋದೂ ಅಪರಾಧ.", tr: "Sampradāya anta hesaru badalāyisidre kānūnu badalāgalla ānṭi. Varadakṣiṇe niṣēdha kāyde sāvirada ombainūra aravattondarindānē ide. Koḍōdū aparādha, tagoḷḷōdū aparādha.", en: "Renaming it ‘tradition’ doesn't change the law, Aunty. The Dowry Prohibition Act has existed since 1961. Giving it is a crime, and so is taking it." }
-  - { who: shankar, t: "ಏನಮ್ಮ ಇದು, ನಮ್ಮನ್ನ ಕಳ್ಳರ ಥರ ಮಾತಾಡಿಸ್ತಿದೀಯಲ್ಲ!", tr: "Ēnamma idu, nammanna kaḷḷara thara mātāḍistidīyalla!", en: "What is this, girl? You're talking to us as if we were thieves!" }
-  - { who: shwe, t: "ಇಲ್ಲ ಅಂಕಲ್, ನೀವು ಕಳ್ಳರು ಅಂತ ನಾನು ಹೇಳ್ತಿಲ್ಲ. ನಾನು ನನ್ನ ಸಂಬಳ ದುಡೀತೀನಿ. ನನ್ನ ಮೇಲೆ ಬೆಲೆ ಕಟ್ಟೋ ಅವಶ್ಯಕತೆ ಇಲ್ಲ. ಮದುವೆ ವ್ಯಾಪಾರ ಅಲ್ಲ, ಎರಡು ಮನಸ್ಸಿನ ಒಪ್ಪಂದ.", tr: "Illa ankal, nīvu kaḷḷaru anta nānu hēḷtilla. Nānu nanna sambaḷa duḍītīni. Nanna mēle bele kaṭṭō avashyakate illa. Maduve vyāpāra alla, eraḍu manassina oppanda.", en: "No, Uncle, I'm not calling you thieves. I earn my own salary. There's no need to put a price tag on me. A marriage isn't a business deal; it's an agreement between two hearts." }
-  - { who: amma, t: "ಶ್ವೇತಾ, ಸಾಕು! ದೊಡ್ಡವರ ಮುಂದೆ ಹೀಗೆ ಮಾತಾಡ್ತಾರಾ?", tr: "Shwētā, sāku! Doḍḍavara munde hīge mātāḍtārā?", en: "Shwetha, that's enough! Is this any way to talk in front of elders?" }
-  - { who: sumitra, t: "ನೋಡಿ ಲಕ್ಷ್ಮಿ ಅವ್ರೇ, ಹೆಣ್ಣುಮಕ್ಕಳನ್ನ ಜಾಸ್ತಿ ಓದಿಸಿದ್ರೆ ಹೀಗೇ ಆಗೋದು. ನಾಲಿಗೆ ಉದ್ದ ಆಗುತ್ತೆ.", tr: "Nōḍi Lakṣmi avrē, heṇṇumakkaḷanna jāsti ōdisidre hīgē āgōdu. Nālige udda āgutte.", en: "You see, Lakshmi, this is what happens when you educate girls too much. Their tongues grow long." }
-  - { who: kiran, t: "ನಾಲಿಗೆ ಉದ್ದ… ಪಟ್ಟಿ ಇನ್ನೂ ಉದ್ದ.", tr: "Nālige udda… paṭṭi innū udda.", en: "Long tongue… and an even longer list." }
-
-  - scene: "Silence. Then Ajji, who has said nothing all morning, slowly raises her hand."
-  - { who: ajji, t: "ಒಂದು ನಿಮಿಷ ಎಲ್ಲಾರೂ ಸುಮ್ಮನಿರಿ. ನಾನು ಏನೋ ಹೇಳ್ಬೇಕು.", tr: "Ondu nimiṣa ellārū summaniri. Nānu ēnō hēḷbēku.", en: "Everyone, be quiet for a minute. I have something to say." }
-  - { who: ajji, t: "ನನ್ನ ಅಕ್ಕ, ಗೌರಿ. ಅವಳಿಗೆ ಹದಿನೈದು ವರ್ಷಕ್ಕೆ ಮದುವೆ ಆಯ್ತು. ನಮ್ಮಪ್ಪ ಹೊಲ ಮಾರಿ ವರದಕ್ಷಿಣೆ ಕೊಟ್ರು.", tr: "Nanna akka, Gauri. Avaḷige hadinaidu varṣakke maduve āytu. Nammappa hola māri varadakṣiṇe koṭru.", en: "My elder sister, Gauri. She was married at fifteen. Our father sold his field to pay the dowry." }
-  - { who: ajji, t: "ಒಂದು ವರ್ಷ ಆದ್ಮೇಲೆ ಅವ್ರು ಇನ್ನೂ ಕೇಳಿದ್ರು. ಎಮ್ಮೆ ಬೇಕು, ಸೈಕಲ್ ಬೇಕು, ದುಡ್ಡು ಬೇಕು. ಕೊಡೋಕೆ ನಮ್ ಹತ್ರ ಏನೂ ಉಳಿದಿರ್ಲಿಲ್ಲ.", tr: "Ondu varṣa ādmēle avru innū kēḷidru. Emme bēku, saikal bēku, duḍḍu bēku. Koḍōke nam hatra ēnū uḷidirlilla.", en: "A year later they wanted more. A buffalo, a bicycle, money. We had nothing left to give." }
-  - { who: ajji, t: "ಒಂದು ದಿನ ಸುದ್ದಿ ಬಂತು — ಅಡುಗೆ ಮನೇಲಿ ‘ಆಕಸ್ಮಿಕ’ ಬೆಂಕಿ ಅಂತೆ. ಅವಳಿಗೆ ಹದಿನೇಳು ವರ್ಷ.", tr: "Ondu dina suddi bantu — aḍuge manēli ‘ākasmika’ benki ante. Avaḷige hadinēḷu varṣa.", en: "One day the news came — an ‘accidental’ fire in the kitchen, they said. She was seventeen." }
-  - { who: sumitra, t: "ಅಯ್ಯೋ… ಶಿವ ಶಿವಾ…", tr: "Ayyō… Shiva Shivā…", en: "Oh… dear God…" }
-  - { who: ajji, t: "ನಾನು ಯಾರನ್ನೂ ದೂರ್ತಿಲ್ಲ. ನೀವು ಒಳ್ಳೆಯವರೇ ಇರಬಹುದು. ಆದ್ರೆ ಈ ‘ಪದ್ಧತಿ’ ಅನ್ನೋ ಹಾವಿಗೆ ಹಾಲು ಎರೀಬೇಡಿ. ಇವತ್ತಲ್ಲ ನಾಳೆ, ಅದು ಯಾರನ್ನಾದ್ರೂ ಕಚ್ಚುತ್ತೆ.", tr: "Nānu yārannū dūrtilla. Nīvu oḷḷeyavarē irabahudu. Ādre ī ‘paddhati’ annō hāvige hālu erībēḍi. Ivattalla nāḷe, adu yārannādrū kachchutte.", en: "I'm not blaming anyone. You may well be good people. But don't pour milk for this snake called ‘custom’. If not today, then tomorrow, it will bite someone." }
-  - { who: ajji, t: "ನನ್ನ ಮೊಮ್ಮಗಳು ಮಾರಾಟಕ್ಕಿಲ್ಲ. ಹುಡುಗ ಒಳ್ಳೆಯವನಾದ್ರೆ, ಬರೀ ಕೈಯಲ್ಲಿ ಬಂದು ಅವಳ ಕೈ ಹಿಡೀಲಿ.", tr: "Nanna mommagaḷu mārāṭakkilla. Huḍuga oḷḷeyavanādre, barī kaiyalli bandu avaḷa kai hiḍīli.", en: "My granddaughter is not for sale. If the boy is a good man, let him come empty-handed and take her hand." }
-
-  - scene: "Nobody touches the sweets. Shankar looks at his watch and stands up."
-  - { who: shankar, t: "ಸರಿ… ನಮಗೆ ಲೇಟ್ ಆಯ್ತು. ಇನ್ನೊಂದು ಕಡೆ ಹೋಗ್ಬೇಕು. ನಾವು ಯೋಚನೆ ಮಾಡಿ ತಿಳಿಸ್ತೀವಿ.", tr: "Sari… namage lēṭ āytu. Innondu kaḍe hōgbēku. Nāvu yōchane māḍi tiḷistīvi.", en: "Well… we're running late. We have to be somewhere else. We'll think it over and let you know." }
-  - { who: appa, t: "ಹಾ… ಸರಿ. ಹೋಗಿ ಬನ್ನಿ.", tr: "Hā… sari. Hōgi banni.", en: "Ah… all right. Do come again." }
-  - { who: amma, t: "ಅಕ್ಕ, ಅರಿಶಿನ ಕುಂಕುಮ ತಗೊಂಡು ಹೋಗಿ…", tr: "Akka, arishina kunkuma tagonḍu hōgi…", en: "Sister, please take some turmeric and kumkum before you go…" }
-  - { who: sumitra, t: "ಇರ್ಲಿ, ಇರ್ಲಿ. ಬರ್ತೀವಿ.", tr: "Irli, irli. Bartīvi.", en: "Never mind, never mind. We'll be off." }
-
-  - scene: "The Innova drives away. Amma sits down heavily on the sofa. The storm breaks."
-  - { who: amma, t: "ಮುಗೀತು. ಎಲ್ಲಾ ಮುಗೀತು. ನಾಳೆ ಇಡೀ ಬೀದಿಗೆ ಗೊತ್ತಾಗುತ್ತೆ. ಜನ ಏನು ಅಂತಾರೆ?", tr: "Mugītu. Ellā mugītu. Nāḷe iḍī bīdige gottāgutte. Jana ēnu antāre?", en: "That's it. It's all over. Tomorrow the whole street will know. What will people say?" }
-  - { who: shwe, t: "ಜನ ಏನಾದ್ರೂ ಅನ್ಲಿ ಅಮ್ಮಾ! ಜನ ಬಂದು ನನ್ ಜೊತೆ ಸಂಸಾರ ಮಾಡಲ್ಲ.", tr: "Jana ēnādrū anli ammā! Jana bandu nan jote samsāra māḍalla.", en: "Let people say what they want, Mum! ‘People’ aren't going to be the ones living my married life." }
-  - { who: amma, t: "ನಿನಗೆ ಅರ್ಥ ಆಗಲ್ಲ! ಇಪ್ಪತ್ತಾರು ಆಯ್ತು. ವಿಮಲಾ ಆಂಟಿ ಈಗಾಗಲೇ ‘ಏನು, ಹುಡುಗಿಗೆ ಏನಾದ್ರೂ ದೋಷ ಇದ್ಯಾ’ ಅಂತ ಕೇಳ್ತಿದಾಳೆ.", tr: "Ninage artha āgalla! Ippattāru āytu. Vimalā ānṭi īgāgalē ‘ēnu, huḍugige ēnādrū dōṣa idyā’ anta kēḷtidāḷe.", en: "You don't understand! You're twenty-six. Vimala Aunty is already asking, ‘What, is there something wrong with the girl?’" }
-  - { who: kiran, t: "ದೋಷ ವಿಮಲಾ ಆಂಟಿಗೇ ಇದೆ. ನಾಲಿಗೇಲಿ.", tr: "Dōṣa Vimalā ānṭigē ide. Nāligēli.", en: "Vimala Aunty's the one with something wrong. In her tongue." }
-  - { who: amma, t: "ನೀನು ಸುಮ್ನಿರೋ! ರೀ, ನೀವೇನೂ ಹೇಳಲ್ವಾ? ‘ಯೋಚನೆ ಮಾಡ್ತೀವಿ’ ಅಂತ ನೀವೇ ಹೇಳಿದ್ರಿ!", tr: "Nīnu sumnirō! Rī, nīvēnū hēḷalvā? ‘Yōchane māḍtīvi’ anta nīvē hēḷidri!", en: "You keep quiet! And you — aren't you going to say anything? You're the one who said ‘we'll think about it’!" }
-  - { who: appa, t: "ಹೌದು, ಹೇಳಿದೆ. ಅದು ನನ್ನ ತಪ್ಪು. ಆ ಕ್ಷಣದಲ್ಲಿ ನಾನು ಹೇಡಿ ಥರ ಆಡಿದೆ.", tr: "Haudu, hēḷide. Adu nanna tappu. Ā kṣaṇadalli nānu hēḍi thara āḍide.", en: "Yes, I did. That was my mistake. In that moment, I behaved like a coward." }
-  - { who: appa, t: "ಲಕ್ಷ್ಮೀ, ನಮ್ ಮಗಳನ್ನ ಇಷ್ಟು ಓದಿಸಿದ್ದು ಯಾಕೆ? ತಲೆ ಎತ್ತಿ ಬದುಕಲಿ ಅಂತ ತಾನೇ? ಇವತ್ತು ಅವಳು ತಲೆ ಎತ್ತಿದ್ಲು. ನಾನು ತಲೆ ತಗ್ಗಿಸಿದೆ.", tr: "Lakṣmī, nam magaḷanna iṣṭu ōdisiddu yāke? Tale etti badukali anta tānē? Ivattu avaḷu tale ettidlu. Nānu tale taggiside.", en: "Lakshmi, why did we educate our daughter this much? So she could live with her head held high, right? Today she held her head high. I was the one who bowed mine." }
-  - { who: appa, t: "‘ಹಾಸಿಗೆ ಇದ್ದಷ್ಟು ಕಾಲು ಚಾಚು’ ಅಂತಾರೆ. ಸಾಲ ಮಾಡಿ ಛತ್ರ ಬುಕ್ ಮಾಡೋಕೆ ಆಗಲ್ಲ, ಮಗಳನ್ನ ಮಾರೋಕೂ ಆಗಲ್ಲ.", tr: "‘Hāsige iddaṣṭu kālu chāchu’ antāre. Sāla māḍi chatra buk māḍōke āgalla, magaḷanna mārōkū āgalla.", en: "They say, ‘Stretch your legs only as far as your mattress goes.’ We can't take loans to book a hall — and we can't sell our daughter either." }
-  - { who: appa, t: "ಶ್ವೇತಾ, ನಾನು ನಿನ್ ಜೊತೆ ಇದೀನಿ. ಒಂದು ರೂಪಾಯಿನೂ ಕೊಡಲ್ಲ. ಬೇಕಾದ್ರೆ ಮದುವೆ ತಡ ಆಗ್ಲಿ.", tr: "Shwētā, nānu nin jote idīni. Ondu rūpāyinū koḍalla. Bēkādre maduve taḍa āgli.", en: "Shwetha, I'm with you. We won't give a single rupee. If the wedding gets delayed, so be it." }
-  - { who: shwe, t: "ಅಪ್ಪಾ…", tr: "Appā…", en: "Dad…" }
-  - { who: ajji, t: "ಲಕ್ಷ್ಮೀ, ‘ಜನ ಏನು ಅಂತಾರೆ’ ಅನ್ನೋ ಭಯದಲ್ಲೇ ನಮ್ ತಲೆಮಾರು ಎಷ್ಟು ಹೆಣ್ಣುಮಕ್ಕಳನ್ನ ಕಳ್ಕೊಂಡಿದೆ ಗೊತ್ತಾ?", tr: "Lakṣmī, ‘jana ēnu antāre’ annō bhayadallē nam talemāru eṣṭu heṇṇumakkaḷanna kaḷkonḍide gottā?", en: "Lakshmi, do you know how many daughters my generation lost to that one fear — ‘what will people say’?" }
-  - { who: amma, t: "ನಾನೇನು ವರದಕ್ಷಿಣೆ ಕೊಡೋಣ ಅಂದ್ನಾ? ನನಗೂ ಭಯ ಆಗುತ್ತೆ ಕಣ್ರೀ… ಹೆಣ್ಣು ಮಗಳ ತಾಯಿ ನಾನು.", tr: "Nānēnu varadakṣiṇe koḍōṇa andnā? Nanagū bhaya āgutte kaṇrī… heṇṇu magaḷa tāyi nānu.", en: "Did I ever say we should give a dowry? I get scared too, you know… I'm the mother of a daughter." }
-  - { who: shwe, t: "ಗೊತ್ತು ಅಮ್ಮಾ. ನಿನ್ನ ಭಯ ನಂಗೆ ಅರ್ಥ ಆಗುತ್ತೆ. ಆದ್ರೆ ಭಯಕ್ಕೆ ಬೆಲೆ ಕೊಟ್ರೆ, ಬದುಕೇ ಮಾರಾಟ ಆಗುತ್ತೆ.", tr: "Gottu ammā. Ninna bhaya nange artha āgutte. Ādre bhayakke bele koṭre, badukē mārāṭa āgutte.", en: "I know, Mum. I understand your fear. But if you pay the price fear asks, it's your whole life you end up selling." }
-  - { who: kiran, t: "ಸರಿ, ಎಮೋಷನಲ್ ಸೀನ್ ಮುಗೀತು. ಮೈಸೂರು ಪಾಕ್ ಉಳಿದಿದೆ. ಯಾರಿಗೆ ಬೇಕು? ಹಲ್ಲಿಗೆ ಗ್ಯಾರಂಟಿ ಇಲ್ಲ.", tr: "Sari, emōṣanal sīn mugītu. Maisūru pāk uḷidide. Yārige bēku? Hallige gyāranṭi illa.", en: "Okay, emotional scene over. There's Mysore pak left. Who wants some? No guarantee for your teeth." }
-  - { who: amma, t: "ಈ ಹುಡುಗನಿಂದ ನನಗೆ ಬಿಪಿ ಬರುತ್ತೆ!", tr: "Ī huḍuganinda nanage bīpi barutte!", en: "This boy is going to give me high blood pressure!" }
-
-  - scene: "Evening. The family sits on the terrace with tea. Ajji turns to Sam."
-  - { who: ajji, t: "ಸ್ಯಾಮ್, ನೀನು ಇವತ್ತು ಎಲ್ಲಾ ನೋಡ್ತಾ ಇದ್ದೆ. ನಿಮ್ ದೇಶದಲ್ಲಿ ಮದುವೆ ಹೇಗೆ ಆಗುತ್ತೆ?", tr: "Sām, nīnu ivattu ellā nōḍtā idde. Nim dēshadalli maduve hēge āgutte?", en: "Sam, you saw everything today. How do marriages happen in your country?" }
-  - { who: sam, t: "ಅಜ್ಜಿ, ನಮ್ ಕಡೆ… ಹುಡುಗ, ಹುಡುಗಿ ಮೊದಲು ಫ್ರೆಂಡ್ಸ್ ಆಗ್ತಾರೆ. ಕೆಲವು ವರ್ಷ ಒಟ್ಟಿಗೆ ಇರ್ತಾರೆ. ಆಮೇಲೆ ಇಷ್ಟ ಆದ್ರೆ ಮದುವೆ.", tr: "Ajji, nam kaḍe… huḍuga, huḍugi modalu phrenḍs āgtāre. Kelavu varṣa oṭṭige irtāre. Āmēle iṣṭa ādre maduve.", en: "Ajji, where I come from… a man and a woman first become friends. They live together for a few years. Then, if it works, they marry." }
-  - { who: ajji, t: "ಮದುವೆಗೆ ಮುಂಚೇನೇ ಒಟ್ಟಿಗೆ?! ಅಯ್ಯೋ ರಾಮ!", tr: "Maduvege munchēnē oṭṭige?! Ayyō Rāma!", en: "Together before the wedding?! Oh, Lord Rama!" }
-  - { who: sam, t: "ಹೌದು ಅಜ್ಜಿ. ಮತ್ತೆ ಅಪ್ಪ-ಅಮ್ಮ ಹುಡುಕಲ್ಲ, ನಾವೇ ಹುಡುಕ್ಕೋತೀವಿ. ಈಗ ಹೆಚ್ಚಾಗಿ ಆ್ಯಪ್‌ನಲ್ಲಿ.", tr: "Haudu Ajji. Matte appa-amma huḍukalla, nāvē huḍukkōtīvi. Īga heccāgi æpnalli.", en: "Yes, Ajji. And our parents don't search for us — we find partners ourselves. Mostly on apps these days." }
-  - { who: kiran, t: "ಅದೇ ಸರಿ! ಅಜ್ಜಿ, ನಂಗೂ ಆ್ಯಪ್‌ನಲ್ಲೇ…", tr: "Adē sari! Ajji, nangū æpnallē…", en: "That's the way! Ajji, I'll also use an app…" }
-  - { who: appa, t: "ನೀನು ಮೊದಲು ಡಿಗ್ರಿ ಮುಗಿಸು!", tr: "Nīnu modalu ḍigri mugisu!", en: "You finish your degree first!" }
-  - { who: amma, t: "ಹಾಗಾದ್ರೆ ಅಲ್ಲಿ ವರದಕ್ಷಿಣೆ ಏನೂ ಇಲ್ವಾ?", tr: "Hāgādre alli varadakṣiṇe ēnū ilvā?", en: "So there's no dowry at all over there?" }
-  - { who: sam, t: "ಇಲ್ಲ ಆಂಟಿ. ಮದುವೆ ಖರ್ಚು ಇಬ್ರೂ ಹಂಚ್ಕೋತಾರೆ. ಆದ್ರೆ ನಮ್ಮಲ್ಲೂ ಸಮಸ್ಯೆ ಇದೆ — ತುಂಬಾ ಜನ ಡೈವೋರ್ಸ್ ಆಗ್ತಾರೆ. ಯಾವ ಪದ್ಧತಿನೂ ಪರ್ಫೆಕ್ಟ್ ಅಲ್ಲ.", tr: "Illa ānṭi. Maduve kharchu ibrū hanchkōtāre. Ādre nammallū samasye ide — tumbā jana ḍaivōrs āgtāre. Yāva paddhatinū parphekṭ alla.", en: "No, Aunty. The couple share the wedding costs. But we have our problems too — lots of people get divorced. No system is perfect." }
-  - { who: kiran, t: "ಬ್ರೋ, ಅಲ್ಲಿ ಜಾತಿ ಎಲ್ಲಾ ಇದ್ಯಾ?", tr: "Bro, alli jāti ellā idyā?", en: "Bro, is there caste and all that over there?" }
-  - { who: sam, t: "ಜಾತಿ ಇಲ್ಲ, ಆದ್ರೆ ಕ್ಯಾಂಟನ್ ಇದೆ! ಜ್ಯೂರಿಕ್ ಜನ, ಬರ್ನ್ ಜನ — ಒಬ್ಬರನ್ನೊಬ್ಬರು ತಮಾಷೆ ಮಾಡ್ತಾನೇ ಇರ್ತಾರೆ.", tr: "Jāti illa, ādre kyānṭan ide! Jyūrik jana, Barn jana — obbarannobbaru tamāṣe māḍtānē irtāre.", en: "No caste — but we have cantons! Zurich people and Bern people are always making fun of each other." }
-  - { who: ajji, t: "ಎಲ್ಲಾ ಕಡೆ ಮನುಷ್ಯರು ಒಂದೇ, ಮಗೂ. ಬೇಲಿ ಮಾತ್ರ ಬೇರೆ ಬೇರೆ.", tr: "Ellā kaḍe manuṣyaru ondē, magū. Bēli mātra bēre bēre.", en: "People are the same everywhere, child. Only the fences are different." }
-  - { who: appa, t: "ಚೆನ್ನಾಗಿ ಹೇಳಿದ್ರಿ ಸ್ಯಾಮ್. ಎರಡೇ ದಿನದಲ್ಲಿ ಎಷ್ಟೊಂದು ಕನ್ನಡ!", tr: "Chennāgi hēḷidri Sām. Eraḍē dinadalli eṣṭondu Kannaḍa!", en: "Well said, Sam. So much Kannada in just two days!" }
-  - { who: sam, t: "ನಿಮ್ ಮನೆ ಒಂದು ಯೂನಿವರ್ಸಿಟಿ, ಅಂಕಲ್. ಪ್ರತಿ ಊಟದಲ್ಲೂ ಒಂದು ಕ್ಲಾಸ್!", tr: "Nim mane ondu yūnivarsiṭi, ankal. Prati ūṭadallū ondu klās!", en: "Your home is a university, Uncle. Every meal is a lesson!" }
-
-  - scene: "Ajji calls Shwetha over and places her hand on her head."
-  - { who: ajji, t: "ಶ್ವೇತಾ, ಇಲ್ಲಿ ಬಾ. ನೀನು ಇವತ್ತು ಗೌರಿಗೋಸ್ಕರ ಮಾತಾಡಿದೆ. ಅವಳ ಆತ್ಮಕ್ಕೆ ಶಾಂತಿ ಸಿಕ್ತು ಅನ್ಸುತ್ತೆ.", tr: "Shwētā, illi bā. Nīnu ivattu Gaurigōskara mātāḍide. Avaḷa ātmakke shānti siktu ansutte.", en: "Shwetha, come here. Today you spoke up for Gauri. I feel her soul has finally found peace." }
-  - { who: ajji, t: "ಸುಖವಾಗಿರು, ಮಗೂ. ನಿನ್ನನ್ನ ಗೌರವಿಸೋನನ್ನ ಮದುವೆ ಆಗು. ದೇವರು ಒಳ್ಳೇದು ಮಾಡ್ಲಿ.", tr: "Sukhavāgiru, magū. Ninnanna gauravisōnanna maduve āgu. Dēvaru oḷḷēdu māḍli.", en: "Be happy, child. Marry a man who respects you. May God bless you." }
-  - { who: shwe, t: "ಥ್ಯಾಂಕ್ಸ್ ಅಜ್ಜಿ. ನೀನೇ ನನ್ನ ಹೀರೋ.", tr: "Thanks Ajji. Nīnē nanna hīrō.", en: "Thank you, Ajji. You're my hero." }
-  - { who: kiran, t: "ಅಕ್ಕ, ನಿನ್ ಫೋನ್! ಯಾರು? ವಿಮಲಾ ಆಂಟಿ ಆಗಿದ್ರೆ ನಾನು ಓಡ್ತೀನಿ.", tr: "Akka, nin phōn! Yāru? Vimalā ānṭi āgidre nānu ōḍtīni.", en: "Akka, your phone! Who is it? If it's Vimala Aunty, I'm running." }
-  - { who: shwe, t: "ಪ್ರದೀಪ್… ಮೆಸೇಜ್ ಮಾಡಿದಾನೆ.", tr: "Pradīp… mesēj māḍidāne.", en: "Pradeep… he's sent a message." }
-  - { who: kiran, t: "ಏನಂತೆ? ಏನಂತೆ? ಓದು!", tr: "Ēnante? Ēnante? Ōdu!", en: "What does he say? What? Read it out!" }
-  - { who: shwe, t: "‘ಶ್ವೇತಾ, ನಮ್ಮಪ್ಪ-ಅಮ್ಮ ಅದನ್ನೆಲ್ಲಾ ಕೇಳಿದ್ರು ಅಂತ ನನಗೆ ಗೊತ್ತೇ ಇರ್ಲಿಲ್ಲ. ಐ ಆಮ್ ರಿಯಲಿ ಸಾರಿ. ನಾವಿಬ್ರೇ ಮಾತಾಡೋಣ್ವಾ?’", tr: "‘Shwētā, nammappa-amma adannellā kēḷidru anta nanage gottē irlilla. I am really sorry. Nāvibrē mātāḍōṇvā?’", en: "‘Shwetha, I had no idea my parents asked for all that. I'm really sorry. Can the two of us talk?’" }
-  - { who: amma, t: "…ಈಗೇನು ಮಾಡ್ತೀಯ?", tr: "…Īgēnu māḍtīya?", en: "…So what will you do now?" }
-  - { who: shwe, t: "ಗೊತ್ತಿಲ್ಲ, ಅಮ್ಮ. ನಿಜವಾಗ್ಲೂ ಗೊತ್ತಿಲ್ಲ.", tr: "Gottilla, amma. Nijavāglū gottilla.", en: "I don't know, Mum. I honestly don't know." }
-  - { who: sam, t: "ಅಯ್ಯೋ… ಇದು ಟಿವಿ ಸೀರಿಯಲ್‌ಗಿಂತ ಜಾಸ್ತಿ!", tr: "Ayyō… idu ṭivi sīriyalginta jāsti!", en: "Ayyo… this is more dramatic than a TV serial!" }
+  - scene: 'Sunday, eight in the morning. The Rao house is in total chaos.'
+  - who: 'amma'
+    t: 'ಕಿರಣ್! ಇನ್ನೂ ಮಲಗಿದೀಯಾ? ಎದ್ದೇಳೋ! ಹನ್ನೊಂದು ಗಂಟೆಗೆ ಅವ್ರು ಬರ್ತಾರೆ, ಮನೆ ನೋಡಿದ್ರೆ ಸಂತೆ ಥರ ಇದೆ!'
+    tr: 'Kiraṇ! Innū malagidīyā? Eddēḷō! Hannondu gaṇṭege avru bartāre, mane nōḍidre sante thara ide!'
+    en: 'Kiran! Still in bed? Get up! They''re coming at eleven and this house looks like a weekly market!'
+  - who: 'kiran'
+    t: 'ಅಮ್ಮಾ, ಸಂಡೇ ಅಮ್ಮಾ… ಅವ್ರು ನೋಡೋಕೆ ಬರ್ತಿರೋದು ಅಕ್ಕನ್ನ, ನನ್ನನ್ನಲ್ಲ.'
+    tr: 'Ammā, Sanḍē ammā… avru nōḍōke bartirōdu akkanna, nannannalla.'
+    en: 'Mum, it''s Sunday… they''re coming to look at Akka, not me.'
+  - who: 'amma'
+    t: 'ಮಾತು ಸಾಕು. ಗಾಂಧಿಬಜಾರಿಗೆ ಹೋಗಿ ಎರಡು ಮಾರು ಮಲ್ಲಿಗೆ, ಅರ್ಧ ಕೆಜಿ ಮೈಸೂರು ಪಾಕ್ ತಗೊಂಡು ಬಾ. ಬೇಗ!'
+    tr: 'Mātu sāku. Gāndhibajārige hōgi eraḍu māru mallige, ardha keji Maisūru pāk tagonḍu bā. Bēga!'
+    en: 'Enough talk. Go to Gandhi Bazaar and get two lengths of jasmine and half a kilo of Mysore pak. Quickly!'
+  - who: 'kiran'
+    t: 'ಮೈಸೂರು ಪಾಕ್ ಯಾಕೆ? ಅವ್ರ ಹಲ್ಲು ಮುರೀಲಿ ಅಂತಾನಾ?'
+    tr: 'Maisūru pāk yāke? Avra hallu murīli antānā?'
+    en: 'Why Mysore pak? So they break their teeth?'
+  - who: 'amma'
+    t: 'ಕಿರಣ್!'
+    tr: 'Kiraṇ!'
+    en: 'Kiran!'
+  - who: 'kiran'
+    t: 'ಹೋಗ್ತಿದೀನಿ, ಹೋಗ್ತಿದೀನಿ!'
+    tr: 'Hōgtidīni, hōgtidīni!'
+    en: 'I''m going, I''m going!'
+  - who: 'appa'
+    t: 'ಲಕ್ಷ್ಮೀ, ನನ್ನ ಬಿಳಿ ಶರ್ಟ್ ಎಲ್ಲಿ? ಇಸ್ತ್ರಿಗೆ ಕೊಟ್ಟಿದ್ದೆ ತಾನೇ?'
+    tr: 'Lakṣmī, nanna biḷi sharṭ elli? Istrige koṭṭidde tānē?'
+    en: 'Lakshmi, where''s my white shirt? I did send it for ironing, didn''t I?'
+  - who: 'amma'
+    t: 'ಬೀರುವಿನ ಎರಡನೇ ಕಪಾಟಿನಲ್ಲಿ ಇದೆ. ಈ ಮನೇಲಿ ಎಲ್ಲಾನೂ ನಾನೇ ಹೇಳ್ಬೇಕು!'
+    tr: 'Bīruvina eraḍanē kapāṭinalli ide. Ī manēli ellānū nānē hēḷbēku!'
+    en: 'Second shelf of the cupboard. In this house I have to tell everyone everything!'
+  - who: 'appa'
+    t: 'ಈ ಶರ್ಟ್ ಸ್ವಲ್ಪ ಟೈಟ್ ಆಗಿದೆಯಲ್ಲ…'
+    tr: 'Ī sharṭ swalpa ṭaiṭ āgideyalla…'
+    en: 'This shirt''s got a bit tight, hasn''t it…'
+  - who: 'amma'
+    t: 'ಮೂರು ವರ್ಷದಿಂದ ದಿನಾ ಮೈಸೂರು ಪಾಕ್ ತಿಂದ್ರೆ ಇನ್ನೇನು ಆಗುತ್ತೆ!'
+    tr: 'Mūru varṣadinda dinā Maisūru pāk tindre innēnu āgutte!'
+    en: 'What else do you expect after three years of Mysore pak every day!'
+  - who: 'ajji'
+    t: 'ಲಕ್ಷ್ಮೀ, ಬಾಗಿಲಿಗೆ ತೋರಣ ಕಟ್ಟಿದ್ಯಾ? ಮಾವಿನ ಎಲೆ ಇಲ್ಲದೆ ಶುಭ ಕಾರ್ಯ ಶುರು ಆಗಲ್ಲ.'
+    tr: 'Lakṣmī, bāgilige tōraṇa kaṭṭidyā? Māvina ele illade shubha kārya shuru āgalla.'
+    en: 'Lakshmi, have you tied the toran over the door? Nothing auspicious begins without mango leaves.'
+  - who: 'amma'
+    t: 'ಕಟ್ಟಿದೀನಿ ಅತ್ತೆ. ರಂಗೋಲಿನೂ ಹಾಕಿದೀನಿ.'
+    tr: 'Kaṭṭidīni atte. Rangōlinū hākidīni.'
+    en: 'I''ve tied it, Atte. And I''ve done the rangoli too.'
+  - who: 'sam'
+    t: 'ಕಿರಣ್, ‘ಅತ್ತೆ’? ಅಜ್ಜಿ ಆಂಟಿಗೆ ಅತ್ತೆನಾ?'
+    tr: 'Kiraṇ, ‘atte’? Ajji ānṭige attenā?'
+    en: 'Kiran, ‘atte’? Ajji is your mum''s ‘atte’?'
+  - who: 'kiran'
+    t: 'ಹೌದು, ಗಂಡನ ಅಮ್ಮ ಅತ್ತೆ. ಮದುವೆ ಆದ್ಮೇಲೆ ಅಕ್ಕನಿಗೂ ಒಬ್ರು ಅತ್ತೆ ಸಿಗ್ತಾರೆ… ಇವತ್ತು ಬರ್ತಿರೋರೇ ಆಗಬಹುದು. ದೇವರೇ ಕಾಪಾಡು!'
+    tr: 'Haudu, gaṇḍana amma atte. Maduve ādmēle akkanigū obru atte sigtāre… ivattu bartirōrē āgabahudu. Dēvarē kāpāḍu!'
+    en: 'Yes, your husband''s mother is your ‘atte’. When Akka marries she''ll get an atte too… maybe the very lady coming today. God save us!'
+  - who: 'sam'
+    t: 'ಆಂಟಿ, ನಾನು ಏನಾದ್ರೂ ಸಹಾಯ ಮಾಡ್ಲಾ?'
+    tr: 'Ānṭi, nānu ēnādrū sahāya māḍlā?'
+    en: 'Aunty, can I help with anything?'
+  - who: 'amma'
+    t: 'ಅಯ್ಯೋ, ಬೇಡಪ್ಪ. ನೀವು ಮನೇಲೇ ಇರಿ, ಆದ್ರೆ… ಸ್ವಲ್ಪ ಸುಮ್ಮನಿರಿ, ಆಯ್ತಾ? ಅವ್ರು ಏನೇನೋ ಅಂದ್ಕೊಂಡುಬಿಟ್ರೆ ಕಷ್ಟ.'
+    tr: 'Ayyō, bēḍappa. Nīvu manēlē iri, ādre… swalpa summaniri, āytā? Avru ēnēnō andkonḍubiṭre kaṣṭa.'
+    en: 'Oh no, dear, no need. Stay at home, but… keep a little quiet, okay? If they get the wrong idea, it''ll be trouble.'
+  - who: 'sam'
+    t: 'ಅರ್ಥ ಆಯ್ತು. ನಾನು ಗೋಡೆ ಮೇಲಿನ ಫೋಟೋ ಥರ ಇರ್ತೀನಿ.'
+    tr: 'Artha āytu. Nānu gōḍe mēlina phōṭō thara irtīni.'
+    en: 'Got it. I''ll be like a photo on the wall.'
+  - scene: 'In her room, Shwetha, in a simple kurta with jasmine in her hair, glances at the silk saree still lying on the bed. Ajji sits beside her.'
+  - who: 'shwe'
+    t: 'ಅಜ್ಜಿ, ಕುರ್ತಾ ಓಕೆ ತಾನೇ? ಅಮ್ಮ ಇನ್ನೂ ಆ ಸೀರೆ ಕಡೆನೇ ನೋಡ್ತಿದಾಳೆ.'
+    tr: 'Ajji, kurtā ōke tānē? Amma innū ā sīre kaḍenē nōḍtidāḷe.'
+    en: 'Ajji, the kurta''s fine, isn''t it? Mum is still eyeing that saree.'
+  - who: 'ajji'
+    t: 'ಕುರ್ತಾನೂ ಚೆನ್ನಾಗಿದೆ ಮಗೂ. ಮಲ್ಲಿಗೆ ಮುಡಿದು ಲಕ್ಷ್ಮಿ ಥರ ಕಾಣ್ತೀಯ. ಆದ್ರೆ ಒಂದು ನೆನಪಿಟ್ಕೋ — ಬಟ್ಟೆ ನಿಂದು, ನಿರ್ಧಾರಾನೂ ನಿಂದೇ.'
+    tr: 'Kurtānū chennāgide magū. Mallige muḍidu Lakṣmi thara kāṇtīya. Ādre ondu nenapiṭkō — baṭṭe nindu, nirdhārānū nindē.'
+    en: 'The kurta looks lovely too, child. With jasmine in your hair you look like the goddess Lakshmi. But remember one thing — the clothes are your choice, and so is the decision.'
+  - who: 'shwe'
+    t: 'ಅಮ್ಮ ಹಾಗೆ ಅಂದ್ಕೊಳ್ಳಲ್ಲ, ಅಜ್ಜಿ. ಅವ್ಳಿಗೆ ಒಂದು ‘ಒಳ್ಳೆ ಸಂಬಂಧ’ ಸಿಕ್ಕಿದ್ರೆ ಸಾಕು.'
+    tr: 'Amma hāge andkoḷḷalla, Ajji. Avḷige ondu ‘oḷḷe sambandha’ sikkidre sāku.'
+    en: 'Mum doesn''t see it that way, Ajji. All she wants is a ‘good match’.'
+  - who: 'ajji'
+    t: 'ನಿಮ್ಮಮ್ಮನ ಭಯಾನೂ ಅರ್ಥ ಮಾಡ್ಕೋ. ಹೆಣ್ಣು ಹೆತ್ತ ತಾಯಿಗೆ ಹೊಟ್ಟೆ ತುಂಬಾ ಚಿಂತೆ ಇರುತ್ತೆ.'
+    tr: 'Nimmammana bhayānū artha māḍkō. Heṇṇu hetta tāyige hoṭṭe tumbā chinte irutte.'
+    en: 'Try to understand your mother''s fear too. A mother who has raised a daughter carries a belly full of worry.'
+  - who: 'shwe'
+    t: 'ಅಜ್ಜಿ, ನಿನ್ನೆ ನೀನು ಸ್ಯಾಮ್‌ಗೆ ಹೇಳ್ತಿದ್ದೆ, ಹದಿನಾರಕ್ಕೇ ಮದುವೆ ಆಯ್ತು ಅಂತ. ನಿನಗೆ ಭಯ ಆಗಿರ್ಲಿಲ್ವಾ?'
+    tr: 'Ajji, ninne nīnu Sām-ge hēḷtidde, hadinārakkē maduve āytu anta. Ninge bhaya āgirlilvā?'
+    en: 'Ajji, yesterday I heard you telling Sam you were married at just sixteen. Weren''t you scared?'
+  - who: 'ajji'
+    t: 'ಭಯ ಅಂತ ಹೇಳೋಕೂ ಅವಕಾಶ ಇರ್ಲಿಲ್ಲ ಕಣೇ. ನಮ್ ಕಾಲದಲ್ಲಿ ಹುಡುಗಿ ಬಾಯಿ ಬಿಡೋದೇ ತಪ್ಪು. ನಿನ್ ಕಾಲ ಬೇರೆ. ಅದನ್ನ ಉಪಯೋಗಿಸ್ಕೋ.'
+    tr: 'Bhaya anta hēḷōkū avakāsha irlilla kaṇē. Nam kāladalli huḍugi bāyi biḍōdē tappu. Nin kāla bēre. Adanna upayōgiskō.'
+    en: 'We didn''t even get the chance to say we were scared, dear. In our day, a girl opening her mouth was a sin in itself. Your times are different. Make use of them.'
+  - who: 'kiran'
+    t: 'ಬಂದೆ! ಮಲ್ಲಿಗೆ ಮಾರಿಗೆ ನೂರೈವತ್ತು ರೂಪಾಯಿ! ಮದುವೆ ಸೀಸನ್ ಅಂತ ಹೂವಿನವಳು ಡಬಲ್ ರೇಟ್ ಹೇಳಿದ್ಲು.'
+    tr: 'Bande! Mallige mārige nūraivattu rūpāyi! Maduve sīsan anta hūvinavaḷu ḍabal rēṭ hēḷidlu.'
+    en: 'I''m back! Jasmine is a hundred and fifty rupees a length! The flower lady doubled the price because it''s wedding season.'
+  - who: 'amma'
+    t: 'ಚೌಕಾಸಿ ಮಾಡ್ಲಿಲ್ವಾ?'
+    tr: 'Chaukāsi māḍlilvā?'
+    en: 'Didn''t you bargain?'
+  - who: 'kiran'
+    t: 'ಮಾಡ್ದೆ. ಅವಳು ನನ್ನ ಮುಖ ನೋಡಿ ಇನ್ನೂ ಹತ್ತು ರೂಪಾಯಿ ಜಾಸ್ತಿ ಮಾಡಿದ್ಲು.'
+    tr: 'Māḍde. Avaḷu nanna mukha nōḍi innū hattu rūpāyi jāsti māḍidlu.'
+    en: 'I did. She took one look at my face and added another ten rupees.'
+  - scene: 'Eleven twenty. A white Innova stops at the gate. The groom''s parents, Shankar and Sumitra, step out.'
+  - who: 'kiran'
+    t: 'ಅಕ್ಕ, ಬಂದ್ರು! ದೊಡ್ಡ ಇನ್ನೋವಾ ಕಾರು. ಡ್ರೈವರ್ ಬೇರೆ!'
+    tr: 'Akka, bandru! Doḍḍa Innōvā kāru. Ḍraivar bēre!'
+    en: 'Akka, they''re here! A big Innova. With a driver, no less!'
+  - who: 'appa'
+    t: 'ಬನ್ನಿ ಬನ್ನಿ, ನಮಸ್ಕಾರ! ಮನೆ ಸುಲಭವಾಗಿ ಸಿಕ್ತಾ?'
+    tr: 'Banni banni, namaskāra! Mane sulabhavāgi siktā?'
+    en: 'Come in, come in, namaskara! Did you find the house easily?'
+  - who: 'shankar'
+    t: 'ನಮಸ್ಕಾರ, ರಮೇಶ್ ಅವ್ರೇ. ಮನೆ ಸಿಕ್ತು, ಆದ್ರೆ ಸಿಲ್ಕ್ ಬೋರ್ಡ್ ಟ್ರಾಫಿಕ್‌ನಲ್ಲಿ ಒಂದು ಗಂಟೆ ತಪಸ್ಸು ಮಾಡಿದ್ವಿ!'
+    tr: 'Namaskāra, Ramēsh avrē. Mane siktu, ādre Silk Bōrḍ ṭrāphiknalli ondu gaṇṭe tapassu māḍidvi!'
+    en: 'Namaskara, Ramesh. We found the house, but we did an hour of penance in the Silk Board traffic!'
+  - who: 'appa'
+    t: 'ಸಿಲ್ಕ್ ಬೋರ್ಡ್ ಅಂದ್ರೆ ಬೆಂಗಳೂರಿನ ಅಗ್ನಿಪರೀಕ್ಷೆ! ಬನ್ನಿ, ಕೂತ್ಕೊಳ್ಳಿ.'
+    tr: 'Silk Bōrḍ andre Bengaḷūrina agniparīkṣe! Banni, kūtkoḷḷi.'
+    en: 'Silk Board is Bengaluru''s trial by fire! Please, have a seat.'
+  - who: 'amma'
+    t: 'ನಮಸ್ಕಾರ ಅಕ್ಕ. ಬನ್ನಿ, ಈ ಕಡೆ ಕೂತ್ಕೊಳ್ಳಿ, ಫ್ಯಾನ್ ಕೆಳಗೆ.'
+    tr: 'Namaskāra akka. Banni, ī kaḍe kūtkoḷḷi, phyān keḷage.'
+    en: 'Namaskara, sister. Come, sit over here, under the fan.'
+  - who: 'sumitra'
+    t: 'ನಮಸ್ಕಾರ. ಎಷ್ಟು ಚೆನ್ನಾಗಿದೆ ನಿಮ್ಮ ಮನೆ! ರಂಗೋಲಿ ನೀವೇ ಹಾಕಿದ್ದಾ?'
+    tr: 'Namaskāra. Eṣṭu chennāgide nimma mane! Rangōli nīvē hākiddā?'
+    en: 'Namaskara. What a lovely home! Did you draw the rangoli yourself?'
+  - who: 'amma'
+    t: 'ಹೌದು, ಬೆಳಿಗ್ಗೆ ಐದು ಗಂಟೆಗೆ ಎದ್ದು ಹಾಕಿದೆ. ಮೊದಲು ಸ್ವಲ್ಪ ನೀರು ತಗೊಳ್ಳಿ.'
+    tr: 'Haudu, beḷigge aidu gaṇṭege eddu hākide. Modalu swalpa nīru tagoḷḷi.'
+    en: 'Yes, I got up at five to do it. Please, have some water first.'
+  - who: 'ajji'
+    t: 'ಬನ್ನಿ ಬನ್ನಿ. ಚೆನ್ನಾಗಿದೀರಾ?'
+    tr: 'Banni banni. Chennāgidīrā?'
+    en: 'Welcome, welcome. Are you all well?'
+  - who: 'sumitra'
+    t: 'ಅಜ್ಜಿಗೆ ನಮಸ್ಕಾರ. ಆಶೀರ್ವಾದ ಮಾಡಿ.'
+    tr: 'Ajjige namaskāra. Āshīrvāda māḍi.'
+    en: 'Namaskara, Ajji. Please bless us.'
+  - who: 'ajji'
+    t: 'ಚೆನ್ನಾಗಿರಿ, ಚೆನ್ನಾಗಿರಿ. ದೇವರು ಒಳ್ಳೇದು ಮಾಡ್ಲಿ.'
+    tr: 'Chennāgiri, chennāgiri. Dēvaru oḷḷēdu māḍli.'
+    en: 'Be well, be well. May God be good to you.'
+  - who: 'shankar'
+    t: 'ಓ… ಇವರು ಯಾರು? ನೆಂಟರಾ?'
+    tr: 'Ō… ivaru yāru? Neṇṭarā?'
+    en: 'Oh… and who''s this? A relative?'
+  - who: 'appa'
+    t: 'ಇಲ್ಲ ಇಲ್ಲ, ಇವರು ಸ್ಯಾಮ್, ನಮ್ಮ ಪಿಜಿ. ಸ್ವಿಟ್ಜರ್ಲ್ಯಾಂಡಿಂದ ಬಂದಿದಾರೆ, ಐಟಿಲಿ ಇದಾರೆ.'
+    tr: 'Illa illa, ivaru Sām, namma PG. Switzerland-inda bandidāre, IT-li idāre.'
+    en: 'No, no, this is Sam, our paying guest. He''s from Switzerland, works in IT.'
+  - who: 'sam'
+    t: 'ನಮಸ್ಕಾರ ಸಾರ್, ನಮಸ್ಕಾರ ಮೇಡಂ.'
+    tr: 'Namaskāra sār, namaskāra mēḍam.'
+    en: 'Namaskara, sir. Namaskara, madam.'
+  - who: 'sumitra'
+    t: 'ಓಹ್, ಕನ್ನಡ ಬೇರೆ ಮಾತಾಡ್ತಾರೆ! ಪರವಾಗಿಲ್ವೇ!'
+    tr: 'Ōh, Kannaḍa bēre mātāḍtāre! Paravāgilvē!'
+    en: 'Oh, he even speaks Kannada! Well, well!'
+  - who: 'sam'
+    t: 'ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ, ಮೇಡಂ. ಕಲೀತಾ ಇದೀನಿ.'
+    tr: 'Swalpa swalpa, mēḍam. Kalītā idīni.'
+    en: 'Just a little, madam. I''m learning.'
+  - scene: 'Everyone is seated. Coffee arrives. The small talk begins — but every question is also a test.'
+  - who: 'shankar'
+    t: 'ನಿಮ್ ಏರಿಯಾ ತುಂಬಾ ಹಸಿರಾಗಿದೆ. ಜಯನಗರ ಅಂದ್ರೆ ಜಯನಗರ! ನಮ್ ವೈಟ್‌ಫೀಲ್ಡ್ ಕಡೆ ಬರೀ ಕಾಂಕ್ರೀಟ್ ಕಾಡು.'
+    tr: 'Nim ēriyā tumbā hasirāgide. Jayanagara andre Jayanagara! Nam Waiṭphīlḍ kaḍe barī kānkrīṭ kāḍu.'
+    en: 'Your area is so green. Jayanagar really is Jayanagar! Over our way in Whitefield it''s nothing but a concrete jungle.'
+  - who: 'appa'
+    t: 'ಹೌದು, ಆದ್ರೆ ಇಲ್ಲೂ ಈಗ ಹಳೇ ಮನೆಗಳನ್ನೆಲ್ಲಾ ಕೆಡವಿ ಅಪಾರ್ಟ್‌ಮೆಂಟ್ ಕಟ್ತಿದಾರೆ. ಬೆಂಗಳೂರು ಮೊದಲಿನ ಹಾಗಿಲ್ಲ.'
+    tr: 'Haudu, ādre illū īga haḷē manegaḷannellā keḍavi apārṭmenṭ kaṭtidāre. Bengaḷūru modalina hāgilla.'
+    en: 'True, but even here they''re knocking down all the old houses to build apartments. Bengaluru isn''t what it used to be.'
+  - who: 'shankar'
+    t: 'ಯಾವುದೂ ಮೊದಲಿನ ಹಾಗಿಲ್ಲ ಬಿಡಿ. ಮಕ್ಕಳೂ ಕೂಡ.'
+    tr: 'Yāvudū modalina hāgilla biḍi. Makkaḷū kūḍa.'
+    en: 'Nothing''s what it used to be. Not even our children.'
+  - who: 'shankar'
+    t: 'ರಮೇಶ್ ಅವ್ರೇ, ನಿಮ್ಮ ಊರು ಯಾವುದು? ಮೂಲತಃ ಬೆಂಗಳೂರಾ?'
+    tr: 'Ramēsh avrē, nimma ūru yāvudu? Mūlataḥ Bengaḷūrā?'
+    en: 'Ramesh, where''s your native place? Bengaluru originally?'
+  - who: 'appa'
+    t: 'ಇಲ್ಲ, ನಮ್ಮೂರು ಮಂಡ್ಯ ಹತ್ರ, ಮದ್ದೂರು. ಅಪ್ಪನ ಕಾಲದಲ್ಲೇ ಇಲ್ಲಿಗೆ ಬಂದ್ವಿ.'
+    tr: 'Illa, nammūru Manḍya hatra, Maddūru. Appana kāladallē illige bandvi.'
+    en: 'No, our village is near Mandya — Maddur. We moved here back in my father''s time.'
+  - who: 'shankar'
+    t: 'ಮದ್ದೂರಾ! ಮದ್ದೂರು ವಡೆ ಊರು! ನಮ್ದು ತುಮಕೂರು ಕಡೆ. ನಿಮ್ಮ ಮನೆತನದ ಹೆಸರು… ರಾವ್ ಅಲ್ವಾ?'
+    tr: 'Maddūrā! Maddūru vaḍe ūru! Namdu Tumakūru kaḍe. Nimma manetanada hesaru… Rāv alvā?'
+    en: 'Maddur! Home of the Maddur vade! We''re from the Tumakuru side. And your family name is… Rao, isn''t it?'
+  - who: 'appa'
+    t: 'ಹೌದು. ಜಾತಕ ಎಲ್ಲಾ ಮುಂಚೇನೇ ನೋಡಿದೀರಿ ಅಂತ ಶಾಸ್ತ್ರಿಗಳು ಹೇಳಿದ್ರು.'
+    tr: 'Haudu. Jātaka ellā munchēnē nōḍidīri anta Shāstrigaḷu hēḷidru.'
+    en: 'Yes. Shastri-ji told us you''d already gone through the horoscopes and all that.'
+  - who: 'sumitra'
+    t: 'ಹೌದು ಹೌದು, ಜಾತಕ ಹೊಂದಾಣಿಕೆ ಆಗುತ್ತೆ, ಗೋತ್ರಾನೂ ಬೇರೆ ಬೇರೆ. ನಮ್ಮವರೇ ಅಂತ ಗೊತ್ತಾದ್ಮೇಲೆ ಸಮಾಧಾನ ಆಯ್ತು.'
+    tr: 'Haudu haudu, jātaka hondāṇike āgutte, gōtrānū bēre bēre. Nammavarē anta gottādmēle samādhāna āytu.'
+    en: 'Yes, yes, the horoscopes match, and the gotras are different. Once we knew you were ‘our own people’, we felt at ease.'
+  - who: 'kiran'
+    t: 'ಬ್ರೋ, ‘ನಮ್ಮವರೇ’ ಅಂದ್ರೆ… ಅದೇ ಜಾತಿ ಅಂತ. ಆಮೇಲೆ ಹೇಳ್ತೀನಿ.'
+    tr: 'Bro, ‘nammavarē’ andre… adē jāti anta. Āmēle hēḷtīni.'
+    en: 'Bro, ‘our own people’ means… the same caste. I''ll explain later.'
+  - who: 'sam'
+    t: 'ಓ… ಸರಿ.'
+    tr: 'Ō… sari.'
+    en: 'Oh… okay.'
+  - scene: 'Sumitra props her phone against the coffee flask. The groom, Pradeep, joins by video call from Seattle.'
+  - who: 'sumitra'
+    t: 'ಪ್ರದೀಪ್ ವಿಡಿಯೋ ಕಾಲ್‌ನಲ್ಲಿ ಬರ್ತಾನೆ. ಅಲ್ಲಿ ಈಗ ರಾತ್ರಿ ಹನ್ನೆರಡು ಗಂಟೆ, ಪಾಪ.'
+    tr: 'Pradīp viḍiyō kālnalli bartāne. Alli īga rātri hanneraḍu gaṇṭe, pāpa.'
+    en: 'Pradeep will join on video. It''s midnight there now, poor thing.'
+  - who: 'pradeep'
+    t: 'ಹಲೋ? ಹಲೋ? ಕೇಳಿಸ್ತಾ ಇದೆಯಾ? ನಾನು… ಫ್ರೀಜ್ ಆಗಿದೀನಾ?'
+    tr: 'Halō? Halō? Kēḷistā ideyā? Nānu… phrīj āgidīnā?'
+    en: 'Hello? Hello? Can you hear me? Am I… frozen?'
+  - who: 'kiran'
+    t: 'ಹೌದು, ನಿಮ್ ಮುಖ ಅರ್ಧ ಸ್ಮೈಲ್‌ನಲ್ಲೇ ನಿಂತುಬಿಟ್ಟಿದೆ!'
+    tr: 'Haudu, nim mukha ardha smaillē nintubiṭṭide!'
+    en: 'Yes, your face is stuck halfway through a smile!'
+  - who: 'amma'
+    t: 'ಕಿರಣ್!'
+    tr: 'Kiraṇ!'
+    en: 'Kiran!'
+  - who: 'pradeep'
+    t: 'ಈಗ ಬಂತಾ? ನಮಸ್ಕಾರ ಅಂಕಲ್, ನಮಸ್ಕಾರ ಆಂಟಿ. ಹಾಯ್ ಶ್ವೇತಾ.'
+    tr: 'Īga bantā? Namaskāra ankal, namaskāra ānṭi. Hāy Shwētā.'
+    en: 'Is it working now? Namaskara Uncle, namaskara Aunty. Hi Shwetha.'
+  - who: 'shwe'
+    t: 'ಹಾಯ್… ನಮಸ್ಕಾರ. ಅಲ್ಲಿ ತುಂಬಾ ಲೇಟ್ ಆಗಿದೆ ಅಲ್ವಾ? ನಿಮಗೆ ತೊಂದರೆ ಆಯ್ತು.'
+    tr: 'Hāy… namaskāra. Alli tumbā lēṭ āgide alvā? Nimage tondare āytu.'
+    en: 'Hi… namaskara. It''s really late there, isn''t it? Sorry to put you through this.'
+  - who: 'pradeep'
+    t: 'ಇಲ್ಲ ಇಲ್ಲ, ಪರವಾಗಿಲ್ಲ. ಸಿಯಾಟಲ್‌ನಲ್ಲಿ ಹೇಗಿದ್ರೂ ಮಳೆ, ನಿದ್ದೆ ಬರಲ್ಲ.'
+    tr: 'Illa illa, paravāgilla. Siyāṭalnalli hēgidrū maḷe, nidde baralla.'
+    en: 'No, no, it''s fine. It''s always raining in Seattle anyway, I can''t sleep.'
+  - who: 'shwe'
+    t: 'ನೀವು ಯಾವ ಕಡೆ ಕೆಲಸ ಮಾಡ್ತೀರಾ?'
+    tr: 'Nīvu yāva kaḍe kelsa māḍtīrā?'
+    en: 'What area do you work in?'
+  - who: 'pradeep'
+    t: 'ಕ್ಲೌಡ್ ಇನ್‌ಫ್ರಾ, ಒಂದು ದೊಡ್ಡ ಕಂಪನೀಲಿ. ನೀವು ಡೇಟಾ ಎಂಜಿನಿಯರ್ ಅಂತ ಅಮ್ಮ ಹೇಳಿದ್ರು. ಸ್ಪಾರ್ಕ್ ಮಾಡ್ತೀರಾ?'
+    tr: 'Klauḍ infrā, ondu doḍḍa kampanīli. Nīvu ḍēṭā enjinīyar anta amma hēḷidru. Spārk māḍtīrā?'
+    en: 'Cloud infrastructure, at a big company. Mum said you''re a data engineer. Do you work with Spark?'
+  - who: 'shwe'
+    t: 'ಹೌದು, ಸ್ಪಾರ್ಕ್, ಏರ್‌ಫ್ಲೋ… ಈಗ ಒಂದು ಹೊಸ ಟೀಮ್ ಲೀಡ್ ಮಾಡ್ತಿದೀನಿ.'
+    tr: 'Haudu, Spārk, Ērphlō… īga ondu hosa ṭīm līḍ māḍtidīni.'
+    en: 'Yes, Spark, Airflow… right now I''m leading a new team.'
+  - who: 'pradeep'
+    t: 'ಓ, ಸೂಪರ್! ಹಾಗಾದ್ರೆ ನಿಮಗೆ ಅಮೆರಿಕಾಗೆ ಬರೋಕೆ ಇಷ್ಟ ಇದೆಯಾ, ಅಥವಾ…'
+    tr: 'Ō, sūpar! Hāgādre nimage Amerikāge barōke iṣṭa ideyā, athavā…'
+    en: 'Oh, great! So would you like to come to America, or…'
+  - who: 'shwe'
+    t: 'ಅದನ್ನ ನಿಮ್ ಜೊತೆ ಒಂದ್ಸಲ ಸರಿಯಾಗಿ ಮಾತಾಡಿದ್ಮೇಲೆ ಹೇಳ್ತೀನಿ.'
+    tr: 'Adanna nim jote ondsala sariyāgi mātāḍidmēle hēḷtīni.'
+    en: 'I''ll answer that after we''ve had a proper conversation, just the two of us.'
+  - who: 'pradeep'
+    t: 'ಅದೂ ಸರಿ… ನಾನೂ… ನಿಮಗೆ… ಕೇಳ್…'
+    tr: 'Adū sari… nānū… nimage… kēḷ…'
+    en: 'That''s fair… I also… wanted to… ask…'
+  - who: 'kiran'
+    t: 'ಹೋಯ್ತು. ಅಮೆರಿಕದ ವೈಫೈಗಿಂತ ನಮ್ ಬಿಎಂಟಿಸಿ ಬಸ್ಸೇ ವಾಸಿ.'
+    tr: 'Hōytu. Amerikada vaiphaiginta nam BMTC bassē vāsi.'
+    en: 'Gone. Our BMTC buses are more reliable than American Wi-Fi.'
+  - who: 'sumitra'
+    t: 'ಆಮೇಲೆ ಮತ್ತೆ ಮಾಡ್ತಾನೆ ಬಿಡಿ.'
+    tr: 'Āmēle matte māḍtāne biḍi.'
+    en: 'Never mind, he''ll call again later.'
+  - scene: 'Amma brings out plates of uppittu and kesari bath. The questions turn to Shwetha.'
+  - who: 'amma'
+    t: 'ಉಪ್ಪಿಟ್ಟು, ಕೇಸರಿಬಾತ್ ತಗೊಳ್ಳಿ. ಶ್ವೇತಾನೇ ಮಾಡಿದ್ದು.'
+    tr: 'Uppiṭṭu, kēsaribāt tagoḷḷi. Shwētānē māḍiddu.'
+    en: 'Please have some uppittu and kesari bath. Shwetha made it herself.'
+  - who: 'shwe'
+    t: 'ಅಮ್ಮಾ, ನಾನು ಕೇಸರಿಬಾತ್ ಮಾತ್ರ ಮಾಡಿದ್ದು…'
+    tr: 'Ammā, nānu kēsaribāt mātra māḍiddu…'
+    en: 'Mum, I only made the kesari bath…'
+  - who: 'sumitra'
+    t: 'ಆಹಾ, ಕೇಸರಿಬಾತ್ ತುಪ್ಪದಲ್ಲಿ ಮುಳುಗಿದೆ! ಹೀಗೇ ಇರ್ಬೇಕು. ಹಾಗಾದ್ರೆ ಅಡುಗೆ ಚೆನ್ನಾಗಿ ಬರುತ್ತಾ?'
+    tr: 'Āhā, kēsaribāt tuppadalli muḷugide! Hīgē irbēku. Hāgādre aḍuge chennāgi baruttā?'
+    en: 'Aha, this kesari bath is swimming in ghee! That''s exactly how it should be. So, she''s a good cook, then?'
+  - who: 'shwe'
+    t: 'ಬೇಕಾದಷ್ಟು ಬರುತ್ತೆ ಆಂಟಿ. ಹಸಿವಾದ್ರೆ ಯಾರಾದ್ರೂ ಕಲೀತಾರೆ.'
+    tr: 'Bēkādaṣṭu barutte ānṭi. Hasivādre yārādrū kalītāre.'
+    en: 'Well enough, Aunty. When you''re hungry, anyone learns.'
+  - who: 'sumitra'
+    t: 'ಹಾಂ… ಅಮೆರಿಕಾದಲ್ಲಿ ಅಡುಗೆಯವರು ಸಿಗಲ್ಲ, ಅದಕ್ಕೇ ಕೇಳಿದೆ. ಮದುವೆ ಆದ್ಮೇಲೆ ಕೆಲಸ ಬಿಟ್ಟು ಅಲ್ಲಿಗೆ ಹೋಗ್ತೀರಿ ತಾನೇ?'
+    tr: 'Hāṃ… Amerikādalli aḍugeyavaru sigalla, adakkē kēḷide. Maduve ādmēle kelsa biṭṭu allige hōgtīri tānē?'
+    en: 'Hmm… you don''t get cooks in America, that''s why I asked. After the wedding you''ll leave your job and go there, won''t you?'
+  - who: 'shwe'
+    t: 'ಕೆಲಸ ಬಿಡೋ ಪ್ರಶ್ನೆನೇ ಇಲ್ಲ ಆಂಟಿ. ನಮ್ ಕಂಪನಿಗೆ ಸಿಯಾಟಲ್‌ನಲ್ಲೂ ಆಫೀಸ್ ಇದೆ; ಟ್ರಾನ್ಸ್‌ಫರ್ ಕೇಳ್ಬಹುದು. ಇಲ್ಲಾಂದ್ರೆ ರಿಮೋಟ್.'
+    tr: 'Kelsa biḍō prashnenē illa ānṭi. Nam kampanige Siyāṭalnallū āphīs ide; ṭrānsphar kēḷbahudu. Illāndre rimōṭ.'
+    en: 'Quitting my job is out of the question, Aunty. My company has an office in Seattle too; I could ask for a transfer. Otherwise, remote.'
+  - who: 'shankar'
+    t: 'ಒಳ್ಳೇದು, ಒಳ್ಳೇದು. ಈಗಿನ ಕಾಲದ ಹುಡುಗೀರು ಎಲ್ಲಾ ಪ್ಲಾನ್ ಮಾಡ್ಕೊಂಡೇ ಇರ್ತಾರೆ. ಸಂಬಳ ಎಷ್ಟು ಬರುತ್ತೆ, ಕೇಳ್ಬಹುದಾ?'
+    tr: 'Oḷḷēdu, oḷḷēdu. Īgina kālada huḍugīru ellā plān māḍkonḍē irtāre. Sambaḷa eṣṭu barutte, kēḷbahudā?'
+    en: 'Good, good. Girls these days have it all planned out. May I ask how much she earns?'
+  - who: 'appa'
+    t: 'ಅದು… ಅದು…'
+    tr: 'Adu… adu…'
+    en: 'Well… well…'
+  - who: 'shwe'
+    t: 'ಪರವಾಗಿಲ್ಲ ಅಪ್ಪಾ. ವರ್ಷಕ್ಕೆ ಮೂವತ್ತೆರಡು ಲಕ್ಷ, ಅಂಕಲ್. ಪ್ರದೀಪ್‌ಗೆ ಎಷ್ಟು ಅಂತ ನಾನೂ ಕೇಳ್ಬಹುದಾ?'
+    tr: 'Paravāgilla appā. Varṣakke mūvatteraḍu lakṣa, ankal. Pradīpge eṣṭu anta nānū kēḷbahudā?'
+    en: 'It''s fine, Dad. Thirty-two lakh a year, Uncle. May I also ask what Pradeep earns?'
+  - who: 'shankar'
+    t: 'ಹ್ಹ ಹ್ಹ… ಹುಡುಗಿ ತುಂಬಾ ಸ್ಮಾರ್ಟ್!'
+    tr: 'Hha hha… huḍugi tumbā smārṭ!'
+    en: 'Ha ha… the girl is very smart!'
+  - who: 'sumitra'
+    t: 'ಅವನಿಗೆ ಡಾಲರ್‌ನಲ್ಲಿ ಬರುತ್ತೆ ಬಿಡಿ, ಹೋಲಿಕೆನೇ ಇಲ್ಲ.'
+    tr: 'Avanige ḍālarnalli barutte biḍi, hōlikenē illa.'
+    en: 'Well, he''s paid in dollars — there''s no comparison.'
+  - scene: 'Shankar puts down his cup. His voice becomes softer, slower, more careful.'
+  - who: 'shankar'
+    t: 'ರಮೇಶ್ ಅವ್ರೇ, ಒಂದು ವಿಷಯ ಮುಕ್ತವಾಗಿ ಮಾತಾಡ್ಬಿಡೋಣ. ಆಮೇಲೆ ಮನಸ್ತಾಪ ಬರಬಾರದು ನೋಡಿ.'
+    tr: 'Ramēsh avrē, ondu viṣaya muktavāgi mātāḍbiḍōṇa. Āmēle manastāpa barabāradu nōḍi.'
+    en: 'Ramesh, let''s talk openly about one matter. We don''t want any hard feelings later, you see.'
+  - who: 'appa'
+    t: 'ಹೇಳಿ, ಹೇಳಿ.'
+    tr: 'Hēḷi, hēḷi.'
+    en: 'Please, go ahead.'
+  - who: 'shankar'
+    t: 'ನಮಗೆ ಏನೂ ಬೇಡ. ದೇವರ ದಯೆಯಿಂದ ಎಲ್ಲಾ ಇದೆ. ಆದ್ರೆ… ನಿಮಗೇ ಗೊತ್ತು, ನಮ್ಮ ಕಡೆ ಒಂದು ಪದ್ಧತಿ ಇದೆ.'
+    tr: 'Namage ēnū bēḍa. Dēvara dayeyinda ellā ide. Ādre… nimagē gottu, namma kaḍe ondu paddhati ide.'
+    en: 'We don''t want anything. By God''s grace we have everything. But… as you know, there''s a custom in our community.'
+  - who: 'sumitra'
+    t: 'ಹುಡುಗಿಗೆ ನೀವು ಪ್ರೀತಿಯಿಂದ ಹಾಕೋ ಚಿನ್ನ ಅವಳದ್ದೇ ತಾನೇ? ಒಂದು ನೂರು ಗ್ರಾಮ್… ಅದೂ ನಿಮ್ಮಿಷ್ಟ.'
+    tr: 'Huḍugige nīvu prītiyinda hākō chinna avaḷaddē tānē? Ondu nūru grām… adū nimmiṣṭa.'
+    en: 'The gold you give your daughter out of love stays hers anyway, doesn''t it? About a hundred grams… that''s entirely up to you, of course.'
+  - who: 'shankar'
+    t: 'ಮತ್ತೆ ಮದುವೆ ಛತ್ರ — ಪ್ಯಾಲೇಸ್ ಗ್ರೌಂಡ್ಸ್ ಹತ್ರ ಒಂದು ಹಾಲ್ ನೋಡಿದೀವಿ. ನಮ್ ಕಡೆಯಿಂದಾನೇ ಒಂದು ಸಾವಿರ ಜನ ಬರ್ತಾರೆ, ಏನ್ಮಾಡೋದು.'
+    tr: 'Matte maduve chatra — Pyālēs Graunḍs hatra ondu hāl nōḍidīvi. Nam kaḍeyindānē ondu sāvira jana bartāre, ēnmāḍōdu.'
+    en: 'And then the wedding hall — we''ve seen one near Palace Grounds. A thousand guests will come from our side alone, what can one do.'
+  - who: 'sumitra'
+    t: 'ಅಲ್ಲಿಗೆ ಹೋದ್ಮೇಲೆ ಮಕ್ಕಳಿಗೆ ಒಂದು ಕಾರು ಬೇಕೇ ಬೇಕು. ನಮ್ ನೆಂಟರೆಲ್ಲಾ ‘ಹುಡುಗಿ ಮನೆಯವರು ಏನು ಕೊಟ್ರು’ ಅಂತ ಕೇಳ್ತಾರೆ. ಮುಖ ಉಳಿಸ್ಕೋಬೇಕಲ್ಲ.'
+    tr: 'Allige hōdmēle makkaḷige ondu kāru bēkē bēku. Nam neṇṭarellā ‘huḍugi maneyavaru ēnu koṭru’ anta kēḷtāre. Mukha uḷiskōbēkalla.'
+    en: 'And once the children are over there, they''ll definitely need a car. All our relatives will ask, ‘What did the girl''s family give?’ We do have to save face, don''t we?'
+  - who: 'appa'
+    t: 'ಅದು… ನೋಡಿ… ನಾವು… ಯೋಚನೆ ಮಾಡ್ತೀವಿ. ನಮ್ಮ ಶಕ್ತಿ ಎಷ್ಟು ಅಂತ…'
+    tr: 'Adu… nōḍi… nāvu… yōchane māḍtīvi. Namma shakti eṣṭu anta…'
+    en: 'Well… you see… we''ll… think about it. Depending on what we can manage…'
+  - who: 'amma'
+    t: 'ರೀ…'
+    tr: 'Rī…'
+    en: 'Listen…'
+  - who: 'shwe'
+    t: 'ಅಪ್ಪಾ, ಒಂದು ನಿಮಿಷ. ಅಂಕಲ್, ಆಂಟಿ, ನಾನು ಗೌರವದಿಂದಾನೇ ಹೇಳ್ತಿದೀನಿ, ತಪ್ಪು ತಿಳ್ಕೋಬೇಡಿ.'
+    tr: 'Appā, ondu nimiṣa. Ankal, ānṭi, nānu gauravadindānē hēḷtidīni, tappu tiḷkōbēḍi.'
+    en: 'Dad, one minute. Uncle, Aunty, I''m saying this with all due respect — please don''t take it the wrong way.'
+  - who: 'shwe'
+    t: '‘ಏನೂ ಬೇಡ’ ಅಂತ ಶುರು ಮಾಡಿ, ಚಿನ್ನ, ಛತ್ರ, ಕಾರು ಅಂತ ಪಟ್ಟಿ ಕೊಟ್ರೆ, ಅದಕ್ಕೆ ಒಂದೇ ಹೆಸರು — ವರದಕ್ಷಿಣೆ.'
+    tr: '‘Ēnū bēḍa’ anta shuru māḍi, chinna, chatra, kāru anta paṭṭi koṭre, adakke ondē hesaru — varadakṣiṇe.'
+    en: 'If you begin with ‘we want nothing’ and then hand over a list — gold, a hall, a car — there''s only one word for that: dowry.'
+  - who: 'sam'
+    t: 'ಕಿರಣ್, ‘ವರದಕ್ಷಿಣೆ’ ಅಂದ್ರೆ?'
+    tr: 'Kiraṇ, ‘varadakṣiṇe’ andre?'
+    en: 'Kiran, what''s ‘varadakshine’?'
+  - who: 'kiran'
+    t: 'ಡೌರಿ. ಹುಡುಗಿ ಮನೆಯವರು ಹುಡುಗನ ಮನೆಯವರಿಗೆ ಕೊಡೋ ದುಡ್ಡು, ಚಿನ್ನ. ಈಗ ಎಲ್ಲಾರೂ ಅದನ್ನ ‘ಗಿಫ್ಟ್’ ಅಂತಾರೆ.'
+    tr: 'Ḍauri. Huḍugi maneyavaru huḍugana maneyavarige koḍō duḍḍu, chinna. Īga ellārū adanna ‘gifṭ’ antāre.'
+    en: 'Dowry. The money and gold the bride''s family hands to the groom''s family. These days everyone calls it a ‘gift’.'
+  - who: 'sumitra'
+    t: 'ಅಯ್ಯೋ, ವರದಕ್ಷಿಣೆ ಅಂತ ಯಾರು ಹೇಳಿದ್ರು? ಇದು ಬರೀ ಸಂಪ್ರದಾಯ…'
+    tr: 'Ayyō, varadakṣiṇe anta yāru hēḷidru? Idu barī sampradāya…'
+    en: 'Oh, who said anything about dowry? This is just tradition…'
+  - who: 'shwe'
+    t: 'ಸಂಪ್ರದಾಯ ಅಂತ ಹೆಸರು ಬದಲಾಯಿಸಿದ್ರೆ ಕಾನೂನು ಬದಲಾಗಲ್ಲ ಆಂಟಿ. ವರದಕ್ಷಿಣೆ ನಿಷೇಧ ಕಾಯ್ದೆ ಸಾವಿರದ ಒಂಬೈನೂರ ಅರವತ್ತೊಂದರಿಂದಾನೇ ಇದೆ. ಕೊಡೋದೂ ಅಪರಾಧ, ತಗೊಳ್ಳೋದೂ ಅಪರಾಧ.'
+    tr: 'Sampradāya anta hesaru badalāyisidre kānūnu badalāgalla ānṭi. Varadakṣiṇe niṣēdha kāyde sāvirada ombainūra aravattondarindānē ide. Koḍōdū aparādha, tagoḷḷōdū aparādha.'
+    en: 'Renaming it ‘tradition’ doesn''t change the law, Aunty. The Dowry Prohibition Act has existed since 1961. Giving it is a crime, and so is taking it.'
+  - who: 'shankar'
+    t: 'ಏನಮ್ಮ ಇದು, ನಮ್ಮನ್ನ ಕಳ್ಳರ ಥರ ಮಾತಾಡಿಸ್ತಿದೀಯಲ್ಲ!'
+    tr: 'Ēnamma idu, nammanna kaḷḷara thara mātāḍistidīyalla!'
+    en: 'What is this, girl? You''re talking to us as if we were thieves!'
+  - who: 'shwe'
+    t: 'ಇಲ್ಲ ಅಂಕಲ್, ನೀವು ಕಳ್ಳರು ಅಂತ ನಾನು ಹೇಳ್ತಿಲ್ಲ. ನಾನು ನನ್ನ ಸಂಬಳ ದುಡೀತೀನಿ. ನನ್ನ ಮೇಲೆ ಬೆಲೆ ಕಟ್ಟೋ ಅವಶ್ಯಕತೆ ಇಲ್ಲ. ಮದುವೆ ವ್ಯಾಪಾರ ಅಲ್ಲ, ಎರಡು ಮನಸ್ಸಿನ ಒಪ್ಪಂದ.'
+    tr: 'Illa ankal, nīvu kaḷḷaru anta nānu hēḷtilla. Nānu nanna sambaḷa duḍītīni. Nanna mēle bele kaṭṭō avashyakate illa. Maduve vyāpāra alla, eraḍu manassina oppanda.'
+    en: 'No, Uncle, I''m not calling you thieves. I earn my own salary. There''s no need to put a price tag on me. A marriage isn''t a business deal; it''s an agreement between two hearts.'
+  - who: 'amma'
+    t: 'ಶ್ವೇತಾ, ಸಾಕು! ದೊಡ್ಡವರ ಮುಂದೆ ಹೀಗೆ ಮಾತಾಡ್ತಾರಾ?'
+    tr: 'Shwētā, sāku! Doḍḍavara munde hīge mātāḍtārā?'
+    en: 'Shwetha, that''s enough! Is this any way to talk in front of elders?'
+  - who: 'sumitra'
+    t: 'ನೋಡಿ ಲಕ್ಷ್ಮಿ ಅವ್ರೇ, ಹೆಣ್ಣುಮಕ್ಕಳನ್ನ ಜಾಸ್ತಿ ಓದಿಸಿದ್ರೆ ಹೀಗೇ ಆಗೋದು. ನಾಲಿಗೆ ಉದ್ದ ಆಗುತ್ತೆ.'
+    tr: 'Nōḍi Lakṣmi avrē, heṇṇumakkaḷanna jāsti ōdisidre hīgē āgōdu. Nālige udda āgutte.'
+    en: 'You see, Lakshmi, this is what happens when you educate girls too much. Their tongues grow long.'
+  - who: 'kiran'
+    t: 'ನಾಲಿಗೆ ಉದ್ದ… ಪಟ್ಟಿ ಇನ್ನೂ ಉದ್ದ.'
+    tr: 'Nālige udda… paṭṭi innū udda.'
+    en: 'Long tongue… and an even longer list.'
+  - scene: 'Silence. Then Ajji, who has said nothing all morning, slowly raises her hand.'
+  - who: 'ajji'
+    t: 'ಒಂದು ನಿಮಿಷ ಎಲ್ಲಾರೂ ಸುಮ್ಮನಿರಿ. ನಾನು ಏನೋ ಹೇಳ್ಬೇಕು.'
+    tr: 'Ondu nimiṣa ellārū summaniri. Nānu ēnō hēḷbēku.'
+    en: 'Everyone, be quiet for a minute. I have something to say.'
+  - who: 'ajji'
+    t: 'ನನ್ನ ಅಕ್ಕ, ಗೌರಿ. ಅವಳಿಗೆ ಹದಿನೈದು ವರ್ಷಕ್ಕೆ ಮದುವೆ ಆಯ್ತು. ನಮ್ಮಪ್ಪ ಹೊಲ ಮಾರಿ ವರದಕ್ಷಿಣೆ ಕೊಟ್ರು.'
+    tr: 'Nanna akka, Gauri. Avaḷige hadinaidu varṣakke maduve āytu. Nammappa hola māri varadakṣiṇe koṭru.'
+    en: 'My elder sister, Gauri. She was married at fifteen. Our father sold his field to pay the dowry.'
+  - who: 'ajji'
+    t: 'ಒಂದು ವರ್ಷ ಆದ್ಮೇಲೆ ಅವ್ರು ಇನ್ನೂ ಕೇಳಿದ್ರು. ಎಮ್ಮೆ ಬೇಕು, ಸೈಕಲ್ ಬೇಕು, ದುಡ್ಡು ಬೇಕು. ಕೊಡೋಕೆ ನಮ್ ಹತ್ರ ಏನೂ ಉಳಿದಿರ್ಲಿಲ್ಲ.'
+    tr: 'Ondu varṣa ādmēle avru innū kēḷidru. Emme bēku, saikal bēku, duḍḍu bēku. Koḍōke nam hatra ēnū uḷidirlilla.'
+    en: 'A year later they wanted more. A buffalo, a bicycle, money. We had nothing left to give.'
+  - who: 'ajji'
+    t: 'ಒಂದು ದಿನ ಸುದ್ದಿ ಬಂತು — ಅಡುಗೆ ಮನೇಲಿ ‘ಆಕಸ್ಮಿಕ’ ಬೆಂಕಿ ಅಂತೆ. ಅವಳಿಗೆ ಹದಿನೇಳು ವರ್ಷ.'
+    tr: 'Ondu dina suddi bantu — aḍuge manēli ‘ākasmika’ benki ante. Avaḷige hadinēḷu varṣa.'
+    en: 'One day the news came — an ‘accidental’ fire in the kitchen, they said. She was seventeen.'
+  - who: 'sumitra'
+    t: 'ಅಯ್ಯೋ… ಶಿವ ಶಿವಾ…'
+    tr: 'Ayyō… Shiva Shivā…'
+    en: 'Oh… dear God…'
+  - who: 'ajji'
+    t: 'ನಾನು ಯಾರನ್ನೂ ದೂರ್ತಿಲ್ಲ. ನೀವು ಒಳ್ಳೆಯವರೇ ಇರಬಹುದು. ಆದ್ರೆ ಈ ‘ಪದ್ಧತಿ’ ಅನ್ನೋ ಹಾವಿಗೆ ಹಾಲು ಎರೀಬೇಡಿ. ಇವತ್ತಲ್ಲ ನಾಳೆ, ಅದು ಯಾರನ್ನಾದ್ರೂ ಕಚ್ಚುತ್ತೆ.'
+    tr: 'Nānu yārannū dūrtilla. Nīvu oḷḷeyavarē irabahudu. Ādre ī ‘paddhati’ annō hāvige hālu erībēḍi. Ivattalla nāḷe, adu yārannādrū kachchutte.'
+    en: 'I''m not blaming anyone. You may well be good people. But don''t pour milk for this snake called ‘custom’. If not today, then tomorrow, it will bite someone.'
+  - who: 'ajji'
+    t: 'ನನ್ನ ಮೊಮ್ಮಗಳು ಮಾರಾಟಕ್ಕಿಲ್ಲ. ಹುಡುಗ ಒಳ್ಳೆಯವನಾದ್ರೆ, ಬರೀ ಕೈಯಲ್ಲಿ ಬಂದು ಅವಳ ಕೈ ಹಿಡೀಲಿ.'
+    tr: 'Nanna mommagaḷu mārāṭakkilla. Huḍuga oḷḷeyavanādre, barī kaiyalli bandu avaḷa kai hiḍīli.'
+    en: 'My granddaughter is not for sale. If the boy is a good man, let him come empty-handed and take her hand.'
+  - scene: 'Nobody touches the sweets. Shankar looks at his watch and stands up.'
+  - who: 'shankar'
+    t: 'ಸರಿ… ನಮಗೆ ಲೇಟ್ ಆಯ್ತು. ಇನ್ನೊಂದು ಕಡೆ ಹೋಗ್ಬೇಕು. ನಾವು ಯೋಚನೆ ಮಾಡಿ ತಿಳಿಸ್ತೀವಿ.'
+    tr: 'Sari… namage lēṭ āytu. Innondu kaḍe hōgbēku. Nāvu yōchane māḍi tiḷistīvi.'
+    en: 'Well… we''re running late. We have to be somewhere else. We''ll think it over and let you know.'
+  - who: 'appa'
+    t: 'ಹಾ… ಸರಿ. ಹೋಗಿ ಬನ್ನಿ.'
+    tr: 'Hā… sari. Hōgi banni.'
+    en: 'Ah… all right. Do come again.'
+  - who: 'amma'
+    t: 'ಅಕ್ಕ, ಅರಿಶಿನ ಕುಂಕುಮ ತಗೊಂಡು ಹೋಗಿ…'
+    tr: 'Akka, arishina kunkuma tagonḍu hōgi…'
+    en: 'Sister, please take some turmeric and kumkum before you go…'
+  - who: 'sumitra'
+    t: 'ಇರ್ಲಿ, ಇರ್ಲಿ. ಬರ್ತೀವಿ.'
+    tr: 'Irli, irli. Bartīvi.'
+    en: 'Never mind, never mind. We''ll be off.'
+  - scene: 'The Innova drives away. Amma sits down heavily on the sofa. The storm breaks.'
+  - who: 'amma'
+    t: 'ಮುಗೀತು. ಎಲ್ಲಾ ಮುಗೀತು. ನಾಳೆ ಇಡೀ ಬೀದಿಗೆ ಗೊತ್ತಾಗುತ್ತೆ. ಜನ ಏನು ಅಂತಾರೆ?'
+    tr: 'Mugītu. Ellā mugītu. Nāḷe iḍī bīdige gottāgutte. Jana ēnu antāre?'
+    en: 'That''s it. It''s all over. Tomorrow the whole street will know. What will people say?'
+  - who: 'shwe'
+    t: 'ಜನ ಏನಾದ್ರೂ ಅನ್ಲಿ ಅಮ್ಮಾ! ಜನ ಬಂದು ನನ್ ಜೊತೆ ಸಂಸಾರ ಮಾಡಲ್ಲ.'
+    tr: 'Jana ēnādrū anli ammā! Jana bandu nan jote samsāra māḍalla.'
+    en: 'Let people say what they want, Mum! ‘People’ aren''t going to be the ones living my married life.'
+  - who: 'amma'
+    t: 'ನಿನಗೆ ಅರ್ಥ ಆಗಲ್ಲ! ಇಪ್ಪತ್ತಾರು ಆಯ್ತು. ವಿಮಲಾ ಆಂಟಿ ಈಗಾಗಲೇ ‘ಏನು, ಹುಡುಗಿಗೆ ಏನಾದ್ರೂ ದೋಷ ಇದ್ಯಾ’ ಅಂತ ಕೇಳ್ತಿದಾಳೆ.'
+    tr: 'Ninage artha āgalla! Ippattāru āytu. Vimalā ānṭi īgāgalē ‘ēnu, huḍugige ēnādrū dōṣa idyā’ anta kēḷtidāḷe.'
+    en: 'You don''t understand! You''re twenty-six. Vimala Aunty is already asking, ‘What, is there something wrong with the girl?’'
+  - who: 'kiran'
+    t: 'ದೋಷ ವಿಮಲಾ ಆಂಟಿಗೇ ಇದೆ. ನಾಲಿಗೇಲಿ.'
+    tr: 'Dōṣa Vimalā ānṭigē ide. Nāligēli.'
+    en: 'Vimala Aunty''s the one with something wrong. In her tongue.'
+  - who: 'amma'
+    t: 'ನೀನು ಸುಮ್ನಿರೋ! ರೀ, ನೀವೇನೂ ಹೇಳಲ್ವಾ? ‘ಯೋಚನೆ ಮಾಡ್ತೀವಿ’ ಅಂತ ನೀವೇ ಹೇಳಿದ್ರಿ!'
+    tr: 'Nīnu sumnirō! Rī, nīvēnū hēḷalvā? ‘Yōchane māḍtīvi’ anta nīvē hēḷidri!'
+    en: 'You keep quiet! And you — aren''t you going to say anything? You''re the one who said ‘we''ll think about it’!'
+  - who: 'appa'
+    t: 'ಹೌದು, ಹೇಳಿದೆ. ಅದು ನನ್ನ ತಪ್ಪು. ಆ ಕ್ಷಣದಲ್ಲಿ ನಾನು ಹೇಡಿ ಥರ ಆಡಿದೆ.'
+    tr: 'Haudu, hēḷide. Adu nanna tappu. Ā kṣaṇadalli nānu hēḍi thara āḍide.'
+    en: 'Yes, I did. That was my mistake. In that moment, I behaved like a coward.'
+  - who: 'appa'
+    t: 'ಲಕ್ಷ್ಮೀ, ನಮ್ ಮಗಳನ್ನ ಇಷ್ಟು ಓದಿಸಿದ್ದು ಯಾಕೆ? ತಲೆ ಎತ್ತಿ ಬದುಕಲಿ ಅಂತ ತಾನೇ? ಇವತ್ತು ಅವಳು ತಲೆ ಎತ್ತಿದ್ಲು. ನಾನು ತಲೆ ತಗ್ಗಿಸಿದೆ.'
+    tr: 'Lakṣmī, nam magaḷanna iṣṭu ōdisiddu yāke? Tale etti badukali anta tānē? Ivattu avaḷu tale ettidlu. Nānu tale taggiside.'
+    en: 'Lakshmi, why did we educate our daughter this much? So she could live with her head held high, right? Today she held her head high. I was the one who bowed mine.'
+  - who: 'appa'
+    t: '‘ಹಾಸಿಗೆ ಇದ್ದಷ್ಟು ಕಾಲು ಚಾಚು’ ಅಂತಾರೆ. ಸಾಲ ಮಾಡಿ ಛತ್ರ ಬುಕ್ ಮಾಡೋಕೆ ಆಗಲ್ಲ, ಮಗಳನ್ನ ಮಾರೋಕೂ ಆಗಲ್ಲ.'
+    tr: '‘Hāsige iddaṣṭu kālu chāchu’ antāre. Sāla māḍi chatra buk māḍōke āgalla, magaḷanna mārōkū āgalla.'
+    en: 'They say, ‘Stretch your legs only as far as your mattress goes.’ We can''t take loans to book a hall — and we can''t sell our daughter either.'
+  - who: 'appa'
+    t: 'ಶ್ವೇತಾ, ನಾನು ನಿನ್ ಜೊತೆ ಇದೀನಿ. ಒಂದು ರೂಪಾಯಿನೂ ಕೊಡಲ್ಲ. ಬೇಕಾದ್ರೆ ಮದುವೆ ತಡ ಆಗ್ಲಿ.'
+    tr: 'Shwētā, nānu nin jote idīni. Ondu rūpāyinū koḍalla. Bēkādre maduve taḍa āgli.'
+    en: 'Shwetha, I''m with you. We won''t give a single rupee. If the wedding gets delayed, so be it.'
+  - who: 'shwe'
+    t: 'ಅಪ್ಪಾ…'
+    tr: 'Appā…'
+    en: 'Dad…'
+  - who: 'ajji'
+    t: 'ಲಕ್ಷ್ಮೀ, ‘ಜನ ಏನು ಅಂತಾರೆ’ ಅನ್ನೋ ಭಯದಲ್ಲೇ ನಮ್ ತಲೆಮಾರು ಎಷ್ಟು ಹೆಣ್ಣುಮಕ್ಕಳನ್ನ ಕಳ್ಕೊಂಡಿದೆ ಗೊತ್ತಾ?'
+    tr: 'Lakṣmī, ‘jana ēnu antāre’ annō bhayadallē nam talemāru eṣṭu heṇṇumakkaḷanna kaḷkonḍide gottā?'
+    en: 'Lakshmi, do you know how many daughters my generation lost to that one fear — ‘what will people say’?'
+  - who: 'amma'
+    t: 'ನಾನೇನು ವರದಕ್ಷಿಣೆ ಕೊಡೋಣ ಅಂದ್ನಾ? ನನಗೂ ಭಯ ಆಗುತ್ತೆ ಕಣ್ರೀ… ಹೆಣ್ಣು ಮಗಳ ತಾಯಿ ನಾನು.'
+    tr: 'Nānēnu varadakṣiṇe koḍōṇa andnā? Nanagū bhaya āgutte kaṇrī… heṇṇu magaḷa tāyi nānu.'
+    en: 'Did I ever say we should give a dowry? I get scared too, you know… I''m the mother of a daughter.'
+  - who: 'shwe'
+    t: 'ಗೊತ್ತು ಅಮ್ಮಾ. ನಿನ್ನ ಭಯ ನಂಗೆ ಅರ್ಥ ಆಗುತ್ತೆ. ಆದ್ರೆ ಭಯಕ್ಕೆ ಬೆಲೆ ಕೊಟ್ರೆ, ಬದುಕೇ ಮಾರಾಟ ಆಗುತ್ತೆ.'
+    tr: 'Gottu ammā. Ninna bhaya nange artha āgutte. Ādre bhayakke bele koṭre, badukē mārāṭa āgutte.'
+    en: 'I know, Mum. I understand your fear. But if you pay the price fear asks, it''s your whole life you end up selling.'
+  - who: 'kiran'
+    t: 'ಸರಿ, ಎಮೋಷನಲ್ ಸೀನ್ ಮುಗೀತು. ಮೈಸೂರು ಪಾಕ್ ಉಳಿದಿದೆ. ಯಾರಿಗೆ ಬೇಕು? ಹಲ್ಲಿಗೆ ಗ್ಯಾರಂಟಿ ಇಲ್ಲ.'
+    tr: 'Sari, emōṣanal sīn mugītu. Maisūru pāk uḷidide. Yārige bēku? Hallige gyāranṭi illa.'
+    en: 'Okay, emotional scene over. There''s Mysore pak left. Who wants some? No guarantee for your teeth.'
+  - who: 'amma'
+    t: 'ಈ ಹುಡುಗನಿಂದ ನನಗೆ ಬಿಪಿ ಬರುತ್ತೆ!'
+    tr: 'Ī huḍuganinda nanage bīpi barutte!'
+    en: 'This boy is going to give me high blood pressure!'
+  - scene: 'Evening. The family sits on the terrace with tea. Ajji turns to Sam.'
+  - who: 'ajji'
+    t: 'ಸ್ಯಾಮ್, ನೀನು ಇವತ್ತು ಎಲ್ಲಾ ನೋಡ್ತಾ ಇದ್ದೆ. ನಿಮ್ ದೇಶದಲ್ಲಿ ಮದುವೆ ಹೇಗೆ ಆಗುತ್ತೆ?'
+    tr: 'Sām, nīnu ivattu ellā nōḍtā idde. Nim dēshadalli maduve hēge āgutte?'
+    en: 'Sam, you saw everything today. How do marriages happen in your country?'
+  - who: 'sam'
+    t: 'ಅಜ್ಜಿ, ನಮ್ ಕಡೆ… ಹುಡುಗ, ಹುಡುಗಿ ಮೊದಲು ಫ್ರೆಂಡ್ಸ್ ಆಗ್ತಾರೆ. ಕೆಲವು ವರ್ಷ ಒಟ್ಟಿಗೆ ಇರ್ತಾರೆ. ಆಮೇಲೆ ಇಷ್ಟ ಆದ್ರೆ ಮದುವೆ.'
+    tr: 'Ajji, nam kaḍe… huḍuga, huḍugi modalu phrenḍs āgtāre. Kelavu varṣa oṭṭige irtāre. Āmēle iṣṭa ādre maduve.'
+    en: 'Ajji, where I come from… a man and a woman first become friends. They live together for a few years. Then, if it works, they marry.'
+  - who: 'ajji'
+    t: 'ಮದುವೆಗೆ ಮುಂಚೇನೇ ಒಟ್ಟಿಗೆ?! ಅಯ್ಯೋ ರಾಮ!'
+    tr: 'Maduvege munchēnē oṭṭige?! Ayyō Rāma!'
+    en: 'Together before the wedding?! Oh, Lord Rama!'
+  - who: 'sam'
+    t: 'ಹೌದು ಅಜ್ಜಿ. ಮತ್ತೆ ಅಪ್ಪ-ಅಮ್ಮ ಹುಡುಕಲ್ಲ, ನಾವೇ ಹುಡುಕ್ಕೋತೀವಿ. ಈಗ ಹೆಚ್ಚಾಗಿ ಆ್ಯಪ್‌ನಲ್ಲಿ.'
+    tr: 'Haudu Ajji. Matte appa-amma huḍukalla, nāvē huḍukkōtīvi. Īga heccāgi æpnalli.'
+    en: 'Yes, Ajji. And our parents don''t search for us — we find partners ourselves. Mostly on apps these days.'
+  - who: 'kiran'
+    t: 'ಅದೇ ಸರಿ! ಅಜ್ಜಿ, ನಂಗೂ ಆ್ಯಪ್‌ನಲ್ಲೇ…'
+    tr: 'Adē sari! Ajji, nangū æpnallē…'
+    en: 'That''s the way! Ajji, I''ll also use an app…'
+  - who: 'appa'
+    t: 'ನೀನು ಮೊದಲು ಡಿಗ್ರಿ ಮುಗಿಸು!'
+    tr: 'Nīnu modalu ḍigri mugisu!'
+    en: 'You finish your degree first!'
+  - who: 'amma'
+    t: 'ಹಾಗಾದ್ರೆ ಅಲ್ಲಿ ವರದಕ್ಷಿಣೆ ಏನೂ ಇಲ್ವಾ?'
+    tr: 'Hāgādre alli varadakṣiṇe ēnū ilvā?'
+    en: 'So there''s no dowry at all over there?'
+  - who: 'sam'
+    t: 'ಇಲ್ಲ ಆಂಟಿ. ಮದುವೆ ಖರ್ಚು ಇಬ್ರೂ ಹಂಚ್ಕೋತಾರೆ. ಆದ್ರೆ ನಮ್ಮಲ್ಲೂ ಸಮಸ್ಯೆ ಇದೆ — ತುಂಬಾ ಜನ ಡೈವೋರ್ಸ್ ಆಗ್ತಾರೆ. ಯಾವ ಪದ್ಧತಿನೂ ಪರ್ಫೆಕ್ಟ್ ಅಲ್ಲ.'
+    tr: 'Illa ānṭi. Maduve kharchu ibrū hanchkōtāre. Ādre nammallū samasye ide — tumbā jana ḍaivōrs āgtāre. Yāva paddhatinū parphekṭ alla.'
+    en: 'No, Aunty. The couple share the wedding costs. But we have our problems too — lots of people get divorced. No system is perfect.'
+  - who: 'kiran'
+    t: 'ಬ್ರೋ, ಅಲ್ಲಿ ಜಾತಿ ಎಲ್ಲಾ ಇದ್ಯಾ?'
+    tr: 'Bro, alli jāti ellā idyā?'
+    en: 'Bro, is there caste and all that over there?'
+  - who: 'sam'
+    t: 'ಜಾತಿ ಇಲ್ಲ, ಆದ್ರೆ ಕ್ಯಾಂಟನ್ ಇದೆ! ಜ್ಯೂರಿಕ್ ಜನ, ಬರ್ನ್ ಜನ — ಒಬ್ಬರನ್ನೊಬ್ಬರು ತಮಾಷೆ ಮಾಡ್ತಾನೇ ಇರ್ತಾರೆ.'
+    tr: 'Jāti illa, ādre kyānṭan ide! Jyūrik jana, Barn jana — obbarannobbaru tamāṣe māḍtānē irtāre.'
+    en: 'No caste — but we have cantons! Zurich people and Bern people are always making fun of each other.'
+  - who: 'ajji'
+    t: 'ಎಲ್ಲಾ ಕಡೆ ಮನುಷ್ಯರು ಒಂದೇ, ಮಗೂ. ಬೇಲಿ ಮಾತ್ರ ಬೇರೆ ಬೇರೆ.'
+    tr: 'Ellā kaḍe manuṣyaru ondē, magū. Bēli mātra bēre bēre.'
+    en: 'People are the same everywhere, child. Only the fences are different.'
+  - who: 'appa'
+    t: 'ಚೆನ್ನಾಗಿ ಹೇಳಿದ್ರಿ ಸ್ಯಾಮ್. ಎರಡೇ ದಿನದಲ್ಲಿ ಎಷ್ಟೊಂದು ಕನ್ನಡ!'
+    tr: 'Chennāgi hēḷidri Sām. Eraḍē dinadalli eṣṭondu Kannaḍa!'
+    en: 'Well said, Sam. So much Kannada in just two days!'
+  - who: 'sam'
+    t: 'ನಿಮ್ ಮನೆ ಒಂದು ಯೂನಿವರ್ಸಿಟಿ, ಅಂಕಲ್. ಪ್ರತಿ ಊಟದಲ್ಲೂ ಒಂದು ಕ್ಲಾಸ್!'
+    tr: 'Nim mane ondu yūnivarsiṭi, ankal. Prati ūṭadallū ondu klās!'
+    en: 'Your home is a university, Uncle. Every meal is a lesson!'
+  - scene: 'Ajji calls Shwetha over and places her hand on her head.'
+  - who: 'ajji'
+    t: 'ಶ್ವೇತಾ, ಇಲ್ಲಿ ಬಾ. ನೀನು ಇವತ್ತು ಗೌರಿಗೋಸ್ಕರ ಮಾತಾಡಿದೆ. ಅವಳ ಆತ್ಮಕ್ಕೆ ಶಾಂತಿ ಸಿಕ್ತು ಅನ್ಸುತ್ತೆ.'
+    tr: 'Shwētā, illi bā. Nīnu ivattu Gaurigōskara mātāḍide. Avaḷa ātmakke shānti siktu ansutte.'
+    en: 'Shwetha, come here. Today you spoke up for Gauri. I feel her soul has finally found peace.'
+  - who: 'ajji'
+    t: 'ಸುಖವಾಗಿರು, ಮಗೂ. ನಿನ್ನನ್ನ ಗೌರವಿಸೋನನ್ನ ಮದುವೆ ಆಗು. ದೇವರು ಒಳ್ಳೇದು ಮಾಡ್ಲಿ.'
+    tr: 'Sukhavāgiru, magū. Ninnanna gauravisōnanna maduve āgu. Dēvaru oḷḷēdu māḍli.'
+    en: 'Be happy, child. Marry a man who respects you. May God bless you.'
+  - who: 'shwe'
+    t: 'ಥ್ಯಾಂಕ್ಸ್ ಅಜ್ಜಿ. ನೀನೇ ನನ್ನ ಹೀರೋ.'
+    tr: 'Thanks Ajji. Nīnē nanna hīrō.'
+    en: 'Thank you, Ajji. You''re my hero.'
+  - who: 'kiran'
+    t: 'ಅಕ್ಕ, ನಿನ್ ಫೋನ್! ಯಾರು? ವಿಮಲಾ ಆಂಟಿ ಆಗಿದ್ರೆ ನಾನು ಓಡ್ತೀನಿ.'
+    tr: 'Akka, nin phōn! Yāru? Vimalā ānṭi āgidre nānu ōḍtīni.'
+    en: 'Akka, your phone! Who is it? If it''s Vimala Aunty, I''m running.'
+  - who: 'shwe'
+    t: 'ಪ್ರದೀಪ್… ಮೆಸೇಜ್ ಮಾಡಿದಾನೆ.'
+    tr: 'Pradīp… mesēj māḍidāne.'
+    en: 'Pradeep… he''s sent a message.'
+  - who: 'kiran'
+    t: 'ಏನಂತೆ? ಏನಂತೆ? ಓದು!'
+    tr: 'Ēnante? Ēnante? Ōdu!'
+    en: 'What does he say? What? Read it out!'
+  - who: 'shwe'
+    t: '‘ಶ್ವೇತಾ, ನಮ್ಮಪ್ಪ-ಅಮ್ಮ ಅದನ್ನೆಲ್ಲಾ ಕೇಳಿದ್ರು ಅಂತ ನನಗೆ ಗೊತ್ತೇ ಇರ್ಲಿಲ್ಲ. ಐ ಆಮ್ ರಿಯಲಿ ಸಾರಿ. ನಾವಿಬ್ರೇ ಮಾತಾಡೋಣ್ವಾ?’'
+    tr: '‘Shwētā, nammappa-amma adannellā kēḷidru anta nanage gottē irlilla. I am really sorry. Nāvibrē mātāḍōṇvā?’'
+    en: '‘Shwetha, I had no idea my parents asked for all that. I''m really sorry. Can the two of us talk?’'
+  - who: 'amma'
+    t: '…ಈಗೇನು ಮಾಡ್ತೀಯ?'
+    tr: '…Īgēnu māḍtīya?'
+    en: '…So what will you do now?'
+  - who: 'shwe'
+    t: 'ಗೊತ್ತಿಲ್ಲ, ಅಮ್ಮ. ನಿಜವಾಗ್ಲೂ ಗೊತ್ತಿಲ್ಲ.'
+    tr: 'Gottilla, amma. Nijavāglū gottilla.'
+    en: 'I don''t know, Mum. I honestly don''t know.'
+  - who: 'sam'
+    t: 'ಅಯ್ಯೋ… ಇದು ಟಿವಿ ಸೀರಿಯಲ್‌ಗಿಂತ ಜಾಸ್ತಿ!'
+    tr: 'Ayyō… idu ṭivi sīriyalginta jāsti!'
+    en: 'Ayyo… this is more dramatic than a TV serial!'
