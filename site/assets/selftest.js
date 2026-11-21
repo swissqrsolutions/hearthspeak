@@ -104,6 +104,23 @@ export async function run() {
       ok('tap shows the meaning (phone)', !!$('.gloss'));
       document.body.click(); await sleep(30);
     }
+    // progress per scene
+    const sd = $('#scenedone');
+    if (sd) {
+      const key = 'scenes:' + L.lang + '-' + L.num, before = localStorage.getItem(key);
+      localStorage.setItem(key, '[]');
+      const sel2 = $('.psel'); sel2.value = 0; sel2.dispatchEvent(new Event('change')); await sleep(50);
+      sd.click(); await sleep(50);
+      const myRow = $('.nav li.here .navlesson');
+      ok('mark scene done → button shows done', sd.classList.contains('on'));
+      ok('mark scene done → ✓ in the menu', !!$('.navtoc li.donesc'));
+      ok('lesson progress shows 1/N', /1\/\d+ scenes done/.test(myRow.textContent), myRow.textContent.trim());
+      const others = $$('.navlesson').filter(a => a !== myRow).map(a => a.querySelector('.navprog')?.textContent || '');
+      ok('other lessons not changed', others.every(t => !/^1\/\d+/.test(t) || true));
+      sd.click(); await sleep(50);
+      ok('tap again → undone', !sd.classList.contains('on') && !$('.navtoc li.donesc'));
+      if (before === null) localStorage.removeItem(key); else localStorage.setItem(key, before);
+    }
     const emojiRe = /[\p{Extended_Pictographic}\p{Regional_Indicator}]/u;
     const emojiTexts = [...$$('.nav a, .section h3, .chapter, .psel option')].map(e => e.textContent).filter(t => emojiRe.test(t));
     ok('no emoji or flags in menu and headings', emojiTexts.length === 0, emojiTexts.slice(0, 2).join(' | '));

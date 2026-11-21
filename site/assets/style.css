@@ -213,3 +213,13 @@ body.nav-lesson .nav .navlessons > li:not(.here),body.nav-lesson .nav .navcourse
 
 /* anything marked hidden is really hidden (pages, scenes, sentences) */
 [hidden]{display:none!important}
+
+/* Lesson 4: Mahesh is the learner role */
+.line[data-who="mahesh"]{background:var(--tint)}
+.who.c-mahesh{color:#2e7d32}
+
+/* progress per scene */
+.scenedone{min-height:var(--tap);padding:0 20px;border-radius:var(--radius);border:1px solid var(--accent);background:var(--surface);color:var(--accent);font-weight:700}
+.scenedone.on{background:#2e7d32;border-color:#2e7d32;color:#fff}
+.navtoc li.donesc a::before{content:"✓";color:#2e7d32;font-weight:800;margin-right:-2px}
+.navprog{font-size:12px;opacity:.8;font-weight:500}

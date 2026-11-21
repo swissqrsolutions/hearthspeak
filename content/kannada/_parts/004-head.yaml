@@ -1,0 +1,27 @@
+lang: kannada
+num: 4
+level: "B2 → B2+ · ~1 h 30 min"
+title:
+  t: "ನಮ್ಮ ದರ್ಶಿನಿ"
+  tr: "Namma darshini"
+  en: "Our darshini"
+intro: "Mahesh Upadhya, a hotel supervisor from Udupi, opens a small standing restaurant in Jayanagar with his wife Kavya, his mother and his cousin Nitin. One real year, October 2025 to November 2026: the money and the MUDRA loan, the shop space, every licence, the kitchen and suppliers, the team, opening day, the March 2026 gas crisis, the wage order, the delivery apps, an inspector, a chain café next door and the one-year accounts."
+speakers:
+  mahesh: { name: "Mahesh", voice: kn-IN-GaganNeural, pitch: "+0Hz", rate: "-3%" }
+  kavya: { name: "Kavya", voice: kn-IN-SapnaNeural, pitch: "+2Hz", rate: "+0%" }
+  amma: { name: "Amma · Sharadamma", voice: kn-IN-SapnaNeural, pitch: "-14Hz", rate: "-10%" }
+  nitin: { name: "Nitin", voice: kn-IN-GaganNeural, pitch: "+6Hz", rate: "+6%" }
+  broker: { name: "Prakash (broker)", voice: kn-IN-GaganNeural, pitch: "+4Hz", rate: "+10%" }
+  landlord: { name: "Mr. Venkatesh Murthy", voice: kn-IN-GaganNeural, pitch: "-18Hz", rate: "-6%" }
+  bank: { name: "Ms. Rashmi (bank)", voice: kn-IN-SapnaNeural, pitch: "-4Hz", rate: "+2%" }
+  ca: { name: "Mr. Bhat (CA)", voice: kn-IN-GaganNeural, pitch: "-10Hz", rate: "-2%" }
+  officer: { name: "Mr. Gowda (inspector)", voice: kn-IN-GaganNeural, pitch: "-12Hz", rate: "+0%" }
+  cook: { name: "Shankara (cook)", voice: kn-IN-GaganNeural, pitch: "-14Hz", rate: "+2%" }
+  helper: { name: "Basavaraj (helper)", voice: kn-IN-GaganNeural, pitch: "+8Hz", rate: "+6%" }
+  dev: { name: "Dev (helper)", voice: kn-IN-GaganNeural, pitch: "+10Hz", rate: "-4%" }
+  cashier: { name: "Latha (cashier)", voice: kn-IN-SapnaNeural, pitch: "+6Hz", rate: "+4%" }
+  supplier: { name: "Ramesh (supplier)", voice: kn-IN-GaganNeural, pitch: "-6Hz", rate: "+10%" }
+  gas: { name: "Ashok (gas agency)", voice: kn-IN-GaganNeural, pitch: "-4Hz", rate: "+6%" }
+  customer: { name: "Customer", voice: kn-IN-SapnaNeural, pitch: "-2Hz", rate: "+4%" }
+  sam: { name: "Sam", voice: kn-IN-GaganNeural, pitch: "+0Hz", rate: "-5%" }
+  delivery: { name: "Rohit (delivery app)", voice: kn-IN-GaganNeural, pitch: "+4Hz", rate: "+8%" }

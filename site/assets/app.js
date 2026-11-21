@@ -53,7 +53,6 @@
   // dark / light: follows the phone until you choose; your choice is remembered
   const isDark = () => (document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')) === 'dark';
   if ($('#theme')) $('#theme').onclick = () => { const t = isDark() ? 'light' : 'dark'; document.documentElement.dataset.theme = t; store.set('theme', t); };
-  $$('.navlesson').forEach(a => { if (store.get('done:' + a.dataset.key, false)) a.classList.add('done'); });
   const here = $('.nav li.here'); if (here) here.scrollIntoView({ block: 'nearest' });
   // Save for offline: only downloads what is new or changed; removes outdated audio
   if ($('#offline')) $('#offline').onclick = async () => {
@@ -296,18 +295,41 @@
     ep.playbackRate = rate;
   }
 
-  // ---------- done ----------
-  const key = `done:${L.lang}-${L.num}`, done = $('#done');
-  if (done) {
-    done.checked = store.get(key, false);
+  // ---------- progress per scene ----------
+  // scene ids are the section anchors (#s-1, #s-2 …); progress is kept per lesson
+  const pkey = k => 'scenes:' + k;
+  const myKey = L.lang + '-' + L.num;
+  const doneSet = () => new Set(store.get(pkey(myKey), []));
+  const sceneOfPage = () => { const v = $$('.section').find(x => x.offsetParent !== null) || $$('.section').filter(x => +x.dataset.page <= +($('.psel') || {}).value).pop(); return v ? v.id : null; };
+  function paintProgress() {
+    const set = doneSet();
+    $$('.navtoc a').forEach(a => a.parentElement.classList.toggle('donesc', set.has(a.getAttribute('href').slice(1))));
+    $$('.navlesson').forEach(a => {
+      const n = new Set(store.get(pkey(a.dataset.key), [])).size, t = +a.dataset.total || 0;
+      a.classList.toggle('done', t > 0 && n >= t);
+      let p = a.querySelector('.navprog');
+      if (!p) { p = document.createElement('small'); p.className = 'navprog'; a.querySelector('span').append(p); }
+      p.textContent = n ? `${n}/${t} scenes done` : '';
+    });
+    const btn = $('#scenedone'), id = sceneOfPage();
+    if (btn && id) { const d = set.has(id); btn.classList.toggle('on', d); btn.textContent = d ? '✓ Scene done (tap to undo)' : 'Mark scene as done'; }
     const days = store.get('days', []);
-    const txt = () => { $('#streak').textContent = days.length ? `🔥 Study days so far: ${days.length}` : ''; };
-    txt();
-    done.onchange = () => {
-      store.set(key, done.checked);
-      const today = new Date().toISOString().slice(0, 10);
-      if (done.checked && !days.includes(today)) { days.push(today); store.set('days', days); }
-      txt();
-    };
+    if ($('#streak')) $('#streak').textContent = days.length ? `Study days so far: ${days.length}` : '';
   }
+  if ($('#scenedone')) $('#scenedone').onclick = () => {
+    const id = sceneOfPage(); if (!id) return;
+    const set = doneSet();
+    if (set.has(id)) set.delete(id); else {
+      set.add(id);
+      const today = new Date().toISOString().slice(0, 10), days = store.get('days', []);
+      if (!days.includes(today)) { days.push(today); store.set('days', days); }
+    }
+    store.set(pkey(myKey), [...set]);
+    paintProgress();
+  };
+  // repaint whenever the scene changes
+  $$('.psel').forEach(sl => sl.addEventListener('change', () => setTimeout(paintProgress, 0)));
+  $$('.pnext,.pprev').forEach(bt => bt.addEventListener('click', () => setTimeout(paintProgress, 0)));
+  $$('.navtoc a').forEach(a => a.addEventListener('click', () => setTimeout(paintProgress, 0)));
+  paintProgress();
 })();
