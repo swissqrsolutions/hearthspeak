@@ -76,14 +76,17 @@
     raf = requestAnimationFrame(tick);
   }
 
-  function play(src) {
+  function play(src, startAt = 0) {
     return new Promise(res => {
       if (!src) return res(0);
       const epA = document.querySelector('.epaudio audio'); if (epA && !epA.paused) epA.pause();
       player.pause();
       const abs = new URL(src, location.href).href;
-      if (player.src === abs && player.readyState > 0) player.currentTime = 0;
-      else { player.src = src; player.load(); }
+      if (player.src === abs && player.readyState > 0) player.currentTime = startAt;
+      else {
+        player.src = src; player.load();
+        if (startAt) player.addEventListener('loadedmetadata', () => { player.currentTime = startAt; }, { once: true });
+      }
       player.playbackRate = rate;
       player.preservesPitch = true;
       const done = () => { player.onended = player.onerror = null; clearWords(); res(player.duration || 1); };
@@ -147,20 +150,34 @@
     if (!stopBtn) return;
     const busy = !player.paused || $$('button.loop.active').length > 0;
     stopBtn.hidden = !busy;
-    $$('.line button.play').forEach(p => { p.textContent = p.closest('.line').classList.contains('playing') && busy ? '■' : '▶'; });
+    $$('.line button.play').forEach(p => { p.textContent = p.closest('.line').classList.contains('playing') && busy ? '■' : (p.classList.contains('resume') ? '⏯' : '▶'); });
   }
   player.addEventListener('play', updateStop);
   player.addEventListener('pause', () => setTimeout(updateStop, 60));
   player.addEventListener('ended', () => setTimeout(updateStop, 60));
-  if (stopBtn) stopBtn.onclick = () => { stopAll(); updateStop(); };
+  let resumeAt = null;   // { i: line index, t: seconds } — set when you stop a line part-way
+  function markResume() {
+    const row = document.querySelector('.line.playing');
+    if (row && !player.paused && !player.ended && player.currentTime > 0.2 && player.duration - player.currentTime > 0.3) {
+      resumeAt = { i: +row.dataset.i, t: Math.max(0, player.currentTime - 0.4) };   // back up a hair so the word isn't cut
+    }
+  }
+  function showResume() {
+    $$('.line button.play').forEach(p => p.classList.remove('resume'));
+    if (resumeAt) { const p = lineEl(resumeAt.i)?.querySelector('button.play'); if (p) { p.classList.add('resume'); p.textContent = '⏯'; p.title = 'Continue from where you stopped'; } }
+  }
+  if (stopBtn) stopBtn.onclick = () => { markResume(); stopAll(); updateStop(); showResume(); };
 
   $$('button.play, button.chip').forEach(b => b.onclick = async () => {
     const row = b.closest('.line');
-    if (row && row.classList.contains('playing')) { stopAll(); updateStop(); return; }
+    if (row && row.classList.contains('playing')) { markResume(); stopAll(); updateStop(); showResume(); return; }
     stopAll();
-    if (row) { row.classList.add('playing'); cur = +row.dataset.i; store.set('pos:' + L.lang + L.num, cur); }
+    const i = row ? +row.dataset.i : -1;
+    const from = resumeAt && resumeAt.i === i ? resumeAt.t : 0;   // continue the same line from where it stopped
+    resumeAt = null; showResume();
+    if (row) { row.classList.add('playing'); cur = i; store.set('pos:' + L.lang + L.num, cur); }
     updateStop();
-    await play(b.dataset.src);
+    await play(b.dataset.src, from);
     if (row) row.classList.remove('playing');
     updateStop();
   });
