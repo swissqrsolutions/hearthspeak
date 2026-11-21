@@ -1,6 +1,7 @@
-// Cache-first service worker: everything you open (or "Save for offline") works without internet.
+// Service worker: pages/css/js are network-first (updates arrive), audio is cache-first; all work offline.
 // Handles HTTP Range requests so audio seeking/scrubbing works from the offline cache.
 const CACHE = 'lw-v1';
+const isAudio = u => u.split('?')[0].endsWith('.mp3');
 self.addEventListener('install', () => self.skipWaiting());
 self.addEventListener('activate', e => e.waitUntil(self.clients.claim()));
 
@@ -30,6 +31,10 @@ self.addEventListener('fetch', e => {
     const c = await caches.open(CACHE);
     const url = req.url.split('#')[0];
     let hit = await c.match(url, { ignoreSearch: true });
+    if (!isAudio(url)) {            // pages, css, js: network first so updates arrive, cache as fallback
+      try { const res = await fetch(url, { cache: 'no-cache' }); if (res.ok) { await c.put(url, res.clone()); return res; } } catch {}
+      if (hit) return hit;
+    }
     if (!hit) {
       try {
         const res = await fetch(url);            // full fetch (no Range) so the cache holds the whole file
