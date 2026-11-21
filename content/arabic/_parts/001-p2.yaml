@@ -1,0 +1,961 @@
+lines:
+  - chapter: "Chapter 3 — Preparations"
+
+  - section: "📅 Thursday 1 October — I, you, he, they"
+    learn: "Pronouns: أَنَا ana (I) · أَنْتَ anta (you, to a man) · هُوَ huwa (he) · هِيَ hiya (she) · نَحْنُ nahnu (we) · هُمْ hum (they). Arabic has no 'am / is / are' in the present: أَنَا مِنْ جُدَّةَ = I (am) from Jeddah. The name خَالِد is a Quran word: خَالِدِينَ فِيهَا = 'remaining in it forever'. خ = 'kh', the Urdu خ of خدا."
+  - scene: "Thursday 1 October, lunchtime. The staff canteen of the company in Zurich where Imran and Khalid work. Rain runs down the big windows."
+  - who: "khalid"
+    t: "السَّلَامُ عَلَيْكُمْ يَا عِمْرَانُ. دَرْسُ الْيَوْمِ عَنِ الضَّمَائِرْ."
+    tr: "Assalamu Alaikum ya Imran. Darsu l-yawmi ʿani d-dama'ir."
+    en: "Assalamu Alaikum, Imran. Today's lesson is about pronouns."
+    q: ["سَلام", "عَلَى", "كُمْ", "يَوْم", "عَن"]
+  - who: "khalid"
+    t: "أَنَا خَالِدٌ. أَنَا مِنْ جُدَّةْ."
+    tr: "Ana Khalid. Ana min Jiddah."
+    en: "I am Khalid. I am from Jeddah."
+    q: ["أَنَا۠", "خالِد", "مِن"]
+  - who: "imran"
+    t: "وَأَنَا عِمْرَانُ. أَنَا مِنْ بَنْغَالُورُو."
+    tr: "Wa ana Imran. Ana min Bengaluru."
+    en: "And I am Imran. I am from Bengaluru."
+    q: ["أَنَا۠", "مِن"]
+  - who: "khalid"
+    t: "وَهُوَ مَارْكُو، هُوَ مِنْ إِيطَالِيَا. وَهِيَ آنَّا، هِيَ مِنْ زِيُورِخْ."
+    tr: "Wa huwa Marco, huwa min Italiya. Wa hiya Anna, hiya min Zurich."
+    en: "(nodding at two colleagues) And he is Marco, he's from Italy. And she is Anna, she's from Zurich."
+    q: ["هُوَ", "مِن", "هِىَ"]
+  - who: "imran"
+    t: "وَنَحْنُ؟"
+    tr: "Wa nahnu?"
+    en: "And we?"
+    q: ["نَحْنُ"]
+  - who: "khalid"
+    t: "نَحْنُ زُمَلَاءُ. نَحْنُ نَعْمَلُ فِي شَرِكَةٍ وَاحِدَةْ."
+    tr: "Nahnu zumalaa'. Nahnu naʿmalu fee sharikatin waahidah."
+    en: "We are colleagues. We work in one company."
+    q: ["نَحْنُ", "عَمِلَ", "فِي", "واحِدَة"]
+  - who: "khalid"
+    t: "وَهُمْ؟ هُمْ مِنَ الْهِنْدِ، مِثْلَكْ."
+    tr: "Wa hum? Hum mina l-Hind, mithlak."
+    en: "And they? They are from India, like you."
+    q: ["هُم", "مِن", "مِثْل", "كَ"]
+  - who: "imran"
+    t: "نَعَمْ! هُمْ مِنْ مُومْبَايْ. وَأَنَا الْوَحِيدُ مِنْ بَنْغَالُورُو."
+    tr: "Naʿam! Hum min Mumbai. Wa ana l-waheedu min Bengaluru."
+    en: "Yes! They're from Mumbai. And I'm the only one from Bengaluru."
+    q: ["نَعَم", "هُم", "مِن", "أَنَا۠"]
+
+  - section: "⏳ The verb كَانَ (was)"
+    learn: "كَانَ kaana = he was · كُنْتُ kuntu = I was · كُنْتَ kunta = you were · كَانُوا kaanoo = they were · سَأَكُونُ sa-akoonu = I will be. In the Quran وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا does not mean Allah 'was' and stopped: كَانَ here means 'has always been'. ح = the 'h' of the middle throat, as in Urdu حکیم said properly — not a plain h."
+  - who: "khalid"
+    t: "الْآنَ فِعْلٌ مُهِمٌّ جِدًّا: كَانَ. أَيْنَ كُنْتَ أَمْسِ يَا عِمْرَانُ؟"
+    tr: "Al-aana fiʿlun muhimmun jiddan: kaana. Aina kunta amsi ya Imran?"
+    en: "Now a very important verb: kaana, 'was'. Where were you yesterday, Imran?"
+    q: ["كانَ"]
+  - who: "imran"
+    t: "كُنْتُ فِي الْمَسْجِدِ بَعْدَ الْعِشَاءِ. كَانَ هُنَاكَ دَرْسٌ عَنْ سُورَةِ الْفَاتِحَةْ."
+    tr: "Kuntu fi l-Masjidi baʿda l-Isha. Kaana hunaaka darsun ʿan Surati l-Fatiha."
+    en: "I was in the Masjid after Isha. There was a class on Surah Al-Fatiha."
+    q: ["كانَ", "فِي", "مَسْجِد", "بَعْد", "عَن"]
+  - who: "khalid"
+    t: "مُمْتَازٌ. فِي الْقُرْآنِ نَسْمَعُ كَثِيرًا: «وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا»."
+    tr: "Mumtaaz. Fi l-Quran nasmaʿu katheeran: wa kaana Allahu ʿaleeman hakeema."
+    en: "Excellent. In the Quran we often hear: 'And Allah is ever Knowing, Wise.'"
+    q: ["فِي", "قُرْءان", "سَمِعَ", "كَثِير", "كانَ", "اللَّه", "عَلِيم", "حَكِيم"]
+  - who: "imran"
+    t: "«كَانَ»؟ هَلْ يَعْنِي: كَانَ عَلِيمًا فِي الْمَاضِي فَقَطْ؟"
+    tr: "Kaana? Hal yaʿnee: kaana ʿaleeman fi l-maadee faqat?"
+    en: "'Was'? Does it mean He was knowing only in the past?"
+    q: ["كانَ", "هَل", "عَلِيم", "فِي"]
+  - who: "khalid"
+    t: "سُؤَالٌ جَيِّدٌ. لَا. «كَانَ» هُنَا لَيْسَتْ عَنِ الْمَاضِي. هِيَ تَعْنِي: هُوَ هَكَذَا دَائِمًا."
+    tr: "Su'aalun jayyid. Laa. Kaana hunaa laisat ʿani l-maadee. Hiya taʿnee: huwa haakadhaa daa'iman."
+    en: "Good question. No. Here 'kaana' isn't about the past. It means: He is always like this."
+    q: ["لا", "كانَ", "لَيْسَ", "عَن", "هِىَ", "هُوَ"]
+  - who: "imran"
+    t: "سُبْحَانَ اللَّهِ. كَلِمَةٌ صَغِيرَةٌ، وَمَعْنًى كَبِيرْ."
+    tr: "Subhan Allah. Kalimatun sagheerah, wa maʿnan kabeer."
+    en: "Subhan Allah. A small word, and a big meaning."
+    q: ["سُبْحان", "اللَّه", "كَلِمَة", "كَبِير"]
+  - who: "khalid"
+    t: "وَالْعُمْرَةُ يَا عِمْرَانُ؟ هَلْ قَرَّرْتَ؟"
+    tr: "Wa l-Umrah ya Imran? Hal qarrarta?"
+    en: "And the Umrah, Imran? Have you decided?"
+    q: ["هَل"]
+  - who: "imran"
+    t: "نَعَمْ، إِنْ شَاءَ اللَّهُ فِي مُنْتَصَفِ دِيسَمْبَرَ. أَخَذْتُ إِجَازَةً مِنَ الْعَمَلِ الْيَوْمْ."
+    tr: "Naʿam, Insha Allah fee muntasafi December. Akhadhtu ijaazatan mina l-ʿamali l-yawm."
+    en: "Yes, Insha Allah in mid-December. I got my leave from work approved today."
+    q: ["نَعَم", "إِن", "شاءَ", "اللَّه", "فِي", "أَخَذَ", "مِن", "عَمَل", "يَوْم"]
+  - who: "khalid"
+    t: "مَا شَاءَ اللَّهُ! وَأَنَا أُسَافِرُ إِلَى جُدَّةَ قَبْلَكَ بِأُسْبُوعٍ. أَهْلِي هُنَاكْ."
+    tr: "Masha Allah! Wa ana usaafiru ila Jiddata qablaka bi-usbooʿ. Ahlee hunaak."
+    en: "Masha Allah! And I fly to Jeddah a week before you. My family is there."
+    q: ["ما", "شاءَ", "اللَّه", "أَنَا۠", "إِلَى", "قَبْل", "كَ", "أَهْل", "ى"]
+  - who: "imran"
+    t: "إِذَنْ نَلْتَقِي فِي جُدَّةَ، إِنْ شَاءَ اللَّهْ."
+    tr: "Idhan naltaqee fee Jiddah, Insha Allah."
+    en: "Then we'll meet in Jeddah, Insha Allah."
+    q: ["إِذًا", "فِي", "إِن", "شاءَ", "اللَّه"]
+
+  - section: "📱 Sunday 4 October — visa, Nusuk and the permit"
+    learn: "قَالَ qaala = he said · قُلْتُ qultu = I said · قُلْتَ qulta = you said · يَقُولُ yaqoolu = he says · قُلْ qul = say! (as in قُلْ هُوَ اللَّهُ أَحَدٌ). ق comes from deep in the throat: not 'k'. Urdu speakers often flatten it; Jeddah people sometimes say 'g'. New words: تَأْشِيرَة ta'sheera = visa · تَطْبِيق tatbeeq = app · تَصْرِيح tasreeh = permit. سَاعَة: in the Quran 'the Hour' (Judgement Day); today also 'hour, o'clock, watch'."
+  - scene: "Sunday 4 October, evening. Imran's small flat in Oerlikon. His laptop is open; Khalid is on the phone, on speaker."
+  - who: "imran"
+    t: "يَا خَالِدُ، أَنَا أَمَامَ الْحَاسُوبِ. مِنْ أَيْنَ أَبْدَأُ؟"
+    tr: "Ya Khalid, ana amaama l-haasoob. Min aina abda'?"
+    en: "Khalid, I'm in front of the computer. Where do I start?"
+    q: ["خالِد", "أَنَا۠", "مِن"]
+  - who: "khalid"
+    t: "أَوَّلًا التَّأْشِيرَةُ. جَوَازُكَ هِنْدِيٌّ، وَعِنْدَكَ إِقَامَةٌ فِي سُوِيسْرَا، صَحِيحْ؟"
+    tr: "Awwalan at-ta'sheerah. Jawaazuka Hindiyy, wa ʿindaka iqaamatun fee Swisra, saheeh?"
+    en: "First the visa. Your passport is Indian, and you have a residence permit in Switzerland, right?"
+    q: ["أَوَّل", "كَ", "عِند", "فِي"]
+  - who: "khalid"
+    t: "صَدِيقٌ لِي قَالَ: مَنْ عِنْدَهُ إِقَامَةٌ فِي أُورُوبَّا يَسْتَطِيعُ أَنْ يَطْلُبَ تَأْشِيرَةً إِلِكْتُرُونِيَّةْ."
+    tr: "Sadeequn lee qaala: man ʿindahu iqaamatun fee Oroppa yastateeʿu an yatluba ta'sheeratan iliktroniyyah."
+    en: "A friend of mine said: anyone with residence in Europe can apply for an e-visa."
+    q: ["ى", "قالَ", "مَن", "عِند", "هُۥ", "فِي", "اسْتَطاعَ", "أَن"]
+  - who: "khalid"
+    t: "لَكِنْ لَا تَعْتَمِدْ عَلَى كَلَامِ صَدِيقِي. اُنْظُرْ فِي الْمَوْقِعِ الرَّسْمِيِّ؛ الْقَوَاعِدُ تَتَغَيَّرْ."
+    tr: "Laakin laa taʿtamid ʿalaa kalaami sadeeqee. Unzur fi l-mawqiʿi r-rasmiyy; al-qawaaʿidu tataghayyar."
+    en: "But don't rely on my friend's word. Look on the official website; the rules change."
+    q: ["لٰكِن", "لا", "عَلَى", "ى", "نَظَرَ", "فِي"]
+  - who: "imran"
+    t: "طَيِّبٌ. وَبَعْدَ التَّأْشِيرَةِ؟"
+    tr: "Tayyib. Wa baʿda t-ta'sheerah?"
+    en: "Okay. And after the visa?"
+    q: ["بَعْد"]
+  - who: "khalid"
+    t: "بَعْدَ ذَلِكَ تَطْبِيقُ «نُسُكْ». فِيهِ تَحْجِزُ تَصْرِيحَ الْعُمْرَةِ: الْيَوْمَ وَالسَّاعَةْ."
+    tr: "Baʿda dhaalika tatbeequ Nusuk. Feehi tahjizu tasreeha l-Umrah: al-yawma wa s-saaʿah."
+    en: "After that, the Nusuk app. In it you book the Umrah permit: the day and the hour."
+    q: ["بَعْد", "ذا", "فِي", "هِ", "يَوْم", "ساعَة"]
+  - who: "imran"
+    t: "تَصْرِيحٌ؟ أَلَيْسَتِ الْعُمْرَةُ مَفْتُوحَةً لِكُلِّ مُسْلِمٍ؟"
+    tr: "Tasreeh? A-laisati l-Umratu maftoohatan li-kulli muslim?"
+    en: "A permit? Isn't Umrah open to every Muslim?"
+    q: ["لَيْسَ", "كُلّ", "مُسْلِم"]
+  - who: "khalid"
+    t: "بَلَى، لَكِنَّ النَّاسَ كَثِيرُونَ جِدًّا. التَّصْرِيحُ يُنَظِّمُ الزِّحَامَ فِي الْمَسْجِدِ الْحَرَامْ."
+    tr: "Balaa, laakinna n-naasa katheeroona jiddan. At-tasreehu yunazzimu z-zihaama fi l-Masjidi l-Haraam."
+    en: "Yes it is, but there are so many people. The permit organises the crowds in Masjid al-Haram."
+    q: ["لٰكِنّ", "ناس", "كَثِير", "فِي", "مَسْجِد", "حَرام"]
+  - who: "imran"
+    t: "هُنَا مَكْتُوبٌ: «اخْتَرِ التَّارِيخَ». هَلْ أَحْجِزُ الْآنْ؟"
+    tr: "Hunaa maktoob: ikhtari t-taareekh. Hal ahjizu l-aan?"
+    en: "It says here: 'Choose the date.' Shall I book now?"
+    q: ["هَل"]
+  - who: "khalid"
+    t: "لَا تَحْجِزِ الْآنَ. أَوَّلًا التَّأْشِيرَةُ، ثُمَّ الطَّيَرَانُ، ثُمَّ التَّصْرِيحْ."
+    tr: "Laa tahjizi l-aan. Awwalan at-ta'sheerah, thumma t-tayaraan, thumma t-tasreeh."
+    en: "Don't book now. First the visa, then the flight, then the permit."
+    q: ["لا", "أَوَّل", "ثُمّ"]
+  - who: "khalid"
+    t: "وَالْآنَ قُلْ أَنْتَ: مَاذَا قَالَ خَالِدٌ؟"
+    tr: "Wa l-aana qul anta: maadhaa qaala Khalid?"
+    en: "And now you say it: what did Khalid say?"
+    q: ["قالَ", "أَنتَ", "ما", "ذا", "خالِد"]
+  - who: "imran"
+    t: "قَالَ خَالِدٌ: التَّأْشِيرَةُ، ثُمَّ الطَّيَرَانُ، ثُمَّ التَّصْرِيحُ. وَقَالَ أَيْضًا: لَا تَعْجَلْ يَا عِمْرَانْ!"
+    tr: "Qaala Khalid: at-ta'sheerah, thumma t-tayaraan, thumma t-tasreeh. Wa qaala aidan: laa taʿjal ya Imran!"
+    en: "(smiling) Khalid said: the visa, then the flight, then the permit. And he also said: don't rush, Imran!"
+    q: ["قالَ", "خالِد", "ثُمّ", "لا"]
+  - who: "khalid"
+    t: "صَحِيحٌ. الْقَوْلُ سَهْلٌ، وَالْعَمَلُ صَعْبْ."
+    tr: "Saheeh. Al-qawlu sahl, wa l-ʿamalu saʿb."
+    en: "(laughing) Right. Saying is easy, doing is hard."
+    q: ["قَوْل", "عَمَل"]
+
+  - section: "🧾 Thursday 8 October — a rejected photo, and the verb جَعَلَ"
+    learn: "جَعَلَ jaʿala = to make, to put, to turn something into something. جَعَلَنِي سَعِيدًا = it made me happy · جَعَلْنَا jaʿalnaa = We made (in the Quran, Allah speaking with the 'We' of majesty — not a number: Allah is One). ع: the throat squeezed — don't drop it as Urdu often does (ʿUmrah, not 'Umrah' with a plain U). وَجْه wajh = face."
+  - scene: "Thursday 8 October. The lakeside café, their regular Thursday lesson. Imran drops into his chair and pushes his phone across the table."
+  - who: "khalid"
+    t: "مَا بِكَ يَا عِمْرَانُ؟ أَرَى التَّعَبَ فِي وَجْهِكْ."
+    tr: "Maa bika ya Imran? Araa t-taʿaba fee wajhik."
+    en: "What's wrong, Imran? I can see tiredness in your face."
+    q: ["ما", "كَ", "رَأَى", "فِي", "وَجْه"]
+  - who: "imran"
+    t: "الْمَوْقِعُ رَفَضَ صُورَتِي ثَلَاثَ مَرَّاتٍ! قَالَ: الْخَلْفِيَّةُ لَيْسَتْ بَيْضَاءْ."
+    tr: "Al-mawqiʿu rafada sooratee thalaatha marraat! Qaala: al-khalfiyyatu laisat baidaa'."
+    en: "The website rejected my photo three times! It said: the background isn't white."
+    q: ["ى", "قالَ", "لَيْسَ"]
+  - who: "imran"
+    t: "جَعَلَنِي مَجْنُونًا! صَوَّرْتُ نَفْسِي أَمَامَ الْجِدَارِ خَمْسَ مَرَّاتٍ، وَفِي النِّهَايَةِ قَبِلَهَا."
+    tr: "Jaʿalanee majnoonaa! Sawwartu nafsee amaama l-jidaari khamsa marraat, wa fi n-nihaayati qabilahaa."
+    en: "It drove me mad! I photographed myself against the wall five times, and in the end it accepted it."
+    q: ["جَعَلَ", "ى", "نَفْس", "فِي", "هَا"]
+  - who: "khalid"
+    t: "الْحَمْدُ لِلَّهِ. وَهَذَا دَرْسُنَا الْيَوْمَ: «جَعَلَ». جَعَلَ يَعْنِي: صَنَعَ، أَوْ وَضَعَ، أَوْ غَيَّرَ شَيْئًا إِلَى شَيْءٍ آخَرْ."
+    tr: "Alhamdulillah. Wa haadhaa darsunaa l-yawm: jaʿala. Jaʿala yaʿnee: sanaʿa, aw wadaʿa, aw ghayyara shai'an ilaa shai'in aakhar."
+    en: "Alhamdulillah. And that's our lesson today: jaʿala. It means to make, or to put, or to turn one thing into another."
+    q: ["حَمْد", "اللَّه", "ذا", "نَا", "يَوْم", "جَعَلَ", "أَو", "شَىْء", "إِلَى", "آخَر"]
+  - who: "khalid"
+    t: "مَثَلًا: جَعَلَ الْمُدِيرُ الِاجْتِمَاعَ يَوْمَ الِاثْنَيْنِ. أَوْ: الْمَطَرُ جَعَلَ الطَّرِيقَ مُبْتَلًّا."
+    tr: "Mathalan: jaʿala l-mudeeru l-ijtimaaʿa yawma l-ithnain. Aw: al-mataru jaʿala t-tareeqa mubtallaa."
+    en: "For example: the manager put the meeting on Monday. Or: the rain made the road wet."
+    q: ["مَثَل", "جَعَلَ", "يَوْم", "أَو"]
+  - who: "imran"
+    t: "وَأَنَا جَعَلْتُ الْعُمْرَةَ هَدَفِي هَذِهِ السَّنَةْ."
+    tr: "Wa ana jaʿaltu l-Umrata hadafee haadhihi s-sanah."
+    en: "And I've made Umrah my goal this year."
+    q: ["أَنَا۠", "جَعَلَ", "ى", "ذا"]
+  - who: "khalid"
+    t: "جُمْلَةٌ جَمِيلَةٌ. وَفِي الْقُرْآنِ عَنِ الْكَعْبَةِ: «وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا»."
+    tr: "Jumlatun jameelah. Wa fi l-Quraani ʿani l-Kaaba: wa idh jaʿalna l-baita mathaabatan li-n-naasi wa amnaa."
+    en: "A beautiful sentence. And in the Quran, about the Kaaba: 'And when We made the House a place of return for people, and a place of safety.'"
+    q: ["فِي", "قُرْءان", "عَن", "إِذ", "جَعَلَ", "نَا", "بَيْت", "ناس"]
+  - who: "imran"
+    t: "«جَعَلْنَا»: «نَا» يَعْنِي نَحْنُ. لَكِنَّ اللَّهَ وَاحِدٌ…"
+    tr: "Jaʿalnaa: naa yaʿnee nahnu. Laakinna Allaha waahid…"
+    en: "'Jaʿalnaa': 'naa' means 'we'. But Allah is One…"
+    q: ["جَعَلَ", "نَا", "نَحْنُ", "لٰكِنّ", "اللَّه", "واحِد"]
+  - who: "khalid"
+    t: "نَعَمْ. «نَحْنُ» هُنَا لِلتَّعْظِيمِ، لَيْسَتْ لِلْعَدَدِ. مِثْلَ مَلِكٍ يَقُولُ: نَحْنُ أَمَرْنَا."
+    tr: "Naʿam. Nahnu hunaa li-t-taʿzeem, laisat li-l-ʿadad. Mithla malikin yaqoolu: nahnu amarnaa."
+    en: "Yes. 'We' here is for majesty, not for number. Like a king who says: 'We have ordered.'"
+    q: ["نَعَم", "نَحْنُ", "لَيْسَ", "مِثْل", "قالَ", "أَمَرَ", "نَا"]
+  - who: "imran"
+    t: "وَ«مَثَابَةً»؟"
+    tr: "Wa mathaabatan?"
+    en: "And 'mathaabah'?"
+    q: []
+  - who: "khalid"
+    t: "مَثَابَةٌ: مَكَانٌ يَرْجِعُ إِلَيْهِ النَّاسُ مَرَّةً بَعْدَ مَرَّةٍ، وَلَا يَشْبَعُونَ مِنْهْ."
+    tr: "Mathaabah: makaanun yarjiʿu ilaihi n-naasu marratan baʿda marrah, wa laa yashbaʿoona minh."
+    en: "Mathaabah: a place people return to again and again, and never have enough of."
+    q: ["رَجَعَ", "إِلَى", "هِ", "ناس", "بَعْد", "لا", "مِن", "هُ"]
+  - who: "imran"
+    t: "وَأَنَا أَذْهَبُ إِلَيْهِ لِأَوَّلِ مَرَّةٍ فِي حَيَاتِي."
+    tr: "Wa ana adh-habu ilaihi li-awwali marratin fee hayaatee."
+    en: "(quietly) And I'm going to it for the first time in my life."
+    q: ["أَنَا۠", "ذَهَبَ", "إِلَى", "هِ", "أَوَّل", "فِي", "حَياة", "ى"]
+  - who: "khalid"
+    t: "وَسَتَرْجِعُ إِلَيْهِ مَرَّةً بَعْدَ مَرَّةٍ، إِنْ شَاءَ اللَّهْ."
+    tr: "Wa satarjiʿu ilaihi marratan baʿda marrah, Insha Allah."
+    en: "And you'll return to it again and again, Insha Allah."
+    q: ["رَجَعَ", "إِلَى", "هِ", "بَعْد", "إِن", "شاءَ", "اللَّه"]
+
+  - section: "🕌 Friday 16 October — ihram, niyyah and the miqat"
+    learn: "إِحْرَام Ihram = entering the sacred state (not only the two white cloths) · نِيَّة niyyah = intention, in the heart · مِيقَات meeqaat = the set place where pilgrims enter Ihram. آمَنَ aamana = he believed · آمَنْتُ aamantu = I believed · آمَنُوا aamanoo = they believed · مُؤْمِن mu'min = believer · إِيمَان eemaan = faith — same root as أَمْن amn (safety). كَفَرَ kafara: the root first means 'to cover'. Detailed rulings differ: ask a scholar about your own case."
+  - scene: "Friday 16 October. After Jumu'ah, the small office of Imam Abdullah behind the prayer hall. Mint tea in glass cups; the radiator ticks."
+  - who: "imam"
+    t: "أَهْلًا يَا عِمْرَانُ. قَالَ لِي خَالِدٌ: أَنْتَ ذَاهِبٌ إِلَى الْعُمْرَةِ فِي دِيسَمْبَرْ."
+    tr: "Ahlan ya Imran. Qaala lee Khalid: anta dhaahibun ila l-Umrati fee December."
+    en: "Welcome, Imran. Khalid told me you're going for Umrah in December."
+    q: ["أَهْل", "قالَ", "ى", "خالِد", "أَنتَ", "إِلَى", "فِي"]
+  - who: "imran"
+    t: "نَعَمْ، إِنْ شَاءَ اللَّهُ. وَعِنْدِي أَسْئِلَةٌ كَثِيرَةٌ عَنِ الْإِحْرَامْ."
+    tr: "Naʿam, Insha Allah. Wa ʿindee as'ilatun katheeratun ʿani l-Ihraam."
+    en: "Yes, Insha Allah. And I have a lot of questions about Ihram."
+    q: ["نَعَم", "إِن", "شاءَ", "اللَّه", "عِند", "ى", "كَثِير", "عَن"]
+  - who: "imran"
+    t: "مَا هُوَ الْإِحْرَامُ بِالضَّبْطِ؟ هَلْ هُوَ الثِّيَابُ الْبَيْضَاءْ؟"
+    tr: "Maa huwa l-Ihraamu bi-d-dabt? Hal huwa th-thiyaabu l-baidaa'?"
+    en: "What exactly is Ihram? Is it the white clothes?"
+    q: ["ما", "هُوَ", "هَل"]
+  - who: "imam"
+    t: "الثِّيَابُ جُزْءٌ مِنْهُ فَقَطْ. الْإِحْرَامُ هُوَ النِّيَّةُ: أَنْ تَدْخُلَ فِي الْعُمْرَةِ بِقَلْبِكْ."
+    tr: "Ath-thiyaabu juz'un minhu faqat. Al-Ihraamu huwa n-niyyah: an tadkhula fi l-Umrati bi-qalbik."
+    en: "The clothes are only part of it. Ihram is the intention: entering into Umrah with your heart."
+    q: ["مِن", "هُ", "هُوَ", "أَن", "دَخَلَ", "فِي", "قَلْب", "كَ"]
+  - who: "imam"
+    t: "وَلِلرَّجُلِ ثَوْبَانِ أَبْيَضَانِ غَيْرُ مَخِيطَيْنِ: إِزَارٌ وَرِدَاءْ."
+    tr: "Wa li-r-rajuli thawbaani abyadaani ghairu makheetain: izaarun wa ridaa'."
+    en: "And for a man, two white unstitched cloths: a lower wrap and an upper sheet."
+    q: ["رَجُل", "غَيْر"]
+  - who: "imran"
+    t: "وَالنِّيَّةُ… هَلْ أَقُولُهَا بِلِسَانِي؟"
+    tr: "Wa n-niyyah… hal aqooluhaa bi-lisaanee?"
+    en: "And the intention… do I say it with my tongue?"
+    q: ["هَل", "قالَ", "هَا", "ى"]
+  - who: "imam"
+    t: "النِّيَّةُ فِي الْقَلْبِ. وَيَقُولُ الْمُحْرِمُ: «لَبَّيْكَ عُمْرَةً»، كَمَا جَاءَ فِي السُّنَّةْ."
+    tr: "An-niyyatu fi l-qalb. Wa yaqoolu l-muhrimu: labbaika ʿumratan, kamaa jaa'a fi s-sunnah."
+    en: "The intention is in the heart. And the pilgrim says 'Labbaika ʿUmratan' — 'Here I am, for Umrah' — as it comes in the Sunnah."
+    q: ["فِي", "قَلْب", "قالَ", "ما", "جاءَ"]
+  - who: "imam"
+    t: "وَتُحْرِمُ مِنَ الْمِيقَاتِ. الْمِيقَاتُ مَكَانٌ حَدَّدَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَلَا يَتَجَاوَزُهُ مَنْ يُرِيدُ الْعُمْرَةَ إِلَّا مُحْرِمًا."
+    tr: "Wa tuhrimu mina l-meeqaat. Al-meeqaatu makaanun haddadahu n-Nabiyyu sallallahu ʿalaihi wa sallam, wa laa yatajaawazuhu man yureedu l-Umrata illaa muhrimaa."
+    en: "And you enter Ihram at the miqat. The miqat is a place the Prophet, peace be upon him, fixed; whoever intends Umrah does not pass it except in Ihram."
+    q: ["مِن", "هُۥ", "نَبِيّ", "اللَّه", "عَلَى", "هِ", "لا", "مَن", "أَرادَ", "إِلّا"]
+  - who: "imran"
+    t: "لَكِنِّي فِي الطَّائِرَةِ! أَيْنَ الْمِيقَاتُ فِي السَّمَاءْ؟"
+    tr: "Laakinnee fi t-taa'irah! Aina l-meeqaatu fi s-samaa'?"
+    en: "But I'll be on a plane! Where is the miqat in the sky?"
+    q: ["لٰكِنّ", "ى", "فِي", "سَماء"]
+  - who: "imam"
+    t: "الطَّائِرَةُ تَمُرُّ فَوْقَ الْمِيقَاتِ أَوْ قَرِيبًا مِنْهُ. الْقَادِمُ مِنْ أُورُوبَّا يَمُرُّ غَالِبًا بِمِيقَاتِ الْجُحْفَةِ، قُرْبَ رَابِغْ."
+    tr: "At-taa'iratu tamurru fawqa l-meeqaati aw qareeban minh. Al-qaadimu min Oroppa yamurru ghaaliban bi-meeqaati l-Juhfah, qurba Raabigh."
+    en: "The plane passes over the miqat or near it. Someone coming from Europe usually passes the miqat of Al-Juhfa, near Rabigh."
+    q: ["فَوْق", "أَو", "مِن", "هُ"]
+  - who: "imam"
+    t: "وَكَثِيرٌ مِنَ الطَّائِرَاتِ تُعْلِنُ قَبْلَ الْمِيقَاتِ، لِذَلِكَ يَلْبَسُ النَّاسُ ثِيَابَ الْإِحْرَامِ قَبْلَ الرِّحْلَةِ أَوْ فِي الطَّائِرَةْ."
+    tr: "Wa katheerun mina t-taa'iraati tuʿlinu qabla l-meeqaat, li-dhaalika yalbasu n-naasu thiyaaba l-Ihraami qabla r-rihlati aw fi t-taa'irah."
+    en: "Many airlines announce it before the miqat, so people put on the Ihram clothes before the flight or on the plane."
+    q: ["كَثِير", "مِن", "قَبْل", "ذا", "ناس", "أَو", "فِي"]
+  - who: "imran"
+    t: "لَكِنْ عِنْدِي مُشْكِلَةٌ. أَنَا لَا أَذْهَبُ إِلَى مَكَّةَ مُبَاشَرَةً. أَبْقَى ثَلَاثَ لَيَالٍ فِي جُدَّةَ عِنْدَ أَهْلِ خَالِدٍ أَوَّلًا."
+    tr: "Laakin ʿindee mushkilah. Ana laa adh-habu ilaa Makkata mubaasharatan. Abqaa thalaatha layaalin fee Jiddata ʿinda ahli Khalidin awwalaa."
+    en: "But I have a problem. I'm not going straight to Makkah. I'm staying three nights in Jeddah with Khalid's family first."
+    q: ["لٰكِن", "عِند", "ى", "أَنَا۠", "لا", "ذَهَبَ", "إِلَى", "لَيْل", "فِي", "أَهْل", "خالِد", "أَوَّل"]
+  - who: "imam"
+    t: "هَذِهِ مَسْأَلَةٌ فِيهَا تَفْصِيلٌ، وَالْعُلَمَاءُ اخْتَلَفُوا فِيهَا."
+    tr: "Haadhihi mas'alatun feehaa tafseel, wa l-ʿulamaa'u khtalafoo feehaa."
+    en: "This is a question with details, and the scholars have differed on it."
+    q: ["ذا", "فِي", "هَا", "اخْتَلَفَ"]
+  - who: "imam"
+    t: "بَعْضُهُمْ قَالَ: إِذَا كَانَتْ نِيَّتُكَ الْعُمْرَةَ مِنَ الْبِدَايَةِ، فَأَحْرِمْ قَبْلَ أَنْ تَتَجَاوَزَ الْمِيقَاتْ."
+    tr: "Baʿduhum qaala: idhaa kaanat niyyatuka l-Umrata mina l-bidaayah, fa-ahrim qabla an tatajaawaza l-meeqaat."
+    en: "Some of them said: if your intention was Umrah from the start, enter Ihram before you pass the miqat."
+    q: ["بَعْض", "هُمْ", "قالَ", "إِذا", "كانَ", "كَ", "مِن", "قَبْل", "أَن"]
+  - who: "imam"
+    t: "وَبَعْضُهُمْ قَالَ: إِذَا كَانَ سَفَرُكَ لِزِيَارَةِ أَهْلٍ فِي جُدَّةَ، وَتُقِيمُ عِنْدَهُمْ، فَلَكَ أَنْ تُحْرِمَ مِنْ جُدَّةْ."
+    tr: "Wa baʿduhum qaala: idhaa kaana safaruka li-ziyaarati ahlin fee Jiddah, wa tuqeemu ʿindahum, fa-laka an tuhrima min Jiddah."
+    en: "And some of them said: if your journey is to visit people in Jeddah and you stay with them, you may enter Ihram from Jeddah."
+    q: ["بَعْض", "هُمْ", "قالَ", "إِذا", "كانَ", "كَ", "أَهْل", "فِي", "عِند", "أَن", "مِن"]
+  - who: "imam"
+    t: "أَنَا لَا أُعْطِيكَ فَتْوًى الْيَوْمَ. اُكْتُبْ تَفَاصِيلَ رِحْلَتِكَ كُلَّهَا، وَاسْأَلْ عَالِمًا تَثِقُ بِهْ."
+    tr: "Ana laa uʿteeka fatwan al-yawm. Uktub tafaaseela rihlatika kullahaa, wa s'al ʿaaliman tathiqu bih."
+    en: "I'm not giving you a fatwa today. Write down all the details of your trip, and ask a scholar you trust."
+    q: ["أَنَا۠", "لا", "كَ", "يَوْم", "كَتَبَ", "كُلّ", "هَا", "سَأَلَ", "هِۦ"]
+  - who: "imran"
+    t: "جَزَاكَ اللَّهُ خَيْرًا. سَأَسْأَلُ، وَسَأَعْمَلُ بِمَا يَقُولُ."
+    tr: "Jazak Allahu khairan. Sa-as'alu, wa sa-aʿmalu bimaa yaqool."
+    en: "Jazak Allahu khairan. I'll ask, and I'll act on what he says."
+    q: ["جَزَى", "كَ", "اللَّه", "خَيْر", "سَأَلَ", "عَمِلَ", "ما", "قالَ"]
+  - who: "imam"
+    t: "وَأَبْشِرْ. قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْعُمْرَةُ إِلَى الْعُمْرَةِ كَفَّارَةٌ لِمَا بَيْنَهُمَا، وَالْحَجُّ الْمَبْرُورُ لَيْسَ لَهُ جَزَاءٌ إِلَّا الْجَنَّةُ»."
+    tr: "Wa abshir. Qaala Rasoolullahi sallallahu ʿalaihi wa sallam: al-ʿUmratu ila l-ʿUmrati kaffaaratun limaa bainahumaa, wa l-Hajju l-mabrooru laisa lahu jazaa'un illa l-Jannah."
+    en: "And here is good news. The Messenger of Allah, peace be upon him, said: 'One Umrah to the next wipes out what is between them, and an accepted Hajj has no reward but Paradise.'"
+    q: ["قالَ", "رَسُول", "اللَّه", "عَلَى", "هِ", "إِلَى", "ما", "بَيْن", "لَيْسَ", "هُۥ", "جَزاء", "إِلّا", "جَنَّة"]
+  - who: "imran"
+    t: "«كَفَّارَةٌ»… هَلْ هِيَ مِنْ «كَفَرَ»؟"
+    tr: "Kaffaarah… hal hiya min kafara?"
+    en: "'Kaffaarah'… does it come from 'kafara'?"
+    q: ["هَل", "هِىَ", "مِن", "كَفَرَ"]
+  - who: "imam"
+    t: "نَفْسُ الْجَذْرِ. «كَفَرَ» فِي الْأَصْلِ: غَطَّى. الْكَافِرُ غَطَّى الْحَقَّ، وَالْكَفَّارَةُ تُغَطِّي الذُّنُوبَ وَتَمْحُوهَا."
+    tr: "Nafsu l-jadhr. Kafara fi l-asl: ghattaa. Al-kaafiru ghatta l-haqq, wa l-kaffaaratu tughatti dh-dhunooba wa tamhoohaa."
+    en: "The same root. 'Kafara' originally means to cover. The kaafir covered over the truth, and the kaffaarah covers the sins and wipes them away."
+    q: ["نَفْس", "كَفَرَ", "فِي", "كافِر", "حَقّ", "هَا"]
+  - who: "imam"
+    t: "وَالْآنَ كَلِمَةٌ أُخْرَى: «آمَنَ». أَنْتَ تَقْرَأُ «الَّذِينَ آمَنُوا» كَثِيرًا. مَا مَعْنَاهَا؟"
+    tr: "Wa l-aana kalimatun ukhraa: aamana. Anta taqra'u alladheena aamanoo katheeraa. Maa maʿnaahaa?"
+    en: "And now another word: 'aamana'. You often recite 'alladheena aamanoo'. What does it mean?"
+    q: ["كَلِمَة", "آمَنَ", "أَنتَ", "الَّذِي", "كَثِير", "ما", "هَا"]
+  - who: "imran"
+    t: "الَّذِينَ صَدَّقُوا بِقُلُوبِهِمْ؟"
+    tr: "Alladheena saddaqoo bi-quloobihim?"
+    en: "Those who believed with their hearts?"
+    q: ["الَّذِي", "قَلْب", "هُمْ"]
+  - who: "imam"
+    t: "نَعَمْ. آمَنْتُ، آمَنْتَ، آمَنُوا. وَالْمُؤْمِنُ: الَّذِي آمَنَ. وَمِنْ نَفْسِ الْجَذْرِ: الْأَمْنُ وَالْأَمَانْ."
+    tr: "Naʿam. Aamantu, aamanta, aamanoo. Wa l-mu'minu: alladhee aamana. Wa min nafsi l-jadhr: al-amnu wa l-amaan."
+    en: "Yes. I believed, you believed, they believed. And the mu'min is the one who believed. And from the same root: safety and security."
+    q: ["نَعَم", "آمَنَ", "مُؤْمِن", "الَّذِي", "مِن", "نَفْس"]
+  - who: "imran"
+    t: "سُبْحَانَ اللَّهِ… الْإِيمَانُ وَالْأَمَانُ مِنْ بَيْتٍ وَاحِدْ."
+    tr: "Subhan Allah… al-eemaanu wa l-amaanu min baitin waahid."
+    en: "Subhan Allah… faith and safety come from one house."
+    q: ["سُبْحان", "اللَّه", "إِيمان", "مِن", "بَيْت", "واحِد"]
+  - who: "imam"
+    t: "هَكَذَا تَعَلَّمِ الْعَرَبِيَّةَ: لِكُلِّ كَلِمَةٍ أَهْلٌ وَبَيْتٌ. وَأَنْتَ ذَاهِبٌ إِلَى أَوَّلِ بَيْتٍ لِلنَّاسِ. اسْمَعْ."
+    tr: "Haakadhaa taʿallami l-ʿArabiyyah: li-kulli kalimatin ahlun wa bait. Wa anta dhaahibun ilaa awwali baitin li-n-naas. Ismaʿ."
+    en: "That's how to learn Arabic: every word has a family and a house. And you are going to the first House made for people. Listen."
+    q: ["كُلّ", "كَلِمَة", "أَهْل", "بَيْت", "أَنتَ", "إِلَى", "أَوَّل", "ناس", "سَمِعَ"]
+  - quran: { s: 3, a: 96 }
+    by: "imam"
+    en: "The first House set up for people is the one at Bakkah, full of blessing, and a guidance for all the worlds."
+  - who: "imam"
+    t: "«أَوَّلَ بَيْتٍ»: أَوَّلُ بَيْتٍ لِعِبَادَةِ اللَّهِ فِي الْأَرْضِ. وَ«بَكَّةُ» اسْمٌ مِنْ أَسْمَاءِ مَكَّةْ."
+    tr: "Awwala bait: awwalu baitin li-ʿibaadati Llaahi fi l-ard. Wa Bakkah: ismun min asmaa'i Makkah."
+    en: "'The first House': the first house for the worship of Allah on earth. And 'Bakkah' is one of the names of Makkah."
+    q: ["أَوَّل", "بَيْت", "اللَّه", "فِي", "أَرْض", "اسْم", "مِن"]
+  - who: "imam"
+    t: "«مُبَارَكًا»: فِيهِ خَيْرٌ كَثِيرٌ. «وَهُدًى لِلْعَالَمِينَ»: هِدَايَةٌ لِكُلِّ النَّاسِ، مِنْ كُلِّ أَرْضْ."
+    tr: "Mubaarakan: feehi khairun katheer. Wa hudan li-l-ʿaalameen: hidaayatun li-kulli n-naas, min kulli ard."
+    en: "'Blessed': there is much good in it. 'And guidance for the worlds': guidance for all people, from every land."
+    q: ["فِي", "هِ", "خَيْر", "كَثِير", "هُدًى", "عالَم", "كُلّ", "ناس", "مِن", "أَرْض"]
+  - who: "imran"
+    t: "«الْعَالَمِينَ»… مِثْلَ «رَبِّ الْعَالَمِينَ» فِي الْفَاتِحَةِ! وَأَنَا مِنَ الْعَالَمِينَ، مِنْ بَنْغَالُورُو."
+    tr: "Al-ʿaalameen… mithla Rabbi l-ʿaalameen fi l-Fatiha! Wa ana mina l-ʿaalameen, min Bengaluru."
+    en: "'Al-ʿaalameen'… like 'Rabbil ʿaalameen' in Al-Fatiha! And I am one of 'the worlds' too — from Bengaluru."
+    q: ["عالَم", "مِثْل", "رَبّ", "فِي", "أَنَا۠", "مِن"]
+  - who: "imam"
+    t: "أَحْسَنْتَ يَا عِمْرَانُ. الْآنَ تَسْمَعُ… وَتَفْهَمْ."
+    tr: "Ahsanta ya Imran. Al-aana tasmaʿu… wa tafham."
+    en: "(smiling) Well done, Imran. Now you hear… and you understand."
+    q: ["سَمِعَ"]
+
+  - section: "✈️ Saturday 31 October — flight, vaccine, money"
+    learn: "The future: سَ + present verb. سَآخُذُ sa-aakhudhu = I will take · سَأَكُونُ sa-akoonu = I will be. أَخَذَ akhadha = to take (Quran: أَخَذَ). مَطَار mataar = airport, from طَارَ (to fly) — the same root as طَائِر (bird) in the Quran. ط is a heavy 't', the tongue pressed up; ص a heavy 's'. Money: رِيَال riyaal; مَال maal = money, wealth (Quranic: الْمَالُ وَالْبَنُونَ)."
+  - scene: "Saturday 31 October. Imran's flat. Khalid has come round with a box of dates; they sit side by side looking at flight prices."
+  - who: "imran"
+    t: "جَاءَتِ التَّأْشِيرَةُ أَمْسِ! الْحَمْدُ لِلَّهْ."
+    tr: "Jaa'ati t-ta'sheeratu ams! Alhamdulillah."
+    en: "The visa came yesterday! Alhamdulillah."
+    q: ["جاءَ", "حَمْد", "اللَّه"]
+  - who: "khalid"
+    t: "مَبْرُوكٌ! الْآنَ الطَّيَرَانُ. اُنْظُرْ: هُنَا رِحْلَةٌ عَبْرَ إِسْطَنْبُولَ، وَهُنَا رِحْلَةٌ عَبْرَ الْقَاهِرَةْ."
+    tr: "Mabrook! Al-aana t-tayaraan. Unzur: hunaa rihlatun ʿabra Istanbul, wa hunaa rihlatun ʿabra l-Qaahirah."
+    en: "Mabrook! Now the flight. Look: here's a flight via Istanbul, and here's one via Cairo."
+    q: ["نَظَرَ"]
+  - who: "imran"
+    t: "رِحْلَةُ إِسْطَنْبُولَ أَقْصَرُ بِأَرْبَعِ سَاعَاتٍ، لَكِنَّهَا أَغْلَى بِمِئَةِ فَرَنْكْ."
+    tr: "Rihlatu Istanbul aqsaru bi-arbaʿi saaʿaat, laakinnahaa aghlaa bi-mi'ati farank."
+    en: "The Istanbul one is four hours shorter, but it's a hundred francs more expensive."
+    q: ["ساعَة", "لٰكِنّ", "هَا"]
+  - who: "khalid"
+    t: "الْوَقْتُ أَيْضًا مَالٌ. وَلَا تُرِيدُ أَنْ تَكُونَ مُتْعَبًا قَبْلَ الْعُمْرَةْ."
+    tr: "Al-waqtu aidan maal. Wa laa tureedu an takoona mutʿaban qabla l-Umrah."
+    en: "Time is money too. And you don't want to be exhausted before Umrah."
+    q: ["مال", "لا", "أَرادَ", "أَن", "كانَ", "قَبْل"]
+  - who: "imran"
+    t: "صَحِيحٌ. سَآخُذُ رِحْلَةَ إِسْطَنْبُولَ… تَمَّ! الْوُصُولُ إِلَى جُدَّةَ يَوْمَ الْخَمِيسِ، سَبْعَةَ عَشَرَ دِيسَمْبَرَ، السَّاعَةَ الْعَاشِرَةَ وَالنِّصْفَ لَيْلًا."
+    tr: "Saheeh. Sa-aakhudhu rihlata Istanbul… tamm! Al-wusoolu ilaa Jiddata yawma l-Khamees, sabʿata ʿashara December, as-saaʿata l-ʿaashirata wa n-nisfa lailaa."
+    en: "True. I'll take the Istanbul flight… done! Arrival in Jeddah on Thursday the 17th of December, at half past ten at night."
+    q: ["أَخَذَ", "إِلَى", "يَوْم", "ساعَة", "لَيْل"]
+  - who: "khalid"
+    t: "سَأَكُونُ فِي الْمَطَارِ، إِنْ شَاءَ اللَّهُ. وَالْآنَ التَّصْرِيحُ فِي «نُسُكْ»."
+    tr: "Sa-akoonu fi l-mataar, Insha Allah. Wa l-aana t-tasreehu fee Nusuk."
+    en: "I'll be at the airport, Insha Allah. And now the permit in Nusuk."
+    q: ["كانَ", "فِي", "إِن", "شاءَ", "اللَّه"]
+  - who: "imran"
+    t: "اخْتَرْتُ يَوْمَ الْأَحَدِ، عِشْرِينَ دِيسَمْبَرَ، بَعْدَ الْفَجْرِ. وَجَاءَتْ رِسَالَةٌ: «تَمَّ الْحَجْزْ»."
+    tr: "Ikhtartu yawma l-Ahad, ʿishreena December, baʿda l-Fajr. Wa jaa'at risaalah: tamma l-hajz."
+    en: "I chose Sunday, the 20th of December, after Fajr. And a message came: 'Booking confirmed.'"
+    q: ["يَوْم", "بَعْد", "جاءَ"]
+  - who: "khalid"
+    t: "وَالتَّطْعِيمُ؟ هَلْ ذَهَبْتَ إِلَى الطَّبِيبْ؟"
+    tr: "Wa t-tatʿeem? Hal dhahabta ila t-tabeeb?"
+    en: "And the vaccination? Have you been to the doctor?"
+    q: ["هَل", "ذَهَبَ", "إِلَى"]
+  - who: "imran"
+    t: "لَيْسَ بَعْدُ. مَاذَا أَحْتَاجُ؟"
+    tr: "Laisa baʿd. Maadhaa ahtaaj?"
+    en: "Not yet. What do I need?"
+    q: ["لَيْسَ", "بَعْد", "ما", "ذا"]
+  - who: "khalid"
+    t: "أُخْتِي سَارَةُ طَبِيبَةٌ فِي جُدَّةَ. قَالَتْ: لِقَاحُ الْحُمَّى الشَّوْكِيَّةِ مَطْلُوبٌ عَادَةً لِلْعُمْرَةِ، وَاسْأَلْ طَبِيبَكَ هُنَا عَنِ الْبَاقِي."
+    tr: "Ukhtee Sarah tabeebatun fee Jiddah. Qaalat: liqaahu l-hummaa sh-shawkiyyati matloobun ʿaadatan li-l-Umrah, wa s'al tabeebaka hunaa ʿani l-baaqee."
+    en: "My sister Sara is a doctor in Jeddah. She said the meningitis vaccine is usually required for Umrah, and ask your doctor here about the rest."
+    q: ["ى", "فِي", "قالَ", "سَأَلَ", "كَ", "عَن"]
+  - who: "imran"
+    t: "سَأَذْهَبُ يَوْمَ الِاثْنَيْنِ. وَالْمَالُ؟ هَلْ آخُذُ رِيَالَاتٍ مَعِي؟"
+    tr: "Sa-adh-habu yawma l-ithnain. Wa l-maal? Hal aakhudhu riyaalaatin maʿee?"
+    en: "I'll go on Monday. And money? Should I take riyals with me?"
+    q: ["ذَهَبَ", "يَوْم", "مال", "هَل", "أَخَذَ", "مَع", "ى"]
+  - who: "khalid"
+    t: "قَلِيلًا فَقَطْ. فِي السُّعُودِيَّةِ يَدْفَعُ النَّاسُ بِالْبِطَاقَةِ وَبِالْجَوَّالِ فِي كُلِّ مَكَانٍ. لَكِنْ خُذْ بَعْضَ النُّقُودِ لِلسُّوقِ الْقَدِيمِ، لِلْبَلَدْ."
+    tr: "Qaleelan faqat. Fi s-Saʿoodiyyati yadfaʿu n-naasu bi-l-bitaaqati wa bi-l-jawwaali fee kulli makaan. Laakin khudh baʿda n-nuqoodi li-s-sooqi l-qadeem, li-l-Balad."
+    en: "Only a little. In Saudi people pay by card and by phone everywhere. But take some cash for the old market, Al-Balad."
+    q: ["قَلِيل", "فِي", "ناس", "كُلّ", "لٰكِن", "أَخَذَ", "بَعْض"]
+  - who: "imran"
+    t: "وَالْفَرَنْكُ السُّوِيسْرِيُّ، كَمْ رِيَالًا؟"
+    tr: "Wa l-faranku s-Swisriyy, kam riyaalaa?"
+    en: "And the Swiss franc — how many riyals is it?"
+    q: []
+  - who: "khalid"
+    t: "أَكْثَرُ مِنْ أَرْبَعَةِ رِيَالَاتٍ. أَنْتَ غَنِيٌّ هُنَاكْ!"
+    tr: "Aktharu min arbaʿati riyaalaat. Anta ghaniyyun hunaak!"
+    en: "More than four riyals. You're rich over there!"
+    q: ["أَكْثَر", "مِن", "أَنتَ"]
+  - who: "imran"
+    t: "غَنِيٌّ فِي جُدَّةَ، وَفَقِيرٌ فِي زِيُورِخْ."
+    tr: "Ghaniyyun fee Jiddah, wa faqeerun fee Zurich."
+    en: "(laughing) Rich in Jeddah, and poor in Zurich."
+    q: ["فِي"]
+
+  - section: "🧳 Thursday 26 November — packing, and the scholar's answer"
+    learn: "Attached pronouns, the endings you hear in every ayah: ـِي -ee (my) · ـكَ -ka (your) · ـهُ -hu (his) · ـهَا -haa (her) · ـنَا -naa (our) · ـكُمْ -kum (your, plural) · ـهُمْ -hum (their): كِتَابِي, كِتَابُكَ, كِتَابُهُ, كِتَابُنَا, كِتَابُهُمْ. لَا تَخَفْ laa takhaf = don't be afraid — word for word what is said to Musa in the Quran. ث = 'th' as in 'think' (Urdu says s); Jeddah speech often says t."
+  - scene: "Thursday 26 November, late evening. Imran's bedroom. An open suitcase on the bed; Khalid on a video call goes through the list with him."
+  - who: "khalid"
+    t: "هَيَّا، اقْرَأْ لِي الْقَائِمَةْ."
+    tr: "Hayyaa, iqra' li l-qaa'imah."
+    en: "Go on, read me the list."
+    q: ["ى"]
+  - who: "imran"
+    t: "جَوَازُ السَّفَرِ، التَّأْشِيرَةُ، التَّصْرِيحُ فِي «نُسُكْ»، شَهَادَةُ اللِّقَاحِ، وَالْهَدَايَا."
+    tr: "Jawaazu s-safar, at-ta'sheerah, at-tasreehu fee Nusuk, shahaadatu l-liqaah, wa l-hadaayaa."
+    en: "Passport, visa, the permit in Nusuk, vaccination certificate, and the presents."
+    q: ["فِي"]
+  - who: "khalid"
+    t: "هَدَايَا؟ مَا هِيَ؟"
+    tr: "Hadaayaa? Maa hiya?"
+    en: "Presents? What are they?"
+    q: ["ما", "هِىَ"]
+  - who: "imran"
+    t: "شُوكُولَاتَةٌ سُوِيسْرِيَّةٌ لِأَهْلِكَ، وَقَهْوَةٌ مِنْ جِبَالِ كُورْجْ فِي الْهِنْدِ."
+    tr: "Shokolaatatun Swisriyyah li-ahlika, wa qahwatun min jibaali Coorg fi l-Hind."
+    en: "Swiss chocolate for your family, and coffee from the hills of Coorg in India."
+    q: ["أَهْل", "كَ", "مِن", "جَبَل", "فِي"]
+  - who: "khalid"
+    t: "أُمِّي سَتُحِبُّ الْقَهْوَةَ… وَفَيْصَلُ سَيُحِبُّ الشُّوكُولَاتَةَ أَكْثَرْ."
+    tr: "Ummee satuhibbu l-qahwah… wa Faisalu sayuhibbu sh-shokolaatata akthar."
+    en: "My mother will love the coffee… and Faisal will love the chocolate even more."
+    q: ["أُمّ", "ى", "أَحْبَبْ", "أَكْثَر"]
+  - who: "khalid"
+    t: "وَثِيَابُ الْإِحْرَامِ؟ لَا أَرَاهَا."
+    tr: "Wa thiyaabu l-Ihraam? Laa araahaa."
+    en: "And the Ihram clothes? I don't see them."
+    q: ["لا", "رَأَى", "هَا"]
+  - who: "imran"
+    t: "لَمْ أَشْتَرِهَا. أَنْتَ قُلْتَ لِي: نَشْتَرِيهَا فِي جُدَّةَ، مِنَ الْبَلَدْ."
+    tr: "Lam ashtarihaa. Anta qulta lee: nashtareehaa fee Jiddah, mina l-Balad."
+    en: "I didn't buy them. You told me: we'll buy them in Jeddah, in Al-Balad."
+    q: ["لَم", "هَا", "أَنتَ", "قالَ", "ى", "فِي", "مِن"]
+  - who: "khalid"
+    t: "صَحِيحٌ، هُنَاكَ أَجْوَدُ وَأَرْخَصُ. وَالْمِيقَاتُ؟ هَلْ سَأَلْتَ عَالِمًا؟"
+    tr: "Saheeh, hunaaka ajwadu wa arkhas. Wa l-meeqaat? Hal sa'alta ʿaaliman?"
+    en: "Right, they're better and cheaper there. And the miqat? Did you ask a scholar?"
+    q: ["هَل", "سَأَلَ"]
+  - who: "imran"
+    t: "سَأَلْتُ. كَتَبْتُ لَهُ كُلَّ التَّفَاصِيلِ، وَأَجَابَنِي أَمْسِ."
+    tr: "Sa'altu. Katabtu lahu kulla t-tafaaseel, wa ajaabanee ams."
+    en: "I did. I wrote him all the details, and he answered me yesterday."
+    q: ["سَأَلَ", "كَتَبَ", "هُۥ", "كُلّ", "ى"]
+  - who: "khalid"
+    t: "وَمَاذَا قَالَ؟"
+    tr: "Wa maadhaa qaal?"
+    en: "And what did he say?"
+    q: ["ما", "ذا", "قالَ"]
+  - who: "imran"
+    t: "قَالَ: سَفَرُكَ أَوَّلًا إِلَى أَهْلٍ فِي جُدَّةَ، وَسَتُقِيمُ عِنْدَهُمْ ثَلَاثَ لَيَالٍ؛ فَأَحْرِمْ مِنْ جُدَّةَ حِينَ تَخْرُجُ إِلَى مَكَّةْ."
+    tr: "Qaala: safaruka awwalan ilaa ahlin fee Jiddah, wa satuqeemu ʿindahum thalaatha layaal; fa-ahrim min Jiddata heena takhruju ilaa Makkah."
+    en: "He said: your journey is first to a family in Jeddah, and you'll stay with them three nights; so enter Ihram from Jeddah when you set out for Makkah."
+    q: ["قالَ", "كَ", "أَوَّل", "إِلَى", "أَهْل", "فِي", "عِند", "هُمْ", "لَيْل", "مِن", "حِين", "خَرَجَ"]
+  - who: "imran"
+    t: "وَقَالَ أَيْضًا: هَذَا رَأْيُهُ فِي حَالَتِي أَنَا، وَغَيْرُهُ مِنَ الْعُلَمَاءِ قَدْ يَرَى غَيْرَ ذَلِكْ."
+    tr: "Wa qaala aidan: haadhaa ra'yuhu fee haalatee ana, wa ghairuhu mina l-ʿulamaa'i qad yaraa ghaira dhaalik."
+    en: "And he also said: this is his view for my case, and other scholars may see it differently."
+    q: ["قالَ", "ذا", "هُۥ", "فِي", "ى", "أَنَا۠", "غَيْر", "مِن", "قَد", "رَأَى"]
+  - who: "khalid"
+    t: "جَزَاهُ اللَّهُ خَيْرًا. هَكَذَا يَكُونُ أَهْلُ الْعِلْمِ: بِأَدَبٍ وَتَوَاضُعْ."
+    tr: "Jazaahullahu khairaa. Haakadhaa yakoonu ahlu l-ʿilmi: bi-adabin wa tawaaduʿ."
+    en: "May Allah reward him. That's how people of knowledge should be: courteous and humble."
+    q: ["جَزَى", "هُ", "اللَّه", "خَيْر", "كانَ", "أَهْل", "عِلْم"]
+  - who: "khalid"
+    t: "وَشَيْءٌ أَخِيرٌ: أَبِي وَأُمِّي يُرِيدَانِ أَنْ يَرَيَاكَ وَيَسْمَعَاكَ. نَتَّصِلُ بِهِمْ غَدًا بَعْدَ الْمَغْرِبْ؟"
+    tr: "Wa shai'un akheer: abee wa ummee yureedaani an yarayaaka wa yasmaʿaak. Nattasilu bihim ghadan baʿda l-Maghrib?"
+    en: "And one last thing: my father and mother want to see you and hear you. Shall we call them tomorrow after Maghrib?"
+    q: ["شَىْء", "أَب", "ى", "أُمّ", "أَرادَ", "أَن", "رَأَى", "كَ", "سَمِعَ", "هُمْ", "بَعْد"]
+  - who: "imran"
+    t: "غَدًا؟! أَنَا أَخَافُ أَلَّا أَفْهَمَهُمْ… عَرَبِيَّتِي مَا زَالَتْ ضَعِيفَةْ."
+    tr: "Ghadan?! Ana akhaafu allaa afhamahum… ʿArabiyyatee maa zaalat daʿeefah."
+    en: "Tomorrow?! I'm afraid I won't understand them… my Arabic is still weak."
+    q: ["أَنَا۠", "خافَ", "أَن", "لا", "هُمْ", "ى"]
+  - who: "khalid"
+    t: "لَا تَخَفْ. أَبِي كَانَ مُعَلِّمًا أَرْبَعِينَ سَنَةً، وَهُوَ يُحِبُّ كُلَّ مَنْ يَتَعَلَّمُ لُغَةَ الْقُرْآنْ."
+    tr: "Laa takhaf. Abee kaana muʿalliman arbaʿeena sanah, wa huwa yuhibbu kulla man yataʿallamu lughata l-Quran."
+    en: "Don't be afraid. My father was a teacher for forty years, and he loves anyone who learns the language of the Quran."
+    q: ["لا", "خافَ", "أَب", "ى", "كانَ", "هُوَ", "أَحْبَبْ", "كُلّ", "مَن", "قُرْءان"]
+
+  - chapter: "Chapter 4 — A call to Jeddah"
+
+  - section: "📞 Friday 27 November — Abu Khalid and Umm Khalid"
+    learn: "Saudis call parents by their eldest son: أَبُو خَالِدٍ Abu Khalid (father of Khalid), أُمُّ خَالِدٍ Umm Khalid. A younger man says يَا عَمِّي ya ʿammee (uncle) to an older man and يَا خَالَةُ ya khaalah (auntie) to an older woman — respectful, not literal. Family: أَبٌ ab (father) · أُمٌّ umm (mother) · أَخٌ akh (brother) · أُخْتٌ ukht (sister) · ابْنٌ ibn (son) · وَلَدٌ walad (child, boy; Umm Khalid's يَا وَلَدِي = 'my son'). صَبَرَ sabara = to be patient — صَبْر, as in إِنَّ اللَّهَ مَعَ الصَّابِرِينَ. ص = heavy s."
+  - scene: "Friday 27 November, after Maghrib. Khalid's flat in Zurich, a tablet propped against the teapot. In Jeddah it is two hours later; the family is sitting in the majlis, Abu Khalid in the middle with his reading glasses on."
+  - who: "khalid"
+    t: "السَّلَامُ عَلَيْكُمْ يَا أَبِي! هَذَا عِمْرَانُ، صَدِيقِي."
+    tr: "Assalamu Alaikum ya abee! Haadhaa Imran, sadeeqee."
+    en: "Assalamu Alaikum, Father! This is Imran, my friend."
+    q: ["سَلام", "عَلَى", "كُمْ", "أَب", "ى", "ذا"]
+  - who: "abukhalid"
+    t: "وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ. أَهْلًا وَسَهْلًا يَا عِمْرَانُ."
+    tr: "Wa ʿalaikumu s-salaamu wa rahmatullaahi wa barakaatuh. Ahlan wa sahlan ya Imran."
+    en: "And peace be upon you, and the mercy of Allah and His blessings. Welcome, Imran."
+    q: ["عَلَى", "كُمُ", "سَلام", "رَحْمَة", "اللَّه", "هُۥ", "أَهْل"]
+  - who: "imran"
+    t: "أَهْلًا بِكَ يَا عَمِّي. أَنَا سَعِيدٌ جِدًّا بِرُؤْيَتِكْ."
+    tr: "Ahlan bika ya ʿammee. Ana saʿeedun jiddan bi-ru'yatik."
+    en: "Hello to you, uncle. I'm very happy to see you."
+    q: ["أَهْل", "كَ", "أَنَا۠"]
+  - who: "abukhalid"
+    t: "مَا شَاءَ اللَّهُ، تَتَكَلَّمُ الْعَرَبِيَّةَ! خَالِدٌ قَالَ لِي: أَنْتَ تَتَعَلَّمُ مُنْذُ شَهْرَيْنِ فَقَطْ."
+    tr: "Masha Allah, tatakallamu l-ʿArabiyyah! Khalid qaala lee: anta tataʿallamu mundhu shahrain faqat."
+    en: "Masha Allah, you speak Arabic! Khalid told me you've only been learning for two months."
+    q: ["ما", "شاءَ", "اللَّه", "خالِد", "قالَ", "ى", "أَنتَ"]
+  - who: "imran"
+    t: "نَعَمْ يَا عَمِّي، قَلِيلًا قَلِيلًا. وَخَالِدٌ يَصْبِرُ عَلَيَّ كَثِيرًا."
+    tr: "Naʿam ya ʿammee, qaleelan qaleelaa. Wa Khalid yasbiru ʿalayya katheeraa."
+    en: "Yes, uncle, little by little. And Khalid is very patient with me."
+    q: ["نَعَم", "قَلِيل", "خالِد", "صَبَرَ", "عَلَى", "ى", "كَثِير"]
+  - who: "abukhalid"
+    t: "خَالِدٌ يَصْبِرُ؟ عِنْدَمَا كَانَ صَغِيرًا، لَمْ يَكُنْ يَصْبِرُ دَقِيقَةً وَاحِدَةْ!"
+    tr: "Khalid yasbir? ʿIndamaa kaana sagheeran, lam yakun yasbiru daqeeqatan waahidah!"
+    en: "(laughing) Khalid, patient? When he was little, he couldn't wait a single minute!"
+    q: ["خالِد", "صَبَرَ", "كانَ", "لَم", "واحِدَة"]
+  - who: "khalid"
+    t: "يَا أَبِي! أَمَامَ ضَيْفِي؟"
+    tr: "Ya abee! Amaama daifee?"
+    en: "Father! In front of my guest?"
+    q: ["أَب", "ى"]
+  - who: "abukhalid"
+    t: "هُوَ لَيْسَ ضَيْفًا. هُوَ وَاحِدٌ مِنْ أَهْلِ بَيْتِنَا الْآنَ. يَا نُورَةُ، تَعَالَيْ! عِمْرَانُ مَعَنَا."
+    tr: "Huwa laisa daifaa. Huwa waahidun min ahli baitinaa l-aan. Ya Noura, taʿaalai! Imran maʿanaa."
+    en: "He's not a guest. He's one of our household now. Noura, come! Imran is with us."
+    q: ["واحِد", "هُوَ","لَيْسَ", "مِن", "أَهْل", "بَيْت", "مَع", "نَا"]
+  - who: "ummkhalid"
+    t: "أَهْلًا، أَهْلًا يَا وَلَدِي! كَيْفَ حَالُكَ؟ هَلْ تَأْكُلُ جَيِّدًا فِي سُوِيسْرَا؟"
+    tr: "Ahlan, ahlan ya waladee! Kaifa haaluk? Hal ta'kulu jayyidan fee Swisra?"
+    en: "Welcome, welcome, my son! How are you? Are you eating properly in Switzerland?"
+    q: ["أَهْل", "وَلَد", "ى", "كَيْف", "كَ", "هَل", "أَكَلَ", "فِي"]
+  - who: "imran"
+    t: "الْحَمْدُ لِلَّهِ يَا خَالَةُ. خَالِدٌ يَأْخُذُنِي أَحْيَانًا إِلَى مَطْعَمٍ عَرَبِيّْ."
+    tr: "Alhamdulillah ya khaalah. Khalid ya'khudhunee ahyaanan ilaa matʿamin ʿarabiyy."
+    en: "Alhamdulillah, auntie. Khalid sometimes takes me to an Arab restaurant."
+    q: ["حَمْد", "اللَّه", "خالِد", "أَخَذَ", "ى", "إِلَى"]
+  - who: "ummkhalid"
+    t: "مَطْعَمٌ؟! لَا، لَا. طَعَامُ الْمَطَاعِمِ لَيْسَ مِثْلَ طَعَامِ الْبَيْتِ. عِنْدَمَا تَأْتِي، أَطْبُخُ لَكَ الْكَبْسَةَ بِيَدِي."
+    tr: "Matʿam?! Laa, laa. Taʿaamu l-mataaʿimi laisa mithla taʿaami l-bait. ʿIndamaa ta'tee, atbukhu laka l-kabsata bi-yadee."
+    en: "A restaurant?! No, no. Restaurant food is nothing like home food. When you come, I'll cook kabsa for you with my own hands."
+    q: ["لا", "لَيْسَ", "مِثْل", "بَيْت", "أَتَى", "كَ", "يَد", "ى"]
+  - who: "imran"
+    t: "وَأَنَا أُحِبُّ الْأَرُزَّ كَثِيرًا. فِي بَنْغَالُورُو نَأْكُلُ الْبِرْيَانِي."
+    tr: "Wa ana uhibbu l-aruzza katheeraa. Fee Bengaluru na'kulu l-biryaani."
+    en: "And I love rice. In Bengaluru we eat biryani."
+    q: ["أَنَا۠", "أَحْبَبْ", "كَثِير", "فِي", "أَكَلَ"]
+  - who: "ummkhalid"
+    t: "الْبِرْيَانِي؟ نَعْرِفُهُ! جِيرَانُنَا مِنْ حَيْدَرَ آبَادَ، وَيُرْسِلُونَ لَنَا مِنْهُ فِي رَمَضَانْ."
+    tr: "Al-biryaani? Naʿrifuh! Jeeraanunaa min Haidar Aabaad, wa yursiloona lanaa minhu fee Ramzan."
+    en: "Biryani? We know it! Our neighbours are from Hyderabad, and they send us some in Ramzan."
+    q: ["هُۥ", "نَا", "مِن", "أَرْسَلَ", "هُ", "فِي"]
+  - who: "imran"
+    t: "سُبْحَانَ اللَّهِ، الدُّنْيَا صَغِيرَةْ!"
+    tr: "Subhan Allah, ad-dunyaa sagheerah!"
+    en: "Subhan Allah, it's a small world!"
+    q: ["سُبْحان", "اللَّه", "دُنْيا"]
+
+  - section: "👦 Sara and Faisal — family words"
+    learn: "Faisal speaks Hijazi, the Jeddah dialect: إِيشْ eesh = مَاذَا (what) · مِينْ meen = مَنْ (who) · فِينْ feen = أَيْنَ (where) · مَرَّة marra = جِدًّا (very) · أَبْغَى abghaa = أُرِيدُ (I want — from Quranic ابْتَغَى, to seek) · أَشُوفْ ashoof = أَرَى (I see) · يَلَّا yalla = come on · جِيبْ jeeb = أَحْضِرْ (bring). The family restates for Imran in Fusha. عَمَّة ʿamma = father's sister; جَدّ jadd = grandfather, جَدَّة jadda = grandmother. نَهَار nahaar = daytime, the opposite of لَيْل lail (night) — a Quran pair."
+  - scene: "A small face pushes into the frame from the side, almost knocking the tablet over: Faisal, ten years old, in a white thobe."
+  - who: "faisal"
+    t: "عَمِّي خَالِدْ! مِينْ هَادَا؟"
+    tr: "ʿAmmee Khalid! Meen haada?"
+    en: "Uncle Khalid! Who's that?"
+    q: ["خالِد"]
+  - who: "khalid"
+    t: "هَذَا صَدِيقِي عِمْرَانُ. قُلْ لَهُ: السَّلَامُ عَلَيْكُمْ."
+    tr: "Haadhaa sadeeqee Imran. Qul lahu: Assalamu Alaikum."
+    en: "This is my friend Imran. Say Assalamu Alaikum to him."
+    q: ["ذا", "ى", "قالَ", "هُۥ", "سَلام", "عَلَى", "كُمْ"]
+  - who: "faisal"
+    t: "السَّلَامُ عَلَيْكُمْ! إِيشْ اسْمَكْ؟ إِنْتَ مِنْ فِينْ؟"
+    tr: "Assalamu Alaikum! Eesh ismak? Inta min feen?"
+    en: "Assalamu Alaikum! What's your name? Where are you from?"
+    q: ["سَلام", "عَلَى", "كُمْ", "اسْم", "مِن"]
+  - who: "abukhalid"
+    t: "يَا فَيْصَلُ، بِالْفُصْحَى! قُلْ: مَا اسْمُكَ؟ وَمِنْ أَيْنَ أَنْتَ؟"
+    tr: "Ya Faisal, bi-l-fushaa! Qul: maa smuka? Wa min aina anta?"
+    en: "Faisal, in Fusha! Say: 'Maa smuka? Wa min aina anta?'"
+    q: ["قالَ", "ما", "اسْم", "كَ", "مِن", "أَنتَ"]
+  - who: "imran"
+    t: "لَا بَأْسَ يَا عَمِّي، فَهِمْتُ. اسْمِي عِمْرَانُ، وَأَنَا مِنَ الْهِنْدِ، مِنْ مَدِينَةِ بَنْغَالُورُو."
+    tr: "Laa ba's ya ʿammee, fahimtu. Ismee Imran, wa ana mina l-Hind, min madeenati Bengaluru."
+    en: "It's fine, uncle, I understood. My name is Imran, and I'm from India, from the city of Bengaluru."
+    q: ["لا", "اسْم", "ى", "أَنَا۠", "مِن"]
+  - who: "faisal"
+    t: "الْهِنْدْ؟ مَرَّة بَعِيدْ!"
+    tr: "Al-Hind? Marra baʿeed!"
+    en: "India? That's really far!"
+    q: []
+  - who: "sara"
+    t: "يَقُولُ: الْهِنْدُ بَعِيدَةٌ جِدًّا. «مَرَّة» عِنْدَنَا فِي جُدَّةَ تَعْنِي: جِدًّا. وَأَنَا سَارَةُ، أُخْتُ خَالِدٍ. أَهْلًا بِكَ يَا عِمْرَانْ."
+    tr: "Yaqool: al-Hindu baʿeedatun jiddan. Marra ʿindanaa fee Jiddah taʿnee: jiddan. Wa ana Sarah, ukhtu Khalid. Ahlan bika ya Imran."
+    en: "He's saying India is very far. In Jeddah, 'marra' means 'very'. And I'm Sara, Khalid's sister. Welcome, Imran."
+    q: ["قالَ", "عِند", "نَا", "فِي", "أَنَا۠", "خالِد", "أَهْل", "كَ"]
+  - who: "imran"
+    t: "أَهْلًا يَا دُكْتُورَةُ. خَالِدٌ قَالَ لِي: أَنْتِ الَّتِي نَصَحْتِنِي بِاللِّقَاحِ. شُكْرًا جَزِيلًا."
+    tr: "Ahlan ya doktoorah. Khalid qaala lee: anti allatee nasahtinee bi-l-liqaah. Shukran jazeelaa."
+    en: "Hello, doctor. Khalid told me you were the one who advised me about the vaccine. Thank you very much."
+    q: ["أَهْل", "خالِد", "قالَ", "ى", "الَّذِي"]
+  - who: "sara"
+    t: "الْعَفْوُ. هَلْ أَخَذْتَهُ؟"
+    tr: "Al-ʿafw. Hal akhadhtah?"
+    en: "You're welcome. Did you get it?"
+    q: ["هَل", "أَخَذَ", "هُۥ"]
+  - who: "imran"
+    t: "نَعَمْ، أَخَذْتُهُ قَبْلَ ثَلَاثَةِ أَسَابِيعَ، وَالشَّهَادَةُ مَعِي."
+    tr: "Naʿam, akhadhtuhu qabla thalaathati asaabeeʿ, wa sh-shahaadatu maʿee."
+    en: "Yes, I got it three weeks ago, and I have the certificate."
+    q: ["نَعَم", "أَخَذَ", "هُۥ", "قَبْل", "مَع", "ى"]
+  - who: "sara"
+    t: "مُمْتَازٌ. وَفِي جُدَّةَ الْجَوُّ حَارٌّ فِي النَّهَارِ، فَاشْرَبِ الْمَاءَ كَثِيرًا."
+    tr: "Mumtaaz. Wa fee Jiddata l-jawwu haarrun fi n-nahaar, fa-shrabi l-maa'a katheeraa."
+    en: "Excellent. And in Jeddah it's hot in the daytime, so drink plenty of water."
+    q: ["فِي", "نَهار", "ماء", "كَثِير"]
+  - who: "imran"
+    t: "حَارٌّ فِي دِيسَمْبَرَ؟ هُنَا فِي زِيُورِخَ دَرَجَتَانِ فَقَطِ الْيَوْمْ!"
+    tr: "Haarrun fee December? Hunaa fee Zurich darajataani faqati l-yawm!"
+    en: "Hot in December? Here in Zurich it's only two degrees today!"
+    q: ["فِي", "يَوْم"]
+  - who: "sara"
+    t: "عِنْدَنَا الْيَوْمَ ثَلَاثُونَ. وَفِي اللَّيْلِ أَلْطَفُ، مِثْلَ الرَّبِيعِ عِنْدَكُمْ."
+    tr: "ʿIndanaa l-yawma thalaathoon. Wa fi l-laili altaf, mithla r-rabeeʿi ʿindakum."
+    en: "We have thirty today. And at night it's milder, like your spring."
+    q: ["عِند", "نَا", "يَوْم", "فِي", "لَيْل", "مِثْل", "كُمْ"]
+  - who: "imran"
+    t: "وَفِي بَنْغَالُورُو الْجَوُّ بَيْنَ الِاثْنَيْنِ: لَيْسَ حَارًّا وَلَيْسَ بَارِدًا."
+    tr: "Wa fee Bengaluru l-jawwu baina l-ithnain: laisa haarran wa laisa baaridaa."
+    en: "And in Bengaluru the weather is in between: not hot and not cold."
+    q: ["فِي", "بَيْن", "لَيْسَ"]
+  - who: "faisal"
+    t: "يَلَّا يَا عَمِّي، أَبْغَى أَشُوفْ سُوِيسْرَا! وَرِّينِي الثَّلْجْ!"
+    tr: "Yalla ya ʿammee, abghaa ashoof Swisra! Warreenee th-thalj!"
+    en: "Come on, uncle, I want to see Switzerland! Show me the snow!"
+    q: []
+  - who: "khalid"
+    t: "يَقُولُ: أُرِيدُ أَنْ أَرَى سُوِيسْرَا، أَرِنِي الثَّلْجَ. لَيْسَ هُنَا ثَلْجٌ الْيَوْمَ يَا فَيْصَلُ، فَقَطْ مَطَرْ."
+    tr: "Yaqool: ureedu an araa Swisra, arinee th-thalj. Laisa hunaa thaljun al-yawma ya Faisal, faqat matar."
+    en: "He's saying: I want to see Switzerland, show me the snow. There's no snow here today, Faisal, just rain."
+    q: ["قالَ", "أَرادَ", "أَن", "رَأَى", "أَرَيْ", "ى", "لَيْسَ", "يَوْم"]
+  - who: "imran"
+    t: "يَا فَيْصَلُ، كَمْ عُمْرُكَ؟"
+    tr: "Ya Faisal, kam ʿumruk?"
+    en: "Faisal, how old are you?"
+    q: ["كَ"]
+  - who: "faisal"
+    t: "عَشْرْ. وَإِنْتَ؟"
+    tr: "ʿAshr. W-inta?"
+    en: "Ten. And you?"
+    q: []
+  - who: "imran"
+    t: "عُمْرِي أَرْبَعٌ وَثَلَاثُونَ سَنَةً. أَنَا أَصْغَرُ مِنْ عَمِّكَ خَالِدٍ بِسَنَتَيْنِ."
+    tr: "ʿUmree arbaʿun wa thalaathoona sanah. Ana asgharu min ʿammika Khalid bi-sanatain."
+    en: "I'm thirty-four. Two years younger than your uncle Khalid."
+    q: ["ى","أَنَا۠", "مِن", "كَ", "خالِد"]
+  - who: "sara"
+    t: "فَيْصَلُ ابْنُ أَخِينَا الْكَبِيرِ. هُوَ يَأْتِي إِلَى بَيْتِ جَدِّهِ كُلَّ جُمُعَةْ."
+    tr: "Faisalu bnu akheena l-kabeer. Huwa ya'tee ilaa baiti jaddihi kulla jumuʿah."
+    en: "Faisal is our elder brother's son. He comes to his grandfather's house every Friday."
+    q: ["ابْن", "أَخ", "نَا", "كَبِير", "هُوَ", "أَتَى", "إِلَى", "بَيْت", "هِۦ", "كُلّ"]
+  - who: "imran"
+    t: "إِذَنْ: أَبُو خَالِدٍ هُوَ الْجَدُّ، وَأُمُّ خَالِدٍ هِيَ الْجَدَّةُ، وَأَنْتِ عَمَّتُهُ."
+    tr: "Idhan: Abu Khalid huwa l-jadd, wa Umm Khalid hiya l-jaddah, wa anti ʿammatuh."
+    en: "So: Abu Khalid is the grandfather, Umm Khalid is the grandmother, and you are his aunt."
+    q: ["إِذًا", "أَب", "خالِد", "هُوَ", "أُمّ", "هِىَ", "هُۥ"]
+  - who: "sara"
+    t: "أَحْسَنْتَ! وَأَنْتَ يَا عِمْرَانُ، أَيْنَ أَهْلُكَ؟"
+    tr: "Ahsanta! Wa anta ya Imran, aina ahluk?"
+    en: "Well done! And you, Imran, where is your family?"
+    q: ["أَنتَ", "أَهْل", "كَ"]
+  - who: "imran"
+    t: "أَبِي وَأُمِّي وَأُخْتِي فِي بَنْغَالُورُو. أَنَا وَحْدِي فِي زِيُورِخْ."
+    tr: "Abee wa ummee wa ukhtee fee Bengaluru. Ana wahdee fee Zurich."
+    en: "My father, my mother and my sister are in Bengaluru. I'm on my own in Zurich."
+    q: ["أَب", "ى", "أُمّ", "فِي", "أَنَا۠"]
+  - who: "ummkhalid"
+    t: "وَحْدَكَ؟ لَا. أَنْتَ الْآنَ وَلَدٌ مِنْ أَوْلَادِي."
+    tr: "Wahdak? Laa. Anta l-aana waladun min awlaadee."
+    en: "On your own? No. You're one of my children now."
+    q: ["كَ", "لا", "أَنتَ", "وَلَد", "مِن", "ى"]
+  - who: "imran"
+    t: "جَزَاكِ اللَّهُ خَيْرًا يَا خَالَةْ."
+    tr: "Jazaakillahu khairan ya khaalah."
+    en: "(moved) May Allah reward you, auntie."
+    q: ["جَزَى", "اللَّه", "خَيْر"]
+
+  - section: "🏠 The invitation"
+    learn: "Hospitality words: ضَيْف daif = guest · بَيْتُنَا بَيْتُكَ = our house is your house · تَفَضَّلْ tafaddal = please, come in / go ahead · فُنْدُق funduq = hotel (not a Quran word). خَيْر khair = good, goodness (178 times in the Quran). Hijazi: تِجِي tijee = تَأْتِي (you come) · خَلَاصْ khalaas = done, settled. ض = the heavy 'd' that gives Arabic its name 'the language of daad' — Urdu says 'z' (zaif); Saudis say daif."
+  - who: "abukhalid"
+    t: "يَا عِمْرَانُ، قَالَ لِي خَالِدٌ: سَتَبْقَى فِي جُدَّةَ ثَلَاثَ لَيَالٍ قَبْلَ مَكَّةَ. أَيْنَ سَتَنَامُ؟"
+    tr: "Ya Imran, qaala lee Khalid: satabqaa fee Jiddata thalaatha layaalin qabla Makkah. Aina satanaam?"
+    en: "Imran, Khalid told me you'll stay in Jeddah three nights before Makkah. Where will you sleep?"
+    q: ["قالَ", "ى", "خالِد", "فِي", "لَيْل", "قَبْل"]
+  - who: "imran"
+    t: "حَجَزْتُ فُنْدُقًا قَرِيبًا مِنَ الْكُورْنِيشِ، يَا عَمِّي…"
+    tr: "Hajaztu funduqan qareeban mina l-Corniche, ya ʿammee…"
+    en: "I've booked a hotel near the Corniche, uncle…"
+    q: ["مِن"]
+  - who: "abukhalid"
+    t: "فُنْدُقٌ؟! لَا وَاللَّهِ. بَيْتُنَا كَبِيرٌ، وَغُرْفَةُ خَالِدٍ تَنْتَظِرُكَ."
+    tr: "Funduq?! Laa wallaahi. Baitunaa kabeer, wa ghurfatu Khalidin tantaziruk."
+    en: "A hotel?! No, by Allah. Our house is big, and Khalid's room is waiting for you."
+    q: ["لا", "اللَّه", "بَيْت", "نَا", "كَبِير", "خالِد", "كَ"]
+  - who: "imran"
+    t: "يَا عَمِّي، لَا أُرِيدُ أَنْ أُتْعِبَكُمْ."
+    tr: "Ya ʿammee, laa ureedu an utʿibakum."
+    en: "Uncle, I don't want to be a burden to you."
+    q: ["لا", "أَرادَ", "أَن", "كُمْ"]
+  - who: "ummkhalid"
+    t: "تُتْعِبُنَا؟ الضَّيْفُ يَأْتِي، وَالْخَيْرُ يَأْتِي مَعَهُ يَا وَلَدِي."
+    tr: "Tutʿibunaa? Ad-daifu ya'tee, wa l-khairu ya'tee maʿahu ya waladee."
+    en: "A burden to us? When a guest comes, good comes with him, my son."
+    q: ["نَا", "أَتَى", "خَيْر", "مَع", "هُۥ", "وَلَد", "ى"]
+  - who: "sara"
+    t: "وَفِي الْفُنْدُقِ مَنْ يُعَلِّمُكَ الْعَرَبِيَّةَ؟ هُنَا أَبِي يُعَلِّمُكَ لَيْلًا وَنَهَارًا!"
+    tr: "Wa fi l-funduqi man yuʿallimuka l-ʿArabiyyah? Hunaa abee yuʿallimuka lailan wa nahaaraa!"
+    en: "And who'll teach you Arabic in a hotel? Here my father will teach you night and day!"
+    q: ["فِي", "مَن", "عَلَّمَ", "كَ", "أَب", "ى", "لَيْل", "نَهار"]
+  - who: "imran"
+    t: "إِذَنْ… أَقْبَلُ بِكُلِّ سُرُورٍ. سَأُلْغِي حَجْزَ الْفُنْدُقِ اللَّيْلَةْ."
+    tr: "Idhan… aqbalu bi-kulli suroor. Sa-ulghee hajza l-funduqi l-lailah."
+    en: "Then… I accept with great pleasure. I'll cancel the hotel booking tonight."
+    q: ["إِذًا", "كُلّ"]
+  - who: "faisal"
+    t: "يَلَّا! تِجِي يَوْمَ إِيشْ؟"
+    tr: "Yalla! Tijee yawm eesh?"
+    en: "Yay! What day are you coming?"
+    q: ["يَوْم"]
+  - who: "khalid"
+    t: "يَسْأَلُ: فِي أَيِّ يَوْمٍ تَأْتِي؟"
+    tr: "Yas'al: fee ayyi yawmin ta'tee?"
+    en: "He's asking: on which day do you come?"
+    q: ["سَأَلَ", "فِي", "أَيّ", "يَوْم", "أَتَى"]
+  - who: "imran"
+    t: "يَوْمَ الْخَمِيسِ، سَبْعَةَ عَشَرَ دِيسَمْبَرَ، فِي اللَّيْلِ. وَمَعِي شَيْءٌ لَكَ يَا فَيْصَلُ!"
+    tr: "Yawma l-Khamees, sabʿata ʿashara December, fi l-lail. Wa maʿee shai'un laka ya Faisal!"
+    en: "On Thursday the 17th of December, at night. And I've got something for you, Faisal!"
+    q: ["يَوْم", "فِي", "لَيْل", "مَع", "ى", "شَىْء", "كَ"]
+  - who: "faisal"
+    t: "خَلَاصْ! أَنَا أَجِي الْمَطَارْ!"
+    tr: "Khalaas! Ana ajee l-mataar!"
+    en: "Settled! I'm coming to the airport!"
+    q: ["أَنَا۠"]
+  - who: "khalid"
+    t: "لَا يَا فَيْصَلُ. الطَّائِرَةُ تَصِلُ مُتَأَخِّرَةً، وَسَتَكُونُ نَائِمًا. سَتَرَاهُ فِي الصَّبَاحْ."
+    tr: "Laa ya Faisal. At-taa'iratu tasilu muta'akhkhiratan, wa satakoonu naa'imaa. Sataraahu fi s-sabaah."
+    en: "No, Faisal. The plane lands late, and you'll be asleep. You'll see him in the morning."
+    q: ["لا", "كانَ", "رَأَى", "هُ", "فِي"]
+
+  - section: "📖 Abu Khalid's ayah — 49:13"
+    learn: "Words of 49:13: النَّاس an-naas = people · خَلَقَ khalaqa = He created · ذَكَر dhakar = male · أُنْثَى unthaa = female · شُعُوب shuʿoob = peoples, nations · قَبَائِل qabaa'il = tribes · لِتَعَارَفُوا li-taʿaarafoo = so that you know one another · أَكْرَم akram = most honoured · أَتْقَى atqaa = most God-conscious · عَلِيم ʿaleem = All-Knowing · خَبِير khabeer = All-Aware. ذ = 'dh' as in 'this' — Urdu says 'z' (zikr); Saudis say dhakar, dhikr. تَقْوَى taqwaa comes from وَقَى (to protect): a shield between you and what angers Allah."
+  - scene: "Abu Khalid takes off his reading glasses and leans towards the camera. The others fall quiet; even Faisal sits down."
+  - who: "abukhalid"
+    t: "يَا عِمْرَانُ، أَنْتَ مِنَ الْهِنْدِ، وَنَحْنُ مِنَ الْحِجَازِ. لُغَتُكَ غَيْرُ لُغَتِنَا، وَطَعَامُكَ غَيْرُ طَعَامِنَا."
+    tr: "Ya Imran, anta mina l-Hind, wa nahnu mina l-Hijaaz. Lughatuka ghairu lughatinaa, wa taʿaamuka ghairu taʿaaminaa."
+    en: "Imran, you are from India, and we are from the Hijaz. Your language is not our language, and your food is not our food."
+    q: ["أَنتَ", "مِن", "نَحْنُ", "كَ", "غَيْر", "نَا"]
+  - who: "abukhalid"
+    t: "لَكِنَّ اللَّهَ قَالَ كَلِمَةً جَمَعَتْنَا. اسْمَعْ."
+    tr: "Laakinna Allaha qaala kalimatan jamaʿatnaa. Ismaʿ."
+    en: "But Allah said a word that brings us together. Listen."
+    q: ["لٰكِنّ", "اللَّه", "قالَ", "كَلِمَة", "نَا", "سَمِعَ"]
+  - quran: { s: 49, a: 13 }
+    by: "abukhalid"
+    en: "O people, We created you from one male and one female, and made you into nations and tribes so that you would come to know one another. The most honoured of you in Allah's sight is the one most mindful of Him. Allah knows all and is aware of everything."
+  - who: "abukhalid"
+    t: "«يَا أَيُّهَا النَّاسُ»: الْكَلَامُ لِكُلِّ النَّاسِ، لَيْسَ لِلْعَرَبِ وَحْدَهُمْ."
+    tr: "Yaa ayyuha n-naas: al-kalaamu li-kulli n-naas, laisa li-l-ʿArabi wahdahum."
+    en: "'O people': the words are for all people, not for the Arabs alone."
+    q: ["أَيّ", "ناس", "كُلّ", "لَيْسَ", "هُمْ"]
+  - who: "abukhalid"
+    t: "«إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى»: كُلُّنَا مِنْ أَبٍ وَاحِدٍ وَأُمٍّ وَاحِدَةٍ، آدَمَ وَحَوَّاءْ."
+    tr: "Innaa khalaqnaakum min dhakarin wa unthaa: kullunaa min abin waahidin wa ummin waahidah, Aadama wa Hawwaa'."
+    en: "'We created you from a male and a female': all of us come from one father and one mother, Adam and Hawwa."
+    q: ["إِنّ", "نَا", "خَلَقَ", "كُمْ", "مِن", "كُلّ", "أَب", "واحِد", "أُمّ", "واحِدَة"]
+  - who: "imran"
+    t: "وَ«جَعَلْنَاكُمْ»… مِنْ «جَعَلَ»! دَرَسْنَاهُ أَنَا وَخَالِدٌ."
+    tr: "Wa jaʿalnaakum… min jaʿala! Darasnaahu ana wa Khalid."
+    en: "And 'jaʿalnaakum'… from 'jaʿala'! Khalid and I studied it."
+    q: ["جَعَلَ", "نَا", "كُمْ", "مِن", "هُ", "أَنَا۠", "خالِد"]
+  - who: "abukhalid"
+    t: "أَحْسَنْتَ. جَعَلَنَا اللَّهُ شُعُوبًا كَبِيرَةً، مِثْلَ الْهُنُودِ وَالْعَرَبِ، وَقَبَائِلَ أَصْغَرَ، مِثْلَ قَوْمِنَا: قَبِيلَةِ حَرْبْ."
+    tr: "Ahsanta. Jaʿalana Allahu shuʿooban kabeerah, mithla l-Hunoodi wa l-ʿArab, wa qabaa'ila asghar, mithla qawminaa: qabeelati Harb."
+    en: "Well done. Allah made us into big nations, like the Indians and the Arabs, and smaller tribes, like our own people: the tribe of Harb."
+    q: ["جَعَلَ", "نَا", "اللَّه", "كَبِير", "مِثْل", "قَوْم"]
+  - who: "abukhalid"
+    t: "لِمَاذَا؟ «لِتَعَارَفُوا»: لِيَعْرِفَ بَعْضُكُمْ بَعْضًا، لَا لِيَتَكَبَّرَ بَعْضُكُمْ عَلَى بَعْضْ."
+    tr: "Limaadhaa? Li-taʿaarafoo: li-yaʿrifa baʿdukum baʿdaa, laa li-yatakabbara baʿdukum ʿalaa baʿd."
+    en: "Why? 'So that you know one another': so that you get to know each other — not so that some of you look down on others."
+    q: ["ما", "ذا", "بَعْض", "كُمْ", "لا", "عَلَى"]
+  - who: "imran"
+    t: "مِثْلَ الْآنَ: هِنْدِيٌّ وَعَائِلَةٌ سُعُودِيَّةٌ يَتَعَارَفُونَ عَلَى الشَّاشَةْ."
+    tr: "Mithla l-aan: Hindiyyun wa ʿaa'ilatun Saʿoodiyyah yataʿaarafoona ʿala sh-shaashah."
+    en: "Like right now: an Indian and a Saudi family getting to know each other on a screen."
+    q: ["مِثْل", "عَلَى"]
+  - who: "abukhalid"
+    t: "بِالضَّبْطِ. ثُمَّ: «إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ». الْأَكْرَمُ لَيْسَ الْأَغْنَى، وَلَا صَاحِبَ أَكْبَرِ بَيْتٍ، وَلَا الْعَرَبِيَّ. الْأَكْرَمُ هُوَ الَّذِي يَتَّقِي اللَّهَ أَكْثَرْ."
+    tr: "Bi-d-dabt. Thumma: inna akramakum ʿinda Llaahi atqaakum. Al-akramu laisa l-aghnaa, wa laa saahiba akbari bait, wa la l-ʿArabiyy. Al-akramu huwa lladhee yattaqi Llaaha akthar."
+    en: "Exactly. Then: 'The most honoured of you with Allah is the most mindful of Him.' The most honoured isn't the richest, or the owner of the biggest house, or the Arab. The most honoured is the one most mindful of Allah."
+    q: ["ثُمّ", "إِنّ", "كُمْ", "عِند", "اللَّه", "لَيْسَ", "لا", "بَيْت", "هُوَ", "الَّذِي", "اتَّقَى", "أَكْثَر"]
+  - who: "imran"
+    t: "وَمَا مَعْنَى «يَتَّقِي» بِالضَّبْطِ؟"
+    tr: "Wa maa maʿnaa yattaqee bi-d-dabt?"
+    en: "And what exactly does 'yattaqee' mean?"
+    q: ["ما", "اتَّقَى"]
+  - who: "abukhalid"
+    t: "التَّقْوَى: أَنْ تَجْعَلَ بَيْنَكَ وَبَيْنَ عَذَابِ اللَّهِ وِقَايَةً. تَخَافُ اللَّهَ وَتُحِبُّهُ، فَتَعْمَلُ الْخَيْرَ وَتَتْرُكُ الشَّرّْ."
+    tr: "At-taqwaa: an tajʿala bainaka wa baina ʿadhaabi Llaahi wiqaayah. Takhaafu Llaaha wa tuhibbuh, fa-taʿmalu l-khaira wa tatruku sh-sharr."
+    en: "Taqwa: to put a shield between yourself and Allah's punishment. You fear Allah and you love Him, so you do good and leave evil."
+    q: ["أَن", "جَعَلَ", "بَيْن", "كَ", "عَذاب", "اللَّه", "خافَ", "أَحْبَبْ", "هُۥ", "عَمِلَ", "خَيْر", "تَرَكَ", "شَرّ"]
+  - who: "abukhalid"
+    t: "وَ«إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ»: يَعْلَمُ مَا فِي الْقُلُوبِ، لَا مَا عَلَى الْوُجُوهِ فَقَطْ."
+    tr: "Wa inna Llaaha ʿaleemun khabeer: yaʿlamu maa fi l-quloob, laa maa ʿala l-wujoohi faqat."
+    en: "And 'Allah is Knowing, Aware': He knows what is in the hearts, not only what is on the faces."
+    q: ["إِنّ", "اللَّه", "عَلِيم", "خَبِير", "عَلِمَ", "ما", "فِي", "قَلْب", "لا", "عَلَى", "وَجْه"]
+  - who: "imran"
+    t: "يَا عَمِّي… قَرَأْتُ هَذِهِ الْآيَةَ سِنِينَ طَوِيلَةً، وَلَمْ أَعْرِفْ هَذَا الْمَعْنَى."
+    tr: "Ya ʿammee… qara'tu haadhihi l-aayata sineena taweelah, wa lam aʿrif haadha l-maʿnaa."
+    en: "(quietly) Uncle… I recited this ayah for many years, and I never knew this meaning."
+    q: ["ذا", "آيَة", "لَم"]
+  - who: "abukhalid"
+    t: "الْحَمْدُ لِلَّهِ الَّذِي هَدَاكَ إِلَيْهِ الْآنَ. وَعِنْدَمَا تَأْتِي، أُعَلِّمُكَ كُلَّ لَيْلَةٍ آيَةً، وَتُعَلِّمُنِي أَنْتَ كَلِمَةً مِنْ لُغَتِكَ."
+    tr: "Alhamdu lillaahi lladhee hadaaka ilaihi l-aan. Wa ʿindamaa ta'tee, uʿallimuka kulla lailatin aayah, wa tuʿallimunee anta kalimatan min lughatik."
+    en: "Praise be to Allah who guided you to it now. And when you come, I'll teach you an ayah every night, and you'll teach me a word from your language."
+    q: ["حَمْد", "اللَّه", "الَّذِي", "هَدَى", "كَ", "إِلَى", "هِ", "أَتَى", "عَلَّمَ", "كُلّ", "آيَة", "ى", "أَنتَ", "كَلِمَة", "مِن"]
+  - who: "imran"
+    t: "بِكُلِّ سُرُورٍ يَا عَمِّي. أُعَلِّمُكَ الْأُرْدِيَّةَ… وَقَلِيلًا مِنَ الْكَنَّادِيَّةْ."
+    tr: "Bi-kulli suroorin ya ʿammee. Uʿallimuka l-Urdiyyah… wa qaleelan mina l-Kannaadiyyah."
+    en: "With great pleasure, uncle. I'll teach you Urdu… and a bit of Kannada."
+    q: ["كُلّ", "عَلَّمَ", "كَ", "قَلِيل", "مِن"]
+  - who: "ummkhalid"
+    t: "وَأَنَا أُرِيدُ أَنْ أَعْرِفَ: مَاذَا تُحِبُّ أَنْ تَأْكُلَ؟ قُلْ لِي الْآنْ!"
+    tr: "Wa ana ureedu an aʿrifa: maadhaa tuhibbu an ta'kul? Qul li l-aan!"
+    en: "And I want to know: what do you like to eat? Tell me now!"
+    q: ["أَنَا۠", "أَرادَ", "أَن", "ما", "ذا", "أَحْبَبْ", "أَكَلَ", "قالَ", "ى"]
+  - who: "imran"
+    t: "كُلُّ شَيْءٍ مِنْ يَدِكِ طَيِّبٌ يَا خَالَةُ، إِنْ شَاءَ اللَّهْ."
+    tr: "Kullu shai'in min yadiki tayyibun ya khaalah, Insha Allah."
+    en: "Everything from your hands is good, auntie, Insha Allah."
+    q: ["كُلّ", "شَىْء", "مِن", "يَد", "إِن", "شاءَ", "اللَّه"]
+  - who: "ummkhalid"
+    t: "وَلَدٌ ذَكِيٌّ! هُوَ يَعْرِفُ الطَّرِيقَ إِلَى قَلْبِ الْأُمّْ."
+    tr: "Waladun dhakiyy! Huwa yaʿrifu t-tareeqa ilaa qalbi l-umm."
+    en: "(laughing) A clever boy! He knows the way to a mother's heart."
+    q: ["وَلَد", "هُوَ", "إِلَى", "قَلْب", "أُمّ"]
+
+  - section: "👋 Goodbye until Jeddah"
+    learn: "Goodbyes: فِي أَمَانِ اللَّهِ fee amaanillah = in Allah's safekeeping (أَمَان — same root as آمَنَ and إِيمَان) · مَعَ السَّلَامَةِ maʿa s-salaamah. نَسِيَ nasiya = to forget · لَا تَنْسَ laa tansa = don't forget. Hijazi: جِيبْ مَعَاكْ jeeb maʿaak = أَحْضِرْ مَعَكَ (bring with you)."
+  - who: "abukhalid"
+    t: "فِي أَمَانِ اللَّهِ يَا وَلَدِي. نَنْتَظِرُكَ."
+    tr: "Fee amaanillahi ya waladee. Nantaziruk."
+    en: "In Allah's safekeeping, my son. We're waiting for you."
+    q: ["فِي", "اللَّه", "وَلَد", "ى", "كَ"]
+  - who: "sara"
+    t: "وَلَا تَنْسَ: الْمَاءَ، وَالنَّوْمَ الْجَيِّدَ قَبْلَ السَّفَرْ!"
+    tr: "Wa laa tansa: al-maa'a, wa n-nawma l-jayyida qabla s-safar!"
+    en: "And don't forget: water, and a good sleep before the journey!"
+    q: ["لا", "نَسِيَ", "ماء", "قَبْل"]
+  - who: "faisal"
+    t: "مَعَ السَّلَامَةْ! جِيبْ مَعَاكْ شُوكُولَاتَةْ!"
+    tr: "Maʿa s-salaamah! Jeeb maʿaak shokolaatah!"
+    en: "Bye! Bring chocolate with you!"
+    q: ["مَع", "سَلام"]
+  - who: "khalid"
+    t: "يَقُولُ: أَحْضِرْ مَعَكَ شُوكُولَاتَةً. يَا فَيْصَلُ، أَيْنَ الْأَدَبُ؟"
+    tr: "Yaqool: ahdir maʿaka shokolaatah. Ya Faisal, aina l-adab?"
+    en: "He's saying: bring chocolate with you. Faisal, where are your manners?"
+    q: ["قالَ", "مَع", "كَ"]
+  - who: "imran"
+    t: "هِيَ فِي الْحَقِيبَةِ مِنَ الْآنَ يَا فَيْصَلُ!"
+    tr: "Hiya fi l-haqeebati mina l-aana ya Faisal!"
+    en: "(laughing) It's already in the suitcase, Faisal!"
+    q: ["هِىَ", "فِي", "مِن"]
+  - scene: "The screen goes dark. Rain taps on Khalid's window. Imran sits for a moment without speaking, holding his cold tea."
+  - who: "imran"
+    t: "يَا خَالِدُ… أَهْلُكَ… لَا أَعْرِفُ مَاذَا أَقُولُ."
+    tr: "Ya Khalid… ahluk… laa aʿrifu maadhaa aqool."
+    en: "Khalid… your family… I don't know what to say."
+    q: ["خالِد", "أَهْل", "كَ", "لا", "ما", "ذا", "قالَ"]
+  - who: "khalid"
+    t: "لَا تَقُلْ شَيْئًا. قُلْ: الْحَمْدُ لِلَّهْ."
+    tr: "Laa taqul shai'aa. Qul: Alhamdulillah."
+    en: "Don't say anything. Just say: Alhamdulillah."
+    q: ["لا", "قالَ", "شَىْء", "حَمْد", "اللَّه"]
+  - who: "imran"
+    t: "الْحَمْدُ لِلَّهِ. ثَلَاثَةُ أَسَابِيعَ… ثُمَّ جُدَّةُ، ثُمَّ مَكَّةُ، إِنْ شَاءَ اللَّهْ."
+    tr: "Alhamdulillah. Thalaathatu asaabeeʿ… thumma Jiddah, thumma Makkah, Insha Allah."
+    en: "Alhamdulillah. Three weeks… then Jeddah, then Makkah, Insha Allah."
+    q: ["حَمْد", "اللَّه", "ثُمّ", "إِن", "شاءَ"]
