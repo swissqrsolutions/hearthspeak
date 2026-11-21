@@ -141,11 +141,28 @@
   // ---------- Per-line play / loop ----------
   let cur = store.get('pos:' + L.lang + L.num, 0);
   const lineEl = i => $(`.line[data-i="${i}"]`);
+  // ■ Stop: one big button in the bottom bar whenever something is playing; ▶ on a playing line also stops it
+  const stopBtn = $('#stop');
+  function updateStop() {
+    if (!stopBtn) return;
+    const busy = !player.paused || $$('button.loop.active').length > 0;
+    stopBtn.hidden = !busy;
+    $$('.line button.play').forEach(p => { p.textContent = p.closest('.line').classList.contains('playing') && busy ? '■' : '▶'; });
+  }
+  player.addEventListener('play', updateStop);
+  player.addEventListener('pause', () => setTimeout(updateStop, 60));
+  player.addEventListener('ended', () => setTimeout(updateStop, 60));
+  if (stopBtn) stopBtn.onclick = () => { stopAll(); updateStop(); };
+
   $$('button.play, button.chip').forEach(b => b.onclick = async () => {
+    const row = b.closest('.line');
+    if (row && row.classList.contains('playing')) { stopAll(); updateStop(); return; }
     stopAll();
-    const row = b.closest('.line'); if (row) { row.classList.add('playing'); cur = +row.dataset.i; store.set('pos:' + L.lang + L.num, cur); }
+    if (row) { row.classList.add('playing'); cur = +row.dataset.i; store.set('pos:' + L.lang + L.num, cur); }
+    updateStop();
     await play(b.dataset.src);
     if (row) row.classList.remove('playing');
+    updateStop();
   });
   $$('button.loop').forEach(b => b.onclick = async () => {
     const was = b.classList.contains('active');
@@ -164,6 +181,7 @@
     }
     b.textContent = '🔁';
     if (my === stopFlag) { b.classList.remove('active'); keepAwake(false); }
+    updateStop();
   });
 
   // ---------- Play all (+ lock-screen controls) ----------

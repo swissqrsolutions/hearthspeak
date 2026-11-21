@@ -120,6 +120,7 @@ ${L.next ? `<section class="card next">${md(L.next)}</section>` : ''}
 </main>
 
 <nav class="toolbar">
+  <button id="stop" class="stopbtn" hidden>■ Stop</button>
   <button id="reps" title="How many times 🔁 repeats a line">🔁 3×</button>
   <button id="speed" title="Playback speed">1.0×</button>
   <button id="tgEn" title="English: shown / tap to reveal / hidden">EN</button>

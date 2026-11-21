@@ -140,3 +140,7 @@ html{scroll-behavior:smooth}
 .w.on{background:#ffe066;color:#1d1a14;box-shadow:0 0 0 2px #ffe066}
 @media (prefers-color-scheme: dark){.w.on{background:#ffd43b;color:#1d1a14;box-shadow:0 0 0 2px #ffd43b}}
 .line.playing .who::after{content:" 🔊"}
+
+/* big Stop button: only visible while audio is playing */
+.toolbar .stopbtn{background:#c0392b;border-color:#c0392b;color:#fff;font-weight:700;min-width:100px}
+.toolbar .stopbtn[hidden]{display:none}
