@@ -55,22 +55,49 @@
   let wake = null;
   const keepAwake = async on => { try { if (on && !wake) wake = await navigator.wakeLock.request('screen'); if (!on && wake) { wake.release(); wake = null; } } catch {} };
 
+  // ---------- Karaoke: light up each word as the voice says it ----------
+  const srcIdx = {};
+  L.lines.forEach((l, i) => { if (l.audio) srcIdx[l.audio] = i; });
+  let raf = 0;
+  function clearWords() { cancelAnimationFrame(raf); document.querySelectorAll('.w.on').forEach(e => e.classList.remove('on')); }
+  function karaoke(li) {
+    clearWords();
+    const line = L.lines[li];
+    if (!line || !line.w || !line.w.length) return;
+    const spans = document.querySelectorAll('.line[data-i="' + li + '"] .w');
+    let lastK = -1;
+    const tick = () => {
+      const t = player.currentTime * 1000 + 60;           // small lead so the word lights as it starts
+      let k = -1;
+      for (let j = 0; j < line.w.length; j++) if (line.w[j] <= t) k = j; else break;
+      if (k !== lastK) { if (spans[lastK]) spans[lastK].classList.remove('on'); if (spans[k]) spans[k].classList.add('on'); lastK = k; }
+      if (!player.paused && !player.ended) raf = requestAnimationFrame(tick);
+    };
+    raf = requestAnimationFrame(tick);
+  }
+
   function play(src) {
     return new Promise(res => {
       if (!src) return res(0);
+      const epA = document.querySelector('.epaudio audio'); if (epA && !epA.paused) epA.pause();
       player.pause();
-      player.src = src;
+      const abs = new URL(src, location.href).href;
+      if (player.src === abs && player.readyState > 0) player.currentTime = 0;
+      else { player.src = src; player.load(); }
       player.playbackRate = rate;
       player.preservesPitch = true;
-      const done = () => { player.onended = player.onerror = null; res(player.duration || 1); };
+      const done = () => { player.onended = player.onerror = null; clearWords(); res(player.duration || 1); };
+      player.onplaying = () => { player.onplaying = null; if (srcIdx[src] !== undefined) karaoke(srcIdx[src]); };
       player.onended = done; player.onerror = done;
       player.play().catch(done);
     });
   }
   function stopAll() {
-    stopFlag++; player.pause(); keepAwake(false);
+    stopFlag++; player.pause(); keepAwake(false); clearWords();
     $$('.playing').forEach(e => e.classList.remove('playing'));
     $$('button.active').forEach(b => b.classList.remove('active'));
+    $$('button.loop').forEach(b => { b.textContent = '🔁'; });
+    if (typeof playingAll !== 'undefined' && playingAll) { playingAll = false; setTimeout(setPlayLabel, 0); }
   }
 
   // ---------- Toolbar ----------
@@ -97,11 +124,19 @@
   applySpeed();
   $('#speed').onclick = () => { rate = SPEEDS[(SPEEDS.indexOf(rate) + 1) % SPEEDS.length] || 1; store.set('rate', rate); player.playbackRate = rate; applySpeed(); };
 
+  // how many times the 🔁 button repeats a line
+  const REPS = [2, 3, 5];
+  let reps = store.get('reps', 3); if (!REPS.includes(reps)) reps = 3;
+  const repLabel = r => r ? r + '×' : '∞';
+  const applyReps = () => { const b = $('#reps'); if (b) { b.textContent = '🔁 ' + repLabel(reps); b.classList.toggle('on', reps !== 1); } };
+  applyReps();
+  if ($('#reps')) $('#reps').onclick = () => { reps = REPS[(REPS.indexOf(reps) + 1) % REPS.length]; store.set('reps', reps); applyReps(); toast(reps ? `🔁 Each line will repeat ${reps}×` : '🔁 Lines repeat until you tap 🔁 again'); };
+
   const GAPS = [0, 1, 1.5, 2], GAPL = { 0: 'off', 1: '1×', 1.5: '1.5×', 2: '2×' };
   let gap = store.get('gap', 0);
-  const applyGap = () => { $('#gap').textContent = `⏸ Pause: ${GAPL[gap]}`; $('#gap').classList.toggle('on', gap > 0); };
-  applyGap();
-  $('#gap').onclick = () => { gap = GAPS[(GAPS.indexOf(gap) + 1) % GAPS.length]; store.set('gap', gap); applyGap(); };
+  const applyGap = () => { if (!$('#gap')) return; $('#gap').textContent = `⏸ Pause: ${GAPL[gap]}`; $('#gap').classList.toggle('on', gap > 0); };
+  if ($('#gap')) applyGap();
+  if ($('#gap')) $('#gap').onclick = () => { gap = GAPS[(GAPS.indexOf(gap) + 1) % GAPS.length]; store.set('gap', gap); applyGap(); };
 
   // ---------- Per-line play / loop ----------
   let cur = store.get('pos:' + L.lang + L.num, 0);
@@ -117,41 +152,64 @@
     stopAll(); if (was) return;
     b.classList.add('active'); keepAwake(true);
     const my = stopFlag, i = +b.dataset.i, row = lineEl(i);
-    while (my === stopFlag) {
+    for (let k = 1; my === stopFlag && (reps === 0 || k <= reps); k++) {
+      b.textContent = reps ? `${k}/${reps}` : k;
       row.classList.add('playing');
       const d = await play(L.lines[i].audio);
       row.classList.remove('playing');
       if (my !== stopFlag) break;
       buzz(25);
+      if (reps && k >= reps) break;
       await sleep(Math.max(1500, d * 1000 * 1.3 / rate)); // your turn to shadow
     }
+    b.textContent = '🔁';
+    if (my === stopFlag) { b.classList.remove('active'); keepAwake(false); }
   });
 
   // ---------- Play all (+ lock-screen controls) ----------
   
+  // Play all: ⏸ Pause stops mid-conversation, ▶ Resume continues from that exact line (remembered across visits)
+  const pbtn = $('#playAll') || document.createElement('button');
+  let playingAll = false;
+  function setPlayLabel() {
+    if (playingAll) { pbtn.textContent = '⏸ Pause'; pbtn.classList.add('active'); return; }
+    pbtn.classList.remove('active');
+    pbtn.textContent = cur > 0 ? `▶ Resume · line ${cur + 1}` : '▶ Play all';
+  }
   async function playFrom(start) {
-    stopAll(); const b = $('#playAll'); b.classList.add('active'); b.textContent = '■ Stop'; keepAwake(true);
+    stopAll(); playingAll = true; setPlayLabel(); keepAwake(true);
     const my = stopFlag;
     for (cur = start; cur < L.lines.length && my === stopFlag; cur++) {
       store.set('pos:' + L.lang + L.num, cur);
       const row = lineEl(cur); row.classList.add('playing'); row.scrollIntoView({ block: 'center', behavior: 'smooth' });
       const d = await play(L.lines[cur].audio); row.classList.remove('playing');
-      if (my !== stopFlag) return;
+      if (my !== stopFlag) return;                       // paused: cur stays on this line
       if (gap) { buzz(25); await sleep(d * 1000 * gap / rate + 600); } else await sleep(450);
     }
-    if (my === stopFlag) { cur = 0; store.set('pos:' + L.lang + L.num, 0); b.classList.remove('active'); b.textContent = '▶ Play all'; keepAwake(false); }
+    if (my === stopFlag) { cur = 0; store.set('pos:' + L.lang + L.num, 0); playingAll = false; setPlayLabel(); keepAwake(false); }
   }
-  $('#playAll').onclick = () => {
-    if ($('#playAll').classList.contains('active')) { stopAll(); $('#playAll').textContent = '▶ Play all'; return; }
-    playFrom(cur >= L.lines.length - 1 ? 0 : cur);
-  };
-  if ('mediaSession' in navigator) {
-    try {
-      navigator.mediaSession.metadata = new MediaMetadata({ title: document.title, artist: 'Hearthspeak' });
-      navigator.mediaSession.setActionHandler('nexttrack', () => playFrom(Math.min(cur + 1, L.lines.length - 1)));
-      navigator.mediaSession.setActionHandler('previoustrack', () => playFrom(Math.max(cur - 1, 0)));
-      navigator.mediaSession.setActionHandler('seekbackward', () => { player.currentTime = Math.max(0, player.currentTime - 5); });
-    } catch {}
+  function pauseAll() { if (!playingAll) return; playingAll = false; stopAll(); setPlayLabel(); toast(`⏸ Paused at line ${cur + 1}. Tap ▶ Resume to continue.`); }
+  function resumeAll() { if (playingAll) return; playFrom(cur >= L.lines.length ? 0 : cur); }
+  pbtn.onclick = () => (playingAll ? pauseAll() : resumeAll());
+  setPlayLabel();
+
+  // Whole-lesson player: pause anywhere, it resumes from the same spot next time
+  const ep = document.querySelector('.epaudio audio');
+  if (ep) {
+    const k = 'ep:' + L.lang + L.num;
+    const saved = store.get(k, 0);
+    if (saved > 5) {
+      const note = document.createElement('div'); note.className = 'small';
+      note.textContent = '⏯ Continues from ' + Math.floor(saved / 60) + ':' + String(Math.floor(saved % 60)).padStart(2, '0');
+      ep.after(note);
+      ep.preload = 'metadata';
+      ep.addEventListener('loadedmetadata', () => { if (ep.currentTime < 1) ep.currentTime = saved; }, { once: true });
+    }
+    let last = 0;
+    ep.addEventListener('timeupdate', () => { if (Math.abs(ep.currentTime - last) > 3) { last = ep.currentTime; store.set(k, ep.currentTime); } });
+    ep.addEventListener('pause', () => store.set(k, ep.currentTime));
+    ep.addEventListener('ended', () => store.set(k, 0));
+    ep.addEventListener('play', () => { stopAll(); });   // stop any single-line audio
   }
 
   // ---------- Recording helper ----------

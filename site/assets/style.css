@@ -125,3 +125,18 @@ button[data-src=""]{opacity:.35}
 .toclist .tocch:first-child{margin-top:0}
 .toclist .tocch a{color:var(--accent)}
 html{scroll-behavior:smooth}
+
+/* make the Kannada text the star of each line */
+.tgt .script{font-weight:600;color:var(--ink)}
+.tgt .script{padding:1px 4px;margin-left:-4px;border-radius:6px;box-decoration-break:clone;-webkit-box-decoration-break:clone;transition:background .2s}
+.en .natural{color:var(--muted)}
+.tgt .script{display:inline}
+.tgt .tr{display:block}
+
+/* karaoke word highlight (only the word being spoken) */
+.line.playing{background:transparent}
+.line[data-who="sam"].playing{background:var(--sam)}
+.w{border-radius:5px;padding:0 1px;transition:background .08s,color .08s}
+.w.on{background:#ffe066;color:#1d1a14;box-shadow:0 0 0 2px #ffe066}
+@media (prefers-color-scheme: dark){.w.on{background:#ffd43b;color:#1d1a14;box-shadow:0 0 0 2px #ffd43b}}
+.line.playing .who::after{content:" 🔊"}

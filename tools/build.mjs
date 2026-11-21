@@ -29,6 +29,8 @@ function buildLesson(langKey, file) {
   const dir = meta.dir;
 
   const spoken = [];
+  const wjson = path.join(outDir, 'audio', 'words.json');
+  const wordTimes = fs.existsSync(wjson) ? JSON.parse(fs.readFileSync(wjson, 'utf8')) : {};
   let html = '';
   const toc = [];
   let secNo = 0;
@@ -49,13 +51,24 @@ function buildLesson(langKey, file) {
     if (item.scene) { html += `<div class="scenecap">🎬 ${md(item.scene)}</div>`; continue; }
     const i = spoken.length;
     const src = a(`line-${i + 1}.mp3`);
-    spoken.push({ who: item.who, en: item.en, audio: src });
+    // word-by-word karaoke: wrap each spoken word (from the TTS word timings) in a span
+    const wb = (wordTimes[i + 1] || []);
+    let scriptHtml = '', cursor = 0, times = [];
+    for (const [s, e, w] of wb) {
+      const at = item.t.indexOf(w, cursor);
+      if (at < 0) continue;
+      scriptHtml += esc(item.t.slice(cursor, at)) + `<span class="w" data-k="${times.length}">${esc(w)}</span>`;
+      times.push(s);
+      cursor = at + w.length;
+    }
+    scriptHtml += esc(item.t.slice(cursor));
+    spoken.push({ who: item.who, en: item.en, audio: src, w: times });
     const sp = L.speakers[item.who];
     html += `
     <div class="line" data-i="${i}" data-who="${esc(item.who)}">
       <div class="tgt" dir="${dir}">
         <span class="who c-${esc(item.who)}">${esc(sp.name)}</span>
-        <div class="script">${esc(item.t)}</div>
+        <div class="script">${scriptHtml}</div>
         <div class="tr">${esc(item.tr)}</div>
       </div>
       <div class="en"><div class="natural">${esc(item.en)}</div>${item.lit ? `<div class="lit">lit. ${esc(item.lit)}</div>` : ''}</div>
@@ -107,8 +120,7 @@ ${L.next ? `<section class="card next">${md(L.next)}</section>` : ''}
 </main>
 
 <nav class="toolbar">
-  <button id="playAll" class="main">▶ Play all</button>
-  <button id="gap" title="Pause after each line so you can repeat it">⏸ Pause: off</button>
+  <button id="reps" title="How many times 🔁 repeats a line">🔁 3×</button>
   <button id="speed" title="Playback speed">1.0×</button>
   <button id="tgEn" title="English: shown / tap to reveal / hidden">EN</button>
   <button id="tgTr" class="toggle on" title="Latin transliteration">Aa</button>

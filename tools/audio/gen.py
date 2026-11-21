@@ -9,7 +9,7 @@ voice / pitch / speed from the YAML `speakers` block.
 Outputs -> site/<lang>/<num>/audio/line-N.mp3  (one per spoken line)
            site/<lang>/<num>/audio/episode.mp3 (whole story, scene captions in English)
 """
-import sys, asyncio, hashlib, pathlib, io
+import sys, asyncio, hashlib, pathlib, io, json
 import numpy as np, yaml, soundfile as sf, lameenc, edge_tts
 
 SR = 24000
@@ -18,18 +18,30 @@ CACHE = pathlib.Path(__file__).resolve().parent / ".cache"
 CACHE.mkdir(exist_ok=True)
 NARRATOR = dict(voice="en-GB-RyanNeural", pitch="+0Hz", rate="-8%")
 
-async def tts(text, voice, pitch="+0Hz", rate="+0%"):
-    """Return MP3 bytes, cached by content."""
+async def tts(text, voice, pitch="+0Hz", rate="+0%", words=False):
+    """Return MP3 bytes (and, with words=True, word timings [[start_ms, end_ms, word], ...]), cached."""
     key = hashlib.sha1(f"{voice}|{pitch}|{rate}|{text}".encode()).hexdigest()[:16]
-    p = CACHE / f"{key}.mp3"
-    if not p.exists():
-        for attempt in range(4):
+    p, pj = CACHE / f"{key}.mp3", CACHE / f"{key}.words.json"
+    if not p.exists() or (words and not pj.exists()):
+        for attempt in range(6):
             try:
-                await edge_tts.Communicate(text, voice, rate=rate, pitch=pitch).save(str(p))
+                audio, wb = bytearray(), []
+                comm = edge_tts.Communicate(text, voice, rate=rate, pitch=pitch, boundary="WordBoundary")
+                async for ch in comm.stream():
+                    if ch["type"] == "audio":
+                        audio += ch["data"]
+                    elif ch["type"] == "WordBoundary":
+                        s = ch["offset"] / 10000
+                        wb.append([round(s), round(s + ch["duration"] / 10000), ch["text"]])
+                if not audio:
+                    raise RuntimeError("no audio")
+                p.write_bytes(bytes(audio))
+                pj.write_text(json.dumps(wb, ensure_ascii=False), encoding="utf8")
                 break
             except Exception as e:
-                print("  retry", attempt + 1, e); await asyncio.sleep(2 + attempt * 3)
-    return p.read_bytes()
+                print("  retry", attempt + 1, type(e).__name__); await asyncio.sleep(3 + attempt * 5)
+    data = p.read_bytes()
+    return (data, json.loads(pj.read_text(encoding="utf8"))) if words else data
 
 def decode(mp3):
     wav, sr = sf.read(io.BytesIO(mp3), dtype="float32")
@@ -56,9 +68,19 @@ async def main(yaml_path):
     for old in out.glob("*.mp3"): old.unlink()
     S = L["speakers"]
 
+    # warm the cache in parallel (6 at a time) so the sequential pass below is fast
+    sem = asyncio.Semaphore(6)
+    async def warm(item):
+        async with sem:
+            s = S[item["who"]]
+            await tts(item["t"], s["voice"], s.get("pitch", "+0Hz"), s.get("rate", "+0%"), words=True)
+    await asyncio.gather(*(warm(it) for it in L["lines"] if "who" in it))
+    print("cache warm", flush=True)
+
     episode = [decode(await tts(f"Episode {L['num']}. {L['title']['en']}.", **NARRATOR)), silence(1.0)]
     n = 0
     sec = 0
+    timings = {}
     for item in L["lines"]:
         if "chapter" in item:
             episode += [silence(1.5), decode(await tts(clean(item["chapter"]), **NARRATOR)), silence(1.2)]
@@ -75,13 +97,15 @@ async def main(yaml_path):
             continue
         n += 1
         s = S[item["who"]]
-        mp3 = await tts(item["t"], s["voice"], s.get("pitch", "+0Hz"), s.get("rate", "+0%"))
+        mp3, wb = await tts(item["t"], s["voice"], s.get("pitch", "+0Hz"), s.get("rate", "+0%"), words=True)
         wav = decode(mp3)
         encode(wav, out / f"line-{n}.mp3")
+        timings[n] = wb
         episode += [wav, silence(0.75)]
-        print(f"line {n:2d} {item['who']}")
+        print(f"line {n:2d} {item['who']} {len(wb)} words")
     ep = np.concatenate(episode)
     encode(ep, out / "episode.mp3")
+    (out / "words.json").write_text(json.dumps(timings, ensure_ascii=False), encoding="utf8")
     print(f"episode: {len(ep)/SR/60:.1f} min, {n} lines")
 
 if __name__ == "__main__":
