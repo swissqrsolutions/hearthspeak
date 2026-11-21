@@ -247,6 +247,72 @@
     ep.addEventListener('play', () => { stopAll(); });   // stop any single-line audio
   }
 
+  // ---------- Pagination: 10 dialogue lines per page ----------
+  (() => {
+    const box = document.querySelector('.listen');
+    if (!box) return;
+    const PER = 10;
+    const kids = [...box.children];
+    let count = 0, pending = [];
+    for (const el of kids) {
+      if (el.classList.contains('line')) {
+        const pg = Math.floor(count / PER); count++;
+        for (const h of pending) h.dataset.page = pg;
+        pending = []; el.dataset.page = pg;
+      } else pending.push(el);
+    }
+    const pages = Math.max(1, Math.ceil(count / PER));
+    for (const h of pending) h.dataset.page = pages - 1;
+    // first scene title on each page, for the picker
+    const label = pg => {
+      const sec = kids.find(e => +e.dataset.page === pg && e.classList.contains('section'));
+      const from = pg * PER + 1, to = Math.min(count, from + PER - 1);
+      return `Page ${pg + 1} of ${pages} · lines ${from}–${to}` + (sec ? ' · ' + sec.querySelector('h3').textContent.replace(/^\d+/, '').trim() : '');
+    };
+    const mk = () => {
+      const n = document.createElement('div'); n.className = 'pager';
+      n.innerHTML = `<button class="pprev" aria-label="Previous page">◀</button>
+        <select class="psel" aria-label="Choose page">${Array.from({ length: pages }, (_, i) => `<option value="${i}">${label(i)}</option>`).join('')}</select>
+        <button class="pnext" aria-label="Next page">▶</button>`;
+      return n;
+    };
+    const top = mk(), bottom = mk();
+    box.before(top); box.after(bottom);
+    const key = 'page:' + L.lang + L.num;
+    let page = Math.min(store.get(key, 0), pages - 1);
+    function show(p, scroll) {
+      page = Math.max(0, Math.min(pages - 1, p)); store.set(key, page);
+      for (const el of kids) el.hidden = +el.dataset.page !== page;
+      for (const pg of [top, bottom]) {
+        pg.querySelector('.psel').value = page;
+        pg.querySelector('.pprev').disabled = page === 0;
+        pg.querySelector('.pnext').disabled = page === pages - 1;
+      }
+      if (scroll) top.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+    for (const pg of [top, bottom]) {
+      pg.querySelector('.pprev').onclick = () => { stopAll(); show(page - 1, true); };
+      pg.querySelector('.pnext').onclick = () => { stopAll(); show(page + 1, true); };
+      pg.querySelector('.psel').onchange = e => { stopAll(); show(+e.target.value, true); };
+    }
+    // Contents links: open the right page, then jump to the scene
+    document.querySelectorAll('.toclist a').forEach(a => a.addEventListener('click', e => {
+      const target = document.querySelector(a.getAttribute('href'));
+      if (!target) return;
+      e.preventDefault(); stopAll(); show(+target.dataset.page);
+      requestAnimationFrame(() => target.scrollIntoView({ behavior: 'smooth', block: 'start' }));
+    }));
+    // swipe left / right on the dialogue to change page
+    let sx = 0, sy = 0;
+    box.addEventListener('touchstart', e => { sx = e.touches[0].clientX; sy = e.touches[0].clientY; }, { passive: true });
+    box.addEventListener('touchend', e => {
+      const dx = e.changedTouches[0].clientX - sx, dy = e.changedTouches[0].clientY - sy;
+      if (Math.abs(dx) > 70 && Math.abs(dx) > Math.abs(dy) * 1.5) { stopAll(); show(page + (dx < 0 ? 1 : -1), true); }
+    }, { passive: true });
+    const h = location.hash && document.querySelector(location.hash);
+    show(h && h.dataset.page ? +h.dataset.page : page);
+  })();
+
   // ---------- Recording helper ----------
   async function record(onStop) {
     const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
