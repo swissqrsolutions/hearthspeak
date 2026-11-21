@@ -131,12 +131,7 @@ function buildLesson(langKey, file) {
 </header>
 <!--NAV-->
 <main>
-<section class="hero">
-  <h1 dir="${dir}"><span class="script">${esc(L.title.t)}</span></h1>
-  <div class="sub">${esc(L.title.tr)} — ${esc(L.title.en)}</div>
-  <details class="about"><summary>About this lesson and its characters</summary><p class="scene">${md(L.intro)}</p><div class="cast">${cast}</div></details>
-  ${ep ? `<div class="epaudio"><span class="small">Whole lesson · keeps playing with the screen off</span><audio controls preload="none" src="${ep}"></audio></div>` : ''}
-</section>
+<h1 class="crumb">Lesson ${L.num} · ${esc(L.title.en)} <span class="script" dir="${dir}">${esc(L.title.t)}</span></h1>
 
 
 
@@ -155,7 +150,8 @@ ${L.next ? `<section class="card next">${md(L.next)}</section>` : ''}
 <script>window.LESSON = ${JSON.stringify({ lang: langKey, num: L.num, speakers: L.speakers, lines: spoken })};</script>
 <script src="../../assets/app.js"></script>
 </body></html>`;
-  return { langKey, num: L.num, title: L.title, level: L.level, toc, page, out: path.join(outDir, 'index.html') };
+  const extra = `<div class="navextra">${ep ? `<div class="epaudio"><div class="small">Whole lesson (plays with the screen off)</div><audio controls preload="none" src="${ep}"></audio></div>` : ''}<details class="about"><summary>About this lesson and its characters</summary><p class="scene">${md(L.intro)}</p><div class="cast">${cast}</div></details></div>`;
+  return { langKey, num: L.num, title: L.title, level: L.level, toc, page, extra, out: path.join(outDir, 'index.html') };
 }
 
 // ---- build all
@@ -185,7 +181,7 @@ function navFor(cur) {
           ? `<button class="navch" type="button">${esc(g.ch.chapter.replace(/^Chapter \d+ — /, ''))}<span class="navcount">${g.secs.length}</span></button>` : ''}
           <ol class="navsecs">${g.secs.map(t => `<li><a href="#${t.id}"><span class="secno">${t.n}</span>${esc(noEmoji(t.section))}</a></li>`).join('')}</ol></li>`).join('')}</ol>`;
       }
-      return `<li class="${here ? 'here' : ''}"><a class="navlesson" data-key="${k}-${x.num}" href="../../${k}/${pad(x.num)}/index.html"><b>${x.num}</b> <span>${esc(x.title.en)}</span></a>${toc}</li>`;
+      return `<li class="${here ? 'here' : ''}"><a class="navlesson" data-key="${k}-${x.num}" href="../../${k}/${pad(x.num)}/index.html"><b>${x.num}</b> <span>${esc(x.title.en)}</span></a>${here ? x.extra : ''}${toc}</li>`;
     }).join('');
     return `<div class="navcourse">${esc(m.name)} <span class="script" dir="${m.dir}">${esc(m.native)}</span></div>
       ${ls.length ? `<ol class="navlessons">${items}</ol>` : '<div class="navsoon">Coming soon</div>'}`;
