@@ -1,9 +1,12 @@
 // Service worker: pages/css/js are network-first (updates arrive), audio is cache-first; all work offline.
 // Handles HTTP Range requests so audio seeking/scrubbing works from the offline cache.
-const CACHE = 'lw-v1';
+const CACHE = 'hs-v2';
 const isAudio = u => u.split('?')[0].endsWith('.mp3');
 self.addEventListener('install', () => self.skipWaiting());
-self.addEventListener('activate', e => e.waitUntil(self.clients.claim()));
+self.addEventListener('activate', e => e.waitUntil((async () => {
+  for (const k of await caches.keys()) if (k !== CACHE) await caches.delete(k);   // drop old versions
+  await self.clients.claim();
+})()));
 
 async function rangeResponse(res, range) {
   const buf = await res.arrayBuffer();
@@ -30,7 +33,7 @@ self.addEventListener('fetch', e => {
   e.respondWith((async () => {
     const c = await caches.open(CACHE);
     const url = req.url.split('#')[0];
-    let hit = await c.match(url, { ignoreSearch: true });
+    let hit = await c.match(url, { ignoreSearch: !isAudio(url) });   // audio URLs carry ?v=version
     if (!isAudio(url)) {            // pages, css, js: network first so updates arrive, cache as fallback
       try { const res = await fetch(url, { cache: 'no-cache' }); if (res.ok) { await c.put(url, res.clone()); return res; } } catch {}
       if (hit) return hit;

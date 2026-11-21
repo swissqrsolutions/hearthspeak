@@ -31,7 +31,7 @@
       msg.textContent = 'Downloading…';
       try {
         const files = await (await fetch('files.json', { cache: 'no-store' })).json();
-        const c = await caches.open('lw-v1');
+        const c = await caches.open('hs-v2');
         let n = 0;
         for (const f of files) { await c.add(f).catch(() => {}); msg.textContent = `Saved ${++n}/${files.length}`; }
         msg.textContent = `✓ Saved ${files.length} files. Works without internet now.`;

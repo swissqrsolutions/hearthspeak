@@ -25,7 +25,7 @@ function buildLesson(langKey, file) {
   const meta = LANGS[langKey];
   const outDir = path.join(SITE, langKey, pad(L.num));
   fs.mkdirSync(outDir, { recursive: true });
-  const a = n => (fs.existsSync(path.join(outDir, 'audio', n)) ? `audio/${n}` : null);
+  const a = n => { const p = path.join(outDir, 'audio', n); return fs.existsSync(p) ? `audio/${n}?v=${Math.round(fs.statSync(p).mtimeMs / 1000).toString(36)}` : null; };
   const dir = meta.dir;
 
   const spoken = [];
