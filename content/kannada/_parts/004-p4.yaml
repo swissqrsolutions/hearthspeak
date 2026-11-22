@@ -1,0 +1,895 @@
+lines:
+  - chapter: "Chapter 8 — Wages and the apps"
+  - section: "Nine hundred and ninety-three rupees"
+    learn: "a price shock: ondē sala … jāsti, ērike, hosa rēṭ · monthly sums: tingaḷige … āgutte · keeping promises: bāki tīrisu, mātu koṭṭante, ondu tingaḷu muñchenē · a gift from Assam: Assām ṭī, Bihu"
+  - scene: "Friday, 1 May 2026, 6 a.m. The gas has been flowing normally since mid-April and the induction units have gone back. Ashok's auto stops by the iron cage with four cylinders. Dev, back from Assam, is wiping the counter; Amma has just arrived with the chutney."
+  - who: gas
+    t: "ಮಹೇಶ್ ಅವರೇ, ಮಾರ್ಚ್ ಕೊನೆಯಲ್ಲಿ ನಾನು ಹೇಳಿದ್ದು ನೆನಪಿದೆಯಾ? ಇವತ್ತಿಂದ ಕಮರ್ಷಿಯಲ್ ಸಿಲಿಂಡರ್ ಒಂದಕ್ಕೆ ಒಂಬೈನೂರ ತೊಂಬತ್ಮೂರು ರೂಪಾಯಿ ಜಾಸ್ತಿ. ಒಂದೇ ಸಲ. ಬಿಲ್ ನೋಡಿ."
+    tr: "Mahēś avarē, Mārch koneyalli nānu hēḷiddu nenapideyā? Ivattinda kamarṣiyal silinḍar ondakke ombainūra tombatmūru rūpāyi jāsti. Ondē sala. Bil nōḍi."
+    en: "Mahesh, remember what I told you at the end of March? From today a commercial cylinder costs nine hundred and ninety-three rupees more. In one go. Look at the bill."
+  - who: mahesh
+    t: "ಒಂಬೈನೂರ ತೊಂಬತ್ಮೂರು? ಅಂದ್ರೆ ಸುಮಾರು ಸಾವಿರ. ನಾವು ತಿಂಗಳಿಗೆ ನಲವತ್ತೈದು ಸಿಲಿಂಡರ್ ಉರಿಸ್ತೀವಿ. ಅಂದ್ರೆ ತಿಂಗಳಿಗೆ ನಲವತ್ತೈದು ಸಾವಿರ ಜಾಸ್ತಿ ಖರ್ಚು. ಇಡ್ಲಿ ರೇಟ್ ಮಾತ್ರ ಅದೇ ನಲವತ್ತು."
+    tr: "Ombainūra tombatmūru? Andre sumāru sāvira. Nāvu tingaḷige nalavattaidu silinḍar uristīvi. Andre tingaḷige nalavattaidu sāvira jāsti kharchu. Iḍli rēṭ mātra adē nalavattu."
+    en: "Nine hundred and ninety-three? That's nearly a thousand. We burn forty-five cylinders a month. So forty-five thousand more in costs every month. And the idli is still the same forty."
+  - who: gas
+    t: "ಗೊತ್ತು. ನನ್ನ ಎಲ್ಲಾ ಹೋಟೆಲ್ ಗಿರಾಕಿಗಳೂ ಇವತ್ತು ಇದೇ ಲೆಕ್ಕ ಮಾಡ್ತಿದ್ದಾರೆ. ಈ ರೇಟ್ ಪ್ರತಿ ತಿಂಗಳು ಒಂದನೇ ತಾರೀಖು ಬದಲಾಗುತ್ತೆ. ಮುಂದೆ ಇಳಿದ್ರೂ ಇಳೀಬಹುದು. ಆದ್ರೆ ನಾನಂತೂ ಕಾಯ್ಕೊಂಡು ಕೂರಲ್ಲ."
+    tr: "Gottu. Nanna ellā hōṭel girākigaḷū ivattu idē lekka māḍtiddāre. Ī rēṭ prati tingaḷu ondanē tārīkhu badalāgutte. Munde iḷidrū iḷībahudu. Ādre nānantū kāykoṇḍu kūralla."
+    en: "I know. All my hotel customers are doing the same sum today. This rate changes on the first of every month. It may come down later. But I wouldn't sit around waiting for it."
+  - who: mahesh
+    t: "ಸಿಲಿಂಡರ್ ಇಳಿಸಿ ಅಶೋಕ್. ಗ್ಯಾಸ್ ಇಲ್ಲದ ದಿನಕ್ಕಿಂತ ದುಬಾರಿ ಗ್ಯಾಸ್ ವಾಸಿ. ಮಾರ್ಚ್ ತಿಂಗಳು ಅದನ್ನ ಕಲಿಸಿದೆ."
+    tr: "Silinḍar iḷisi Aśōk. Gyās illada dinakkinta dubāri gyās vāsi. Mārch tingaḷu adanna kaliside."
+    en: "Unload the cylinders, Ashok. Expensive gas is better than days without gas. March taught us that."
+  - who: dev
+    t: "ಅಮ್ಮ, ಇದು ನಿಮಗೆ. ಅಸ್ಸಾಂ ಟೀ, ಎರಡು ಕೆಜಿ. ನಮ್ಮ ಊರಿನ ತೋಟದ್ದು. ನನ್ನ ಅಮ್ಮ ಕಳಿಸಿದ್ದು. ‘ಮಗನಿಗೆ ಕೆಲಸ ಕೊಟ್ಟ ಮನೆಗೆ’ ಅಂತ ಹೇಳಿದ್ರು."
+    tr: "Amma, idu nimage. Assām ṭī, eraḍu keji. Namma ūrina tōṭaddu. Nanna amma kaḷisiddu. ‘Maganige kelasa koṭṭa manege’ anta hēḷidru."
+    en: "Amma, this is for you. Assam tea, two kilos. From a garden in my village. My mother sent it. She said, ‘For the house that gave my son work.’"
+  - who: amma
+    t: "ಅಯ್ಯೋ, ಎರಡು ಕೆಜಿ! ನಿನ್ನ ಅಮ್ಮನಿಗೆ ನನ್ನ ನಮಸ್ಕಾರ ಹೇಳು. ಮುಂದಿನ ಸಲ ಹೋಗುವಾಗ ನನ್ನ ಕೈಯ ಚಟ್ನಿಪುಡಿ ತಗೊಂಡು ಹೋಗು. ಬಿಹು ಹೇಗಿತ್ತು?"
+    tr: "Ayyō, eraḍu keji! Ninna ammanige nanna namaskāra hēḷu. Mundina sala hōguvāga nanna kaiya chaṭnipuḍi tagoṇḍu hōgu. Bihu hēgittu?"
+    en: "Oh my, two kilos! Give your mother my namaskara. Next time you go, take some chutney powder made by my own hands. How was Bihu?"
+  - who: dev
+    t: "ತುಂಬಾ ಚೆನ್ನಾಗಿತ್ತು. ಆದ್ರೆ ಒಂದು ತಮಾಷೆ. ನನ್ನ ತಂಗಿ ‘ನೀನು ಕನಸಲ್ಲೂ ಕನ್ನಡ ಮಾತಾಡ್ತೀಯ’ ಅಂದ್ಲು. ರಾತ್ರಿ ನಿದ್ದೆಯಲ್ಲಿ ‘ಟೋಕನ್ ನಲವತ್ತೆರಡು, ದೋಸೆ ರೆಡಿ!’ ಅಂತ ಕೂಗಿದ್ನಂತೆ."
+    tr: "Tumbā chennāgittu. Ādre ondu tamāṣe. Nanna taṅgi ‘nīnu kanasallū Kannaḍa mātāḍtīya’ andlu. Rātri niddeyalli ‘ṭōkan nalavatteraḍu, dōse reḍi!’ anta kūgidnante."
+    en: "It was lovely. But one funny thing. My sister said, ‘You speak Kannada even in your dreams.’ Apparently I shouted in my sleep, ‘Token forty-two, dosa ready!’"
+  - scene: "In the kitchen, Basavaraj is pouring dosas on the griddle under Shankara's eye. Mahesh hands Shankara an envelope."
+  - who: mahesh
+    t: "ಶಂಕರಣ್ಣ, ಇದು ನಿಮ್ಮ ಹತ್ತು ಸಾವಿರ. ಮೇ ಸಂಬಳದ ಜೊತೆ ಅಂತ ಹೇಳಿದ್ದೆ, ಒಂದು ತಿಂಗಳು ಮುಂಚೆನೇ ಕೊಡ್ತಿದೀನಿ. ಮತ್ತೆ ಏಪ್ರಿಲ್‌ನಲ್ಲಿ ದಿನದ ಸರಾಸರಿ ಕಲೆಕ್ಷನ್ ಇಪ್ಪತ್ತೊಂದು ಸಾವಿರ ದಾಟಿದೆ. ಮಾತು ಕೊಟ್ಟಂತೆ, ಈ ತಿಂಗಳಿಂದ ನಿಮ್ಮ ಸಂಬಳ ಮೂವತ್ತೈದು."
+    tr: "Śaṅkaraṇṇa, idu nimma hattu sāvira. Mē sambaḷada jote anta hēḷidde, ondu tingaḷu muñchenē koḍtidīni. Matte Ēpril-nalli dinada sarāsari kalekṣan ippattondu sāvira dāṭide. Mātu koṭṭante, ī tingaḷinda nimma sambaḷa mūvattaidu."
+    en: "Shankara-anna, here's your ten thousand. I said with May's salary; I'm giving it a month early. And in April the average daily takings crossed twenty-one thousand. As promised, from this month your salary is thirty-five."
+  - who: cook
+    t: "ಮಾತು ಉಳಿಸಿಕೊಳ್ಳೋ ಯಜಮಾನ ಸಿಗೋದು ಅಪರೂಪ, ಮಾರಾಯ್ರೆ. ಆದ್ರೆ ನನ್ನ ಸಂಬಳ ಏರಿದ್ರೆ ಸಾಲದು. ಈ ಹುಡುಗರು ಹದಿನಾಲ್ಕು-ಹದಿನೈದು ಸಾವಿರದಲ್ಲಿ ಬೆಂಗಳೂರಲ್ಲಿ ಹೇಗೆ ಬದುಕ್ತಾರೆ? ಅದನ್ನೂ ಯೋಚನೆ ಮಾಡಿ."
+    tr: "Mātu uḷisikoḷḷō yajamāna sigōdu aparūpa, mārāyre. Ādre nanna sambaḷa ēridre sāladu. Ī huḍugaru hadinālku-hadinaidu sāviradalli Beṅgaḷūralli hēge baduktāre? Adannū yōchane māḍi."
+    en: "An employer who keeps his word is rare, my friend. But my salary going up isn't enough. How do these boys live in Bengaluru on fourteen or fifteen thousand? Think about that too."
+  - who: mahesh
+    t: "ಯೋಚನೆ ಮಾಡ್ತಿದೀನಿ. ಸರ್ಕಾರನೂ ಮಾಡ್ತಿದೆಯಂತೆ. ಕನಿಷ್ಠ ವೇತನದ ಹೊಸ ಆದೇಶ ಈ ತಿಂಗಳೇ ಬರಬಹುದು ಅಂತ ಕಾವ್ಯ ಹೇಳ್ತಿದ್ದಾಳೆ. ಅಂದಹಾಗೆ, ಬಸವರಾಜನ ದೋಸೆ ಹೇಗಿದೆ?"
+    tr: "Yōchane māḍtidīni. Sarkāranū māḍtideyante. Kaniṣṭha vētanada hosa ādēśa ī tingaḷē barabahudu anta Kāvya hēḷtiddāḷe. Andahāge, Basavarājana dōse hēgide?"
+    en: "I am thinking about it. So is the government, apparently. Kavya says the new minimum-wage order may come this very month. By the way, how are Basavaraj's dosas?"
+  - who: cook
+    t: "ಹತ್ತರಲ್ಲಿ ಏಳು ಗರಿಗರಿ. ಉಳಿದ ಮೂರು ಅವನೇ ತಿಂತಾನೆ. ಇನ್ನೊಂದು ತಿಂಗಳಲ್ಲಿ ಹತ್ತಕ್ಕೆ ಹತ್ತು."
+    tr: "Hattaralli ēḷu garigari. Uḷida mūru avanē tintāne. Innondu tingaḷalli hattakke hattu."
+    en: "Seven out of ten come out crisp. He eats the other three himself. Another month and it'll be ten out of ten."
+  - who: helper
+    t: "ಹಂಗ ಹೇಳಬ್ಯಾಡ್ರಿ ಭಟ್ರೆ! ನಿನ್ನೆ ಎಂಟು ಆಗಿತ್ತು. ಸಾಹೇಬ್ರ, ನಿಮ್ಮ ದೋಸೆ ನಾನೇ ಹಾಕ್ತೀನಿ, ತಿಂದು ನೋಡ್ರಿ."
+    tr: "Haṅga hēḷabyāḍri Bhaṭre! Ninne eṇṭu āgittu. Sāhēbra, nimma dōse nānē hāktīni, tindu nōḍri."
+    en: "Don't say it like that, Bhattre! Yesterday it was eight. Sir, I'll make your dosa myself; taste it and see."
+
+  - section: "The order of 22 May"
+    learn: "reading an order: ādēśa, kaniṣṭha vētana, valaya (zone), akuśala / arekuśala / ati kuśala · reported speech and hedging: … ante, kōrṭ-nalli arjigaḷu hōgive, sṭē bandrū barabahudu, tīrpu barōvarege · arrears: hindina tingaḷugaḷa bāki"
+  - scene: "Tuesday, 26 May, 10:30 p.m. At home. Kavya has the government notification open on her laptop. Nitin is on speaker; Amma is folding clothes."
+  - who: kavya
+    t: "ಬಂತು. ಇಪ್ಪತ್ತೆರಡನೇ ತಾರೀಖಿನ ಆದೇಶ. ಎಂಬತ್ತೊಂದು ಉದ್ಯೋಗಗಳಿಗೆ ಹೊಸ ಕನಿಷ್ಠ ವೇತನ. ಸರಾಸರಿ ಸುಮಾರು ಅರವತ್ತು ಪರ್ಸೆಂಟ್ ಏರಿಕೆ. ಹೋಟೆಲ್‌ಗಳೂ ಅದರಲ್ಲಿ ಸೇರಿವೆ."
+    tr: "Bantu. Ippatteraḍanē tārīkhina ādēśa. Embattondu udyōgagaḷige hosa kaniṣṭha vētana. Sarāsari sumāru aravattu parsenṭ ērike. Hōṭel-gaḷū adaralli sērive."
+    en: "It's here. The order dated the twenty-second. New minimum wages for eighty-one kinds of employment. On average, a rise of about sixty percent. Hotels are included."
+  - who: mahesh
+    t: "ಅರವತ್ತು ಪರ್ಸೆಂಟ್? ನಮ್ಮ ಹುಡುಗರಿಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ? ನೇರವಾಗಿ ಹೇಳು."
+    tr: "Aravattu parsenṭ? Namma huḍugarige eṣṭu āgutte? Nēravāgi hēḷu."
+    en: "Sixty percent? What does it come to for our boys? Tell me straight."
+  - who: kavya
+    t: "ಗ್ರೇಟರ್ ಬೆಂಗಳೂರು ವಲಯ. ಅಕುಶಲ, ಅಂದ್ರೆ ಅನ್‌ಸ್ಕಿಲ್ಡ್ ಕೆಲಸಗಾರರಿಗೆ ತಿಂಗಳಿಗೆ ಇಪ್ಪತ್ಮೂರು ಸಾವಿರದ ಮುನ್ನೂರ ಎಪ್ಪತ್ತಾರು. ಅತಿ ಕುಶಲ, ಹೆಡ್ ಕುಕ್ ಥರದವರಿಗೆ ಮೂವತ್ತೊಂದು ಸಾವಿರದ ನೂರ ಹದಿನಾಲ್ಕರವರೆಗೆ. ಶಂಕರಣ್ಣ ಈಗಾಗ್ಲೇ ಮೂವತ್ತೈದು, ಅವರ ಚಿಂತೆ ಇಲ್ಲ."
+    tr: "Grēṭar Beṅgaḷūru valaya. Akuśala, andre an-skilḍ kelasagārarige tingaḷige ippatmūru sāvirada munnūra eppattāru. Ati kuśala, heḍ kuk tharadavarige mūvattondu sāvirada nūra hadinālkaravarege. Śaṅkaraṇṇa īgāglē mūvattaidu, avara chinte illa."
+    en: "Greater Bengaluru zone. For unskilled workers, twenty-three thousand three hundred and seventy-six a month. For the highly skilled, people like a head cook, up to thirty-one thousand one hundred and fourteen. Shankara-anna is already on thirty-five, so no worry there."
+  - who: mahesh
+    t: "ಬಸವರಾಜ ಹದಿನೈದು, ದೇವ್ ಹದಿನಾಲ್ಕು, ಲತಾ ಹದಿನಾರು. ಮೂವರೂ ಇಪ್ಪತ್ಮೂರೂವರೆ ಹತ್ರ ಹೋಗಬೇಕು. ಅಂದ್ರೆ… ತಿಂಗಳಿಗೆ ಸುಮಾರು ಇಪ್ಪತ್ತೈದು ಸಾವಿರ ಜಾಸ್ತಿ."
+    tr: "Basavarāja hadinaidu, Dēv hadinālku, Latā hadināru. Mūvarū ippatmūrūvare hatra hōgabēku. Andre… tingaḷige sumāru ippattaidu sāvira jāsti."
+    en: "Basavaraj is on fifteen, Dev fourteen, Latha sixteen. All three have to go to about twenty-three and a half. That means… roughly twenty-five thousand more a month."
+  - who: kavya
+    t: "ಕನಿಷ್ಠ ಅಷ್ಟು. ಲತಾ ಕ್ಯಾಶಿಯರ್, ಅವಳ ಕೆಲಸ ಅರೆಕುಶಲ ವರ್ಗಕ್ಕೆ ಬರಬಹುದು, ಆಗ ಇನ್ನೂ ಸ್ವಲ್ಪ ಜಾಸ್ತಿ. ಭಟ್ ಸಾರ್‌ನ ಕೇಳ್ತೀನಿ. ಗ್ಯಾಸಿನ ನಲವತ್ತೈದು ಸೇರಿಸಿದ್ರೆ, ಪ್ರತಿ ತಿಂಗಳು ಎಪ್ಪತ್ತು ಸಾವಿರಕ್ಕಿಂತ ಜಾಸ್ತಿ ಹೊಸ ಖರ್ಚು."
+    tr: "Kaniṣṭha aṣṭu. Latā kyāśiyar, avaḷa kelasa arekuśala vargakke barabahudu, āga innū svalpa jāsti. Bhaṭ sār-na kēḷtīni. Gyāsina nalavattaidu sērisidre, prati tingaḷu eppattu sāvirakkinta jāsti hosa kharchu."
+    en: "At least that much. Latha is a cashier; her job may fall in the semi-skilled category, and then it's a bit more. I'll ask Mr. Bhat. Add the gas's forty-five and that's more than seventy thousand in new costs every month."
+  - who: nitin
+    t: "ಒಂದು ನಿಮಿಷ. ನಮ್ಮ ಆಫೀಸ್ ಗ್ರೂಪ್‌ನಲ್ಲಿ ಒಬ್ಬ ಲಾಯರ್ ಫ್ರೆಂಡ್ ಹೇಳ್ತಿದ್ದ: ಈ ಆದೇಶದ ವಿರುದ್ಧ ಕೋರ್ಟ್‌ನಲ್ಲಿ ಅರ್ಜಿಗಳು ಹೋಗಿವೆಯಂತೆ. ಸ್ಟೇ ಬಂದ್ರೂ ಬರಬಹುದು. ಸ್ವಲ್ಪ ಕಾದು ನೋಡೋಣವಾ?"
+    tr: "Ondu nimiṣa. Namma āphīs grūp-nalli obba lāyar phreṇḍ hēḷtidda: ī ādēśada viruddha kōrṭ-nalli arjigaḷu hōgiveyante. Sṭē bandrū barabahudu. Svalpa kādu nōḍōṇavā?"
+    en: "One minute. A lawyer friend in our office group was saying that petitions have gone to court against this order. A stay might even come. Shall we wait and see a bit?"
+  - who: kavya
+    t: "ಹೋಟೆಲ್ ಅಸೋಸಿಯೇಷನ್ ಹೋಟೆಲ್‌ಗಳಿಗೆ ಬೇರೆ ದರ ಬೇಕು ಅಂತ ಕೇಳಿತ್ತು, ಸರ್ಕಾರ ಒಪ್ಪಲಿಲ್ಲ. ಕೋರ್ಟ್‌ನಲ್ಲಿ ಏನಾಗುತ್ತೋ ಯಾರಿಗೂ ಗೊತ್ತಿಲ್ಲ. ಆದ್ರೆ ತೀರ್ಪು ಬರೋವರೆಗೆ ಆದೇಶ ಆದೇಶವೇ. ಕಾದು, ಆಮೇಲೆ ಹಿಂದಿನ ತಿಂಗಳುಗಳ ಬಾಕಿ ಒಟ್ಟಿಗೆ ಕೊಡಬೇಕಾದ್ರೆ? ಅದು ಇನ್ನೂ ಕಷ್ಟ."
+    tr: "Hōṭel asōsiyēṣan hōṭel-gaḷige bēre dara bēku anta kēḷittu, sarkāra oppalilla. Kōrṭ-nalli ēnāguttō yārigū gottilla. Ādre tīrpu barōvarege ādēśa ādēśavē. Kādu, āmēle hindina tingaḷugaḷa bāki oṭṭige koḍabēkādre? Adu innū kaṣṭa."
+    en: "The hotel association asked for a separate rate for hotels, and the government refused. Nobody knows what will happen in court. But until there's a verdict, an order is an order. What if we wait and then have to pay all the past months' arrears at once? That's even harder."
+  - who: nitin
+    t: "ಬೇರೆ ಹೋಟೆಲ್‌ನವರು ಏನು ಮಾಡ್ತಿದ್ದಾರೆ ಗೊತ್ತಾ? ಕೆಲವರು ಸ್ಟಾಫ್ ಕಮ್ಮಿ ಮಾಡ್ತೀವಿ ಅಂತಿದ್ದಾರೆ. ಕೆಲವರು ‘ಊಟ-ರೂಮ್ ಖರ್ಚು ಸಂಬಳದಲ್ಲೇ ಕಳೀತೀವಿ’ ಅಂತಿದ್ದಾರೆ."
+    tr: "Bēre hōṭel-navaru ēnu māḍtiddāre gottā? Kelavaru sṭāf kammi māḍtīvi antiddāre. Kelavaru ‘ūṭa-rūm kharchu sambaḷadallē kaḷītīvi’ antiddāre."
+    en: "Do you know what other hotels are doing? Some say they'll cut staff. Some say they'll deduct food and lodging from the wages."
+  - who: mahesh
+    t: "ಕಾನೂನು ಒಂದು ಕಡೆ. ಇನ್ನೊಂದು ಕಡೆ ನಿಜ: ಬಸವರಾಜನ ತಂಗಿಯ ಕಾಲೇಜ್ ಫೀಸ್, ದೇವ್ ಊರಿಗೆ ಕಳಿಸೋ ದುಡ್ಡು. ಹದಿನಾಲ್ಕು ಸಾವಿರದಲ್ಲಿ ಬೆಂಗಳೂರಲ್ಲಿ ಬದುಕೋಕಾಗಲ್ಲ ಅಂತ ಶಂಕರಣ್ಣ ಹೇಳಿದ್ದು ಸರಿ. ಜೂನ್‌ನಿಂದ ಹೊಸ ಸಂಬಳ. ಕೋರ್ಟ್ ಏನೇ ಹೇಳಲಿ."
+    tr: "Kānūnu ondu kaḍe. Innondu kaḍe nija: Basavarājana taṅgiya kālēj phīs, Dēv ūrige kaḷisō duḍḍu. Hadinālku sāviradalli Beṅgaḷūralli badukōkāgalla anta Śaṅkaraṇṇa hēḷiddu sari. Jūn-ninda hosa sambaḷa. Kōrṭ ēnē hēḷali."
+    en: "The law is one side. On the other side is the truth: Basavaraj's sister's college fees, the money Dev sends home. Shankara-anna is right that nobody can live in Bengaluru on fourteen thousand. New salaries from June. Whatever the court says."
+  - who: nitin
+    t: "ಸರಿ, ಆದ್ರೆ ದುಡ್ಡು ಎಲ್ಲಿಂದ? ನ್ಯೂಸ್‌ನಲ್ಲಿ ಹೋಟೆಲ್‌ನವರು ‘ಅರವತ್ತು ಪರ್ಸೆಂಟ್ ರೇಟ್ ಏರಿಸ್ತೀವಿ, ಇಡ್ಲಿ ಎಂಬತ್ತು, ಮಸಾಲೆ ದೋಸೆ ನೂರೈವತ್ತು’ ಅಂತಿದ್ದಾರೆ."
+    tr: "Sari, ādre duḍḍu ellinda? Nyūs-nalli hōṭel-navaru ‘aravattu parsenṭ rēṭ ēristīvi, iḍli embattu, masāle dōse nūraivattu’ antiddāre."
+    en: "Fine, but where does the money come from? On the news, hoteliers are saying, ‘We'll raise prices by sixty percent: idli eighty, masala dose a hundred and fifty.’"
+  - who: amma
+    t: "ನೂರೈವತ್ತು ರೂಪಾಯಿಗೆ ಒಂದು ದೋಸೆ? ಆ ದುಡ್ಡಿಗೆ ನಮ್ಮ ಕಾಲದಲ್ಲಿ ಒಂದು ತಿಂಗಳ ತರಕಾರಿ ಬರ್ತಿತ್ತು."
+    tr: "Nūraivattu rūpāyige ondu dōse? Ā duḍḍige namma kāladalli ondu tingaḷa tarakāri bartittu."
+    en: "A hundred and fifty rupees for one dosa? In my day that money bought a month's vegetables."
+  - who: kavya
+    t: "ಅದಕ್ಕೇ ಭಾನುವಾರ ರಾತ್ರಿ ಎರಡು ಮೀಟಿಂಗ್. ಮೊದಲು ಸ್ಟಾಫ್ ಜೊತೆ, ಆಮೇಲೆ ರೇಟ್ ಬಗ್ಗೆ. ನಾನು ಮೂರು ಆಯ್ಕೆ ರೆಡಿ ಮಾಡ್ತೀನಿ."
+    tr: "Adakkē bhānuvāra rātri eraḍu mīṭiṅg. Modalu sṭāf jote, āmēle rēṭ bagge. Nānu mūru āyke reḍi māḍtīni."
+    en: "That's why there are two meetings on Sunday night. First with the staff, then about prices. I'll get three options ready."
+
+  - section: "Mr. Bhat on the new wages"
+    learn: "professional advice: vargakke bartāre, adhisūchane, nikhara aṅki, surakṣitavāgiru · compliance: apāyiṇṭmenṭ leṭar, sambaḷada slip, byāṅk mūlaka pāvati, nōṭis hāki · hedged legal talk: … sādhya irabahudu, ādre …, nānu innū ōdilla"
+  - scene: "Thursday, 28 May, 1:30 p.m. Kavya's lunch break at the CA firm. She knocks on Mr. Bhat's cabin; Mahesh is on speakerphone."
+  - who: kavya
+    t: "ಸಾರ್, ಎರಡು ನಿಮಿಷ. ಹೊಸ ಕನಿಷ್ಠ ವೇತನದ ಆದೇಶ. ನಮ್ಮ ಕ್ಯಾಶಿಯರ್ ಲತಾ ಯಾವ ವರ್ಗಕ್ಕೆ ಬರ್ತಾಳೆ? ಅವಳು ಬಿಲ್ಲಿಂಗ್ ಮಷೀನ್, ಯುಪಿಐ, ಕ್ಯಾಶ್ ಲೆಕ್ಕ ಎಲ್ಲಾ ನೋಡ್ಕೋತಾಳೆ."
+    tr: "Sār, eraḍu nimiṣa. Hosa kaniṣṭha vētanada ādēśa. Namma kyāśiyar Latā yāva vargakke bartāḷe? Avaḷu billiṅg maśīn, yu-pi-ai, kyāś lekka ellā nōḍkōtāḷe."
+    en: "Sir, two minutes. The new minimum-wage order. Which category does our cashier Latha fall into? She handles the billing machine, UPI, the cash accounts, everything."
+  - who: ca
+    t: "ಅವಳ ಕೆಲಸ ನೋಡಿದ್ರೆ ಅರೆಕುಶಲ ಅನ್ನಿಸುತ್ತೆ. ಆ ವರ್ಗದ ದರ ಅಕುಶಲಕ್ಕಿಂತ ಸ್ವಲ್ಪ ಜಾಸ್ತಿ. ಅಧಿಸೂಚನೆಯ ಟೇಬಲ್ ನೋಡಿ ನಿಖರ ಅಂಕಿ ಕಳಿಸ್ತೀನಿ. ಸಂದೇಹ ಇದ್ದಾಗ ಮೇಲಕ್ಕೆ ರೌಂಡ್ ಮಾಡಿ. ಕಮ್ಮಿ ಕೊಟ್ರೆ ನೋಟಿಸ್ ಬರುತ್ತೆ, ಸ್ವಲ್ಪ ಜಾಸ್ತಿ ಕೊಟ್ರೆ ಯಾರೂ ನೋಟಿಸ್ ಕೊಡಲ್ಲ."
+    tr: "Avaḷa kelasa nōḍidre arekuśala annisutte. Ā vargada dara akuśalakkinta svalpa jāsti. Adhisūchaneya ṭēbal nōḍi nikhara aṅki kaḷistīni. Sandēha iddāga mēlakke rauṇḍ māḍi. Kammi koṭre nōṭis barutte, svalpa jāsti koṭre yārū nōṭis koḍalla."
+    en: "From her work, I'd say semi-skilled. That category's rate is a little above unskilled. I'll check the table in the notification and send you the exact figure. When in doubt, round up. Pay less and you get a notice; pay a little more and nobody sends you one."
+  - who: mahesh
+    t: "ಸಾರ್, ಬೇರೆ ಹೋಟೆಲ್‌ನವರು ಊಟ-ರೂಮ್ ಖರ್ಚನ್ನ ಸಂಬಳದಲ್ಲೇ ಕಳೀತೀವಿ ಅಂತಿದ್ದಾರೆ. ಅದು ಸರೀನಾ?"
+    tr: "Sār, bēre hōṭel-navaru ūṭa-rūm kharchanna sambaḷadallē kaḷītīvi antiddāre. Adu sarīnā?"
+    en: "Sir, other hotels say they'll deduct the cost of food and lodging from the wages. Is that right?"
+  - who: ca
+    t: "ಕೆಲವು ಸೌಲಭ್ಯಗಳ ಮೌಲ್ಯವನ್ನ ನಿಯಮದ ಪ್ರಕಾರ ಮಾತ್ರ ಲೆಕ್ಕಕ್ಕೆ ತಗೋಬಹುದು. ಅದಕ್ಕೆ ಮಿತಿ ಇದೆ, ಲಿಖಿತ ಒಪ್ಪಂದ ಬೇಕು. ಹೊಸ ಆದೇಶದಲ್ಲಿ ಅದರ ವಿವರ ನಾನು ಇನ್ನೂ ಪೂರ್ತಿ ಓದಿಲ್ಲ. ನನ್ನ ಸಲಹೆ: ಮಾಡಬೇಡಿ. ತಿಂಗಳ ಕೊನೆಗೆ ಅದೇ ಜಗಳಕ್ಕೆ ಕಾರಣ ಆಗುತ್ತೆ."
+    tr: "Kelavu saulabhyagaḷa maulyavanna niyamada prakāra mātra lekkakke tagōbahudu. Adakke miti ide, likhita oppanda bēku. Hosa ādēśadalli adara vivara nānu innū pūrti ōdilla. Nanna salahe: māḍabēḍi. Tingaḷa konege adē jagaḷakke kāraṇa āgutte."
+    en: "The value of certain benefits can be counted only as the rules allow. There are limits, and you need a written agreement. I haven't fully read those details in the new order yet. My advice: don't. At the end of the month, that's exactly what starts fights."
+  - who: mahesh
+    t: "ಮಾಡಲ್ಲ ಸಾರ್. ಅದನ್ನ ಮೊದಲೇ ನಿರ್ಧರಿಸಿದೀನಿ."
+    tr: "Māḍalla sār. Adanna modalē nirdharisidīni."
+    en: "I won't, sir. I'd already decided that."
+  - who: ca
+    t: "ಒಳ್ಳೇದು. ಇನ್ನೊಂದು: ಹೊಸ ಲೇಬರ್ ಕೋಡ್‌ಗಳು ಬಂದಮೇಲೆ ಕಾಗದ ಮುಖ್ಯ. ಪ್ರತಿ ಕೆಲಸಗಾರನಿಗೆ ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್ ಲೆಟರ್, ಪ್ರತಿ ತಿಂಗಳು ಸಂಬಳದ ಸ್ಲಿಪ್, ಸಂಬಳ ಬ್ಯಾಂಕ್ ಮೂಲಕ ಮಾತ್ರ. ಕನಿಷ್ಠ ವೇತನದ ನೋಟಿಸ್ ಅಂಗಡಿಯಲ್ಲಿ ಎಲ್ಲರಿಗೂ ಕಾಣೋ ಹಾಗೆ ಹಾಕಿ."
+    tr: "Oḷḷēdu. Innondu: hosa lēbar kōḍ-gaḷu bandamēle kāgada mukhya. Prati kelasagāranige apāyiṇṭmenṭ leṭar, prati tingaḷu sambaḷada slip, sambaḷa byāṅk mūlaka mātra. Kaniṣṭha vētanada nōṭis aṅgaḍiyalli ellarigū kāṇō hāge hāki."
+    en: "Good. One more thing: since the new labour codes came in, paperwork matters. An appointment letter for every worker, a pay slip every month, wages through the bank only. Put up the minimum-wage notice in the shop where everyone can see it."
+  - who: kavya
+    t: "ಸಾರ್, ಕೋರ್ಟ್‌ನಲ್ಲಿ ಸ್ಟೇ ಬಂದ್ರೆ? ಆಗ ಏರಿಸಿದ ಸಂಬಳ ಏನು ಮಾಡೋದು?"
+    tr: "Sār, kōrṭ-nalli sṭē bandre? Āga ērisida sambaḷa ēnu māḍōdu?"
+    en: "Sir, what if the court grants a stay? What do we do about the raised wages then?"
+  - who: ca
+    t: "ಸ್ಟೇ ಬಂದ್ರೆ ಕಾನೂನಿನ ಪ್ರಕಾರ ಇಳಿಸೋದು ಸಾಧ್ಯ ಇರಬಹುದು. ಆದ್ರೆ ಕೆಲಸಗಾರರ ಮನಸ್ಸಿನ ಪ್ರಕಾರ ಸಾಧ್ಯ ಇಲ್ಲ. ಒಮ್ಮೆ ಏರಿದ ಸಂಬಳ ಇಳಿಸಿದ್ರೆ ಒಳ್ಳೆ ಹುಡುಗರು ಹೋಗ್ತಾರೆ. ಅದನ್ನ ಯೋಚನೆ ಮಾಡಿಯೇ ಏರಿಸಿ."
+    tr: "Sṭē bandre kānūnina prakāra iḷisōdu sādhya irabahudu. Ādre kelasagārara manassina prakāra sādhya illa. Omme ērida sambaḷa iḷisidre oḷḷe huḍugaru hōgtāre. Adanna yōchane māḍiyē ērisi."
+    en: "If a stay comes, cutting back may be possible in law. But not in the workers' minds. Cut a wage once it's been raised, and the good people leave. Think about that before you raise it."
+  - who: mahesh
+    t: "ಯೋಚನೆ ಮಾಡಿದೀನಿ ಸಾರ್. ಏರಿಸಿದ್ದು ಇಳಿಯಲ್ಲ."
+    tr: "Yōchane māḍidīni sār. Ērisiddu iḷiyalla."
+    en: "I have thought about it, sir. What goes up stays up."
+
+  - section: "An honest meeting"
+    learn: "telling staff the truth: lekka muchchiḍalla, pūrti kēḷu · new wages: hosa sambaḷa, ondu rūpāyinū kaṭ illa · asking for help: nimminda mūru sahāya bēku, vēsṭ āgabāradu · workers' worries: yārannādrū tegītīra? · coastal māḍu (roof), North-Karnataka kharēnā?"
+  - scene: "Sunday, 31 May, 10 p.m. The shutter is down. The staff sit on upturned crates; Kavya holds a printed sheet."
+  - who: mahesh
+    t: "ಎಲ್ರೂ ಕೇಳಿ. ಸರ್ಕಾರ ಹೊಸ ಕನಿಷ್ಠ ವೇತನ ಘೋಷಣೆ ಮಾಡಿದೆ. ಜೂನ್ ತಿಂಗಳಿಂದ ಬಸವರಾಜ, ದೇವ್, ನಿಮ್ಮಿಬ್ಬರಿಗೆ ತಿಂಗಳಿಗೆ ಇಪ್ಪತ್ಮೂರು ಸಾವಿರದ ಮುನ್ನೂರ ಎಪ್ಪತ್ತಾರು. ಲತಾ, ನಿಮಗೆ ಭಟ್ ಸಾರ್ ಲೆಕ್ಕದ ಪ್ರಕಾರ ಇಪ್ಪತ್ತೈದು ಸಾವಿರ. ಊಟ, ರೂಮ್ ಎಂದಿನಂತೆ, ಅದಕ್ಕೆ ಒಂದು ರೂಪಾಯಿನೂ ಕಟ್ ಇಲ್ಲ."
+    tr: "Ellrū kēḷi. Sarkāra hosa kaniṣṭha vētana ghōṣaṇe māḍide. Jūn tingaḷinda Basavarāja, Dēv, nimmibbarige tingaḷige ippatmūru sāvirada munnūra eppattāru. Latā, nimage Bhaṭ sār lekkada prakāra ippattaidu sāvira. Ūṭa, rūm endinante, adakke ondu rūpāyinū kaṭ illa."
+    en: "Everyone, listen. The government has announced a new minimum wage. From June, Basavaraj and Dev, the two of you get twenty-three thousand three hundred and seventy-six a month. Latha, by Mr. Bhat's calculation, twenty-five thousand for you. Food and room as before; not one rupee deducted for them."
+  - who: helper
+    t: "ಸಾಹೇಬ್ರ… ಇಪ್ಪತ್ಮೂರು ಸಾವಿರ? ಖರೇನಾ? ನಮ್ಮಪ್ಪ ಹೊಲದಾಗ ದುಡಿದ್ರೂ ತಿಂಗಳಿಗೆ ಇಷ್ಟು ಕಣ್ಣಿಗೆ ಕಾಣಂಗಿಲ್ರಿ."
+    tr: "Sāhēbra… ippatmūru sāvira? Kharēnā? Nammappa holadāga duḍidrū tingaḷige iṣṭu kaṇṇige kāṇaṅgilri."
+    en: "Sir… twenty-three thousand? Really? My father works the fields and never sets eyes on this much in a month."
+  - who: mahesh
+    t: "ಖುಷಿ ಪಡು, ಆದ್ರೆ ಪೂರ್ತಿ ಕೇಳು. ಲೆಕ್ಕ ನಿಮ್ಮಿಂದ ಮುಚ್ಚಿಡಲ್ಲ. ಗ್ಯಾಸ್ ಸಾವಿರ ರೂಪಾಯಿ ಏರಿದೆ, ಸಂಬಳ ಏರಿದೆ. ತಿಂಗಳಿಗೆ ಎಪ್ಪತ್ತು ಸಾವಿರಕ್ಕಿಂತ ಜಾಸ್ತಿ ಹೊಸ ಖರ್ಚು. ಮಾರ್ಚ್‌ನ ನಷ್ಟ ಇನ್ನೂ ತುಂಬಿಲ್ಲ. ಕಾವ್ಯ, ಶೀಟ್ ತೋರಿಸು."
+    tr: "Khuṣi paḍu, ādre pūrti kēḷu. Lekka nimminda muchchiḍalla. Gyās sāvira rūpāyi ēride, sambaḷa ēride. Tingaḷige eppattu sāvirakkinta jāsti hosa kharchu. Mārch-na naṣṭa innū tumbilla. Kāvya, śīṭ tōrisu."
+    en: "Be happy, but hear all of it. I won't hide the accounts from you. Gas has gone up a thousand rupees, wages have gone up. More than seventy thousand in new costs a month. March's loss still hasn't been made up. Kavya, show them the sheet."
+  - who: cashier
+    t: "ಸಾರ್, ನೇರವಾಗಿ ಕೇಳ್ತೀನಿ, ತಪ್ಪು ತಿಳ್ಕೋಬೇಡಿ. ಬೇರೆ ಕಡೆ ಸಂಬಳ ಏರಿಸಿ, ಒಬ್ಬರನ್ನ ಕೆಲಸದಿಂದ ತೆಗೆದು, ಉಳಿದವರ ಮೇಲೆ ಡಬಲ್ ಕೆಲಸ ಹಾಕ್ತಿದ್ದಾರೆ ಅಂತ ಕೇಳಿದೆ. ಇಲ್ಲೂ ಹಾಗೆ ಆಗುತ್ತಾ?"
+    tr: "Sār, nēravāgi kēḷtīni, tappu tiḷkōbēḍi. Bēre kaḍe sambaḷa ērisi, obbaranna kelasadinda tegedu, uḷidavara mēle ḍabal kelasa hāktiddāre anta kēḷide. Illū hāge āguttā?"
+    en: "Sir, I'll ask straight out; don't take it wrongly. I've heard that elsewhere they raise the wages, sack one person and load double work on the rest. Will that happen here too?"
+  - who: mahesh
+    t: "ಇಲ್ಲ. ಮಾರ್ಚ್‌ನಲ್ಲಿ ಹೇಳಿದ ಮಾತೇ ಈಗಲೂ: ಅಂಗಡಿ ತೆರೆದಿರೋ ತನಕ ಯಾರನ್ನೂ ತೆಗೆಯಲ್ಲ. ಆದ್ರೆ ನಿಮ್ಮಿಂದ ಮೂರು ಸಹಾಯ ಬೇಕು. ಒಂದು: ಒಂದು ಹಿಡಿ ಹಿಟ್ಟೂ ವೇಸ್ಟ್ ಆಗಬಾರದು. ಎರಡು: ಒಲೆ ಸುಮ್ಮನೆ ಉರಿಯಬಾರದು, ಗ್ಯಾಸ್ ಯುದ್ಧ ಮುಗಿದಿಲ್ಲ. ಮೂರು: ಗಿರಾಕಿ ನಗ್ತಾ ಹೋಗಬೇಕು, ಯಾಕಂದ್ರೆ ರೇಟ್ ಸ್ವಲ್ಪ ಏರಿಸಬೇಕಾಗುತ್ತೆ."
+    tr: "Illa. Mārch-nalli hēḷida mātē īgalū: aṅgaḍi teredirō tanaka yārannū tegeyalla. Ādre nimminda mūru sahāya bēku. Ondu: ondu hiḍi hiṭṭū vēsṭ āgabāradu. Eraḍu: ole summane uriyabāradu, gyās yuddha mugidilla. Mūru: girāki nagtā hōgabēku, yākandre rēṭ svalpa ērisabēkāgutte."
+    en: "No. What I said in March still holds: as long as the shop is open, nobody gets sacked. But I need three kinds of help from you. One: not a fistful of batter is to be wasted. Two: no burner burns for nothing; the gas war isn't over. Three: customers have to leave smiling, because we'll have to raise prices a little."
+  - who: dev
+    t: "ಸಾರ್, ನಾನು ಒಂದು ಮಾತು ಹೇಳಬಹುದಾ? ಇಪ್ಪತ್ಮೂರು ಸಾವಿರ ಬಂದ್ರೆ, ಅಮ್ಮನಿಗೆ ಹದಿನೈದು ಕಳಿಸ್ತೀನಿ. ಅವರು ಮನೆ ಮೇಲೆ ಹೊಸ ಶೀಟ್ ಹಾಕಿಸ್ತಾರೆ. ಮಳೆ ಬಂದ್ರೆ ಮನೆ ಒಳಗೆ ನೀರು ಬರುತ್ತೆ. ತುಂಬಾ ಧನ್ಯವಾದ ಸಾರ್."
+    tr: "Sār, nānu ondu mātu hēḷabahudā? Ippatmūru sāvira bandre, ammanige hadinaidu kaḷistīni. Avaru mane mēle hosa śīṭ hākistāre. Maḷe bandre mane oḷage nīru barutte. Tumbā dhanyavāda sār."
+    en: "Sir, may I say something? If twenty-three thousand comes, I'll send fifteen to my mother. She'll have a new sheet roof put on the house. When it rains, water comes inside. Thank you very much, sir."
+  - who: cook
+    t: "ಕೇಳಿದ್ರಾ? ಇದು ಬರೀ ಸಂಬಳ ಅಲ್ಲ, ಮಳೆಗೆ ಮಾಡು. ಹಾಗಾದ್ರೆ ಈ ಅಡುಗೆಮನೆಯಲ್ಲಿ ಇನ್ಮೇಲೆ ಒಂದು ಚಿಟಿಕೆ ಕಾಯಿತುರಿನೂ ಕಸಕ್ಕೆ ಹೋಗಬಾರದು. ಬಸವರಾಜ, ನಾಳೆಯಿಂದ ಮಿಕ್ಕಿದ ಹಿಟ್ಟಿನ ಲೆಕ್ಕ ಪ್ರತಿ ರಾತ್ರಿ ನೀನು ಬರೀಬೇಕು."
+    tr: "Kēḷidrā? Idu barī sambaḷa alla, maḷege māḍu. Hāgādre ī aḍugemaneyalli inmēle ondu chiṭike kāyiturinū kasakke hōgabāradu. Basavarāja, nāḷeyinda mikkida hiṭṭina lekka prati rātri nīnu barībēku."
+    en: "Did you hear that? This isn't just a wage; it's a roof against the rain. So from now on, in this kitchen, not a pinch of grated coconut goes in the bin. Basavaraj, from tomorrow you write down the leftover batter every night."
+  - who: helper
+    t: "ಆಯ್ತ್ರಿ ಭಟ್ರೆ. ಒಂದು ಸೌಟು ಹಿಟ್ಟು ಉಳಿದ್ರೂ ಬರೀತೀನಿ. ಮತ್ತ ಸಾಹೇಬ್ರ, ರೇಟ್ ಏರಿಸಿದ ಮ್ಯಾಲ ಗಿರಾಕಿ ಕೇಳಿದ್ರ ನಾವು ಏನು ಹೇಳಬೇಕ್ರಿ?"
+    tr: "Āytri Bhaṭre. Ondu sauṭu hiṭṭu uḷidrū barītīni. Matta sāhēbra, rēṭ ērisida myāla girāki kēḷidra nāvu ēnu hēḷabēkri?"
+    en: "Right, Bhattre. Even if one ladle of batter is left, I'll write it down. And sir, once prices go up, what do we say when customers ask?"
+  - who: cashier
+    t: "ನಿಜ ಹೇಳೋಣ. ಜನ ಪೇಪರ್ ಓದ್ತಾರೆ, ಅವರಿಗೂ ಗೊತ್ತು. ‘ಗ್ಯಾಸ್ ಏರಿದೆ, ನಾವು ಸರ್ಕಾರ ಹೇಳಿದ ಸಂಬಳ ಪೂರ್ತಿ ಕೊಡ್ತಿದೀವಿ.’ ಬೋರ್ಡ್ ನಾನೇ ಬರೀತೀನಿ ಸಾರ್. ಮತ್ತೆ… ಧನ್ಯವಾದ. ಹೋದ ಕೆಲಸದಲ್ಲಿ ಮೂರು ವರ್ಷ ಒಂದು ರೂಪಾಯಿನೂ ಏರಿಸಿರಲಿಲ್ಲ."
+    tr: "Nija hēḷōṇa. Jana pēpar ōdtāre, avarigū gottu. ‘Gyās ēride, nāvu sarkāra hēḷida sambaḷa pūrti koḍtidīvi.’ Bōrḍ nānē barītīni sār. Matte… dhanyavāda. Hōda kelasadalli mūru varṣa ondu rūpāyinū ērisiralilla."
+    en: "We tell the truth. People read the papers; they know. ‘Gas has gone up, and we pay the full wages the government has set.’ I'll write the board myself, sir. And… thank you. At my last job, they didn't raise my pay by a single rupee in three years."
+  - who: cook
+    t: "ಯಜಮಾನ್ರೇ, ಒಂದು ಮಾತು. ಇವತ್ತು ನೀವು ಸಂಬಳ ಏರಿಸಿದ್ದಲ್ಲ ದೊಡ್ಡದು. ಏರಿಸೋಕೆ ಮುಂಚೆ ಲೆಕ್ಕ ತೋರಿಸಿದ್ರಲ್ಲ, ಅದು ದೊಡ್ಡದು. ಇಪ್ಪತ್ತೈದು ವರ್ಷದಲ್ಲಿ ಯಾವ ಯಜಮಾನನೂ ನನಗೆ ಲೆಕ್ಕ ತೋರಿಸಿರಲಿಲ್ಲ."
+    tr: "Yajamānrē, ondu mātu. Ivattu nīvu sambaḷa ērisiddalla doḍḍadu. Ērisōke muñche lekka tōrisidralla, adu doḍḍadu. Ippattaidu varṣadalli yāva yajamānanū nanage lekka tōrisiralilla."
+    en: "Boss, one thing. What matters today isn't that you raised the wages. It's that you showed us the accounts before you did. In twenty-five years, no employer ever showed me the accounts."
+
+  - section: "How much for an idli?"
+    learn: "a price debate: rēṭ ērisu, eṣṭu ērisōṇa?, sarāsari bil, madhyada dāri · conditionals with numbers: prati bil-ge eṇṭu rūpāyi jāsti bandre… · comparisons: pakkada bīdiyavariginta hattu rūpāyi jāsti · whose shoulders: bhāra … hegala mēle"
+  - scene: "The same night, 11 p.m. The staff have gone to their room. Mahesh, Kavya, Amma and Shankara remain; Nitin joins on video."
+  - who: kavya
+    t: "ಮೂರು ಆಯ್ಕೆ. ಒಂದು: ಏನೂ ಏರಿಸದೆ ಇರೋದು. ಆಗ ತಿಂಗಳಿಗೆ ಸುಮಾರು ಎಪ್ಪತ್ತು ಸಾವಿರ ನಷ್ಟ, ಅಮ್ಮನ ಚಿನ್ನ ಸೆಪ್ಟೆಂಬರ್ ಒಳಗೆ ಬ್ಯಾಂಕ್‌ಗೆ. ಎರಡು: ಪೇಪರ್‌ನಲ್ಲಿ ಹೇಳಿದ ಹಾಗೆ ಅರವತ್ತು ಪರ್ಸೆಂಟ್. ಆಗ ಅರ್ಧ ಗಿರಾಕಿ ಹೋಗ್ತಾರೆ. ಮೂರು: ಮಧ್ಯದ ದಾರಿ."
+    tr: "Mūru āyke. Ondu: ēnū ērisade irōdu. Āga tingaḷige sumāru eppattu sāvira naṣṭa, ammana chinna Sepṭembar oḷage byāṅk-ge. Eraḍu: pēpar-nalli hēḷida hāge aravattu parsenṭ. Āga ardha girāki hōgtāre. Mūru: madhyada dāri."
+    en: "Three options. One: raise nothing. Then we lose about seventy thousand a month, and Amma's gold goes to the bank before September. Two: sixty percent, like the papers say. Then half the customers leave. Three: the middle path."
+  - who: mahesh
+    t: "ಮೊದಲನೇದು ಮುಳುಗೋ ದಾರಿ, ಎರಡನೇದು ಮೋಸ. ಮಧ್ಯದ ದಾರಿ ಹೇಳು."
+    tr: "Modalanēdu muḷugō dāri, eraḍanēdu mōsa. Madhyada dāri hēḷu."
+    en: "The first is the road to sinking, the second is cheating. Tell me the middle path."
+  - who: kavya
+    t: "ದಿನಕ್ಕೆ ಸುಮಾರು ಮುನ್ನೂರು ಬಿಲ್. ಪ್ರತಿ ಬಿಲ್‌ಗೆ ಸರಾಸರಿ ಎಂಟು ರೂಪಾಯಿ ಜಾಸ್ತಿ ಬಂದ್ರೆ, ತಿಂಗಳಿಗೆ ಎಪ್ಪತ್ತೆರಡು ಸಾವಿರ. ಅಂದ್ರೆ ಸುಮಾರು ಹತ್ತು ಪರ್ಸೆಂಟ್ ಏರಿಕೆ ಸಾಕು. ಮಸಾಲೆ ದೋಸೆ ಎಪ್ಪತ್ತೈದರಿಂದ ಎಂಬತ್ತೈದು, ವಡೆ ಮೂವತ್ತರಿಂದ ಮೂವತ್ತೈದು, ಕಾಫಿ ಇಪ್ಪತ್ತರಿಂದ ಇಪ್ಪತ್ತೈದು, ಇಡ್ಲಿ ನಲವತ್ತರಿಂದ ನಲವತ್ತೈದು."
+    tr: "Dinakke sumāru munnūru bil. Prati bil-ge sarāsari eṇṭu rūpāyi jāsti bandre, tingaḷige eppatteraḍu sāvira. Andre sumāru hattu parsenṭ ērike sāku. Masāle dōse eppattaidarinda embattaidu, vaḍe mūvattarinda mūvattaidu, kāphi ippattarinda ippattaidu, iḍli nalavattarinda nalavattaidu."
+    en: "About three hundred bills a day. If each bill brings in eight rupees more on average, that's seventy-two thousand a month. So a rise of about ten percent is enough. Masala dose from seventy-five to eighty-five, vada thirty to thirty-five, coffee twenty to twenty-five, idli forty to forty-five."
+  - who: amma
+    t: "ಇಡ್ಲಿ ಬೇಡ. ಗ್ಯಾಸ್ ಇಲ್ಲದ ತಿಂಗಳಲ್ಲೂ ಇಡ್ಲಿ ನಲವತ್ತೇ ಇತ್ತು. ಅದಕ್ಕೇ ಜನ ನಮ್ಮನ್ನ ನಂಬಿದ್ರು. ಆ ನಂಬಿಕೆಗೆ ಐದು ರೂಪಾಯಿ ಬೆಲೆ ಕಟ್ಟಬೇಡ, ಮಗು."
+    tr: "Iḍli bēḍa. Gyās illada tingaḷallū iḍli nalavattē ittu. Adakkē jana nammanna nambidru. Ā nambikege aidu rūpāyi bele kaṭṭabēḍa, magu."
+    en: "Not the idli. Even in the month without gas, idli stayed at forty. That's why people trusted us. Don't put a five-rupee price on that trust, child."
+  - who: nitin
+    t: "ಅಮ್ಮ, ಭಾವನೆ ಅರ್ಥ ಆಗುತ್ತೆ. ಆದ್ರೆ ನಮ್ಮ ಮೂರು ಬಿಲ್‌ನಲ್ಲಿ ಒಂದು ಇಡ್ಲಿ ಬಿಲ್. ಇಡ್ಲಿ ಬಿಟ್ಟರೆ ಬೇರೆ ಐಟಂಗಳನ್ನ ಇನ್ನೂ ಜಾಸ್ತಿ ಏರಿಸಬೇಕು. ಆಗ ದೋಸೆ ತಿನ್ನೋರಿಗೆ ಅನ್ಯಾಯ ಅಲ್ವಾ?"
+    tr: "Amma, bhāvane artha āgutte. Ādre namma mūru bil-nalli ondu iḍli bil. Iḍli biṭṭare bēre aiṭam-gaḷanna innū jāsti ērisabēku. Āga dōse tinnōrige anyāya alvā?"
+    en: "Amma, I understand the feeling. But one in three of our bills is an idli bill. If we leave idli out, the other items have to go up even more. Isn't that unfair to the dosa eaters?"
+  - who: cook
+    t: "ನನ್ನ ಲೆಕ್ಕ ಬೇರೆ. ಇಡ್ಲಿ ಹಬೆಯಲ್ಲಿ ಬೇಯುತ್ತೆ, ಗ್ಯಾಸ್ ಕಮ್ಮಿ. ದೋಸೆಗೆ ಕಾವಲಿ ಇಡೀ ದಿನ ಉರಿಯುತ್ತೆ, ಮೇಲೆ ಬೆಣ್ಣೆ, ಪಲ್ಯ. ಗ್ಯಾಸ್ ಏರಿಕೆಯ ಭಾರ ದೋಸೆಯ ಹೆಗಲ ಮೇಲೆ. ದೋಸೆ ತೊಂಬತ್ತು ಮಾಡಿ, ಇಡ್ಲಿ ನಲವತ್ತೇ ಇರಲಿ."
+    tr: "Nanna lekka bēre. Iḍli habeyalli bēyutte, gyās kammi. Dōsege kāvali iḍī dina uriyutte, mēle beṇṇe, palya. Gyās ērikeya bhāra dōseya hegala mēle. Dōse tombattu māḍi, iḍli nalavattē irali."
+    en: "My sums are different. Idli cooks in steam; it uses little gas. For dosa the griddle burns all day, and there's butter and palya on top. The weight of the gas rise sits on the dosa's shoulders. Make the dosa ninety and let the idli stay at forty."
+  - who: kavya
+    t: "ಶಂಕರಣ್ಣ ಹೇಳೋದು ಲೆಕ್ಕದಲ್ಲೂ ಸರಿ. ಮಸಾಲೆ ದೋಸೆ ತೊಂಬತ್ತು, ಪ್ಲೇನ್ ದೋಸೆ ಅರವತ್ತೈದು, ವಡೆ ಮೂವತ್ತೈದು, ಕಾಫಿ ಇಪ್ಪತ್ತೈದು. ಇಡ್ಲಿ ನಲವತ್ತು. ಆಗ ಸರಾಸರಿ ಏಳು ರೂಪಾಯಿ ಬರುತ್ತೆ. ಉಳಿದ ಒಂದು ರೂಪಾಯಿ ಬಸವರಾಜನ ಹಿಟ್ಟಿನ ಲೆಕ್ಕದಿಂದ."
+    tr: "Śaṅkaraṇṇa hēḷōdu lekkadallū sari. Masāle dōse tombattu, plēn dōse aravattaidu, vaḍe mūvattaidu, kāphi ippattaidu. Iḍli nalavattu. Āga sarāsari ēḷu rūpāyi barutte. Uḷida ondu rūpāyi Basavarājana hiṭṭina lekkadinda."
+    en: "What Shankara-anna says works in the numbers too. Masala dose ninety, plain dose sixty-five, vada thirty-five, coffee twenty-five. Idli forty. That brings in seven rupees on average. The last rupee comes from Basavaraj's batter log."
+  - who: mahesh
+    t: "ತೊಂಬತ್ತು… ಪಕ್ಕದ ಬೀದಿಯವರಿಗಿಂತ ಹತ್ತು ರೂಪಾಯಿ ಜಾಸ್ತಿ ಆಗುತ್ತೆ. ಅವರು ಹೊಸ ಸಂಬಳ ಕೊಡ್ತಿದ್ದಾರಾ ಇಲ್ಲವಾ, ನನಗೆ ಗೊತ್ತಿಲ್ಲ. ನಾನು ಕೊಡ್ತೀನಿ, ಅದನ್ನ ಬೋರ್ಡ್‌ನಲ್ಲಿ ಬರೆಯೋಣ. ಅಮ್ಮ, ಒಪ್ಪಿಗೆನಾ?"
+    tr: "Tombattu… pakkada bīdiyavariginta hattu rūpāyi jāsti āgutte. Avaru hosa sambaḷa koḍtiddārā illavā, nanage gottilla. Nānu koḍtīni, adanna bōrḍ-nalli bareyōṇa. Amma, oppigenā?"
+    en: "Ninety… that's ten rupees more than the next street. Whether they're paying the new wages or not, I don't know. I am, and we'll write that on the board. Amma, do you agree?"
+  - who: amma
+    t: "ಇಡ್ಲಿ ಉಳೀತು, ನನಗೆ ಸಾಕು. ಇನ್ನೊಂದು ಮಾತು: ದೋಸೆ ಏರಿಸಿದ ದಿನದಿಂದ ಚಟ್ನಿ ಕಪ್ ಸ್ವಲ್ಪ ದೊಡ್ಡದಾಗಬೇಕು. ಜಾಸ್ತಿ ಕೊಟ್ಟವರಿಗೆ ಜಾಸ್ತಿ ಸಿಗಬೇಕು."
+    tr: "Iḍli uḷītu, nanage sāku. Innondu mātu: dōse ērisida dinadinda chaṭni kap svalpa doḍḍadāgabēku. Jāsti koṭṭavarige jāsti sigabēku."
+    en: "The idli is saved; that's enough for me. One more thing: from the day the dosa goes up, the chutney cup gets a little bigger. Those who pay more should get more."
+
+  - section: "The new board"
+    learn: "a formal notice: priya grāhakarē, … ādēśadante, anivāryavāgi ērisiddēve, nimma sahakārakke dhanyavāda · customers' reactions: idu anyāya, biḍi sār, manēlē uppiṭṭu māḍkōtīni · calming answers: bējārāgōdu sahaja, ēnū muchchiṭṭilla"
+  - scene: "Monday, 1 June, 7 a.m. A new board beside the menu, in Latha's handwriting. The morning walkers stop to read it."
+  - who: cashier
+    t: "‘ಪ್ರಿಯ ಗ್ರಾಹಕರೇ, ವಾಣಿಜ್ಯ ಗ್ಯಾಸ್ ಸಿಲಿಂಡರ್ ಬೆಲೆ ಒಂದೇ ಸಲ ಸುಮಾರು ಸಾವಿರ ರೂಪಾಯಿ ಏರಿದೆ. ಸರ್ಕಾರದ ಹೊಸ ಆದೇಶದಂತೆ ನಮ್ಮ ಎಲ್ಲಾ ಕೆಲಸಗಾರರಿಗೆ ಹೊಸ ಕನಿಷ್ಠ ವೇತನ ಕೊಡುತ್ತಿದ್ದೇವೆ. ಆದ್ದರಿಂದ ಕೆಲವು ದರಗಳನ್ನು ಅನಿವಾರ್ಯವಾಗಿ ಏರಿಸಿದ್ದೇವೆ. ಇಡ್ಲಿ ದರ ಬದಲಾಗಿಲ್ಲ. ನಿಮ್ಮ ಸಹಕಾರಕ್ಕೆ ಧನ್ಯವಾದ.’"
+    tr: "‘Priya grāhakarē, vāṇijya gyās silinḍar bele ondē sala sumāru sāvira rūpāyi ēride. Sarkārada hosa ādēśadante namma ellā kelasagārarige hosa kaniṣṭha vētana koḍuttiddēve. Āddarinda kelavu daragaḷannu anivāryavāgi ērisiddēve. Iḍli dara badalāgilla. Nimma sahakārakke dhanyavāda.’"
+    en: "(Reading the board aloud) ‘Dear customers, the price of a commercial gas cylinder has risen by about a thousand rupees in one go. As per the government's new order, we are paying all our workers the new minimum wage. We have therefore had to raise some prices. The price of idli has not changed. Thank you for your cooperation.’"
+  - who: customer
+    t: "ತೊಂಬತ್ತು ರೂಪಾಯಿ ಮಸಾಲೆ ದೋಸೆ? ಹದಿನೈದು ರೂಪಾಯಿ ಒಂದೇ ಸಲ! ನಿನ್ನೆವರೆಗೆ ಎಪ್ಪತ್ತೈದು. ಇದು ಅನ್ಯಾಯ."
+    tr: "Tombattu rūpāyi masāle dōse? Hadinaidu rūpāyi ondē sala! Ninnevarege eppattaidu. Idu anyāya."
+    en: "Ninety rupees for a masala dose? Fifteen rupees in one go! Until yesterday it was seventy-five. This is unfair."
+  - who: cashier
+    t: "ಕ್ಷಮಿಸಿ ಸಾರ್, ಬೇಜಾರಾಗೋದು ಸಹಜ. ಆದ್ರೆ ಬೋರ್ಡ್ ನೋಡಿ, ಏನೂ ಮುಚ್ಚಿಟ್ಟಿಲ್ಲ. ನಮ್ಮ ಹುಡುಗರಿಗೆ ಈ ತಿಂಗಳಿಂದ ಸರ್ಕಾರದ ಸಂಬಳ. ಬೇಕಾದ್ರೆ ಇಡ್ಲಿ-ವಡೆ ತಗೊಳ್ಳಿ, ಅದು ಎಪ್ಪತ್ತೈದರಲ್ಲೇ ಆಗುತ್ತೆ."
+    tr: "Kṣamisi sār, bējārāgōdu sahaja. Ādre bōrḍ nōḍi, ēnū muchchiṭṭilla. Namma huḍugarige ī tingaḷinda sarkārada sambaḷa. Bēkādre iḍli-vaḍe tagoḷḷi, adu eppattaidarallē āgutte."
+    en: "Sorry, sir; it's natural to be upset. But look at the board, we've hidden nothing. From this month our boys get the government wage. If you like, take idli-vada; that still comes to seventy-five."
+  - who: customer
+    t: "ಹ್ಮ್… ಸರಿ, ಇಡ್ಲಿ-ವಡೆ. ಆದ್ರೆ ಮುಂದಿನ ತಿಂಗಳು ಮತ್ತೆ ಏರಿಸಿದ್ರೆ ನಾನು ಮನೆಯಲ್ಲೇ ಉಪ್ಪಿಟ್ಟು ಮಾಡ್ಕೋತೀನಿ."
+    tr: "Hm… sari, iḍli-vaḍe. Ādre mundina tingaḷu matte ērisidre nānu maneyallē uppiṭṭu māḍkōtīni."
+    en: "Hmm… all right, idli-vada. But if you raise it again next month, I'll make upma at home."
+  - who: customer
+    t: "ಬಿಡಿ ಸಾರ್. ಜಯನಗರದ ಒಂದು ದೊಡ್ಡ ಹೋಟೆಲ್‌ನಲ್ಲಿ ನಿನ್ನೆ ಮಸಾಲೆ ದೋಸೆ ನೂರ ಹತ್ತು ಆಗಿತ್ತು. ಇವರು ಕನಿಷ್ಠ ಬೋರ್ಡ್ ಹಾಕಿ ಯಾಕೆ ಅಂತ ಹೇಳಿದ್ದಾರೆ. ಮಹೇಶ, ಒಂದು ಬೈಟು ಕಾಫಿ ಕೊಡು."
+    tr: "Biḍi sār. Jayanagarada ondu doḍḍa hōṭel-nalli ninne masāle dōse nūra hattu āgittu. Ivaru kaniṣṭha bōrḍ hāki yāke anta hēḷiddāre. Mahēśa, ondu baiṭu kāphi koḍu."
+    en: "(The elderly walker) Let it go, sir. Yesterday at a big hotel in Jayanagar, masala dose had gone up to a hundred and ten. These people have at least put up a board and told us why. Mahesha, one by-two coffee."
+  - who: customer
+    t: "ಅಣ್ಣ, ನೀವು ಸ್ವಿಗ್ಗಿ, ಜೊಮ್ಯಾಟೋದಲ್ಲಿ ಯಾಕಿಲ್ಲ? ನಮ್ಮ ಆಫೀಸ್‌ನಲ್ಲಿ ಎಲ್ಲರೂ ನಿಮ್ಮ ಕೇಸರಿ ಬಾತ್ ಹುಡುಕಿದ್ರು. ಸಿಗಲಿಲ್ಲ."
+    tr: "Aṇṇa, nīvu Sviggi, Jomyāṭōdalli yākilla? Namma āphīs-nalli ellarū nimma kēsari bāt huḍukidru. Sigalilla."
+    en: "(A young woman with an office ID card) Anna, why aren't you on Swiggy or Zomato? Everyone in my office searched for your kesari bath. Couldn't find it."
+  - who: cashier
+    t: "ಸದ್ಯಕ್ಕೆ ಇಲ್ಲ ಮೇಡಂ. ಬಂದು ತಿಂದ್ರೆ ಬಿಸಿಬಿಸಿ ಸಿಗುತ್ತೆ. ಆಫೀಸ್‌ಗೆ ಪಾರ್ಸೆಲ್ ಬೇಕಾದ್ರೆ ಇಲ್ಲೇ ಕಟ್ಟಿಕೊಡ್ತೀವಿ."
+    tr: "Sadyakke illa mēḍam. Bandu tindre bisibisi sigutte. Āphīs-ge pārsel bēkādre illē kaṭṭikoḍtīvi."
+    en: "Not for now, madam. If you come and eat, you get it piping hot. If you want a parcel for the office, we'll pack it right here."
+  - who: sam
+    t: "ಮಹೇಶ್ ಅವರೇ, ಸ್ವಿಟ್ಜರ್‌ಲ್ಯಾಂಡ್‌ನಲ್ಲಿ ಒಂದು ಕಾಫಿ ನಾನೂರು ರೂಪಾಯಿ. ನಿಮ್ಮ ಇಪ್ಪತ್ತೈದು ರೂಪಾಯಿ ಕಾಫಿ ಇನ್ನೂ ಪ್ರಪಂಚದ ಅತಿ ಒಳ್ಳೆ ಡೀಲ್. ಆದ್ರೆ ಅಜ್ಜಿಗೆ ಈ ಸುದ್ದಿ ನಾನು ಹೇಳಲ್ಲ."
+    tr: "Mahēś avarē, Sviṭjarlyāṇḍ-nalli ondu kāphi nānūru rūpāyi. Nimma ippattaidu rūpāyi kāphi innū prapañchada ati oḷḷe ḍīl. Ādre ajjige ī suddi nānu hēḷalla."
+    en: "Mahesh, in Switzerland a coffee costs four hundred rupees. Your twenty-five-rupee coffee is still the best deal in the world. But I'm not telling Ajji this news."
+  - who: mahesh
+    t: "ಅಜ್ಜಿಗೆ ಹೇಳಿ, ಚಟ್ನಿ ಕಪ್ ದೊಡ್ಡದಾಗಿದೆ ಅಂತ. ಆ ಸುದ್ದಿ ಅವರಿಗೆ ಇಷ್ಟ ಆಗುತ್ತೆ."
+    tr: "Ajjige hēḷi, chaṭni kap doḍḍadāgide anta. Ā suddi avarige iṣṭa āgutte."
+    en: "Tell Ajji the chutney cup has got bigger. She'll like that news."
+  - scene: "By the end of June, Kavya's sheet shows about five percent fewer bills but seven percent higher takings, and the first small profit since February: twenty-two thousand rupees."
+
+  - section: "Rohit's offer"
+    learn: "platform terms: kamiṣan, pēmenṭ gēṭvē chārj, jāhīrātu, ḍiskauṇṭ kyāmpēn, pyākējiṅg, rēṭiṅg · persuasion vs arithmetic: hosa girākigaḷu sigtāre vs kaige eṣṭu barutte? · percentages of a price: nūra hattaralli mūvattu parsenṭ hōdre…"
+  - scene: "Saturday, 11 July, 3 p.m. The quiet hour. A young man in a company T-shirt, tablet in hand: Rohit, an account manager for a food-delivery app. Kavya is at the shop; it's her day off."
+  - who: delivery
+    t: "ನಮಸ್ಕಾರ ಸಾರ್, ನಾನು ರೋಹಿತ್. ಫುಡ್ ಡೆಲಿವರಿ ಆ್ಯಪ್‌ನಿಂದ ಬಂದಿದೀನಿ. ನಿಮ್ಮ ಗೂಗಲ್ ರೇಟಿಂಗ್ ನಾಲ್ಕು ಪಾಯಿಂಟ್ ಆರು. ಜಯನಗರದಲ್ಲಿ ಇಷ್ಟು ರೇಟಿಂಗ್ ಇರೋ ದರ್ಶಿನಿ ನಮ್ಮ ಆ್ಯಪ್‌ನಲ್ಲಿ ಇಲ್ಲ. ನೀವು ಬಂದ್ರೆ ಎರಡು ಕಿಲೋಮೀಟರ್ ಸುತ್ತಲಿನ ಆಫೀಸ್, ಪಿಜಿ, ಅಪಾರ್ಟ್‌ಮೆಂಟ್ ಎಲ್ಲಾ ನಿಮ್ಮ ಗಿರಾಕಿಗಳು."
+    tr: "Namaskāra sār, nānu Rōhit. Phuḍ ḍelivari æp-ninda bandidīni. Nimma Gūgal rēṭiṅg nālku pāyiṇṭ āru. Jayanagaradalli iṣṭu rēṭiṅg irō darśini namma æp-nalli illa. Nīvu bandre eraḍu kilōmīṭar suttalina āphīs, PG, apārṭmenṭ ellā nimma girākigaḷu."
+    en: "Namaskara, sir, I'm Rohit. I'm from a food-delivery app. Your Google rating is four point six. There isn't a darshini in Jayanagar with a rating like that on our app. If you join, every office, PG and apartment within two kilometres becomes your customer."
+  - who: mahesh
+    t: "ಕೇಳೋಕೆ ಚೆನ್ನಾಗಿದೆ. ಆದ್ರೆ ಮೊದಲು ಕಮಿಷನ್ ಹೇಳಿ. ಹೊಗಳಿಕೆ ಆಮೇಲೆ."
+    tr: "Kēḷōke chennāgide. Ādre modalu kamiṣan hēḷi. Hogaḷike āmēle."
+    en: "Sounds nice. But tell me the commission first. Compliments later."
+  - who: delivery
+    t: "ನೇರವಾಗಿ ಹೇಳ್ತೀನಿ ಸಾರ್. ಬೇಸ್ ಕಮಿಷನ್ ಸುಮಾರು ಹದಿನೈದರಿಂದ ಇಪ್ಪತ್ತೈದು ಪರ್ಸೆಂಟ್, ಏರಿಯಾ ಮತ್ತು ಡೆಲಿವರಿ ದೂರದ ಮೇಲೆ. ಅದರ ಮೇಲೆ ಪೇಮೆಂಟ್ ಗೇಟ್‌ವೇ ಚಾರ್ಜ್ ಸುಮಾರು ಎರಡು ಪರ್ಸೆಂಟ್. ಜಾಹೀರಾತು ಬೇಕಾದ್ರೆ ಬೇರೆ. ಆದ್ರೆ ಆ್ಯಪ್‌ನಲ್ಲಿ ಮೆನು ರೇಟ್ ಸ್ವಲ್ಪ ಜಾಸ್ತಿ ಇಡಬಹುದು."
+    tr: "Nēravāgi hēḷtīni sār. Bēs kamiṣan sumāru hadinaidarinda ippattaidu parsenṭ, ēriyā mattu ḍelivari dūrada mēle. Adara mēle pēmenṭ gēṭvē chārj sumāru eraḍu parsenṭ. Jāhīrātu bēkādre bēre. Ādre æp-nalli menu rēṭ svalpa jāsti iḍabahudu."
+    en: "I'll be straight with you, sir. The base commission is about fifteen to twenty-five percent, depending on the area and the delivery distance. On top of that, a payment-gateway charge of about two percent. Ads are extra if you want them. But you can keep your menu prices a bit higher on the app."
+  - who: kavya
+    t: "ಅಸೋಸಿಯೇಷನ್‌ನವರ ಲೆಕ್ಕದಲ್ಲಿ ಎಲ್ಲಾ ಸೇರಿ ಕೈಯಿಂದ ಹೋಗೋದು ಇಪ್ಪತ್ತೈದರಿಂದ ಮೂವತ್ತು ಪರ್ಸೆಂಟ್. ಮತ್ತೆ ಆ ‘ಐವತ್ತು ಪರ್ಸೆಂಟ್ ಆಫ್’ ಆಫರ್‌ಗಳು? ಅವುಗಳ ದುಡ್ಡು ಯಾರು ಕೊಡ್ತಾರೆ?"
+    tr: "Asōsiyēṣan-navara lekkadalli ellā sēri kaiyinda hōgōdu ippattaidarinda mūvattu parsenṭ. Matte ā ‘aivattu parsenṭ āph’ āphar-gaḷu? Avugaḷa duḍḍu yāru koḍtāre?"
+    en: "By the association's reckoning, with everything included, twenty-five to thirty percent goes out of your hands. And those ‘fifty percent off’ offers? Who pays for those?"
+  - who: delivery
+    t: "ಡಿಸ್ಕೌಂಟ್ ಕ್ಯಾಂಪೇನ್ ಸೇರೋದು ನಿಮ್ಮ ಇಷ್ಟ, ಮೇಡಂ. ಸೇರಿದ್ರೆ ಡಿಸ್ಕೌಂಟ್‌ನ ಹೆಚ್ಚಿನ ಭಾಗ ರೆಸ್ಟೋರೆಂಟ್‌ದೇ. ಸೇರದೆ ಇದ್ರೆ ಲಿಸ್ಟ್‌ನಲ್ಲಿ ನೀವು ಸ್ವಲ್ಪ ಕೆಳಗೆ ಬರ್ತೀರಿ. ಸುಳ್ಳು ಹೇಳಲ್ಲ, ಸಿಸ್ಟಮ್ ಹಾಗಿದೆ."
+    tr: "Ḍiskauṇṭ kyāmpēn sērōdu nimma iṣṭa, mēḍam. Sēridre ḍiskauṇṭ-na hechchina bhāga resṭōrenṭ-dē. Sērade idre lisṭ-nalli nīvu svalpa keḷage bartīri. Suḷḷu hēḷalla, sisṭam hāgide."
+    en: "Joining a discount campaign is your choice, madam. If you join, most of the discount is borne by the restaurant. If you don't, you show up a bit lower in the list. I won't lie; that's how the system works."
+  - who: mahesh
+    t: "ಲೆಕ್ಕ ಹಾಕೋಣ. ಆ್ಯಪ್‌ನಲ್ಲಿ ಮಸಾಲೆ ದೋಸೆ ನೂರ ಹತ್ತು ಇಟ್ರೂ, ಮೂವತ್ತು ಪರ್ಸೆಂಟ್ ಹೋದ್ರೆ ಕೈಗೆ ಎಪ್ಪತ್ತೇಳು. ಪಾರ್ಸೆಲ್ ಬಾಕ್ಸ್, ಚಟ್ನಿ ಡಬ್ಬಿ, ಸಾಂಬಾರ್ ಕವರ್, ಬ್ಯಾಗ್ ಸೇರಿ ಹನ್ನೆರಡು ರೂಪಾಯಿ. ಉಳಿಯೋದು ಅರವತ್ತೈದು. ಕೌಂಟರ್‌ನಲ್ಲಿ ಅದೇ ದೋಸೆಗೆ ತೊಂಬತ್ತು ಸಿಗುತ್ತೆ."
+    tr: "Lekka hākōṇa. Æp-nalli masāle dōse nūra hattu iṭrū, mūvattu parsenṭ hōdre kaige eppattēḷu. Pārsel bāks, chaṭni ḍabbi, sāmbār kavar, byāg sēri hanneraḍu rūpāyi. Uḷiyōdu aravattaidu. Kauṇṭar-nalli adē dōsege tombattu sigutte."
+    en: "Let's do the sum. Even if we list masala dose at a hundred and ten on the app, if thirty percent goes, seventy-seven reaches us. Parcel box, chutney tub, sambar pouch and bag come to twelve rupees. What's left is sixty-five. At the counter the same dosa fetches ninety."
+  - who: delivery
+    t: "ಆದ್ರೆ ಸಾರ್, ಅದು ಹೊಸ ವ್ಯಾಪಾರ. ಕೌಂಟರ್‌ಗೆ ಎಂದೂ ಬರದೆ ಇರೋ ಜನ. ನಿಮ್ಮ ಅಡುಗೆಮನೆ ಮಧ್ಯಾಹ್ನ ಮೂರರಿಂದ ಐದರವರೆಗೆ ಖಾಲಿ ಇರುತ್ತೆ. ಆ ಸಮಯದ ಆರ್ಡರ್‌ಗಳು ಅಂದ್ರೆ ಜಾಸ್ತಿ ಲಾಭವೇ."
+    tr: "Ādre sār, adu hosa vyāpāra. Kauṇṭar-ge endū barade irō jana. Nimma aḍugemane madhyāhna mūrarinda aidaravarege khāli irutte. Ā samayada ārḍar-gaḷu andre jāsti lābhavē."
+    en: "But sir, that's new business. People who would never come to your counter. Your kitchen sits idle from three to five in the afternoon. Orders in that slot are extra profit."
+  - who: cook
+    t: "ಮೂರರಿಂದ ಐದು ನನ್ನ ಮಸಾಲೆ ಹುರಿಯೋ ಸಮಯ, ಹುಡುಗರ ಊಟದ ಸಮಯ. ಮತ್ತೆ ಅರ್ಧ ಗಂಟೆ ಬಾಕ್ಸ್‌ನಲ್ಲಿ ಕೂತ ದೋಸೆ ಗರಿಗರಿ ಇರಲ್ಲ. ಮೆತ್ತಗಾದ ದೋಸೆ ತಿಂದವನು ಒಂದು ಸ್ಟಾರ್ ಕೊಟ್ಟು ನನ್ನ ಹೆಸರು ಹಾಳುಮಾಡ್ತಾನೆ."
+    tr: "Mūrarinda aidu nanna masāle huriyō samaya, huḍugara ūṭada samaya. Matte ardha gaṇṭe bāks-nalli kūta dōse garigari iralla. Mettagāda dōse tindavanu ondu sṭār koṭṭu nanna hesaru hāḷumāḍtāne."
+    en: "(From the hatch) Three to five is when I roast my spices and the boys eat. And a dosa that's sat in a box for half an hour isn't crisp. The man who eats a soggy dosa gives one star and ruins my name."
+  - who: delivery
+    t: "ಅದು ನಿಜ ಸಾರ್, ದೋಸೆ ಡೆಲಿವರಿಗೆ ಕಷ್ಟ. ಎಷ್ಟೋ ಜನ ಇಡ್ಲಿ, ಬಾತ್, ಊಟ ಮಾತ್ರ ಲಿಸ್ಟ್ ಮಾಡ್ತಾರೆ. ಯೋಚನೆ ಮಾಡಿ, ನನ್ನ ಕಾರ್ಡ್ ಇಲ್ಲಿದೆ. ಆದ್ರೆ ಒಂದು ವಿಷಯ ನಿಮಗೂ ಗೊತ್ತಿರಬಹುದು: ಈಗ ಹೋಟೆಲ್ ಅಸೋಸಿಯೇಷನ್ ಮತ್ತು ಡೆಲಿವರಿ ಕಂಪನಿಗಳ ಮಧ್ಯೆ ಜಗಳ ನಡೀತಿದೆ. ಏನಾಗುತ್ತೋ ನೋಡಬೇಕು."
+    tr: "Adu nija sār, dōse ḍelivarige kaṣṭa. Eṣṭō jana iḍli, bāt, ūṭa mātra lisṭ māḍtāre. Yōchane māḍi, nanna kārḍ illide. Ādre ondu viṣaya nimagū gottirabahudu: īga hōṭel asōsiyēṣan mattu ḍelivari kampanigaḷa madhye jagaḷa naḍītide. Ēnāguttō nōḍabēku."
+    en: "That's true, sir; dosas are hard to deliver. Many places list only idli, the baths and meals. Think it over; here's my card. But one thing you may already know: there's a fight going on right now between the hotel association and the delivery companies. We'll have to see what happens."
+
+  - section: "The boycott and the decision"
+    learn: "a collective protest: bahiṣkāra, mātukate, gaḍuvu (deadline), gupta ḍiskauṇṭ · uncertain outcomes: naḍeyuttō illavō khachita illa · deciding: sadyakke bēḍa, badalige…, mundina varṣa matte yōchane māḍōṇa · consent of a partner: oppige koḍtīni"
+  - scene: "Sunday, 9 August, 9 p.m. Nitin has come over. Kavya reads out a message from the hotel association's WhatsApp group."
+  - who: kavya
+    t: "ಅಸೋಸಿಯೇಷನ್ ಮೆಸೇಜ್. ಮೊದಲು ‘ಕಮಿಷನ್ ಮತ್ತು ಗುಪ್ತ ಡಿಸ್ಕೌಂಟ್‌ಗಳ ವಿರುದ್ಧ ಆಗಸ್ಟ್ ಹದಿನೈದರಿಂದ ಆ್ಯಪ್ ಬಹಿಷ್ಕಾರ’ ಅಂದಿದ್ರು. ಆರು-ಏಳನೇ ತಾರೀಖು ಕಂಪನಿಗಳ ಜೊತೆ ಮಾತುಕತೆ ಆಯ್ತು. ಈಗ ‘ಆಗಸ್ಟ್ ಮೂವತ್ತೊಂದರವರೆಗೆ ನೋಡ್ತೀವಿ’ ಅಂತ ಗಡುವು ಇಟ್ಟಿದ್ದಾರೆ. ಬಹಿಷ್ಕಾರ ನಡೆಯುತ್ತೋ ಇಲ್ಲವೋ ಇನ್ನೂ ಖಚಿತ ಇಲ್ಲ."
+    tr: "Asōsiyēṣan mesēj. Modalu ‘kamiṣan mattu gupta ḍiskauṇṭ-gaḷa viruddha Āgasṭ hadinaidarinda æp bahiṣkāra’ andidru. Āru-ēḷanē tārīkhu kampanigaḷa jote mātukate āytu. Īga ‘Āgasṭ mūvattondaravarege nōḍtīvi’ anta gaḍuvu iṭṭiddāre. Bahiṣkāra naḍeyuttō illavō innū khachita illa."
+    en: "The association's message. First they said: ‘Boycott of the apps from the fifteenth of August, against the commissions and hidden discounts.’ On the sixth and seventh there were talks with the companies. Now they've set a deadline: ‘We'll wait until the thirty-first of August.’ Whether the boycott will actually happen isn't certain yet."
+  - who: nitin
+    t: "ತಮಾಷೆ ನೋಡು. ನಾವು ಆ್ಯಪ್‌ಗೆ ಸೇರೇ ಇಲ್ಲ, ಆದ್ರೂ ಬಹಿಷ್ಕಾರದ ಮೆಸೇಜ್ ನಮಗೂ ಬರ್ತಿದೆ. ಆದ್ರೆ ಡೇಟಾ ನೋಡಿದ್ರೆ ಜಯನಗರದಲ್ಲಿ ಆ್ಯಪ್ ಆರ್ಡರ್ ಬೆಳೀತಾನೇ ಇದೆ. ನಾವು ಇಲ್ಲದಿದ್ರೆ ಆ ಗಿರಾಕಿ ಬೇರೆಯವರಿಗೆ."
+    tr: "Tamāṣe nōḍu. Nāvu æp-ge sērē illa, ādrū bahiṣkārada mesēj namagū bartide. Ādre ḍēṭā nōḍidre Jayanagaradalli æp ārḍar beḷītānē ide. Nāvu illadidre ā girāki bēreyavarige."
+    en: "Funny, isn't it? We're not even on the apps, and still we get the boycott messages. But if you look at the data, app orders in Jayanagar keep growing. If we're not there, those customers go to someone else."
+  - who: mahesh
+    t: "ಹೋಗಲಿ. ನಾನು ಮೂರು ವಾರ ಯೋಚನೆ ಮಾಡಿದೆ. ನಮ್ಮದು ನಿಂತು ತಿನ್ನೋ ದರ್ಶಿನಿ. ಬಿಸಿ ಇಡ್ಲಿ, ಗರಿಗರಿ ದೋಸೆ, ಕಾಫಿಯ ನೊರೆ, ಇವೆಲ್ಲಾ ಕೌಂಟರ್‌ನಿಂದ ಬಾಯಿಗೆ ಐದು ನಿಮಿಷದ ದಾರಿ. ಬಾಕ್ಸ್‌ನಲ್ಲಿ ಅರ್ಧ ಗಂಟೆ ಕೂತ್ರೆ ಅದು ನಮ್ಮ ತಿಂಡಿ ಅಲ್ಲ."
+    tr: "Hōgali. Nānu mūru vāra yōchane māḍide. Nammadu nintu tinnō darśini. Bisi iḍli, garigari dōse, kāphiya nore, ivellā kauṇṭar-ninda bāyige aidu nimiṣada dāri. Bāks-nalli ardha gaṇṭe kūtre adu namma tiṇḍi alla."
+    en: "Let them go. I've thought about it for three weeks. Ours is a stand-and-eat darshini. Hot idli, crisp dosa, the froth on the coffee: all of it is a five-minute journey from the counter to the mouth. Half an hour in a box, and it isn't our food any more."
+  - who: kavya
+    t: "ನನ್ನ ಲೆಕ್ಕನೂ ಅದನ್ನೇ ಹೇಳುತ್ತೆ. ಜೂನ್‌ನಲ್ಲಿ ಮೊದಲ ಸಲ ಇಪ್ಪತ್ತೆರಡು ಸಾವಿರ ಲಾಭ, ಜುಲೈನಲ್ಲಿ ನಲವತ್ತು. ಈಗ ಮೂವತ್ತು ಪರ್ಸೆಂಟ್ ಕೊಡೋ ವ್ಯಾಪಾರ ಶುರು ಮಾಡಿದ್ರೆ ಹೆಚ್ಚು ಕೆಲಸ, ಕಮ್ಮಿ ಲಾಭ. ಜೊತೆಗೆ ಭಟ್ ಸಾರ್ ಹೇಳಿದ ಹಾಗೆ ಜಿಎಸ್‌ಟಿ ಲೆಕ್ಕನೂ ಬದಲಾಗಬಹುದು."
+    tr: "Nanna lekkanū adannē hēḷutte. Jūn-nalli modala sala ippatteraḍu sāvira lābha, Julai-nalli nalavattu. Īga mūvattu parsenṭ koḍō vyāpāra śuru māḍidre hechchu kelasa, kammi lābha. Jotege Bhaṭ sār hēḷida hāge ji-es-ṭi lekkanū badalāgabahudu."
+    en: "My numbers say the same. In June, a profit of twenty-two thousand for the first time; in July, forty. If we now start business where thirty percent goes away, it's more work for less profit. And as Mr. Bhat said, the GST accounting might change too."
+  - who: amma
+    t: "ನನಗೆ ಆ್ಯಪ್ ಗೊತ್ತಿಲ್ಲ. ಆದ್ರೆ ಒಂದು ಗೊತ್ತು: ಊಟ ಬಡಿಸೋವಾಗ ತಿನ್ನೋರ ಮುಖ ನೋಡಬೇಕು. ಮುಖ ನೋಡದೆ ಮಾಡೋ ಅಡುಗೆಗೆ ರುಚಿ ಕಮ್ಮಿ."
+    tr: "Nanage æp gottilla. Ādre ondu gottu: ūṭa baḍisōvāga tinnōra mukha nōḍabēku. Mukha nōḍade māḍō aḍugege ruchi kammi."
+    en: "I don't know about apps. But I know one thing: when you serve food, you should see the faces of those who eat it. Cooking for faces you never see has less taste."
+  - who: mahesh
+    t: "ಹಾಗಾದ್ರೆ ತೀರ್ಮಾನ: ಸದ್ಯಕ್ಕೆ ಆ್ಯಪ್ ಬೇಡ. ಬದಲಿಗೆ ನಮ್ಮದೇ ವಾಟ್ಸಾಪ್ ನಂಬರ್. ಆಫೀಸ್‌ನವರು, ಪಿಜಿ ಹುಡುಗರು ಹತ್ತು ನಿಮಿಷ ಮುಂಚೆ ಆರ್ಡರ್ ಮಾಡಿ, ಬಂದು ಪಾರ್ಸೆಲ್ ತಗೊಂಡು ಹೋಗಲಿ. ಕಮಿಷನ್ ಇಲ್ಲ, ಕೌಂಟರ್ ರೇಟ್. ಮುಂದಿನ ವರ್ಷ ಮತ್ತೆ ಯೋಚನೆ ಮಾಡೋಣ. ರೋಹಿತ್‌ನ ಕಾರ್ಡ್ ಇಟ್ಕೊಳ್ಳಿ."
+    tr: "Hāgādre tīrmāna: sadyakke æp bēḍa. Badalige nammadē vāṭsāp nambar. Āphīs-navaru, PG huḍugaru hattu nimiṣa muñche ārḍar māḍi, bandu pārsel tagoṇḍu hōgali. Kamiṣan illa, kauṇṭar rēṭ. Mundina varṣa matte yōchane māḍōṇa. Rōhit-na kārḍ iṭkoḷḷi."
+    en: "Then the decision: no apps for now. Instead, our own WhatsApp number. Office people and PG boys can order ten minutes ahead and come and pick up their parcel. No commission, counter prices. We'll think again next year. Keep Rohit's card."
+  - who: nitin
+    t: "ಸ್ಲೀಪಿಂಗ್ ಪಾರ್ಟ್ನರ್ ಆಗಿ ನಾನು ಒಪ್ಪಿಗೆ ಕೊಡ್ತೀನಿ. ಆದ್ರೆ ವಾಟ್ಸಾಪ್ ಆರ್ಡರ್ ಮೆನು ನಾನೇ ಡಿಸೈನ್ ಮಾಡ್ತೀನಿ. ಕನಿಷ್ಠ ಅಷ್ಟು ಕೆಲಸ ಕೊಡಿ, ಇಲ್ಲಾಂದ್ರೆ ನಿಜವಾಗ್ಲೂ ನಿದ್ದೆ ಬಂದುಬಿಡುತ್ತೆ."
+    tr: "Slīpiṅg pārṭnar āgi nānu oppige koḍtīni. Ādre vāṭsāp ārḍar menu nānē ḍisain māḍtīni. Kaniṣṭha aṣṭu kelasa koḍi, illāndre nijavāglū nidde bandubiḍutte."
+    en: "As the sleeping partner, I give my consent. But I'm designing the WhatsApp order menu myself. Give me at least that much work, or I really will fall asleep."
+
+  - chapter: "Chapter 9 — Inspection and competition"
+  - section: "Mr. Gowda comes back"
+    learn: "inspection words: inspekṣan / tapāsaṇe, grīs ṭryāp, charaṇḍi, pesṭ kanṭrōl rekārḍ, meḍikal phiṭnes sarṭiphikēṭ · rules reported: … āgabēku anta niyama ide · the hinted ‘aḍjasṭ’ and a polite refusal: baravaṇigeyalli nōṭis koḍi, chalan koḍi, raśīdi samēta kaṭtīni · a notice read aloud: saripaḍisi dākhale sallisatakkaddu"
+  - scene: "Tuesday, 15 September 2026, 11 a.m. After a week of heavy rain. Mr. Gowda walks in unannounced, file under his arm, and heads straight for the kitchen."
+  - who: officer
+    t: "ನಮಸ್ಕಾರ. ಜಿಬಿಎ ಆರೋಗ್ಯ ವಿಭಾಗ. ಸರ್‌ಪ್ರೈಸ್ ಇನ್ಸ್‌ಪೆಕ್ಷನ್. ನೆನಪಿದೆಯಾ ಮಹೇಶ್ ಅವರೇ? ಕಾಫಿ ಆಮೇಲೆ ಅಂತ ಹೇಳಿದ್ದೆ. ಆ ‘ಆಮೇಲೆ’ ಇನ್ನೂ ಬಂದಿಲ್ಲ. ಮೊದಲು ಅಡುಗೆಮನೆ."
+    tr: "Namaskāra. Ji-bi-e ārōgya vibhāga. Sarprais inspekṣan. Nenapideyā Mahēś avarē? Kāphi āmēle anta hēḷidde. Ā ‘āmēle’ innū bandilla. Modalu aḍugemane."
+    en: "Namaskara. GBA health department. Surprise inspection. Remember me, Mahesh? I said coffee later. That ‘later’ hasn't come yet. Kitchen first."
+  - who: mahesh
+    t: "ನೆನಪಿದೆ ಸಾರ್, ಬನ್ನಿ. ಶಂಕರಣ್ಣ, ಗೌಡ ಸಾರ್ ಅಡುಗೆಮನೆ ನೋಡ್ತಾರೆ."
+    tr: "Nenapide sār, banni. Śaṅkaraṇṇa, Gauḍa sār aḍugemane nōḍtāre."
+    en: "I remember, sir. Please come in. Shankara-anna, Mr. Gowda is going to look at the kitchen."
+  - who: officer
+    t: "ಕ್ಯಾಪ್, ಹೇರ್‌ನೆಟ್ ಎಲ್ಲರ ತಲೆ ಮೇಲೆ ಇದೆ, ಒಳ್ಳೇದು. ಎಫ್‌ಎಸ್‌ಎಸ್‌ಎಐ ಸರ್ಟಿಫಿಕೇಟ್ ಗೋಡೆ ಮೇಲೆ ಇದೆ. ಹಿಟ್ಟು ಮುಚ್ಚಿದೆ. ವಡೆ ಎಣ್ಣೆ ಎಷ್ಟು ಸಲ ಉಪಯೋಗಿಸ್ತೀರಿ?"
+    tr: "Kyāp, hēr-neṭ ellara tale mēle ide, oḷḷēdu. Ef-es-es-e-ai sarṭiphikēṭ gōḍe mēle ide. Hiṭṭu muchchide. Vaḍe eṇṇe eṣṭu sala upayōgistīri?"
+    en: "Caps and hairnets on everyone's head, good. The FSSAI certificate is on the wall. The batter is covered. How many times do you use the vada oil?"
+  - who: cook
+    t: "ಒಂದೇ ದಿನ ಸಾರ್. ರಾತ್ರಿ ಉಳಿದ ಎಣ್ಣೆ ಡ್ರಮ್‌ಗೆ, ಬಯೋಡೀಸೆಲ್‌ನವರು ತಿಂಗಳಿಗೊಮ್ಮೆ ತಗೊಂಡು ಹೋಗ್ತಾರೆ. ಲೆಕ್ಕ ಆ ಪುಸ್ತಕದಲ್ಲಿದೆ."
+    tr: "Ondē dina sār. Rātri uḷida eṇṇe ḍram-ge, bayōḍīsel-navaru tingaḷigomme tagoṇḍu hōgtāre. Lekka ā pustakadallide."
+    en: "One day only, sir. At night the leftover oil goes into a drum, and the biodiesel people collect it once a month. It's all logged in that book."
+  - who: officer
+    t: "ಕೆಲಸಗಾರರ ಮೆಡಿಕಲ್ ಫಿಟ್‌ನೆಸ್ ಸರ್ಟಿಫಿಕೇಟ್ ತೋರಿಸಿ. ವರ್ಷಕ್ಕೊಮ್ಮೆ ಚೆಕಪ್ ಆಗಬೇಕು ಅಂತ ನಿಯಮ ಇದೆ."
+    tr: "Kelasagārara meḍikal phiṭnes sarṭiphikēṭ tōrisi. Varṣakkomme chekap āgabēku anta niyama ide."
+    en: "Show me the staff's medical fitness certificates. The rule is a check-up once a year."
+  - who: cashier
+    t: "ಇಲ್ಲಿದೆ ಸಾರ್, ಫೈಲ್‌ನಲ್ಲಿ. ಐದು ಜನರದ್ದು, ಮಹೇಶ್ ಸಾರ್‌ದೂ ಸೇರಿ. ಜನವರಿಯಲ್ಲಿ ಮಾಡಿಸಿದ್ದು."
+    tr: "Illide sār, phail-nalli. Aidu janaraddu, Mahēś sār-dū sēri. Janavariyalli māḍisiddu."
+    en: "Here, sir, in the file. All five, Mahesh sir's included. Done in January."
+  - who: officer
+    t: "ಹ್ಮ್. ಈಗ ಇಲ್ಲಿ ಬನ್ನಿ. ಈ ವಾಸನೆ ಏನು? ಪಾತ್ರೆ ತೊಳೆಯೋ ಜಾಗದ ಡ್ರೈನ್‌ನಲ್ಲಿ ನೀರು ನಿಂತಿದೆ. ಗ್ರೀಸ್ ಟ್ರ್ಯಾಪ್ ಕೊನೆಯ ಸಲ ಯಾವಾಗ ಕ್ಲೀನ್ ಮಾಡಿಸಿದ್ರಿ?"
+    tr: "Hm. Īga illi banni. Ī vāsane ēnu? Pātre toḷeyō jāgada ḍrain-nalli nīru nintide. Grīs ṭryāp koneya sala yāvāga klīn māḍisidri?"
+    en: "Hm. Now come here. What's this smell? Water is standing in the drain where you wash the vessels. When did you last have the grease trap cleaned?"
+  - who: helper
+    t: "ಹೋದ ತಿಂಗಳು ಸಾಹೇಬ್ರ… ಇಲ್ಲ, ಅದರ ಹಿಂದಿನ ತಿಂಗಳು. ಮಳೆ ಜಾಸ್ತಿ ಆದ್ಮೇಲೆ ಹೊರಗಿನ ಚರಂಡಿ ತುಂಬಿ ನೀರು ಹಿಂದಕ್ಕೆ ಬರ್ತೈತ್ರಿ."
+    tr: "Hōda tingaḷu sāhēbra… illa, adara hindina tingaḷu. Maḷe jāsti ādmēle horagina charaṇḍi tumbi nīru hindakke bartaitri."
+    en: "Last month, sir… no, the month before. Since the heavy rain, the drain outside fills up and the water comes back in."
+  - who: officer
+    t: "ಮಳೆ ಎಲ್ಲರಿಗೂ ಬರುತ್ತೆ. ಟ್ರ್ಯಾಪ್ ತುಂಬಿದ್ರೆ ಗ್ರೀಸ್ ಹೊರಗಿನ ಲೈನ್‌ಗೆ ಹೋಗುತ್ತೆ, ಆಮೇಲೆ ಬೀದಿ ಚರಂಡಿ ಕಟ್ಟಿಕೊಳ್ಳುತ್ತೆ. ಇನ್ನೊಂದು: ಪೆಸ್ಟ್ ಕಂಟ್ರೋಲ್ ರೆಕಾರ್ಡ್ ತೋರಿಸಿ."
+    tr: "Maḷe ellarigū barutte. Ṭryāp tumbidre grīs horagina lain-ge hōgutte, āmēle bīdi charaṇḍi kaṭṭikoḷḷutte. Innondu: pesṭ kanṭrōl rekārḍ tōrisi."
+    en: "Rain comes for everyone. If the trap is full, the grease goes into the outside line, and then the street drain gets blocked. Another thing: show me the pest-control record."
+  - who: mahesh
+    t: "ಇಲ್ಲಿದೆ ಸಾರ್. ಜನವರಿಯಿಂದ ಪ್ರತಿ ತಿಂಗಳು…"
+    tr: "Illide sār. Janavariyinda prati tingaḷu…"
+    en: "Here it is, sir. Every month since January…"
+  - who: officer
+    t: "ಜೂನ್ ತನಕ. ಜುಲೈ, ಆಗಸ್ಟ್ ಖಾಲಿ. ಸೆಪ್ಟೆಂಬರ್‌ನೂ ಖಾಲಿ. ಮೂರು ತಿಂಗಳು ಪೆಸ್ಟ್ ಕಂಟ್ರೋಲ್ ಆಗಿಲ್ವಾ, ಇಲ್ಲಾ ಮಾಡಿದ್ರೂ ಬರೆದಿಲ್ವಾ?"
+    tr: "Jūn tanaka. Julai, Āgasṭ khāli. Sepṭembar-nū khāli. Mūru tingaḷu pesṭ kanṭrōl āgilvā, illā māḍidrū baredilvā?"
+    en: "Up to June. July and August blank. September blank too. Was there no pest control for three months, or was it done and not written down?"
+  - who: mahesh
+    t: "ನಿಜ ಹೇಳ್ತೀನಿ ಸಾರ್. ನಮ್ಮ ಪೆಸ್ಟ್ ಕಂಟ್ರೋಲ್ ಕಂಪನಿಯ ಹುಡುಗ ಕೆಲಸ ಬಿಟ್ಟ. ಆಮೇಲೆ ಅವರು ಯಾರನ್ನೂ ಕಳಿಸಿಲ್ಲ. ನಾನು ಫಾಲೋ ಅಪ್ ಮಾಡಬೇಕಿತ್ತು, ಮಾಡಿಲ್ಲ. ತಪ್ಪು ನನ್ನದು."
+    tr: "Nija hēḷtīni sār. Namma pesṭ kanṭrōl kampaniya huḍuga kelasa biṭṭa. Āmēle avaru yārannū kaḷisilla. Nānu phālō ap māḍabēkittu, māḍilla. Tappu nannadu."
+    en: "I'll tell you the truth, sir. The lad from our pest-control company quit. After that they never sent anyone. I should have followed up, and I didn't. The fault is mine."
+  - who: officer
+    t: "ತಪ್ಪು ಒಪ್ಕೊಂಡ್ರಿ, ಒಳ್ಳೇದು. ಆದ್ರೆ ನೋಡಿ, ಇವೆರಡೂ ರಿಪೋರ್ಟ್‌ನಲ್ಲಿ ಬರೆದ್ರೆ ನೋಟಿಸ್ ಹೋಗುತ್ತೆ, ದಂಡ ಬರಬಹುದು, ಫೈಲ್ ಮೇಲಿನ ಆಫೀಸ್‌ಗೆ ಹೋಗುತ್ತೆ. ಲೈಸೆನ್ಸ್ ರಿನ್ಯೂವಲ್ ಟೈಮ್‌ನಲ್ಲಿ ಅದೇ ಫೈಲ್ ಮತ್ತೆ ಎದ್ದು ಬರುತ್ತೆ. ಸುಮ್ಮನೆ ತಲೆನೋವು."
+    tr: "Tappu opkoṇḍri, oḷḷēdu. Ādre nōḍi, iveraḍū ripōrṭ-nalli baredre nōṭis hōgutte, daṇḍa barabahudu, phail mēlina āphīs-ge hōgutte. Laisens rinyūval ṭaim-nalli adē phail matte eddu barutte. Summane talenōvu."
+    en: "You admit the fault; good. But look: if I write both of these in the report, a notice goes out, there may be a fine, and the file goes to the higher office. At licence-renewal time the same file pops up again. A needless headache."
+  - who: officer
+    t: "ನಾವು ಇಲ್ಲೇ ಏನಾದ್ರೂ ‘ಅಡ್ಜಸ್ಟ್’ ಮಾಡ್ಕೊಂಡ್ರೆ, ನಾನು ‘ಸಣ್ಣ ಸಲಹೆ’ ಅಂತ ಬರೀತೀನಿ, ಅಷ್ಟೇ. ನಿಮಗೂ ಸಮಯ ಉಳಿಯುತ್ತೆ, ನನಗೂ."
+    tr: "Nāvu illē ēnādrū ‘aḍjasṭ’ māḍkoṇḍre, nānu ‘saṇṇa salahe’ anta barītīni, aṣṭē. Nimagū samaya uḷiyutte, nanagū."
+    en: "(Lowering his voice) If we ‘adjust’ something right here between ourselves, I'll write it up as a ‘minor suggestion’, that's all. It saves your time, and mine."
+  - who: mahesh
+    t: "ಸಾರ್, ಡಿಸೆಂಬರ್‌ನಲ್ಲಿ ಹೇಳಿದ್ದೇ ಈಗಲೂ. ಈ ಹೆಸರಲ್ಲಿ ಸುಳ್ಳು ಲೆಕ್ಕ ಇಲ್ಲ. ತಪ್ಪು ಇದೆ, ಅದನ್ನ ಬರೀರಿ. ಏನು ಸರಿ ಮಾಡಬೇಕು, ಎಷ್ಟು ದಿನದಲ್ಲಿ ಅಂತ ಬರವಣಿಗೆಯಲ್ಲಿ ನೋಟಿಸ್ ಕೊಡಿ. ದಂಡ ಇದ್ರೆ ಚಲನ್ ಕೊಡಿ, ರಶೀದಿ ಸಮೇತ ಕಟ್ತೀನಿ."
+    tr: "Sār, Ḍisembar-nalli hēḷiddē īgalū. Ī hesaralli suḷḷu lekka illa. Tappu ide, adanna barīri. Ēnu sari māḍabēku, eṣṭu dinadalli anta baravaṇigeyalli nōṭis koḍi. Daṇḍa idre chalan koḍi, raśīdi samēta kaṭtīni."
+    en: "Sir, what I said in December still stands. There are no false accounts under this name. There's a fault; write it down. Give me a written notice of what has to be fixed and in how many days. If there's a fine, give me a challan and I'll pay it against a receipt."
+  - who: officer
+    t: "ನಾನೇನು ದುಡ್ಡು ಕೇಳಿದ್ನಾ? ನಿಮಗೆ ಸುಲಭ ಆಗಲಿ ಅಂತ ಹೇಳಿದೆ. ಸರಿ, ನಿಮಗೆ ನೋಟಿಸೇ ಬೇಕಂದ್ರೆ ನೋಟಿಸ್."
+    tr: "Nānēnu duḍḍu kēḷidnā? Nimage sulabha āgali anta hēḷide. Sari, nimage nōṭisē bēkandre nōṭis."
+    en: "Did I ask for money? I said it to make things easy for you. Fine. If it's a notice you want, a notice it is."
+  - scene: "He fills in a printed form, tears off the carbon copy and holds it out."
+  - who: officer
+    t: "‘ಪಾತ್ರೆ ತೊಳೆಯುವ ಸ್ಥಳದ ಚರಂಡಿ ಕಟ್ಟಿಕೊಂಡಿದೆ, ಗ್ರೀಸ್ ಟ್ರ್ಯಾಪ್ ಸ್ವಚ್ಛಗೊಳಿಸಿಲ್ಲ. ಜುಲೈಯಿಂದ ಕೀಟ ನಿಯಂತ್ರಣದ ದಾಖಲೆ ಇಲ್ಲ. ಏಳು ದಿನಗಳೊಳಗೆ ಸರಿಪಡಿಸಿ ದಾಖಲೆ ಸಲ್ಲಿಸತಕ್ಕದ್ದು.’ ಸಹಿ ಮಾಡಿ. ಏಳು ದಿನ ಆದ್ಮೇಲೆ ಮತ್ತೆ ಬರ್ತೀನಿ. ಆಗಲೂ ಹೀಗೇ ಇದ್ರೆ ದಂಡ, ಮುಂದಿನ ಕ್ರಮ."
+    tr: "‘Pātre toḷeyuva sthaḷada charaṇḍi kaṭṭikoṇḍide, grīs ṭryāp svachchhagoḷisilla. Julaiyinda kīṭa niyantraṇada dākhale illa. Ēḷu dinagaḷoḷage saripaḍisi dākhale sallisatakkaddu.’ Sahi māḍi. Ēḷu dina ādmēle matte bartīni. Āgalū hīgē idre daṇḍa, mundina krama."
+    en: "(Reading aloud) ‘The drain at the dishwashing area is blocked; the grease trap has not been cleaned. No pest-control record since July. To be rectified and records submitted within seven days.’ Sign here. I'll come back after seven days. If it's still like this: a fine, and further action."
+  - who: mahesh
+    t: "ಸಹಿ ಮಾಡಿದೆ ಸಾರ್. ಏಳು ದಿನ ಬೇಡ, ಐದು ದಿನದಲ್ಲಿ ಮುಗಿಸ್ತೀನಿ. ಆಗ ಕಾಫಿ ಕುಡಿದು ಹೋಗಿ."
+    tr: "Sahi māḍide sār. Ēḷu dina bēḍa, aidu dinadalli mugistīni. Āga kāphi kuḍidu hōgi."
+    en: "I've signed, sir. Not seven days; I'll finish in five. Then stay and have a coffee."
+  - who: officer
+    t: "ನೋಡೋಣ."
+    tr: "Nōḍōṇa."
+    en: "We'll see."
+
+  - section: "Five days"
+    learn: "causatives for repairs: klīn māḍisu, ṭryāp hākisu, vālv hākisu, jāli hākisu, kāṇṭrākṭ māḍisu · schedules and logs: vārakkomme, tingaḷigomme, ibrū sahi, gōḍe mēle chārṭ · owning a mistake: tappu obbaraddalla, vyavasthe iralilla · spelling: kombu, kāguṇita"
+  - scene: "Wednesday, 16 September, 6 a.m. A plumber's tools lie by the sink. Shankara has hardly spoken since yesterday."
+  - who: cook
+    t: "ಮೂವತ್ತು ವರ್ಷದಿಂದ ಅಡುಗೆಮನೆಯಲ್ಲಿದೀನಿ. ಯಾರೂ ನನ್ನ ಅಡುಗೆಮನೆ ಬಗ್ಗೆ ನೋಟಿಸ್ ಬರೆದಿರಲಿಲ್ಲ. ನಿನ್ನೆ ರಾತ್ರಿ ನಿದ್ದೆ ಬರಲಿಲ್ಲ. ಆ ಡ್ರೈನ್ ನಾನು ನೋಡಬೇಕಿತ್ತು."
+    tr: "Mūvattu varṣadinda aḍugemaneyallidīni. Yārū nanna aḍugemane bagge nōṭis barediralilla. Ninne rātri nidde baralilla. Ā ḍrain nānu nōḍabēkittu."
+    en: "I've been in kitchens for thirty years. Nobody ever wrote a notice about my kitchen. I couldn't sleep last night. I should have kept an eye on that drain."
+  - who: mahesh
+    t: "ಶಂಕರಣ್ಣ, ತಪ್ಪು ಒಬ್ಬರದ್ದಲ್ಲ. ವ್ಯವಸ್ಥೆ ಇರಲಿಲ್ಲ, ಅದು ನನ್ನ ಕೆಲಸ. ಈಗ ವ್ಯವಸ್ಥೆ ಮಾಡೋಣ. ಪ್ಲಂಬರ್ ಏನು ಹೇಳಿದ್ರು, ಬಸವರಾಜ?"
+    tr: "Śaṅkaraṇṇa, tappu obbaraddalla. Vyavasthe iralilla, adu nanna kelasa. Īga vyavasthe māḍōṇa. Plambar ēnu hēḷidru, Basavarāja?"
+    en: "Shankara-anna, the fault isn't one person's. There was no system, and that's my job. Let's set one up now. What did the plumber say, Basavaraj?"
+  - who: helper
+    t: "ಟ್ರ್ಯಾಪ್ ಸಣ್ಣದೈತಿ ಅಂತ ಹೇಳ್ಯಾನ್ರಿ, ದಿನಾ ಮುನ್ನೂರು ಪ್ಲೇಟ್‌ಗೆ ಸಾಲಂಗಿಲ್ಲ. ದೊಡ್ಡ ಟ್ರ್ಯಾಪ್ ಹಾಕಿಸಬೇಕು, ಹೊರಗಿನ ಪೈಪ್‌ಗೆ ನಾನ್-ರಿಟರ್ನ್ ವಾಲ್ವ್ ಹಾಕಿಸಬೇಕು. ಆಗ ಮಳೆ ನೀರು ಒಳಗ ಬರಂಗಿಲ್ಲ. ಹದಿನೆಂಟು ಸಾವಿರ ಆಗತೈತಂತ್ರಿ."
+    tr: "Ṭryāp saṇṇadaiti anta hēḷyānri, dinā munnūru plēṭ-ge sālaṅgilla. Doḍḍa ṭryāp hākisabēku, horagina paip-ge nān-riṭarn vālv hākisabēku. Āga maḷe nīru oḷaga baraṅgilla. Hadineṇṭu sāvira āgataitantri."
+    en: "He says the trap is too small; it can't cope with three hundred plates a day. We need a bigger trap fitted, and a non-return valve on the outside pipe. Then rainwater won't come back in. It'll cost eighteen thousand, he says."
+  - who: kavya
+    t: "ಹದಿನೆಂಟು ಸಾವಿರ. ಮಾಡಿಸಿ. ದಂಡಕ್ಕಿಂತ ಕಮ್ಮಿ, ಅವಮಾನಕ್ಕಿಂತ ತುಂಬಾ ಕಮ್ಮಿ. ಜಿಎಸ್‌ಟಿ ಬಿಲ್ ತಗೊಳ್ಳಿ, ನೋಟಿಸ್ ಉತ್ತರದ ಜೊತೆ ಲಗತ್ತಿಸಬೇಕು."
+    tr: "Hadineṇṭu sāvira. Māḍisi. Daṇḍakkinta kammi, avamānakkinta tumbā kammi. Ji-es-ṭi bil tagoḷḷi, nōṭis uttarada jote lagattisabēku."
+    en: "(On the phone) Eighteen thousand. Get it done. Less than a fine, and much less than the shame. Take a GST bill; we have to attach it to our reply to the notice."
+  - who: mahesh
+    t: "ಪೆಸ್ಟ್ ಕಂಟ್ರೋಲ್‌ಗೆ ಹೊಸ ಕಂಪನಿ ಜೊತೆ ವರ್ಷದ ಕಾಂಟ್ರಾಕ್ಟ್ ಮಾಡಿಸಿದೆ. ತಿಂಗಳಿಗೆ ಒಂದು ಸಲ ಬರ್ತಾರೆ, ಪ್ರತಿ ಸಲ ಕಾರ್ಡ್ ಮೇಲೆ ಸಹಿ, ದಿನಾಂಕ, ಯಾವ ಔಷಧಿ ಅಂತ ಬರೀತಾರೆ. ಬರದಿದ್ರೆ ಐದನೇ ತಾರೀಖು ಲತಾ ಫೋನ್ ಮಾಡ್ತಾರೆ."
+    tr: "Pesṭ kanṭrōl-ge hosa kampani jote varṣada kāṇṭrākṭ māḍiside. Tingaḷige ondu sala bartāre, prati sala kārḍ mēle sahi, dināṅka, yāva auṣadhi anta barītāre. Baradidre aidanē tārīkhu Latā phōn māḍtāre."
+    en: "I've signed a yearly contract with a new pest-control company. They come once a month, and each time they write their signature, the date and which chemical on the card. If they don't turn up, Latha phones them on the fifth."
+  - who: cashier
+    t: "ಫೋನ್‌ನಲ್ಲಿ ರಿಮೈಂಡರ್ ಹಾಕಿದೀನಿ ಸಾರ್. ಟ್ರೇಡ್ ಲೈಸೆನ್ಸ್ ರಿನ್ಯೂವಲ್ ರಿಮೈಂಡರ್ ಪಕ್ಕದಲ್ಲೇ."
+    tr: "Phōn-nalli rimaiṇḍar hākidīni sār. Ṭrēḍ laisens rinyūval rimaiṇḍar pakkadallē."
+    en: "I've set a reminder on my phone, sir. Right next to the trade-licence renewal reminder."
+  - who: cook
+    t: "ಇನ್ನೊಂದು ಕೆಲಸ ನನ್ನದು. ಪ್ರತಿ ಶನಿವಾರ ರಾತ್ರಿ ಟ್ರ್ಯಾಪ್ ತೆಗೆದು ಕ್ಲೀನ್. ಬಸವರಾಜ ಮಾಡ್ತಾನೆ, ನಾನು ನೋಡ್ತೀನಿ, ಇಬ್ರೂ ಪುಸ್ತಕದಲ್ಲಿ ಸಹಿ. ಡ್ರೈನ್ ಮೇಲೆ ಜಾಲಿ ಹಾಕಿಸಿ, ಒಂದು ಜಿರಳೆನೂ ಒಳಗೆ ಬರಬಾರದು."
+    tr: "Innondu kelasa nannadu. Prati śanivāra rātri ṭryāp tegedu klīn. Basavarāja māḍtāne, nānu nōḍtīni, ibrū pustakadalli sahi. Ḍrain mēle jāli hākisi, ondu jiraḷenū oḷage barabāradu."
+    en: "One more job is mine. Every Saturday night the trap comes out and gets cleaned. Basavaraj does it, I watch, and we both sign the book. Have a mesh put over the drain; not one cockroach gets in."
+  - who: dev
+    t: "ಸಾರ್, ನಾನು ಗೋಡೆ ಮೇಲೆ ಒಂದು ಚಾರ್ಟ್ ಬರೆದೆ. ಕನ್ನಡದಲ್ಲಿ. ‘ಶನಿವಾರ: ಟ್ರ್ಯಾಪ್. ಐದನೇ ತಾರೀಖು: ಪೆಸ್ಟ್ ಕಂಟ್ರೋಲ್.’ ಕಾಗುಣಿತ ಸರಿ ಇದೆಯಾ ನೋಡಿ."
+    tr: "Sār, nānu gōḍe mēle ondu chārṭ barede. Kannaḍadalli. ‘Śanivāra: ṭryāp. Aidanē tārīkhu: pesṭ kanṭrōl.’ Kāguṇita sari ideyā nōḍi."
+    en: "Sir, I wrote a chart on the wall. In Kannada. ‘Saturday: trap. Fifth of the month: pest control.’ Check whether the spelling is right."
+  - who: mahesh
+    t: "‘ಶನಿವಾರ’ದಲ್ಲಿ ಒಂದು ಕೊಂಬು ಜಾಸ್ತಿ ಇದೆ. ಉಳಿದದ್ದೆಲ್ಲಾ ಸರಿ. ದೇವ್, ಇನ್ನೊಂದು ವರ್ಷದಲ್ಲಿ ನೀನೇ ನನ್ನ ನೋಟಿಸ್‌ಗಳಿಗೆ ಉತ್ತರ ಬರೀತೀಯ."
+    tr: "‘Śanivāra’dalli ondu kombu jāsti ide. Uḷidaddellā sari. Dēv, innondu varṣadalli nīnē nanna nōṭis-gaḷige uttara barītīya."
+    en: "There's one extra kombu in ‘Shanivara’. Everything else is right. Dev, in another year you'll be writing the replies to my notices yourself."
+
+  - section: "The coffee is paid for"
+    learn: "a re-inspection: nōṭis klōs māḍtīni, bil-gaḷa kāpi phail-ge · grudging respect: ‘nōṭis koḍi’ anta kēḷidavaru tumbā kammi · a proverb-like reply: kāgada uḷiyutte, kai maretuhōgutte · paying one's way: duḍḍu koṭṭu kuḍītīni"
+  - scene: "Monday, 21 September, 4 p.m. Mr. Gowda returns. He lifts the new grease-trap lid himself and leafs through the pest-control card and the Saturday book."
+  - who: officer
+    t: "ಟ್ರ್ಯಾಪ್ ದೊಡ್ಡದು, ವಾಲ್ವ್ ಹಾಕಿದೀರಿ, ಜಾಲಿ ಇದೆ. ಕಾರ್ಡ್‌ನಲ್ಲಿ ಹದಿನೇಳನೇ ತಾರೀಖಿನ ಸಹಿ ಇದೆ. ಈ ಪುಸ್ತಕ ಯಾರು ಬರೆದಿದ್ದು? ಅಚ್ಚುಕಟ್ಟಾಗಿದೆ."
+    tr: "Ṭryāp doḍḍadu, vālv hākidīri, jāli ide. Kārḍ-nalli hadinēḷanē tārīkhina sahi ide. Ī pustaka yāru barediddu? Achchukaṭṭāgide."
+    en: "The trap is bigger, you've fitted the valve, there's a mesh. The card has a signature dated the seventeenth. Who keeps this book? It's neat."
+  - who: helper
+    t: "ನಾನು ಸಾಹೇಬ್ರ. ಭಟ್ರು ಸಹಿ ಮಾಡ್ತಾರ್ರಿ."
+    tr: "Nānu sāhēbra. Bhaṭru sahi māḍtārri."
+    en: "I do, sir. Bhattru signs it."
+  - who: officer
+    t: "ನೋಟಿಸ್ ಕ್ಲೋಸ್ ಮಾಡ್ತೀನಿ. ಬಿಲ್‌ಗಳ ಕಾಪಿ ಫೈಲ್‌ಗೆ ಹಾಕ್ತೀನಿ. ಮಹೇಶ್ ಅವರೇ, ಒಂದು ಮಾತು. ಇಪ್ಪತ್ತು ವರ್ಷದ ಸರ್ವಿಸ್‌ನಲ್ಲಿ ‘ನೋಟಿಸ್ ಕೊಡಿ’ ಅಂತ ಕೇಳಿದವರು ತುಂಬಾ ಕಮ್ಮಿ. ಹೆಚ್ಚಿನವರಿಗೆ ಕಾಗದಕ್ಕಿಂತ ಕೈ ಮೇಲೆ ಜಾಸ್ತಿ ನಂಬಿಕೆ."
+    tr: "Nōṭis klōs māḍtīni. Bil-gaḷa kāpi phail-ge hāktīni. Mahēś avarē, ondu mātu. Ippattu varṣada sarvīs-nalli ‘nōṭis koḍi’ anta kēḷidavaru tumbā kammi. Hechchinavarige kāgadakkinta kai mēle jāsti nambike."
+    en: "I'll close the notice. I'll put copies of the bills in the file. Mahesh, one thing. In twenty years of service, very few people have asked me for a notice. Most trust a hand more than paper."
+  - who: mahesh
+    t: "ಕಾಗದ ಉಳಿಯುತ್ತೆ ಸಾರ್, ಕೈ ಮರೆತುಹೋಗುತ್ತೆ. ಈಗ ಕಾಫಿ?"
+    tr: "Kāgada uḷiyutte sār, kai maretuhōgutte. Īga kāphi?"
+    en: "Paper stays, sir; hands forget. Coffee now?"
+  - who: officer
+    t: "ಕೊಡಿ. ಸ್ಟ್ರಾಂಗ್, ಸಕ್ಕರೆ ಕಮ್ಮಿ. ಲತಾ ಅವರೇ, ಇಪ್ಪತ್ತೈದು ರೂಪಾಯಿ, ಯುಪಿಐ. ಡಿಸೆಂಬರ್‌ನಲ್ಲಿ ಹೇಳಿದ್ದೆ, ದುಡ್ಡು ಕೊಟ್ಟು ಕುಡೀತೀನಿ ಅಂತ."
+    tr: "Koḍi. Sṭrāṅg, sakkare kammi. Latā avarē, ippattaidu rūpāyi, yu-pi-ai. Ḍisembar-nalli hēḷidde, duḍḍu koṭṭu kuḍītīni anta."
+    en: "Go on. Strong, less sugar. Latha, twenty-five rupees, by UPI. I told you in December I'd pay for my coffee."
+  - who: cashier
+    t: "ಬಂತು ಸಾರ್. ಟೋಕನ್ ಹದಿಮೂರು."
+    tr: "Bantu sār. Ṭōkan hadimūru."
+    en: "Received, sir. Token thirteen."
+
+  - section: "Two hundred metres away"
+    learn: "competition talk: chain kephe, esi, kyū, ‘ondu tagoṇḍre ondu phrī’, Instāgrām · numbers that frighten: hōda śanivārakkinta hadineṇṭu parsenṭ kammi · comparisons: avara hatra kōṭigaṭṭale duḍḍu, namage āru tingaḷu sāku · advice: avara thara āgōke hōdre sōltīvi"
+  - scene: "Saturday, 3 October, 8 a.m. Two hundred metres down the main road, a well-known chain café has opened in a glass-fronted corner shop: air-conditioning, a queue on the pavement, a young man filming it all for Instagram. Nitin comes back from a look."
+  - who: nitin
+    t: "ನೋಡ್ಕೊಂಡು ಬಂದೆ. ಎಸಿ, ಕೂರೋಕೆ ಮೂವತ್ತು ಕುರ್ಚಿ, ಗೋಡೆ ಮೇಲೆ ದೊಡ್ಡ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ಮೆನು. ಮಸಾಲೆ ದೋಸೆ ನೂರ ಮೂವತ್ತು, ಫಿಲ್ಟರ್ ಕಾಫಿ ಅರವತ್ತು. ಆದ್ರೂ ಕ್ಯೂ ರಸ್ತೆ ತನಕ. ಮೊದಲ ವಾರ ‘ಒಂದು ತಗೊಂಡ್ರೆ ಒಂದು ಫ್ರೀ’."
+    tr: "Nōḍkoṇḍu bande. Esi, kūrōke mūvattu kurchi, gōḍe mēle doḍḍa skrīn-nalli menu. Masāle dōse nūra mūvattu, philṭar kāphi aravattu. Ādrū kyū raste tanaka. Modala vāra ‘ondu tagoṇḍre ondu phrī’."
+    en: "I've been to look. AC, thirty chairs, the menu on a big screen on the wall. Masala dose a hundred and thirty, filter coffee sixty. And still a queue out to the road. For the first week, ‘buy one, get one free’."
+  - who: cashier
+    t: "ಸಾರ್, ಬೆಳಗ್ಗೆ ಏಳರಿಂದ ಒಂಬತ್ತರವರೆಗಿನ ಬಿಲ್ ಲೆಕ್ಕ ನೋಡಿದೆ. ಹೋದ ಶನಿವಾರಕ್ಕಿಂತ ಹದಿನೆಂಟು ಪರ್ಸೆಂಟ್ ಕಮ್ಮಿ. ಕಾಲೇಜ್ ಹುಡುಗರು, ಆಫೀಸ್ ಹುಡುಗಿಯರು, ಯಾರೂ ಬಂದಿಲ್ಲ."
+    tr: "Sār, beḷagge ēḷarinda ombattaravaregina bil lekka nōḍide. Hōda śanivārakkinta hadineṇṭu parsenṭ kammi. Kālēj huḍugaru, āphīs huḍugiyaru, yārū bandilla."
+    en: "Sir, I checked the bill count from seven to nine. Eighteen percent fewer than last Saturday. The college boys, the office girls: none of them came."
+  - who: dev
+    t: "ಸಾರ್, ಆ ಕೆಫೆಯಲ್ಲಿ ನನ್ನ ಊರಿನ ಒಬ್ಬ ಹುಡುಗ ಕೆಲಸ ಮಾಡ್ತಾನೆ. ಅವನು ಹೇಳಿದ: ಅವರಿಗೆ ಒಳ್ಳೆ ಅಡುಗೆಯವರು ಬೇಕಂತೆ, ತುಂಬಾ ಸಂಬಳ. ಇಲ್ಲಿಂದ ಯಾರಾದ್ರೂ ಬರ್ತಾರಾ ಅಂತ ಕೇಳಿದ."
+    tr: "Sār, ā kepheyalli nanna ūrina obba huḍuga kelasa māḍtāne. Avanu hēḷida: avarige oḷḷe aḍugeyavaru bēkante, tumbā sambaḷa. Illinda yārādrū bartārā anta kēḷida."
+    en: "Sir, a boy from my village works at that café. He told me they want good cooks, and they pay a lot. He asked whether anyone from here would come."
+  - scene: "Mahesh glances at the kitchen hatch. Shankara keeps stirring the sambar and says nothing."
+  - who: mahesh
+    t: "ಗ್ಯಾಸ್ ಹೋಯ್ತು, ಬಂತು. ಸಂಬಳ ಏರಿತು, ನಿಭಾಯಿಸಿದ್ವಿ. ಆದ್ರೆ ಇದು ಬೇರೆ. ಅವರ ಹತ್ರ ಕೋಟಿಗಟ್ಟಲೆ ದುಡ್ಡು, ಜಾಹೀರಾತು, ಹೆಸರು. ಆರು ತಿಂಗಳು ನಷ್ಟದಲ್ಲಿ ನಡೆಸಿದ್ರೂ ಅವರಿಗೆ ಏನೂ ಆಗಲ್ಲ. ನಮಗೆ ಮುಚ್ಚೋಕೆ ಆರು ತಿಂಗಳು ಸಾಕು."
+    tr: "Gyās hōytu, bantu. Sambaḷa ēritu, nibhāyisidvi. Ādre idu bēre. Avara hatra kōṭigaṭṭale duḍḍu, jāhīrātu, hesaru. Āru tingaḷu naṣṭadalli naḍesidrū avarige ēnū āgalla. Namage muchchōke āru tingaḷu sāku."
+    en: "The gas went and came back. Wages went up and we managed. But this is different. They have crores of money, advertising, a name. Even if they run at a loss for six months, nothing happens to them. For us, six months is enough to shut down."
+  - who: kavya
+    t: "ಒಂದು ದಿನದ ಡೇಟಾ ನೋಡಿ ಹೆದರಬೇಡ. ಹೊಸ ಅಂಗಡಿ ತೆರೆದ ಮೊದಲ ವಾರ ಎಲ್ಲರೂ ಒಂದು ಸಲ ಹೋಗ್ತಾರೆ. ಪ್ರಶ್ನೆ ಏನಂದ್ರೆ, ಎರಡನೇ ಸಲ ಯಾರು ಹೋಗ್ತಾರೆ, ಯಾರು ವಾಪಸ್ ಬರ್ತಾರೆ. ನಾಲ್ಕು ವಾರ ಲೆಕ್ಕ ನೋಡೋಣ."
+    tr: "Ondu dinada ḍēṭā nōḍi hedarabēḍa. Hosa aṅgaḍi tereda modala vāra ellarū ondu sala hōgtāre. Praśne ēnandre, eraḍanē sala yāru hōgtāre, yāru vāpas bartāre. Nālku vāra lekka nōḍōṇa."
+    en: "Don't panic over one day's data. In a new shop's first week, everyone goes once. The question is who goes a second time and who comes back. Let's watch the numbers for four weeks."
+  - who: nitin
+    t: "ನಾಲ್ಕು ವಾರ ನೋಡೋದು ಸರಿ. ಆದ್ರೆ ಕೈ ಕಟ್ಟಿ ಕೂರೋದು ಬೇಡ. ನಾವೂ ಏನಾದ್ರೂ ಮಾಡಬೇಕು. ಎಸಿ? ಕುರ್ಚಿ? ಇನ್‌ಸ್ಟಾಗ್ರಾಂ?"
+    tr: "Nālku vāra nōḍōdu sari. Ādre kai kaṭṭi kūrōdu bēḍa. Nāvū ēnādrū māḍabēku. Esi? Kurchi? Instāgrām?"
+    en: "Watching for four weeks is fine. But let's not sit with folded arms. We have to do something too. AC? Chairs? Instagram?"
+  - who: cook
+    t: "ಐನೂರು ಸ್ಕ್ವೇರ್ ಫೀಟ್‌ನಲ್ಲಿ ಕುರ್ಚಿ ಹಾಕಿದ್ರೆ ಅದು ದರ್ಶಿನಿ ಅಲ್ಲ, ಗೋಡೌನ್. ಅವರ ಥರ ಆಗೋಕೆ ಹೋದ್ರೆ ನಾವು ಸೋಲ್ತೀವಿ. ಅವರು ಮಾಡೋಕಾಗದ್ದು ಏನು, ಅದನ್ನ ಯೋಚನೆ ಮಾಡಿ."
+    tr: "Ainūru skvēr fīṭ-nalli kurchi hākidre adu darśini alla, gōḍaun. Avara thara āgōke hōdre nāvu sōltīvi. Avaru māḍōkāgaddu ēnu, adanna yōchane māḍi."
+    en: "(From the hatch, without looking up) Put chairs in five hundred square feet and it's not a darshini, it's a godown. Try to become like them and we lose. Think about what they can't do."
+  - who: amma
+    t: "ಅವರ ಸಾಂಬಾರ್ ಪುಡಿ ಪ್ಯಾಕೆಟ್‌ನಲ್ಲಿ ಬರುತ್ತೆ ಅಂತ ಶಂಕರ ಹೇಳ್ತಿದ್ದ. ನಮ್ಮದು ಈ ಕೈಯಲ್ಲಿ ಬರುತ್ತೆ. ಅದನ್ನ ಅವರು ದುಡ್ಡು ಕೊಟ್ಟು ಕೊಂಡ್ಕೊಳ್ಳೋಕಾಗಲ್ಲ."
+    tr: "Avara sāmbār puḍi pyākeṭ-nalli barutte anta Śaṅkara hēḷtidda. Nammadu ī kaiyalli barutte. Adanna avaru duḍḍu koṭṭu koṇḍkoḷḷōkāgalla."
+    en: "Shankara used to say their sambar powder comes in packets. Ours comes from these hands. That's something they can't buy with money."
+
+  - section: "What a chain can't copy"
+    learn: "differentiation: avarige illaddu, yārū kāpi māḍōkāgalla · weekly specials: sōmavāra nīr dōse, guruvāra Maṅgaḷūru bans, bhānuvāra patroḍe · brass: hittāḷe lōṭa-ḍavara · regulars: ārḍar hēḷōdē bēḍa, ī bīdiyavanu · a trend in numbers: hadineṇṭu, hattu, aidu… hindina maṭṭakke"
+  - scene: "Sunday, 4 October, 10 p.m. Family meeting at the shop after closing. Basavaraj and Dev are scrubbing the griddle."
+  - who: mahesh
+    t: "ನಾಲ್ಕು ವಿಷಯ ಯೋಚನೆ ಮಾಡಿದೀನಿ. ಒಂದು: ಕಾಫಿ. ಅವರದು ಮಷೀನ್ ಕಾಫಿ, ಅರವತ್ತು ರೂಪಾಯಿ. ನಮ್ಮದು ಪ್ರತಿ ಎರಡು ಗಂಟೆಗೆ ಹೊಸ ಡಿಕಾಕ್ಷನ್, ಹಿತ್ತಾಳೆ ಲೋಟ-ಡವರದಲ್ಲಿ, ನೊರೆ ಸಮೇತ, ಇಪ್ಪತ್ತೈದು. ಆ ವ್ಯತ್ಯಾಸ ಜನರ ಕಣ್ಣಿಗೆ ಕಾಣಬೇಕು."
+    tr: "Nālku viṣaya yōchane māḍidīni. Ondu: kāphi. Avaradu maśīn kāphi, aravattu rūpāyi. Nammadu prati eraḍu gaṇṭege hosa ḍikākṣan, hittāḷe lōṭa-ḍavaradalli, nore samēta, ippattaidu. Ā vyatyāsa janara kaṇṇige kāṇabēku."
+    en: "I've thought of four things. One: coffee. Theirs is machine coffee at sixty rupees. Ours is fresh decoction every two hours, served in a brass tumbler and davara, froth and all, at twenty-five. People have to be able to see that difference."
+  - who: kavya
+    t: "ನೂರು ಹಿತ್ತಾಳೆ ಲೋಟ-ಡವರ ಅಂದ್ರೆ ಸುಮಾರು ನಲವತ್ತು ಸಾವಿರ. ಕೆಲವು ಮಾಯ ಆಗಬಹುದು. ಆದ್ರೂ… ಸರಿ, ಐವತ್ತರಿಂದ ಶುರು ಮಾಡೋಣ."
+    tr: "Nūru hittāḷe lōṭa-ḍavara andre sumāru nalavattu sāvira. Kelavu māya āgabahudu. Ādrū… sari, aivattarinda śuru māḍōṇa."
+    en: "A hundred brass tumbler sets would be about forty thousand. Some may vanish. Still… all right, let's start with fifty."
+  - who: mahesh
+    t: "ಎರಡು: ವಾರದ ವಿಶೇಷ, ಅಮ್ಮನ ಅಡುಗೆ. ಸೋಮವಾರ ನೀರ್ ದೋಸೆ, ಗುರುವಾರ ಮಂಗಳೂರು ಬನ್ಸ್, ಭಾನುವಾರ ಅಮ್ಮನ ಪತ್ರೊಡೆ. ಯಾವ ಚೈನ್ ಮೆನುವಿನಲ್ಲೂ ಇವು ಇಲ್ಲ."
+    tr: "Eraḍu: vārada viśēṣa, Ammana aḍuge. Sōmavāra nīr dōse, guruvāra Maṅgaḷūru bans, bhānuvāra Ammana patroḍe. Yāva chain menuvinallū ivu illa."
+    en: "Two: a weekly special, Amma's cooking. Monday neer dose, Thursday Mangalore buns, Sunday Amma's patrode. These aren't on any chain's menu."
+  - who: amma
+    t: "ಪತ್ರೊಡೆಗೆ ಕೆಸುವಿನ ಎಲೆ ಊರಿಂದಲೇ ಬರಬೇಕು. ಇಲ್ಲಿನ ಎಲೆ ಗಂಟಲು ತುರಿಸುತ್ತೆ. ರಮೇಶನಿಗೆ ಹೇಳು, ಉಡುಪಿ ಬಸ್‌ನಲ್ಲಿ ತರಿಸೋಕೆ."
+    tr: "Patroḍege kesuvina ele ūrindalē barabēku. Illina ele gaṇṭalu turisutte. Ramēśanige hēḷu, Uḍupi bas-nalli tarisōke."
+    en: "For patrode, the colocasia leaves have to come from home. The leaves here make your throat itch. Tell Ramesh to have them sent on the Udupi bus."
+  - who: helper
+    t: "ನೀರ್ ದೋಸೆ ನಾನು ಹಾಕ್ತೀನ್ರಿ ಅಮ್ಮಾರ, ನೀವು ಹೇಳಿಕೊಡ್ರಿ. ಉತ್ತರ ಕರ್ನಾಟಕದ ಹುಡುಗ ಉಡುಪಿ ದೋಸೆ ಹಾಕಿದ್ರ, ಅದೇ ಒಂದು ಸುದ್ದಿ ಆಗತೈತಿ."
+    tr: "Nīr dōse nānu hāktīnri Ammāra, nīvu hēḷikoḍri. Uttara Karnāṭakada huḍuga Uḍupi dōse hākidra, adē ondu suddi āgataiti."
+    en: "I'll make the neer dose, Amma; you teach me. A North Karnataka boy making an Udupi dosa: that'll be news in itself."
+  - who: mahesh
+    t: "ಮೂರು: ಹೆಸರು. ಪ್ರತಿ ದಿನ ಬರೋರ ಹೆಸರು, ಅವರ ಕಾಫಿ ಹೇಗೆ ಅಂತ ನಮಗೆ ಗೊತ್ತು. ಅದನ್ನ ಇನ್ನೂ ಚೆನ್ನಾಗಿ ಮಾಡೋಣ. ನಾಲ್ಕು: ರೇಟ್. ಅವರ ಅರ್ಧ ರೇಟ್‌ನಲ್ಲಿ ಅವರಿಗಿಂತ ಬಿಸಿ ತಿಂಡಿ, ಐದು ನಿಮಿಷದಲ್ಲಿ."
+    tr: "Mūru: hesaru. Prati dina barōra hesaru, avara kāphi hēge anta namage gottu. Adanna innū chennāgi māḍōṇa. Nālku: rēṭ. Avara ardha rēṭ-nalli avariginta bisi tiṇḍi, aidu nimiṣadalli."
+    en: "Three: names. We know the names of the people who come every day and how they take their coffee. Let's do that even better. Four: price. Hotter food than theirs, at half their price, in five minutes."
+  - who: nitin
+    t: "ಮತ್ತೆ ಒಂದು ಸಣ್ಣ ಇನ್‌ಸ್ಟಾಗ್ರಾಂ ಪೇಜ್. ದುಡ್ಡಿನ ಜಾಹೀರಾತು ಬೇಡ. ಬೆಳಗ್ಗೆ ಐದು ಗಂಟೆಗೆ ಶಂಕರಣ್ಣನ ಕಾವಲಿ, ಅಮ್ಮನ ಚಟ್ನಿ, ದೇವ್‌ನ ಕನ್ನಡ. ಅದನ್ನ ಯಾರೂ ಕಾಪಿ ಮಾಡೋಕಾಗಲ್ಲ."
+    tr: "Matte ondu saṇṇa Instāgrām pēj. Duḍḍina jāhīrātu bēḍa. Beḷagge aidu gaṇṭege Śaṅkaraṇṇana kāvali, Ammana chaṭni, Dēv-na Kannaḍa. Adanna yārū kāpi māḍōkāgalla."
+    en: "And a small Instagram page. No paid ads. Shankara-anna's griddle at five in the morning, Amma's chutney, Dev's Kannada. Nobody can copy that."
+  - who: cook
+    t: "ನನ್ನ ಮುಖ ಬೇಡ, ಕಾವಲಿ ಮಾತ್ರ ತೋರಿಸು. ಕಾವಲಿ ನನಗಿಂತ ಚೆನ್ನಾಗಿ ಕಾಣುತ್ತೆ."
+    tr: "Nanna mukha bēḍa, kāvali mātra tōrisu. Kāvali nanaginta chennāgi kāṇutte."
+    en: "Not my face; show only the griddle. The griddle looks better than I do."
+
+  - section: "Leaves on the Udupi bus"
+    learn: "supply chains: kattarisida tarakāri pyākeṭ-nalli, lāri, gōḍaun, pārsel raśīdi · judging produce: hasiru, dappa, daṇṭu kappagide · paying ahead: duḍḍu muñchenē koḍtīni · market wisdom: … sāyōdu ruchi badalādāga mātra"
+  - scene: "Saturday, 10 October, 5:15 a.m. Ramesh's tempo at the shutter. On top of the vegetable crates sits a bundle wrapped in wet newspaper."
+  - who: supplier
+    t: "ಮಹೇಶಣ್ಣ, ಅಮ್ಮನ ಎಲೆ! ರಾತ್ರಿ ಉಡುಪಿ ಬಸ್‌ನಲ್ಲಿ ಬಂತು. ಪಾರ್ಸೆಲ್ ರಶೀದಿನೂ ಇದೆ, ನೋಡಿ. ನಿಮ್ಮ ಮನೆಯವರಿಗೆ ತೋರಿಸಿ, ಇಲ್ಲಾಂದ್ರೆ ನನ್ನನ್ನೂ ಊರಿಂದ ಹೊರಗೆ ಹಾಕ್ತಾರೆ."
+    tr: "Mahēśaṇṇa, ammana ele! Rātri Uḍupi bas-nalli bantu. Pārsel raśīdinū ide, nōḍi. Nimma maneyavarige tōrisi, illāndre nannannū ūrinda horage hāktāre."
+    en: "Mahesh-anna, Amma's leaves! They came on the Udupi bus last night. There's a parcel receipt too, look. Show it to your wife, or she'll throw me out of town as well."
+  - who: mahesh
+    t: "ರಶೀದಿ ಸಮೇತ ಕೆಸುವಿನ ಎಲೆ! ಕಾವ್ಯ ಖುಷಿಪಡ್ತಾಳೆ. ರಮೇಶಣ್ಣ, ಆ ಹೊಸ ಕೆಫೆಗೆ ತರಕಾರಿ ಯಾರು ಕೊಡ್ತಾರೆ?"
+    tr: "Raśīdi samēta kesuvina ele! Kāvya khuṣipaḍtāḷe. Rameśaṇṇa, ā hosa kephege tarakāri yāru koḍtāre?"
+    en: "Colocasia leaves with a receipt! Kavya will be thrilled. Ramesh-anna, who supplies vegetables to that new café?"
+  - who: supplier
+    t: "ಅವರಿಗೆ ನಮ್ಮಂಥವರು ಬೇಡ. ಊರಿನ ಹೊರಗಿನ ದೊಡ್ಡ ಗೋಡೌನ್‌ನಿಂದ ಕತ್ತರಿಸಿದ ತರಕಾರಿ ಪ್ಯಾಕೆಟ್‌ನಲ್ಲಿ ಬರುತ್ತೆ, ಲಾರಿಯಲ್ಲಿ. ಬೆಳಗ್ಗೆ ಮಾರ್ಕೆಟ್‌ನಲ್ಲಿ ಯಾವ ಟೊಮ್ಯಾಟೋ ಚೆನ್ನಾಗಿದೆ ಅಂತ ಅವರಿಗೆ ಗೊತ್ತಿಲ್ಲ, ಗೊತ್ತಾಗೋದೂ ಬೇಡ."
+    tr: "Avarige nammanthavaru bēḍa. Ūrina horagina doḍḍa gōḍaun-ninda kattarisida tarakāri pyākeṭ-nalli barutte, lāriyalli. Beḷagge mārkeṭ-nalli yāva ṭomyāṭō chennāgide anta avarige gottilla, gottāgōdū bēḍa."
+    en: "They don't need people like us. Their vegetables come ready-cut in packets, by lorry, from a big warehouse outside the city. They don't know which tomatoes are good at the market in the morning, and they don't need to."
+  - who: amma
+    t: "ಎಲೆ ನೋಡು ಮಹೇಶ. ಹಸಿರು, ದಪ್ಪ, ದಂಟು ಕಪ್ಪಗಿದೆ. ಇದೇ ಸರಿಯಾದ ಕೆಸು, ಗಂಟಲು ತುರಿಸಲ್ಲ. ರಮೇಶ, ಪ್ರತಿ ಶುಕ್ರವಾರ ರಾತ್ರಿ ಬೇಕು. ದುಡ್ಡು ಮುಂಚೆನೇ ಕೊಡ್ತೀನಿ."
+    tr: "Ele nōḍu Mahēśa. Hasiru, dappa, daṇṭu kappagide. Idē sariyāda kesu, gaṇṭalu turisalla. Ramēśa, prati śukravāra rātri bēku. Duḍḍu muñchenē koḍtīni."
+    en: "Look at these leaves, Mahesha. Green, thick, and the stalks are dark. This is the right colocasia; it won't make your throat itch. Ramesha, I want them every Friday night. I'll pay in advance."
+  - who: supplier
+    t: "ಮುಂಚೆ ದುಡ್ಡು ಯಾರೂ ಕೊಡಲ್ಲ ಅಮ್ಮ, ನೀವೊಬ್ಬರೇ. ಮಹೇಶಣ್ಣ, ಚೈನ್ ಬಂದ್ರೆ ಭಯ ಬೇಡ. ಮೂವತ್ತು ವರ್ಷದಿಂದ ಮಾರ್ಕೆಟ್‌ನಲ್ಲಿ ನೋಡಿದೀನಿ: ದೊಡ್ಡ ಅಂಗಡಿ ಬಂದಾಗ ಸಣ್ಣ ಅಂಗಡಿ ಸಾಯೋದು ಅದರ ರುಚಿ ಬದಲಾದಾಗ ಮಾತ್ರ."
+    tr: "Muñche duḍḍu yārū koḍalla amma, nīvobbarē. Mahēśaṇṇa, chain bandre bhaya bēḍa. Mūvattu varṣadinda mārkeṭ-nalli nōḍidīni: doḍḍa aṅgaḍi bandāga saṇṇa aṅgaḍi sāyōdu adara ruchi badalādāga mātra."
+    en: "Nobody pays in advance, Amma; only you. Mahesh-anna, don't be afraid of the chain. I've watched the market for thirty years: when a big shop arrives, a small one dies only if its own taste changes."
+  - who: mahesh
+    t: "ರುಚಿ ಬದಲಾಗಲ್ಲ. ಕೈ ಅದೇ, ಕಾವಲಿ ಅದೇ, ಎಲೆ ಕೂಡ ಅದೇ ಊರಿಂದ."
+    tr: "Ruchi badalāgalla. Kai adē, kāvali adē, ele kūḍa adē ūrinda."
+    en: "The taste won't change. Same hands, same griddle, and even the leaves come from the same place."
+  - scene: "Saturday, 24 October, 7:30 a.m. Sam comes up to the counter. Brass tumblers gleam on a new shelf."
+  - who: sam
+    t: "ಮಹೇಶ್ ಅವರೇ, ಒಂದು ತಪ್ಪೊಪ್ಪಿಗೆ. ಹೋದ ವಾರ ಆ ಹೊಸ ಕೆಫೆಗೆ ಹೋಗಿದ್ದೆ. ಕಾಫಿ ಚೆನ್ನಾಗಿತ್ತು, ಎಸಿ ಚೆನ್ನಾಗಿತ್ತು. ಆದ್ರೆ ಯಾರಿಗೂ ನನ್ನ ಹೆಸರು ಗೊತ್ತಿಲ್ಲ. ಕಪ್ ಮೇಲೆ ‘ಸ್ಯಾಮ್’ ಬದಲಿಗೆ ‘ಸ್ಯಾಂಡಿ’ ಅಂತ ಬರೆದಿದ್ರು."
+    tr: "Mahēś avarē, ondu tappoppige. Hōda vāra ā hosa kephege hōgidde. Kāphi chennāgittu, esi chennāgittu. Ādre yārigū nanna hesaru gottilla. Kap mēle ‘Syām’ badalige ‘Syāṇḍi’ anta baredidru."
+    en: "Mahesh, a confession. Last week I went to that new café. The coffee was good, the AC was good. But nobody knows my name. On the cup, instead of ‘Sam’ they wrote ‘Sandy’."
+  - who: dev
+    t: "ಸ್ಯಾಮ್ ಸಾರ್: ಸ್ಟ್ರಾಂಗ್, ಸಕ್ಕರೆ ಕಮ್ಮಿ, ಹಿತ್ತಾಳೆ ಲೋಟದಲ್ಲಿ. ಆರ್ಡರ್ ಹೇಳೋದೇ ಬೇಡ. ಮತ್ತೆ ಇವತ್ತು ಶನಿವಾರ, ಅಜ್ಜಿಗೆ ಕೇಸರಿ ಬಾತ್ ಪಾರ್ಸೆಲ್ ಅಲ್ವಾ?"
+    tr: "Syām sār: sṭrāṅg, sakkare kammi, hittāḷe lōṭadalli. Ārḍar hēḷōdē bēḍa. Matte ivattu śanivāra, ajjige kēsari bāt pārsel alvā?"
+    en: "Sam sir: strong, less sugar, in a brass tumbler. You don't even need to order. And today is Saturday, so a kesari bath parcel for Ajji, right?"
+  - who: sam
+    t: "ನೋಡಿದ್ರಾ? ಇದನ್ನ ಯಾವ ಚೈನ್ ಕೂಡ ಕೊಡೋಕಾಗಲ್ಲ. ಇಲ್ಲಿ ನಾನು ಗಿರಾಕಿ ಅಲ್ಲ, ಈ ಬೀದಿಯವನು."
+    tr: "Nōḍidrā? Idanna yāva chain kūḍa koḍōkāgalla. Illi nānu girāki alla, ī bīdiyavanu."
+    en: "See? No chain can give you this. Here I'm not a customer; I belong to this street."
+  - who: customer
+    t: "ನಾನೂ ಹೋಗಿದ್ದೆ, ನಿಜ ಹೇಳ್ತೀನಿ. ನೂರ ಮೂವತ್ತು ರೂಪಾಯಿ ದೋಸೆ, ಇಪ್ಪತ್ತು ನಿಮಿಷ ಕಾಯಬೇಕು. ಇಲ್ಲಿ ತೊಂಬತ್ತು, ಐದು ನಿಮಿಷ. ಮತ್ತೆ ಆ ಪತ್ರೊಡೆ ಭಾನುವಾರ ಮಾತ್ರನಾ? ಶನಿವಾರನೂ ಮಾಡಿ."
+    tr: "Nānū hōgidde, nija hēḷtīni. Nūra mūvattu rūpāyi dōse, ippattu nimiṣa kāyabēku. Illi tombattu, aidu nimiṣa. Matte ā patroḍe bhānuvāra mātranā? Śanivāranū māḍi."
+    en: "(The elderly walker) I went too, I'll be honest. A hundred-and-thirty-rupee dosa and a twenty-minute wait. Here it's ninety and five minutes. And is that patrode only on Sundays? Make it on Saturdays too."
+  - who: amma
+    t: "ಎಲೆ ಬಂದ್ರೆ ಮಾಡ್ತೀನಿ. ಎಲ್ಲಾ ಉಡುಪಿ ಬಸ್‌ನ ಕೈಯಲ್ಲಿದೆ."
+    tr: "Ele bandre māḍtīni. Ellā Uḍupi bas-na kaiyallide."
+    en: "If the leaves come, I'll make it. It's all up to the Udupi bus."
+  - scene: "That night, Kavya turns her laptop round so Mahesh can see the chart."
+  - who: kavya
+    t: "ನಾಲ್ಕು ವಾರದ ಲೆಕ್ಕ. ಮೊದಲ ವಾರ ಹದಿನೆಂಟು ಪರ್ಸೆಂಟ್ ಕಮ್ಮಿ, ಎರಡನೇ ವಾರ ಹತ್ತು, ಮೂರನೇ ವಾರ ಐದು. ಈ ವಾರ ಬೆಳಗಿನ ಬಿಲ್ ಹಿಂದಿನ ಮಟ್ಟಕ್ಕೆ ಬಂದಿದೆ. ಕಾಲೇಜ್ ಹುಡುಗರು ಅಲ್ಲೇ ಇದ್ದಾರೆ, ಆದ್ರೆ ನಮ್ಮ ಹಳೇ ಗಿರಾಕಿಗಳು ವಾಪಸ್ ಬಂದಿದ್ದಾರೆ. ಭಾನುವಾರದ ಪತ್ರೊಡೆ ಹನ್ನೊಂದು ಗಂಟೆಗೆ ಖಾಲಿ."
+    tr: "Nālku vārada lekka. Modala vāra hadineṇṭu parsenṭ kammi, eraḍanē vāra hattu, mūranē vāra aidu. Ī vāra beḷagina bil hindina maṭṭakke bandide. Kālēj huḍugaru allē iddāre, ādre namma haḷē girākigaḷu vāpas bandiddāre. Bhānuvārada patroḍe hannondu gaṇṭege khāli."
+    en: "Four weeks of numbers. The first week eighteen percent down, the second ten, the third five. This week the morning bills are back to the old level. The college kids are still over there, but our old regulars have come back. Sunday's patrode was sold out by eleven."
+  - who: mahesh
+    t: "ಹುಡುಗರು ಅಲ್ಲೇ ಇರಲಿ. ತಿಂಗಳ ಕೊನೆಗೆ ಅವರ ಜೇಬು ಖಾಲಿ ಆದಾಗ, ಇಲ್ಲಿ ಬಿಸಿ ಇಡ್ಲಿ ಕಾಯ್ತಿರುತ್ತೆ. ನಲವತ್ತು ರೂಪಾಯಿಗೆ."
+    tr: "Huḍugaru allē irali. Tingaḷa konege avara jēbu khāli ādāga, illi bisi iḍli kāytirutte. Nalavattu rūpāyige."
+    en: "Let the kids stay there. At the end of the month, when their pockets are empty, a hot idli will be waiting here. For forty rupees."
+
+  - chapter: "Chapter 10 — One year"
+  - section: "Eight rupees a litre"
+    learn: "another price rise: līṭar-ge eṇṭu rūpāyi jāsti, nīli pyākeṭ, mosaru · quick arithmetic: dinakke munnūra aravattu, tingaḷige sumāru hannondu sāvira · absorbing a cost: nāvē hotkoḷḷōṇa, Janavarivarege · reasons: raitarige jāsti koḍōke"
+  - scene: "Wednesday, 28 October 2026, 5 a.m. The Nandini agent's crates are stacked by the door. Latha, in early, reads the news on her phone."
+  - who: cashier
+    t: "ಸಾರ್, ನ್ಯೂಸ್: ನವೆಂಬರ್ ಒಂದರಿಂದ ನಂದಿನಿ ಹಾಲು ಲೀಟರ್‌ಗೆ ಎಂಟು ರೂಪಾಯಿ ಜಾಸ್ತಿ. ನೀಲಿ ಪ್ಯಾಕೆಟ್ ನಲವತ್ತಾರರಿಂದ ಐವತ್ನಾಲ್ಕು. ಮೊಸರು ಲೀಟರ್‌ಗೆ ಹದಿನಾಲ್ಕು ಜಾಸ್ತಿ. ರೈತರಿಗೆ ಜಾಸ್ತಿ ಕೊಡೋಕೆ ಅಂತ ಸರ್ಕಾರ ಹೇಳ್ತಿದೆ."
+    tr: "Sār, nyūs: Navembar ondarinda Nandini hālu līṭar-ge eṇṭu rūpāyi jāsti. Nīli pyākeṭ nalavattārarinda aivatnālku. Mosaru līṭar-ge hadinālku jāsti. Raitarige jāsti koḍōke anta sarkāra hēḷtide."
+    en: "Sir, news: from the first of November, Nandini milk goes up eight rupees a litre. The blue packet from forty-six to fifty-four. Curd up fourteen a litre. The government says it's so that farmers get more."
+  - who: mahesh
+    t: "ದಿನಕ್ಕೆ ನಲವತ್ತೈದು ಲೀಟರ್. ಅಂದ್ರೆ ದಿನಕ್ಕೆ ಮುನ್ನೂರ ಅರವತ್ತು, ತಿಂಗಳಿಗೆ ಸುಮಾರು ಹನ್ನೊಂದು ಸಾವಿರ. ಮೊಸರು ಸೇರಿಸಿದ್ರೆ ಇನ್ನೂ ಜಾಸ್ತಿ. ತುಪ್ಪನೂ ಏರುತ್ತೆ ಅಂತ ಮಾತಿದೆ. ಕಾಫಿ ರೇಟ್ ಮತ್ತೆ ಏರಿಸಬೇಕಾ?"
+    tr: "Dinakke nalavattaidu līṭar. Andre dinakke munnūra aravattu, tingaḷige sumāru hannondu sāvira. Mosaru sērisidre innū jāsti. Tuppanū ērutte anta mātide. Kāphi rēṭ matte ērisabēkā?"
+    en: "Forty-five litres a day. That's three hundred and sixty a day, about eleven thousand a month. More with the curd. There's talk that ghee will go up too. Do we raise the coffee price again?"
+  - who: cook
+    t: "ರೈತರಿಗೆ ಹೋಗೋ ದುಡ್ಡಿಗೆ ನಾನು ಬೈಯಲ್ಲ. ನಮ್ಮೂರಲ್ಲಿ ನನ್ನ ಅಣ್ಣನ ಮನೆಯಲ್ಲಿ ಎರಡು ದನ ಇವೆ, ಹಾಲು ಡೈರಿಗೆ ಹಾಕ್ತಾನೆ. ಅವನಿಗೆ ಲೀಟರ್‌ಗೆ ಏನು ಸಿಗುತ್ತೆ ಅಂತ ನನಗೆ ಗೊತ್ತು."
+    tr: "Raitarige hōgō duḍḍige nānu baiyalla. Nammūralli nanna aṇṇana maneyalli eraḍu dana ive, hālu ḍairige hāktāne. Avanige līṭar-ge ēnu sigutte anta nanage gottu."
+    en: "I won't curse money that goes to farmers. Back home my elder brother has two cows and pours his milk at the dairy. I know what he gets for a litre."
+  - who: amma
+    t: "ಕಾಫಿ ಇಪ್ಪತ್ತೈದೇ ಇರಲಿ. ಜೂನ್‌ನಲ್ಲಿ ಏರಿಸಿದ್ದೀವಿ, ಇನ್ನೂ ಆರು ತಿಂಗಳೂ ಆಗಿಲ್ಲ. ಹಾಲಿನ ಏರಿಕೆಯನ್ನ ನಾವೇ ಹೊತ್ಕೊಳ್ಳೋಣ, ಜನವರಿವರೆಗೆ."
+    tr: "Kāphi ippattaidē irali. Jūn-nalli ērisiddīvi, innū āru tingaḷū āgilla. Hālina ērikeyanna nāvē hotkoḷḷōṇa, Janavarivarege."
+    en: "Let the coffee stay at twenty-five. We raised it in June; it hasn't even been six months. We'll carry the milk increase ourselves, until January."
+  - who: mahesh
+    t: "ಸರಿ. ಜನವರಿಯಲ್ಲಿ ಲೆಕ್ಕ ನೋಡಿ ನಿರ್ಧಾರ. ಲತಾ, ಈ ಸಲ ಬೋರ್ಡ್ ಬೇಡ. ಬದಲಾಗಿರೋದು ನಮ್ಮ ಖರ್ಚು ಮಾತ್ರ, ಗಿರಾಕಿಯ ಬಿಲ್ ಅಲ್ಲ."
+    tr: "Sari. Janavariyalli lekka nōḍi nirdhāra. Latā, ī sala bōrḍ bēḍa. Badalāgirōdu namma kharchu mātra, girākiya bil alla."
+    en: "All right. We decide in January after looking at the numbers. Latha, no board this time. What's changed is only our cost, not the customer's bill."
+  - who: dev
+    t: "ಸಾರ್, ಹಾಗಾದ್ರೆ ನಾನು ಹಾಲು ಕಾಯಿಸೋವಾಗ ಒಂದು ಹನಿನೂ ಉಕ್ಕಿ ಚೆಲ್ಲಲ್ಲ. ಪ್ರಾಮಿಸ್."
+    tr: "Sār, hāgādre nānu hālu kāyisōvāga ondu haninū ukki chellalla. Prāmis."
+    en: "Sir, then when I boil the milk, not one drop will boil over. Promise."
+
+  - section: "The landlord's coffee"
+    learn: "lease reminders: Janavariyinda aidu parsenṭ ērike, lāk-in mugida mēle · a tempting offer reported: … koḍtīvi andru · loyalty and its limits: aidu parsenṭē, adakkinta ondu rūpāyinū kammi illa · old-man humour: ḍākṭar ājñe"
+  - scene: "Friday, 30 October, 6:30 a.m. Mr. Venkatesh Murthy comes down the stairs in his shawl, walking stick in hand, as he does most mornings now."
+  - who: landlord
+    t: "ಮಹೇಶ, ಒಂದು ಕಾಫಿ. ಸಕ್ಕರೆ ಇಲ್ಲ, ಡಾಕ್ಟರ್ ಆಜ್ಞೆ. ಲೀಸ್‌ಗೆ ಸಹಿ ಹಾಕಿ ಒಂದು ವರ್ಷ ಆಗ್ತಾ ಬಂತಲ್ಲ? ಹೇಗಿತ್ತು ವರ್ಷ?"
+    tr: "Mahēśa, ondu kāphi. Sakkare illa, ḍākṭar ājñe. Līs-ge sahi hāki ondu varṣa āgtā bantalla? Hēgittu varṣa?"
+    en: "Mahesha, a coffee. No sugar, doctor's orders. It's nearly a year since you signed the lease, isn't it? How was the year?"
+  - who: mahesh
+    t: "ಸಾರ್, ಗ್ಯಾಸ್ ಇಲ್ಲದ ತಿಂಗಳು, ಸಂಬಳದ ಆದೇಶ, ನೋಟಿಸ್, ಚೈನ್ ಕೆಫೆ… ಒಂದು ವರ್ಷದಲ್ಲಿ ಹತ್ತು ವರ್ಷದ ಪಾಠ. ಆದ್ರೆ ಒಂದು ತಿಂಗಳೂ ನಿಮ್ಮ ಬಾಡಿಗೆ ತಡ ಆಗಿಲ್ಲ."
+    tr: "Sār, gyās illada tingaḷu, sambaḷada ādēśa, nōṭis, chain kephe… ondu varṣadalli hattu varṣada pāṭha. Ādre ondu tingaḷū nimma bāḍige taḍa āgilla."
+    en: "Sir, a month without gas, the wage order, a notice, a chain café… ten years of lessons in one year. But not one month was your rent late."
+  - who: landlord
+    t: "ಅದು ಗೊತ್ತು. ಐದನೇ ತಾರೀಖು ಹತ್ತು ಗಂಟೆಗೆ ಮುಂಚೆ ನನ್ನ ಫೋನ್‌ಗೆ ಮೆಸೇಜ್ ಬರುತ್ತೆ. ಜನವರಿಯಿಂದ ಐದು ಪರ್ಸೆಂಟ್ ಏರಿಕೆ, ಒಂದು ಲಕ್ಷ ಐದು ಸಾವಿರ. ಅದು ಲೀಸ್‌ನಲ್ಲಿದೆ, ನೆನಪಿರಲಿ."
+    tr: "Adu gottu. Aidanē tārīkhu hattu gaṇṭege muñche nanna phōn-ge mesēj barutte. Janavariyinda aidu parsenṭ ērike, ondu lakṣa aidu sāvira. Adu līs-nallide, nenapirali."
+    en: "I know. On the fifth, before ten o'clock, the message comes to my phone. From January there's the five percent increase: one lakh five thousand. It's in the lease; don't forget."
+  - who: mahesh
+    t: "ನೆನಪಿದೆ ಸಾರ್. ಕಾವ್ಯನ ಶೀಟ್‌ನಲ್ಲಿ ಜನವರಿಯ ಸಾಲು ಆಗಲೇ ಹಳದಿ ಬಣ್ಣದಲ್ಲಿದೆ."
+    tr: "Nenapide sār. Kāvyana śīṭ-nalli Janavariya sālu āgalē haḷadi baṇṇadallide."
+    en: "I remember, sir. In Kavya's sheet, January's row is already highlighted in yellow."
+  - who: landlord
+    t: "ಇನ್ನೊಂದು ವಿಷಯ ಹೇಳಬೇಕು. ಹೋದ ವಾರ ಆ ಚೈನ್ ಕೆಫೆಯವರು ಇಬ್ರು ಸೂಟ್ ಹಾಕ್ಕೊಂಡು ಬಂದಿದ್ರು. ‘ಲಾಕ್-ಇನ್ ಮುಗಿದ ಮೇಲೆ ಈ ಜಾಗ ನಮಗೆ ಕೊಡಿ, ಒಂದೂವರೆ ಲಕ್ಷ ಬಾಡಿಗೆ ಕೊಡ್ತೀವಿ’ ಅಂದ್ರು."
+    tr: "Innondu viṣaya hēḷabēku. Hōda vāra ā chain kepheyavaru ibru sūṭ hākkoṇḍu bandidru. ‘Lāk-in mugida mēle ī jāga namage koḍi, ondūvare lakṣa bāḍige koḍtīvi’ andru."
+    en: "There's something else I should tell you. Last week two men in suits from that chain café came to see me. They said, ‘When the lock-in ends, give us this space. We'll pay a lakh and a half in rent.’"
+  - who: mahesh
+    t: "ಒಂದೂವರೆ ಲಕ್ಷ… ಸಾರ್, ನೀವೇನು ಹೇಳಿದ್ರಿ?"
+    tr: "Ondūvare lakṣa… sār, nīvēnu hēḷidri?"
+    en: "(After a long pause) A lakh and a half… Sir, what did you tell them?"
+  - who: landlord
+    t: "ಮಾರ್ಚ್‌ನಲ್ಲಿ ನನ್ನ ಮನೆ ಸಿಲಿಂಡರ್ ಬುಕ್ ಆಗದೆ ಇದ್ದಾಗ ಹತ್ತು ದಿನ ಬೆಳಗ್ಗೆ ಮೇಲೆ ಇಡ್ಲಿ ಕಳಿಸಿದ್ದು ಯಾರು? ನಿನ್ನ ಅಮ್ಮ. ಆ ಸೂಟ್‌ನವರಲ್ಲ. ‘ನನಗೆ ಬಾಡಿಗೆದಾರ ಇದಾನೆ, ಹೋಗಿ’ ಅಂದೆ. ಆದ್ರೆ ಕೇಳು: ಏರಿಕೆ ಐದು ಪರ್ಸೆಂಟೇ. ಅದಕ್ಕಿಂತ ಒಂದು ರೂಪಾಯಿನೂ ಕಮ್ಮಿ ಇಲ್ಲ."
+    tr: "Mārch-nalli nanna mane silinḍar buk āgade iddāga hattu dina beḷagge mēle iḍli kaḷisiddu yāru? Ninna amma. Ā sūṭ-navaralla. ‘Nanage bāḍigedāra idāne, hōgi’ ande. Ādre kēḷu: ērike aidu parsenṭē. Adakkinta ondu rūpāyinū kammi illa."
+    en: "In March, when I couldn't book a cylinder for my own kitchen, who sent idlis upstairs every morning for ten days? Your mother. Not those men in suits. I told them, ‘I have a tenant. Off you go.’ But listen: the increase is five percent. Not one rupee less."
+  - who: mahesh
+    t: "ಐದು ಪರ್ಸೆಂಟ್ ಸಾರ್, ಒಂದು ರೂಪಾಯಿನೂ ಕಮ್ಮಿ ಬೇಡ. ಮತ್ತೆ ಈ ಕಾಫಿಗೆ ಬಿಲ್ ಇಲ್ಲ."
+    tr: "Aidu parsenṭ sār, ondu rūpāyinū kammi bēḍa. Matte ī kāphige bil illa."
+    en: "Five percent, sir, and not one rupee less. And there's no bill for this coffee."
+  - who: landlord
+    t: "ಬಿಲ್ ಇಲ್ಲದ ಕಾಫಿ? ನಿನ್ನ ಹೆಂಡತಿಗೆ ಗೊತ್ತಾದ್ರೆ…"
+    tr: "Bil illada kāphi? Ninna heṇḍatige gottādre…"
+    en: "A coffee without a bill? If your wife finds out…"
+  - who: mahesh
+    t: "ಅವಳ ಶೀಟ್‌ನಲ್ಲಿ ಇದಕ್ಕೇ ಒಂದು ಕಾಲಂ ಇದೆ ಸಾರ್: ‘ಮೂರ್ತಿ ಸಾರ್ ಕಾಫಿ’."
+    tr: "Avaḷa śīṭ-nalli idakkē ondu kālam ide sār: ‘Mūrti sār kāphi’."
+    en: "Her sheet has a column just for this, sir: ‘Murthy sir's coffee’."
+
+  - section: "An offer from the chain"
+    learn: "an honest exit talk: nēravāgi mātāḍōnu, hēḷade hōgōnu kaḷḷa · comparing offers: nalavatteṇṭu vs mūvattaidu, hadimūru sāvira vyatyāsa, varṣakke ondūvare lakṣa · a counter-offer within limits: nanninda āgōdu iṣṭu, baḍḍi illada muṅgaḍa, sambaḷadalli kaḷeyōṇa · letting go with dignity: khuṣiyinda kaḷistīni, bāgilu tegedirutte"
+  - scene: "Friday, 30 October, 10 p.m. Everyone else has gone. Shankara stays back, washes his hands slowly, and sits down on a crate opposite Mahesh."
+  - who: cook
+    t: "ಯಜಮಾನ್ರೇ, ನಾನು ನೇರವಾಗಿ ಮಾತಾಡೋನು, ನಿಮಗೆ ಗೊತ್ತು. ಹೊಸ ಕೆಫೆಯ ಮ್ಯಾನೇಜರ್ ಮೂರು ಸಲ ಬಂದಿದ್ದ. ಅವರ ಸೆಂಟ್ರಲ್ ಕಿಚನ್‌ಗೆ ಹೆಡ್ ಕುಕ್ ಬೇಕಂತೆ. ತಿಂಗಳಿಗೆ ನಲವತ್ತೆಂಟು ಸಾವಿರ, ರೂಮ್, ಪಿಎಫ್, ಇನ್ಶೂರೆನ್ಸ್. ವಾರಕ್ಕೆ ಒಂದು ದಿನ ರಜೆ."
+    tr: "Yajamānrē, nānu nēravāgi mātāḍōnu, nimage gottu. Hosa kepheya myānējar mūru sala bandidda. Avara senṭral kichan-ge heḍ kuk bēkante. Tingaḷige nalavatteṇṭu sāvira, rūm, pi-eph, inśūrens. Vārakke ondu dina raje."
+    en: "Boss, I'm a man who speaks straight; you know that. The new café's manager has come three times. They need a head cook for their central kitchen. Forty-eight thousand a month, a room, PF, insurance. One day off a week."
+  - who: mahesh
+    t: "ನಲವತ್ತೆಂಟು… ನಾನು ಕೊಡ್ತಿರೋದು ಮೂವತ್ತೈದು. ಹದಿಮೂರು ಸಾವಿರ ವ್ಯತ್ಯಾಸ. ಶಂಕರಣ್ಣ, ಹೇಳಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದ. ನೀವು ಹೇಳದೆ ಹೋಗಬಹುದಿತ್ತು."
+    tr: "Nalavatteṇṭu… nānu koḍtirōdu mūvattaidu. Hadimūru sāvira vyatyāsa. Śaṅkaraṇṇa, hēḷiddakke dhanyavāda. Nīvu hēḷade hōgabahudittu."
+    en: "Forty-eight… I'm paying thirty-five. A difference of thirteen thousand. Shankara-anna, thank you for telling me. You could have just gone without a word."
+  - who: cook
+    t: "ಹೇಳದೆ ಹೋಗೋನು ಅಡುಗೆಯವನಲ್ಲ, ಕಳ್ಳ. ಮುಂದಿನ ವರ್ಷ ನನ್ನ ಮಗಳ ಮದುವೆ. ಹದಿಮೂರು ಸಾವಿರ ಅಂದ್ರೆ ವರ್ಷಕ್ಕೆ ಒಂದೂವರೆ ಲಕ್ಷಕ್ಕಿಂತ ಜಾಸ್ತಿ. ಅದು ಸಣ್ಣ ದುಡ್ಡಲ್ಲ. ಯೋಚನೆ ಮಾಡ್ತಿದೀನಿ, ಸುಳ್ಳು ಹೇಳಲ್ಲ."
+    tr: "Hēḷade hōgōnu aḍugeyavanalla, kaḷḷa. Mundina varṣa nanna magaḷa maduve. Hadimūru sāvira andre varṣakke ondūvare lakṣakkinta jāsti. Adu saṇṇa duḍḍalla. Yōchane māḍtidīni, suḷḷu hēḷalla."
+    en: "A man who leaves without telling isn't a cook; he's a thief. My daughter gets married next year. Thirteen thousand a month is more than a lakh and a half a year. That's not small money. I'm thinking about it; I won't lie."
+  - who: mahesh
+    t: "ನಾನೂ ಸುಳ್ಳು ಹೇಳಲ್ಲ. ನಲವತ್ತೆಂಟು ನನ್ನಿಂದ ಆಗಲ್ಲ. ಈ ವರ್ಷದ ಒಟ್ಟು ಲಾಭವೇ ಅಷ್ಟಿಲ್ಲ; ಶನಿವಾರ ಕಾವ್ಯ ಲೆಕ್ಕ ತೋರಿಸ್ತಾಳೆ, ನೀವೂ ಇರಿ. ನನ್ನಿಂದ ಆಗೋದು ಇಷ್ಟು: ನವೆಂಬರ್‌ನಿಂದ ಮೂವತ್ತೆಂಟು. ದೀಪಾವಳಿಗೆ ಮಾತು ಕೊಟ್ಟ ಒಂದು ತಿಂಗಳ ಬೋನಸ್, ಪೂರ್ತಿ."
+    tr: "Nānū suḷḷu hēḷalla. Nalavatteṇṭu nanninda āgalla. Ī varṣada oṭṭu lābhavē aṣṭilla; śanivāra Kāvya lekka tōristāḷe, nīvū iri. Nanninda āgōdu iṣṭu: Navembar-ninda mūvatteṇṭu. Dīpāvaḷige mātu koṭṭa ondu tingaḷa bōnas, pūrti."
+    en: "I won't lie either. I can't do forty-eight. This year's entire profit isn't that much; Kavya will show the accounts on Saturday, and you should be there. What I can do is this: thirty-eight from November. And the one month's Deepavali bonus I promised, in full."
+  - who: mahesh
+    t: "ಮತ್ತೆ ಮಗಳ ಮದುವೆಗೆ ಒಂದು ಲಕ್ಷ, ಬಡ್ಡಿ ಇಲ್ಲದ ಮುಂಗಡ. ತಿಂಗಳಿಗೆ ಐದು ಸಾವಿರ ಸಂಬಳದಲ್ಲಿ ಕಳೆಯೋಣ. ಇದು ಕಾವ್ಯನ ಶೀಟ್‌ನಲ್ಲಿದೆ, ಸುಮ್ಮನೆ ಹೇಳ್ತಿಲ್ಲ. ಇದಕ್ಕಿಂತ ಜಾಸ್ತಿ ಬೇಕು ಅಂದ್ರೆ, ಹೋಗಿ. ಖುಷಿಯಿಂದ ಕಳಿಸ್ತೀನಿ, ಈ ಬಾಗಿಲು ನಿಮಗೆ ಯಾವಾಗಲೂ ತೆರೆದಿರುತ್ತೆ."
+    tr: "Matte magaḷa maduvege ondu lakṣa, baḍḍi illada muṅgaḍa. Tingaḷige aidu sāvira sambaḷadalli kaḷeyōṇa. Idu Kāvyana śīṭ-nallide, summane hēḷtilla. Idakkinta jāsti bēku andre, hōgi. Khuṣiyinda kaḷistīni, ī bāgilu nimage yāvāgalū teredirutte."
+    en: "And for your daughter's wedding, one lakh as an interest-free advance. We'll deduct five thousand a month from your salary. It's in Kavya's sheet; I'm not just saying it. If you need more than this, go. I'll see you off gladly, and this door will always be open to you."
+  - who: cook
+    t: "ಒಂದು ಮಾತು ಕೇಳಿ. ಅವರ ಸೆಂಟ್ರಲ್ ಕಿಚನ್‌ನಲ್ಲಿ ನಾನು ಏನು ಮಾಡ್ತೀನಿ ಗೊತ್ತಾ? ದಿನಕ್ಕೆ ಐನೂರು ಲೀಟರ್ ಸಾಂಬಾರ್, ಅವರ ರೆಸಿಪಿ ಕಾರ್ಡ್ ಪ್ರಕಾರ, ಪ್ಯಾಕೆಟ್ ಪುಡಿಯಲ್ಲಿ. ಅದು ಲಾರಿಯಲ್ಲಿ ಹತ್ತು ಅಂಗಡಿಗೆ ಹೋಗುತ್ತೆ. ತಿನ್ನೋರ ಮುಖ ನಾನು ಯಾವತ್ತೂ ನೋಡಲ್ಲ."
+    tr: "Ondu mātu kēḷi. Avara senṭral kichan-nalli nānu ēnu māḍtīni gottā? Dinakke ainūru līṭar sāmbār, avara resipi kārḍ prakāra, pyākeṭ puḍiyalli. Adu lāriyalli hattu aṅgaḍige hōgutte. Tinnōra mukha nānu yāvattū nōḍalla."
+    en: "Listen to this. Do you know what I'd do in their central kitchen? Five hundred litres of sambar a day, by their recipe card, from packet powder. It goes by lorry to ten shops. I'd never see the face of a single person who eats it."
+  - who: mahesh
+    t: "ಅದು ನಿಮಗೆ ಗೊತ್ತು ಅಂತ ನನಗೆ ಗೊತ್ತು. ಆದ್ರೆ ಆ ಮಾತು ಹೇಳಿ ನಿಮ್ಮನ್ನ ಇಲ್ಲಿ ಕಟ್ಟಿಹಾಕೋಕೆ ನನಗೆ ಇಷ್ಟ ಇಲ್ಲ. ಮಗಳ ಮದುವೆ ಮುಖ್ಯ. ಎರಡು ದಿನ ಯೋಚನೆ ಮಾಡಿ, ಮನೆಯವರ ಜೊತೆ ಮಾತಾಡಿ."
+    tr: "Adu nimage gottu anta nanage gottu. Ādre ā mātu hēḷi nimmanna illi kaṭṭihākōke nanage iṣṭa illa. Magaḷa maduve mukhya. Eraḍu dina yōchane māḍi, maneyavara jote mātāḍi."
+    en: "I know you know that. But I don't want to tie you down here with that argument. Your daughter's wedding matters. Think for two days; talk to your family."
+  - who: cook
+    t: "ಮನೆಯವರ ಜೊತೆ ನಿನ್ನೆನೇ ಮಾತಾಡಿದೆ. ನನ್ನ ಹೆಂಡತಿ ಒಂದೇ ಮಾತು ಹೇಳಿದ್ಲು: ‘ಗ್ಯಾಸ್ ಇಲ್ಲದ ತಿಂಗಳಲ್ಲೂ ಹುಡುಗರ ಸಂಬಳ ನಿಲ್ಲಿಸದ ಯಜಮಾನನ್ನ ಹದಿಮೂರು ಸಾವಿರಕ್ಕೆ ಬಿಟ್ರೆ, ಮಗಳ ಮದುವೆ ಚಪ್ಪರದಲ್ಲಿ ಯಾರ ಮುಖ ನೋಡ್ತೀರಿ?’"
+    tr: "Maneyavara jote ninnenē mātāḍide. Nanna heṇḍati ondē mātu hēḷidlu: ‘Gyās illada tingaḷallū huḍugara sambaḷa nillisada yajamānanna hadimūru sāvirakke biṭre, magaḷa maduve chapparadalli yāra mukha nōḍtīri?’"
+    en: "I spoke to my family yesterday itself. My wife said just one thing: ‘If you leave, for thirteen thousand, the boss who didn't stop the boys' wages even in the month without gas, whose face will you look at under the wedding canopy?’"
+  - who: cook
+    t: "ಮೂವತ್ತೆಂಟು, ಬೋನಸ್, ಮುಂಗಡ, ಒಪ್ಪಿದೆ. ಆದ್ರೆ ನನ್ನದೂ ಒಂದು ಕಂಡೀಷನ್: ಈ ಸಲದ ಕೋಟೇಶ್ವರದ ಕೊಡಿ ಹಬ್ಬಕ್ಕೆ ಒಂದು ವಾರ ಹೋಗ್ತೀನಿ. ಆ ವಾರ ಬಸವರಾಜ ಕಾವಲಿ ನೋಡ್ಕೋತಾನೆ. ಅವನು ಈಗ ಹತ್ತಕ್ಕೆ ಹತ್ತು."
+    tr: "Mūvatteṇṭu, bōnas, muṅgaḍa, oppide. Ādre nannadū ondu kaṇḍīṣan: ī salada Kōṭēśvarada koḍi habbakke ondu vāra hōgtīni. Ā vāra Basavarāja kāvali nōḍkōtāne. Avanu īga hattakke hattu."
+    en: "Thirty-eight, the bonus, the advance: agreed. But I have one condition too: I'm going for a week to this year's Kodi Habba at Koteshwara. That week Basavaraj handles the griddle. He's ten out of ten now."
+  - who: mahesh
+    t: "ಅದು ಕಂಡೀಷನ್ ಅಲ್ಲ ಶಂಕರಣ್ಣ, ಮೊದಲ ದಿನದ ಒಪ್ಪಂದ. ನೆನಪಿದೆ. ಹೋಗಿ ಬನ್ನಿ. ದೇವರಿಗೆ ನಮ್ಮ ಪರವಾಗಿಯೂ ಒಂದು ನಮಸ್ಕಾರ."
+    tr: "Adu kaṇḍīṣan alla Śaṅkaraṇṇa, modala dinada oppanda. Nenapide. Hōgi banni. Dēvarige namma paravāgiyū ondu namaskāra."
+    en: "That's not a condition, Shankara-anna; it was in our agreement from day one. I remember. Go, and come back. Offer a namaskara to the deity on our behalf too."
+
+  - section: "One year of accounts"
+    learn: "year-end figures: oṭṭu kalekṣan, oṭṭu naṣṭa, nivvaḷa lābha, ī-em-ai, bāki · two meanings of break-even: tingaḷa lekkadalli vs baṇḍavāḷada lekkadalli · profit sharing from the deed: eppattu-mūvattu, modala varṣa yārū lābha tegeyalla · honest books: illadidre lekka suḷḷu hēḷutte"
+  - scene: "Saturday, 31 October, 10:30 p.m. A year to the day since Mahesh's last day as a hotel supervisor. The shutter is half down. Kavya's laptop sits on the counter; Nitin, Amma and Shankara stand around it."
+  - who: kavya
+    t: "ಒಂದು ವರ್ಷದ ಹಿಂದೆ ಇದೇ ರಾತ್ರಿ ನೀನು ರಿಸೈನ್ ಮಾಡಿ ಬಂದಿದ್ದೆ, ಕೈ ನಡುಗ್ತಿತ್ತು. ಈಗ ಲೆಕ್ಕ. ಜನವರಿ ಇಪ್ಪತ್ತಾರರಿಂದ ಇವತ್ತಿನವರೆಗೆ ಒಟ್ಟು ಕಲೆಕ್ಷನ್ ಐವತ್ತೈದು ಲಕ್ಷ ಎಪ್ಪತ್ತು ಸಾವಿರ."
+    tr: "Ondu varṣada hinde idē rātri nīnu risain māḍi bandidde, kai naḍugtittu. Īga lekka. Janavari ippattārarinda ivattinavarege oṭṭu kalekṣan aivattaidu lakṣa eppattu sāvira."
+    en: "A year ago tonight you came home having resigned, and your hand was shaking. Now the accounts. From the twenty-sixth of January to today, total takings: fifty-five lakh seventy thousand."
+  - who: mahesh
+    t: "ಐವತ್ತೈದು ಲಕ್ಷ… ಬ್ಯಾಂಕ್‌ಗೆ ಕೊಟ್ಟ ಪ್ರಾಜೆಕ್ಟ್ ರಿಪೋರ್ಟ್‌ನಲ್ಲಿ ದಿನಕ್ಕೆ ಮೂವತ್ತು ಸಾವಿರ ಅಂತ ಬರೆದಿದ್ವಿ. ನಿಜದಲ್ಲಿ ಇಪ್ಪತ್ತೊಂದು, ಇಪ್ಪತ್ತೆರಡು."
+    tr: "Aivattaidu lakṣa… byāṅk-ge koṭṭa prājekṭ ripōrṭ-nalli dinakke mūvattu sāvira anta baredidvi. Nijadalli ippattondu, ippatteraḍu."
+    en: "Fifty-five lakh… In the project report we gave the bank, we wrote thirty thousand a day. In reality it's twenty-one, twenty-two."
+  - who: kavya
+    t: "ಪ್ರಾಜೆಕ್ಟ್ ರಿಪೋರ್ಟ್ ಕನಸು, ಬ್ಯಾಂಕ್ ಸ್ಟೇಟ್‌ಮೆಂಟ್ ನಿಜ. ಕೇಳು: ಜನವರಿಯಿಂದ ಮೇವರೆಗೆ ಒಟ್ಟು ನಷ್ಟ ಒಂದು ಲಕ್ಷ ಮೂರು ಸಾವಿರ. ಗ್ಯಾಸ್ ಇಲ್ಲದ ತಿಂಗಳು, ಗ್ಯಾಸ್ ಬೆಲೆ, ಎಲ್ಲಾ ಅದರಲ್ಲೇ. ಜೂನ್‌ನಿಂದ ಅಕ್ಟೋಬರ್‌ವರೆಗೆ ಲಾಭ ಒಂದು ಲಕ್ಷ ಐವತ್ತೈದು ಸಾವಿರ. ವರ್ಷದ ನಿವ್ವಳ ಲಾಭ: ಐವತ್ತೆರಡು ಸಾವಿರ."
+    tr: "Prājekṭ ripōrṭ kanasu, byāṅk sṭēṭmenṭ nija. Kēḷu: Janavariyinda Mēvarege oṭṭu naṣṭa ondu lakṣa mūru sāvira. Gyās illada tingaḷu, gyās bele, ellā adarallē. Jūn-ninda Akṭōbar-varege lābha ondu lakṣa aivattaidu sāvira. Varṣada nivvaḷa lābha: aivatteraḍu sāvira."
+    en: "A project report is a dream; a bank statement is the truth. Listen: from January to May, a total loss of one lakh three thousand. The month without gas, the gas price, it's all in there. From June to October, a profit of one lakh fifty-five thousand. Net profit for the year: fifty-two thousand."
+  - who: nitin
+    t: "ಹಾಗಾದ್ರೆ ಬ್ರೇಕ್-ಈವನ್ ಆಯ್ತಾ, ಇಲ್ವಾ? ಒಂದೇ ಪದದಲ್ಲಿ ಹೇಳು."
+    tr: "Hāgādre brēk-īvan āytā, ilvā? Ondē padadalli hēḷu."
+    en: "So did we break even or not? Tell me in one word."
+  - who: kavya
+    t: "ಒಂದು ಪದದಲ್ಲಿ ಆಗಲ್ಲ, ಎರಡು ಉತ್ತರ. ತಿಂಗಳ ಲೆಕ್ಕದಲ್ಲಿ ಹೌದು, ಜೂನ್‌ನಿಂದ ಪ್ರತಿ ತಿಂಗಳು ಲಾಭ. ಆದ್ರೆ ಅದು ಮಹೇಶ ಒಂದು ರೂಪಾಯಿ ಸಂಬಳ ತಗೊಳ್ಳದೆ. ಬಂಡವಾಳದ ಲೆಕ್ಕದಲ್ಲಿ ಇಲ್ಲ. ಹಾಕಿದ ಇಪ್ಪತ್ತೇಳು ಲಕ್ಷ ವಾಪಸ್ ಬರೋಕೆ ಇನ್ನೂ ನಾಲ್ಕೈದು ವರ್ಷ. ಅದೂ ಇನ್ನೊಂದು ಗ್ಯಾಸ್ ಯುದ್ಧ ಬರದಿದ್ರೆ."
+    tr: "Ondu padadalli āgalla, eraḍu uttara. Tingaḷa lekkadalli haudu, Jūn-ninda prati tingaḷu lābha. Ādre adu Mahēśa ondu rūpāyi sambaḷa tagoḷḷade. Baṇḍavāḷada lekkadalli illa. Hākida ippattēḷu lakṣa vāpas barōke innū nālkaidu varṣa. Adū innondu gyās yuddha baradidre."
+    en: "Not in one word; two answers. Month by month, yes: a profit every month since June. But that's with Mahesh not taking a single rupee in salary. In terms of capital, no. Getting back the twenty-seven lakh we put in will take another four or five years. And that's if another gas war doesn't come."
+  - who: kavya
+    t: "ಇಎಂಐ: ಜುಲೈನಿಂದ ಪ್ರತಿ ತಿಂಗಳು ಇಪ್ಪತ್ಮೂರು ಸಾವಿರ, ಒಂದು ದಿನವೂ ತಡ ಆಗಿಲ್ಲ. ರಶ್ಮಿ ಮೇಡಂ ಹೋದ ವಾರ ಫೋನ್ ಮಾಡಿ ‘ನಿಮ್ಮ ಅಕೌಂಟ್ ನೋಡಿ ಖುಷಿ ಆಯ್ತು’ ಅಂದ್ರು. ಇವತ್ತು ಬ್ಯಾಂಕ್‌ನಲ್ಲಿ ಮೂರು ಲಕ್ಷ ಹತ್ತು ಸಾವಿರ ಇದೆ. ನಿತಿನ್, ನಿನ್ನ ಎರಡು ಲಕ್ಷ ಸಾಲ ಏಪ್ರಿಲ್‌ನಲ್ಲಿ ನಮ್ಮನ್ನ ಉಳಿಸಿತು. ಇವತ್ತೇ ಒಂದು ಲಕ್ಷ ವಾಪಸ್ ಕೊಡಬಹುದು."
+    tr: "Ī-em-ai: Julai-ninda prati tingaḷu ippatmūru sāvira, ondu dinavū taḍa āgilla. Raśmi mēḍam hōda vāra phōn māḍi ‘nimma akauṇṭ nōḍi khuṣi āytu’ andru. Ivattu byāṅk-nalli mūru lakṣa hattu sāvira ide. Nitin, ninna eraḍu lakṣa sāla Ēpril-nalli nammanna uḷisitu. Ivattē ondu lakṣa vāpas koḍabahudu."
+    en: "The EMI: twenty-three thousand every month since July, not one day late. Ms. Rashmi phoned last week and said, ‘I was happy to see your account.’ Today there's three lakh ten thousand in the bank. Nitin, your two-lakh loan saved us in April. We can return one lakh today."
+  - who: nitin
+    t: "ಬೇಡ. ಮೊದಲು ಶಂಕರಣ್ಣನ ಮಗಳ ಮದುವೆಯ ಮುಂಗಡ, ಹುಡುಗರ ಬೋನಸ್. ನನ್ನದು ಮಾರ್ಚ್‌ನಿಂದ ತಿಂಗಳಿಗೆ ಇಪ್ಪತ್ತೈದು ಸಾವಿರ, ಎಂಟು ತಿಂಗಳಲ್ಲಿ ಮುಗಿಯುತ್ತೆ. ಡೀಡ್‌ಗೆ ಸೇರಿಸಿರೋ ಸಾಲದ ಪತ್ರದಲ್ಲಿ ಹಾಗೇ ಬರೆಯೋಣ."
+    tr: "Bēḍa. Modalu Śaṅkaraṇṇana magaḷa maduveya muṅgaḍa, huḍugara bōnas. Nannadu Mārch-ninda tingaḷige ippattaidu sāvira, eṇṭu tingaḷalli mugiyutte. Ḍīḍ-ge sērisirō sālada patradalli hāgē bareyōṇa."
+    en: "No. Shankara-anna's advance for his daughter's wedding comes first, and the boys' bonus. Mine can come back at twenty-five thousand a month from March; it'll be cleared in eight months. Let's write it that way in the loan letter attached to the deed."
+  - who: kavya
+    t: "ಲಾಭದ ಹಂಚಿಕೆ: ಎಪ್ಪತ್ತು-ಮೂವತ್ತು. ನಿತಿನ್‌ನ ಪಾಲು ಹದಿನೈದು ಸಾವಿರದ ಆರುನೂರು. ಆದ್ರೆ ಡೀಡ್ ಪ್ರಕಾರ ಮೊದಲ ವರ್ಷ ಯಾರೂ ಲಾಭ ತೆಗೆಯಲ್ಲ, ಎಲ್ಲಾ ಬಿಸಿನೆಸ್‌ಗೇ."
+    tr: "Lābhada hañchike: eppattu-mūvattu. Nitin-na pālu hadinaidu sāvirada ārunūru. Ādre ḍīḍ prakāra modala varṣa yārū lābha tegeyalla, ellā bisines-gē."
+    en: "Profit sharing: seventy-thirty. Nitin's share is fifteen thousand six hundred. But under the deed nobody takes profit out in the first year; it all goes back into the business."
+  - who: nitin
+    t: "ಒಪ್ಪಿದೆ. ಸ್ಲೀಪಿಂಗ್ ಪಾರ್ಟ್ನರ್‌ಗೆ ಮೊದಲ ವರ್ಷದ ಲಾಭ ಒಂದೇ: ರಾತ್ರಿ ಚೆನ್ನಾಗಿ ನಿದ್ದೆ ಬಂತು. ಮಾರ್ಚ್ ತಿಂಗಳು ಬಿಟ್ಟು."
+    tr: "Oppide. Slīpiṅg pārṭnar-ge modala varṣada lābha ondē: rātri chennāgi nidde bantu. Mārch tingaḷu biṭṭu."
+    en: "Agreed. A sleeping partner's first-year profit is just one thing: he slept well at night. Except in March."
+  - who: kavya
+    t: "ಇನ್ನೊಂದು ಬದಲಾವಣೆ. ನವೆಂಬರ್‌ನಿಂದ ಮಹೇಶನಿಗೆ ಡೀಡ್ ಪ್ರಕಾರ ಇಪ್ಪತ್ತೈದು ಸಾವಿರ ಸಂಬಳ. ಇಲ್ಲದಿದ್ರೆ ನಮ್ಮ ಲೆಕ್ಕ ಸುಳ್ಳು ಹೇಳುತ್ತೆ. ಆ ಸಂಬಳ ಸೇರಿಸಿದ್ರೆ ನಿಜವಾದ ಬ್ರೇಕ್-ಈವನ್ ಇನ್ನೂ ಅಂಚಿನಲ್ಲೇ ಇದೆ. ಅದನ್ನ ಮರೆಯಬೇಡಿ."
+    tr: "Innondu badalāvaṇe. Navembar-ninda Mahēśanige ḍīḍ prakāra ippattaidu sāvira sambaḷa. Illadidre namma lekka suḷḷu hēḷutte. Ā sambaḷa sērisidre nijavāda brēk-īvan innū añchinallē ide. Adanna mareyabēḍi."
+    en: "One more change. From November, Mahesh draws a salary of twenty-five thousand, as the deed says. Otherwise our books tell a lie. Count that salary, and real break-even is still right on the edge. Don't forget that."
+  - who: mahesh
+    t: "ಒಪ್ಪಿದೆ. ಆದ್ರೆ ನನ್ನ ಮೊದಲ ಸಂಬಳ ನನ್ನ ಕೈಗೆ ಬರಲ್ಲ. ದೀಪಾವಳಿ ಬೋನಸ್: ಶಂಕರಣ್ಣನಿಗೆ ಮಾತು ಕೊಟ್ಟ ಹಾಗೆ ಒಂದು ತಿಂಗಳ ಸಂಬಳ. ಬಸವರಾಜ, ದೇವ್, ಲತಾ, ಮೂವರಿಗೂ ಹತ್ತು ಹತ್ತು ಸಾವಿರ. ನನ್ನ ಇಪ್ಪತ್ತೈದು ಅದರೊಳಗೇ ಹೋಗಲಿ."
+    tr: "Oppide. Ādre nanna modala sambaḷa nanna kaige baralla. Dīpāvaḷi bōnas: Śaṅkaraṇṇanige mātu koṭṭa hāge ondu tingaḷa sambaḷa. Basavarāja, Dēv, Latā, mūvarigū hattu hattu sāvira. Nanna ippattaidu adaroḷagē hōgali."
+    en: "Agreed. But my first salary won't reach my hands. Deepavali bonus: one month's salary for Shankara-anna, as promised. Ten thousand each for Basavaraj, Dev and Latha. Let my twenty-five go into that."
+  - who: cook
+    t: "ಯಜಮಾನ ತನ್ನ ಸಂಬಳ ಬಿಟ್ಟು ಹುಡುಗರಿಗೆ ಬೋನಸ್ ಕೊಡೋದು ಇದೇ ಮೊದಲ ಸಲ ನೋಡ್ತಿದೀನಿ. ಕಾವ್ಯಮ್ಮ, ಇದನ್ನೂ ನಿಮ್ಮ ಶೀಟ್‌ನಲ್ಲಿ ಬರೆದಿಡಿ."
+    tr: "Yajamāna tanna sambaḷa biṭṭu huḍugarige bōnas koḍōdu idē modala sala nōḍtidīni. Kāvyamma, idannū nimma śīṭ-nalli barediḍi."
+    en: "This is the first time I've seen a boss give up his own salary to pay the boys a bonus. Kavyamma, write this in your sheet too."
+  - who: kavya
+    t: "ಬರೆದಿದೀನಿ ಶಂಕರಣ್ಣ. ಒಂದು ಸಾಲು ಮಾತ್ರ ಉಳಿದಿದೆ. ಅಮ್ಮ, ಇದು ಲಾಕರ್ ಕೀ. ಒಂದು ವರ್ಷದಲ್ಲಿ ಒಂದು ಸಲವೂ ಆ ಲಾಕರ್ ತೆಗೆದಿಲ್ಲ. ಅಪ್ಪ ಮಾಡಿಸಿಕೊಟ್ಟ ದಿನ ನಿಮ್ಮ ಚಿನ್ನ ಹೇಗಿತ್ತೋ, ಹಾಗೇ ಇದೆ."
+    tr: "Baredidīni Śaṅkaraṇṇa. Ondu sālu mātra uḷidide. Amma, idu lākar kī. Ondu varṣadalli ondu salavū ā lākar tegedilla. Appa māḍisikoṭṭa dina nimma chinna hēgittō, hāgē ide."
+    en: "I have, Shankara-anna. Only one line is left. (She takes a small key from her purse.) Amma, this is the locker key. Not once in the whole year was that locker opened. Your gold is just as it was the day Appa had it made for you."
+  - who: amma
+    t: "ನನ್ನ ಬೋನಸ್ ಅದೇ ಅಂತ ಹೇಳಿದ್ದೆ. ಸಿಕ್ತು. ಮಾರ್ಚ್‌ನ ಆ ರಾತ್ರಿಗಳಲ್ಲಿ ನಾನು ದೇವರ ಮುಂದೆ ದೀಪ ಹಚ್ಚಿ ಕೂತಿರ್ತಿದ್ದೆ. ನಿಮಗ್ಯಾರಿಗೂ ಹೇಳಿರಲಿಲ್ಲ."
+    tr: "Nanna bōnas adē anta hēḷidde. Siktu. Mārch-na ā rātrigaḷalli nānu dēvara munde dīpa hachchi kūtirtidde. Nimagyārigū hēḷiralilla."
+    en: "I told you that would be my bonus. I've got it. On those nights in March I used to sit in front of the gods with a lamp lit. I never told any of you."
+  - who: nitin
+    t: "ಮುಂದಿನ ವರ್ಷದ ಪ್ಲಾನ್? ಆ್ಯಪ್? ಎರಡನೇ ಬ್ರಾಂಚ್?"
+    tr: "Mundina varṣada plān? Æp? Eraḍanē brānch?"
+    en: "Next year's plan? The apps? A second branch?"
+  - who: mahesh
+    t: "ರೋಹಿತ್‌ನ ಕಾರ್ಡ್ ಇನ್ನೂ ಡ್ರಾಯರ್‌ನಲ್ಲಿದೆ, ಜನವರಿಯಲ್ಲಿ ಮತ್ತೆ ಲೆಕ್ಕ ಹಾಕೋಣ. ಎರಡನೇ ಬ್ರಾಂಚ್ ಬೇಡ, ಮೊದಲನೇದು ಗಟ್ಟಿಯಾಗಿ ನಿಲ್ಲಲಿ. ಕೋರ್ಟ್‌ನಲ್ಲಿ ಸಂಬಳದ ಕೇಸ್ ಏನೇ ಆಗಲಿ, ನಮ್ಮ ಹುಡುಗರ ಸಂಬಳ ಇಳಿಯಲ್ಲ. ಮುಂದಿನ ವರ್ಷದ ಪ್ಲಾನ್ ಇಷ್ಟೇ: ಇಡ್ಲಿ ನಲವತ್ತು, ಎಷ್ಟು ದಿನ ಸಾಧ್ಯನೋ ಅಷ್ಟು ದಿನ."
+    tr: "Rōhit-na kārḍ innū ḍrāyar-nallide, Janavariyalli matte lekka hākōṇa. Eraḍanē brānch bēḍa, modalanēdu gaṭṭiyāgi nillali. Kōrṭ-nalli sambaḷada kēs ēnē āgali, namma huḍugara sambaḷa iḷiyalla. Mundina varṣada plān iṣṭē: iḍli nalavattu, eṣṭu dina sādhyanō aṣṭu dina."
+    en: "Rohit's card is still in the drawer; we'll do the sums again in January. No second branch; let the first one stand firm. Whatever happens to the wage case in court, our boys' wages won't come down. Next year's plan is just this: idli at forty, for as long as it's possible."
+
+  - section: "Envelopes"
+    learn: "giving and receiving thanks: nanna jote nintiddakke, koḍada mātu · callbacks: kanasallū Kannaḍa, hattu rūpāyi vyatyāsa, taṇṇagina sāmbār · Rajyotsava: Kannaḍa Rājyōtsavada śubhāśayagaḷu"
+  - scene: "11:15 p.m. The staff, called back from their room, stand in a row by the counter. Mahesh hands out envelopes."
+  - who: mahesh
+    t: "ದೀಪಾವಳಿ ಮುಂದಿನ ವಾರ. ಆದ್ರೆ ನಾಳೆ ಒಂದನೇ ತಾರೀಖು, ಸಂಬಳದ ದಿನ. ಅದರ ಜೊತೆ ಇದು. ಒಂದು ವರ್ಷ ನನ್ನ ಜೊತೆ ನಿಂತಿದ್ದಕ್ಕೆ."
+    tr: "Dīpāvaḷi mundina vāra. Ādre nāḷe ondanē tārīkhu, sambaḷada dina. Adara jote idu. Ondu varṣa nanna jote nintiddakke."
+    en: "Deepavali is next week. But tomorrow is the first, salary day. This comes with it. For standing by me for a year."
+  - who: helper
+    t: "ಸಾಹೇಬ್ರ, ಹತ್ತು ಸಾವಿರ! ತಂಗಿಯ ಕೊನೆ ವರ್ಷದ ಕಾಲೇಜ್ ಫೀಸ್ ಪೂರ್ತಿ ಆತ್ರಿ. ಅವ್ವಗ ಈಗಲೇ ಫೋನ್ ಮಾಡ್ತೀನಿ, ಆಕಿ ಅಳತಾಳ."
+    tr: "Sāhēbra, hattu sāvira! Taṅgiya kone varṣada kālēj phīs pūrti ātri. Avvaga īgalē phōn māḍtīni, āki aḷatāḷa."
+    en: "Sir, ten thousand! That's my sister's final-year college fees, all of it. I'll phone my mother right now. She'll cry."
+  - who: cashier
+    t: "ಸಾರ್, ನನ್ನ ಕವರ್‌ನಲ್ಲಿ ದುಡ್ಡಿನ ಜೊತೆ ಒಂದು ಚೀಟಿ ಇದೆ: ‘ಹತ್ತು ರೂಪಾಯಿ ವ್ಯತ್ಯಾಸವನ್ನೂ ಮುಚ್ಚಿಡದ ಲತಾಗೆ.’ ಈ ಚೀಟಿ ದುಡ್ಡಿಗಿಂತ ಜಾಸ್ತಿ."
+    tr: "Sār, nanna kavar-nalli duḍḍina jote ondu chīṭi ide: ‘Hattu rūpāyi vyatyāsavannū muchchiḍada Latāge.’ Ī chīṭi duḍḍiginta jāsti."
+    en: "Sir, along with the money in my envelope there's a note: ‘To Latha, who never hid even a ten-rupee difference.’ This note is worth more than the money."
+  - who: dev
+    t: "ಸಾರ್, ಒಂದು ವರ್ಷದ ಹಿಂದೆ ನನಗೆ ‘ನಮಸ್ಕಾರ’ ಮಾತ್ರ ಗೊತ್ತಿತ್ತು. ಈಗ ಕನ್ನಡದಲ್ಲಿ ಕನಸು ಕಾಣ್ತೀನಿ, ಕನ್ನಡದಲ್ಲಿ ಜಗಳ ಆಡ್ತೀನಿ, ಕನ್ನಡದಲ್ಲಿ ಚಾರ್ಟ್ ಬರೀತೀನಿ, ಒಂದು ಕೊಂಬು ಜಾಸ್ತಿ ಇದ್ರೂ. ನಾಳೆ ರಾಜ್ಯೋತ್ಸವ. ನಾಳೆ ಮೊದಲ ಗಿರಾಕಿಗೆ ನಾನೇ ‘ಬನ್ನಿ’ ಅಂತೀನಿ."
+    tr: "Sār, ondu varṣada hinde nanage ‘namaskāra’ mātra gottittu. Īga Kannaḍadalli kanasu kāṇtīni, Kannaḍadalli jagaḷa āḍtīni, Kannaḍadalli chārṭ barītīni, ondu kombu jāsti idrū. Nāḷe Rājyōtsava. Nāḷe modala girākige nānē ‘banni’ antīni."
+    en: "Sir, a year ago all I knew was ‘namaskara’. Now I dream in Kannada, argue in Kannada, write charts in Kannada, even with one extra kombu. Tomorrow is Rajyotsava. Tomorrow I'll be the one to say ‘banni’ to the first customer."
+  - who: cook
+    t: "ಸರಿ ಸರಿ, ಭಾಷಣ ಸಾಕು. ಎಲ್ರೂ ಹೋಗಿ ಮಲಗಿ. ನಾಳೆ ನಾಲ್ಕೂವರೆಗೆ ಸಾಂಬಾರ್. ಎರಡನೇ ವರ್ಷದ ಮೊದಲ ಸಾಂಬಾರ್ ತಣ್ಣಗಾದ್ರೆ, ನಾನೇ ಎಲ್ರಿಗೂ ನೋಟಿಸ್ ಕೊಡ್ತೀನಿ. ಬರವಣಿಗೆಯಲ್ಲಿ."
+    tr: "Sari sari, bhāṣaṇa sāku. Ellrū hōgi malagi. Nāḷe nālkūvarege sāmbār. Eraḍanē varṣada modala sāmbār taṇṇagādre, nānē ellrigū nōṭis koḍtīni. Baravaṇigeyalli."
+    en: "All right, all right, enough speeches. Everyone go to bed. Sambar at half past four tomorrow. If the first sambar of the second year goes cold, I'll give you all a notice myself. In writing."
+
+  - section: "Five in the morning"
+    learn: "looking back: ondu varṣada hinde idē dina…, nenapideyā?, ibbrū gedvi · what a hotel is: iṣṭu janara maneya ole · the first sale again: bōṇi, nōṭu phrēm māḍisōṇa · a closing welcome: banni, eraḍanē varṣa śuru"
+  - scene: "Sunday, 1 November 2026, 4:55 a.m. Kannada Rajyotsava. A small red-and-yellow flag hangs over the board. The first crate of milk at the new price stands by the boiler. Shankara lights the griddle; Mahesh and Amma stand at the counter. The street is still dark."
+  - who: amma
+    t: "ಒಂದು ವರ್ಷದ ಹಿಂದೆ ಇದೇ ದಿನ ಬೆಳಗ್ಗೆ ನೀನು ‘ಅಮ್ಮ, ನಾನು ಕೆಲಸ ಬಿಟ್ಟೆ’ ಅಂದಾಗ ನನ್ನ ಕೈಯಿಂದ ಕಾಫಿ ಲೋಟ ಬಿದ್ದಿತ್ತು. ನೆನಪಿದೆಯಾ?"
+    tr: "Ondu varṣada hinde idē dina beḷagge nīnu ‘amma, nānu kelasa biṭṭe’ andāga nanna kaiyinda kāphi lōṭa biddittu. Nenapideyā?"
+    en: "A year ago this very morning, when you said, ‘Amma, I've quit my job,’ the coffee tumbler fell out of my hand. Do you remember?"
+  - who: mahesh
+    t: "ನೆನಪಿದೆ. ಆಮೇಲೆ ನೀನು ‘ಚಿನ್ನ ಅಡ ಇಡು’ ಅಂದೆ, ನಾನು ‘ಬೇಡ’ ಅಂದೆ. ಕೊನೆಗೆ ಇಬ್ರೂ ಗೆದ್ವಿ."
+    tr: "Nenapide. Āmēle nīnu ‘chinna aḍa iḍu’ ande, nānu ‘bēḍa’ ande. Konege ibrū gedvi."
+    en: "I remember. Then you said, ‘Pawn the gold,’ and I said, ‘No.’ In the end, we both won."
+  - who: amma
+    t: "ಗೆದ್ದಿದ್ದು ನಾವಲ್ಲ, ಮಗು. ಆ ಹುಡುಗರು. ದೇವ್‌ನ ಅಮ್ಮನ ಮನೆಗೆ ಮಳೆಗೆ ಮಾಡು, ಬಸವರಾಜನ ತಂಗಿಗೆ ಫೀಸ್, ಶಂಕರನ ಮಗಳಿಗೆ ಮದುವೆ. ಹೋಟೆಲ್ ಅಂದ್ರೆ ಇಡ್ಲಿ ಮಾತ್ರ ಅಲ್ಲ. ಇಷ್ಟು ಜನರ ಮನೆಯ ಒಲೆ."
+    tr: "Geddiddu nāvalla, magu. Ā huḍugaru. Dēv-na ammana manege maḷege māḍu, Basavarājana taṅgige phīs, Śaṅkarana magaḷige maduve. Hōṭel andre iḍli mātra alla. Iṣṭu janara maneya ole."
+    en: "It wasn't us who won, child. It was those boys. A roof against the rain for Dev's mother, fees for Basavaraj's sister, a wedding for Shankara's daughter. A hotel isn't just idli. It's the hearth fire of all these homes."
+  - who: cook
+    t: "ಯಜಮಾನ್ರೇ, ಕಾವಲಿ ಬಿಸಿ ಆಗಿದೆ. ಎರಡನೇ ವರ್ಷದ ಮೊದಲ ದೋಸೆ ಯಾರಿಗೆ?"
+    tr: "Yajamānrē, kāvali bisi āgide. Eraḍanē varṣada modala dōse yārige?"
+    en: "Boss, the griddle's hot. Who gets the first dosa of the second year?"
+  - who: mahesh
+    t: "ಮೊದಲ ಗಿರಾಕಿಗೆ. ಅದೇ ನಿಯಮ."
+    tr: "Modala girākige. Adē niyama."
+    en: "The first customer. That's the rule."
+  - scene: "5:02 a.m. Footsteps. The elderly walker from the cold-sambar morning, a shawl over her head, is first at the counter."
+  - who: customer
+    t: "ಇಷ್ಟು ಬೇಗ ತೆಗೆದಿದೀರಾ? ವಾಕಿಂಗ್‌ಗೆ ಮುಂಚೆ ಒಂದು ಬೈಟು ಕಾಫಿ ಬೇಕಿತ್ತು. ಸಿಗುತ್ತಾ?"
+    tr: "Iṣṭu bēga tegedidīrā? Vākiṅg-ge muñche ondu baiṭu kāphi bēkittu. Siguttā?"
+    en: "Open this early? I wanted a by-two coffee before my walk. Can I get one?"
+  - who: dev
+    t: "ಬನ್ನಿ ಮೇಡಂ! ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು. ನೀವು ನಮ್ಮ ಎರಡನೇ ವರ್ಷದ ಮೊದಲ ಗಿರಾಕಿ. ಬೈಟು ಕಾಫಿ, ಹಿತ್ತಾಳೆ ಲೋಟದಲ್ಲಿ. ಸಾಂಬಾರ್ ಬಿಸಿ ಇದೆ, ನಾನೇ ನೋಡಿದೆ."
+    tr: "Banni mēḍam! Kannaḍa Rājyōtsavada śubhāśayagaḷu. Nīvu namma eraḍanē varṣada modala girāki. Baiṭu kāphi, hittāḷe lōṭadalli. Sāmbār bisi ide, nānē nōḍide."
+    en: "Banni, madam! Happy Kannada Rajyotsava. You are the first customer of our second year. A by-two coffee, in a brass tumbler. The sambar is hot; I checked myself."
+  - who: customer
+    t: "ಎರಡನೇ ವರ್ಷನಾ? ಆಗ್ಲೇ ಒಂದು ವರ್ಷ ಆಯ್ತಾ? ಆ ತಣ್ಣಗಿನ ಸಾಂಬಾರ್ ದಿನ ‘ಇನ್ನು ಇಲ್ಲಿಗೆ ಬರಲ್ಲ’ ಅಂದ್ಕೊಂಡಿದ್ದೆ. ಮರುದಿನನೂ ಬಂದೆ, ಆಮೇಲೆ ದಿನಾ."
+    tr: "Eraḍanē varṣanā? Āglē ondu varṣa āytā? Ā taṇṇagina sāmbār dina ‘innu illige baralla’ andkoṇḍidde. Marudinanū bande, āmēle dinā."
+    en: "The second year? Has it been a year already? On the day of the cold sambar I'd decided, ‘I'm never coming here again.’ I came the very next day too, and every day since."
+  - who: mahesh
+    t: "ಮೇಡಂ, ಇವತ್ತು ಕಾಫಿ ಜೊತೆ ಶಂಕರಣ್ಣನ ಮೊದಲ ದೋಸೆ ನಿಮಗೆ. ಅದಕ್ಕೆ ಬಿಲ್ ಇಲ್ಲ."
+    tr: "Mēḍam, ivattu kāphi jote Śaṅkaraṇṇana modala dōse nimage. Adakke bil illa."
+    en: "Madam, today Shankara-anna's first dosa comes with your coffee. There's no bill for that."
+  - who: customer
+    t: "ದೋಸೆ ನಿನ್ನ ಪ್ರೀತಿ, ತಗೊಳ್ತೀನಿ. ಆದ್ರೆ ಕಾಫಿಗೆ ದುಡ್ಡು ಕೊಡ್ತೀನಿ. ಬಿಲ್ ಇಲ್ಲದೆ ಬೋಣಿ ಆಗುತ್ತಾ? ತಗೋ, ಇಪ್ಪತ್ತೈದು ರೂಪಾಯಿ."
+    tr: "Dōse ninna prīti, tagoḷtīni. Ādre kāphige duḍḍu koḍtīni. Bil illade bōṇi āguttā? Tagō, ippattaidu rūpāyi."
+    en: "The dosa is your kindness; I'll take it. But I'll pay for the coffee. Can there be a first sale without a bill? Here, twenty-five rupees."
+  - who: mahesh
+    t: "ಅಮ್ಮ, ಈ ನೋಟುಗಳನ್ನೂ ಫ್ರೇಮ್ ಮಾಡಿಸೋಣ. ಮೊದಲ ದಿನದ ಎಪ್ಪತ್ತು ರೂಪಾಯಿಯ ಪಕ್ಕ."
+    tr: "Amma, ī nōṭugaḷannū phrēm māḍisōṇa. Modala dinada eppattu rūpāyiya pakka."
+    en: "Amma, let's have these notes framed too. Next to the seventy rupees from the first day."
+  - who: amma
+    t: "ಫ್ರೇಮ್ ಆಮೇಲೆ. ಮೊದಲು ಚಟ್ನಿ ಹಾಕು. ಸಾಲು ಶುರುವಾಗ್ತಿದೆ ನೋಡು."
+    tr: "Phrēm āmēle. Modalu chaṭni hāku. Sālu śuruvāgtide nōḍu."
+    en: "Frames later. Serve the chutney first. Look, the queue is starting."
+  - who: sam
+    t: "ಶುಭಾಶಯಗಳು ಮಹೇಶ್ ಅವರೇ! ಇವತ್ತು ರಾಜ್ಯೋತ್ಸವ, ಅದಕ್ಕೆ ಇಂಗ್ಲಿಷ್ ಪದ ಇಲ್ಲದೆ ಆರ್ಡರ್ ಮಾಡ್ತೀನಿ… ಅಯ್ಯೋ, ‘ಆರ್ಡರ್’ ಕೂಡ ಇಂಗ್ಲಿಷ್! ಸರಿ: ಎರಡು ಇಡ್ಲಿ, ಒಂದು ಕಾಫಿ, ಸಕ್ಕರೆ ಕಮ್ಮಿ. ಮತ್ತೆ ಅಜ್ಜಿಗೆ ಚಟ್ನಿ ಜಾಸ್ತಿ."
+    tr: "Śubhāśayagaḷu Mahēś avarē! Ivattu Rājyōtsava, adakke iṅgliṣ pada illade ārḍar māḍtīni… ayyō, ‘ārḍar’ kūḍa iṅgliṣ! Sari: eraḍu iḍli, ondu kāphi, sakkare kammi. Matte ajjige chaṭni jāsti."
+    en: "Greetings, Mahesh! It's Rajyotsava today, so I'll order without a single English word… oh no, ‘order’ is English too! All right: two idlis, one coffee, less sugar. And extra chutney for Ajji."
+  - who: mahesh
+    t: "ಬನ್ನಿ, ಎಲ್ರೂ ಬನ್ನಿ. ಇಡ್ಲಿ ನಲವತ್ತು, ಕಾಫಿ ಇಪ್ಪತ್ತೈದು, ಚಟ್ನಿ ಎಷ್ಟು ಬೇಕೋ ಅಷ್ಟು. ಎರಡನೇ ವರ್ಷ ಶುರು."
+    tr: "Banni, ellrū banni. Iḍli nalavattu, kāphi ippattaidu, chaṭni eṣṭu bēkō aṣṭu. Eraḍanē varṣa śuru."
+    en: "Come in, everyone, come in. Idli forty, coffee twenty-five, as much chutney as you like. The second year begins."
+  - scene: "The street light flickers off. The first bus to the metro goes past. Steam rises from the idli steamer, and the second year of Sharada Darshini begins."
