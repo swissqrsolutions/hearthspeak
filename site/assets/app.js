@@ -8,6 +8,22 @@
   };
   const sleep = ms => new Promise(r => setTimeout(r, ms));
 
+  // ---------- install as an app (Android/Chrome shows a real Install button; iPhone gets a hint) ----------
+  (() => {
+    const installed = matchMedia('(display-mode: standalone)').matches || navigator.standalone;
+    if (installed || store.get('installDismissed', false)) return;
+    const bar = document.createElement('div');
+    bar.className = 'installbar';
+    bar.innerHTML = '<span><b>Install Hearthspeak</b><br><small>Open it from your home screen, works offline.</small></span><button class="go" type="button">Install</button><button class="x" type="button" aria-label="Not now">✕</button>';
+    const show = how => { if (how === 'hint') bar.querySelector('.go').textContent = /iphone|ipad/i.test(navigator.userAgent) ? 'Share → Add to Home Screen' : 'Menu ⋮ → Add to Home screen'; document.body.append(bar); };
+    let evt = null;
+    addEventListener('beforeinstallprompt', e => { e.preventDefault(); evt = e; if (!bar.isConnected) show('prompt'); });
+    setTimeout(() => { if (!evt && !bar.isConnected && /android|iphone|ipad/i.test(navigator.userAgent)) show('hint'); }, 3000);
+    bar.querySelector('.go').onclick = async () => { if (!evt) return; evt.prompt(); await evt.userChoice; evt = null; bar.remove(); };
+    bar.querySelector('.x').onclick = () => { store.set('installDismissed', true); bar.remove(); };
+    addEventListener('appinstalled', () => bar.remove());
+  })();
+
   // ---------- offline + auto-update ----------
   if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
     const sw = document.body.dataset.lang ? new URL('../../sw.js', location.href) : new URL('sw.js', location.href);
