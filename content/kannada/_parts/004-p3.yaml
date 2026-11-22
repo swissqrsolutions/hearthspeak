@@ -243,7 +243,7 @@ lines:
 
   - section: "Rules on the wall"
     learn: "rules with -bēku / -bāradu / kaḍḍāya: kai toḷeyabēku, mobail baḷasabāradu · uniform words: samavastra, ēpran, kyāp, hēr-neṭ · causatives: holisu (have stitched), chekap māḍisu · fire safety: pin eḷi, bēnkiya buḍakke, mēn vālv band"
-  - scene: "Saturday, 24 January 2026, 9 p.m. Two days to the opening, after the second trial run. All six are in the shop. A printed chart in Kannada is taped beside the hand-wash basin. Mr. Murthy has come down in his shawl for the fire-extinguisher demonstration."
+  - scene: "Saturday, 24 January 2026, 9 p.m. Two days to the opening, after the second trial run. The whole team is in the shop. A printed chart in Kannada is taped beside the hand-wash basin. Mr. Murthy has come down in his shawl for the fire-extinguisher demonstration."
   - who: helper
     t: "ಸಾಹೇಬ್ರ, ರೂಮ್ ಚೊಲೋ ಐತ್ರಿ. ಆದ್ರ ನಳದಾಗ ನೀರು ಬೆಳಿಗ್ಗೆ ಒಂದು ತಾಸು ಮಾತ್ರ ಬರತೈತಿ."
     tr: "Sāhēbra, rūm cholō aitri. Ādra naḷadāga nīru beḷigge ondu tāsu mātra barataiti."
@@ -531,17 +531,17 @@ lines:
     tr: "Dhanyavāda sār. Ondu praśne: idu Mārch mūvattondaravarege mātra alvā?"
     en: "Thank you, sir. One question: it's only valid until the thirty-first of March, isn't it?"
   - who: officer
-    t: "ಹೌದು. ಹಣಕಾಸು ವರ್ಷದ ಜೊತೆ ಲೈಸೆನ್ಸ್ ಮುಗಿಯುತ್ತೆ. ಮುಂದಿನ ವರ್ಷದ ರಿನ್ಯೂವಲ್ ಫೆಬ್ರವರಿ ಇಪ್ಪತ್ತೆಂಟರೊಳಗೆ ಮಾಡಿದ್ರೆ ದಂಡ ಇಲ್ಲ. ಅಂದ್ರೆ ಲೈಸೆನ್ಸ್ ಬಂದ ಮೂರು ವಾರದಲ್ಲೇ ರಿನ್ಯೂ ಮಾಡಬೇಕು. ಸಿಸ್ಟಮ್ ಹಾಗಿದೆ, ನಾನೇನು ಮಾಡ್ಲಿ."
-    tr: "Haudu. Haṇakāsu varṣada jote laisens mugiyutte. Mundina varṣada rinyūval Phebravari ippatteṇṭaroḷage māḍidre daṇḍa illa. Andre laisens banda mūru vāradallē rinyū māḍabēku. Sisṭam hāgide, nānēnu māḍli."
-    en: "Yes. The licence ends with the financial year. If you renew for next year by the twenty-eighth of February, there's no fine. So you have to renew within three weeks of getting it. That's the system; what can I do?"
+    t: "ಹೌದು. ಫೆಬ್ರವರಿ ಇಪ್ಪತ್ತೆಂಟರ ನಿಯಮ ನಿಮ್ಮ ಮೇಡಂಗೆ ಗೊತ್ತೇ ಇದೆ. ಅಂದ್ರೆ ಲೈಸೆನ್ಸ್ ಬಂದ ಮೂರು ವಾರದಲ್ಲೇ ರಿನ್ಯೂ ಮಾಡಬೇಕು. ಸಿಸ್ಟಮ್ ಹಾಗಿದೆ, ನಾನೇನು ಮಾಡ್ಲಿ."
+    tr: "Haudu. Phebravari ippatteṇṭara niyama nimma mēḍam-ge gottē ide. Andre laisens banda mūru vāradallē rinyū māḍabēku. Sisṭam hāgide, nānēnu māḍli."
+    en: "Yes. Your madam already knows the twenty-eighth-of-February rule. So you have to renew within three weeks of getting it. That's the system; what can I do?"
   - who: officer
     t: "ಕಾಫಿ ಚೆನ್ನಾಗಿದೆ. ಡಿಕಾಕ್ಷನ್ ಗಟ್ಟಿ. ಇಪ್ಪತ್ತು ರೂಪಾಯಿಗೆ ಮೋಸ ಇಲ್ಲ. ನಿಮ್ಮ ತಾಯಿಗೆ ಕೊಟ್ಟ ಮಾತು ನೆನಪಿದೆ. ಹೀಗೇ ನಡೀಲಿ."
     tr: "Kāphi chennāgide. Ḍikākṣan gaṭṭi. Ippattu rūpāyige mōsa illa. Nimma tāyige koṭṭa mātu nenapide. Hīgē naḍīli."
     en: "(After a sip) Good coffee. Strong decoction. No cheating for twenty rupees. I remember the promise you made your mother. May it go on like this."
   - who: kavya
-    t: "ರಶ್ಮಿ ಮೇಡಂಗೆ ಲೈಸೆನ್ಸ್ ಕಾಪಿ ಕಳಿಸಿದೆ. ಗುರುವಾರ ಬ್ಯಾಂಕ್‌ನವರು ಸೈಟ್ ವಿಸಿಟ್‌ಗೆ ಬರ್ತಾರಂತೆ, ಆಮೇಲೆ ಉಳಿದ ನಾಲ್ಕು ಲಕ್ಷ ನೇರವಾಗಿ ಸಪ್ಲೈಯರ್‌ಗೆ. ರಿನ್ಯೂವಲ್ ಅರ್ಜಿ ನಾಳೆನೇ ಹಾಕ್ತೀನಿ. ಮಾರ್ಚ್‌ನಲ್ಲಿ ಇಪ್ಪತ್ತೈದು ಪರ್ಸೆಂಟ್ ದಂಡ ಕಟ್ಟೋಕೆ ನಾನು ರೆಡಿ ಇಲ್ಲ."
-    tr: "Raśmi mēḍam-ge laisens kāpi kaḷiside. Guruvāra byāṅk-navaru saiṭ visiṭ-ge bartārante, āmēle uḷida nālku lakṣa nēravāgi saplaiyar-ge. Rinyūval arji nāḷenē hāktīni. Mārch-nalli ippattaidu parsenṭ daṇḍa kaṭṭōke nānu reḍi illa."
-    en: "(That evening, on the phone) I've sent Ms. Rashmi a copy of the licence. She says the bank people will come for the site visit on Thursday, and then the remaining four lakh goes straight to the supplier. I'll file the renewal tomorrow itself. I'm not ready to pay a twenty-five percent fine in March."
+    t: "ರಶ್ಮಿ ಮೇಡಂಗೆ ಲೈಸೆನ್ಸ್ ಕಾಪಿ ಕಳಿಸಿದೆ. ಗುರುವಾರ ಬ್ಯಾಂಕ್‌ನವರು ಸೈಟ್ ವಿಸಿಟ್‌ಗೆ ಬರ್ತಾರಂತೆ, ಆಮೇಲೆ ಉಳಿದ ನಾಲ್ಕು ಲಕ್ಷ ನೇರವಾಗಿ ಸಪ್ಲೈಯರ್ ಮತ್ತೆ ಕಾಂಟ್ರಾಕ್ಟರ್‌ಗೆ. ರಿನ್ಯೂವಲ್ ಅರ್ಜಿ ನಾಳೆನೇ ಹಾಕ್ತೀನಿ. ಮಾರ್ಚ್‌ನಲ್ಲಿ ಇಪ್ಪತ್ತೈದು ಪರ್ಸೆಂಟ್ ದಂಡ ಕಟ್ಟೋಕೆ ನಾನು ರೆಡಿ ಇಲ್ಲ."
+    tr: "Raśmi mēḍam-ge laisens kāpi kaḷiside. Guruvāra byāṅk-navaru saiṭ visiṭ-ge bartārante, āmēle uḷida nālku lakṣa nēravāgi saplaiyar matte kāṇṭrākṭar-ge. Rinyūval arji nāḷenē hāktīni. Mārch-nalli ippattaidu parsenṭ daṇḍa kaṭṭōke nānu reḍi illa."
+    en: "(That evening, on the phone) I've sent Ms. Rashmi a copy of the licence. She says the bank people will come for the site visit on Thursday, and then the remaining four lakh goes straight to the supplier and the contractor. I'll file the renewal tomorrow itself. I'm not ready to pay a twenty-five percent fine in March."
 
   - section: "Regulars"
     learn: "a regular's order: yāvāginaddē?, sakkare kammi, sṭrāṅg · suggestions politely: ondu salahe, bējār māḍkōbēḍi · teaching a skill: kāvali hada, nīru chimukisu, savaru, teḷḷage, aṅchige eṇṇe, maḍachu · encouragement: kai paḷagutte"
@@ -608,9 +608,9 @@ lines:
     tr: "Aidu lakṣada mēle! Modala tingaḷige sūpar. Lābha eṣṭu?"
     en: "Over five lakh! Superb for a first month. How much profit?"
   - who: kavya
-    t: "ತಾಳು. ಖರ್ಚು ಕೇಳು. ಅಕ್ಕಿ, ಬೇಳೆ, ಹಾಲು, ತರಕಾರಿ, ಎಣ್ಣೆ: ಎರಡು ಲಕ್ಷ ಇಪ್ಪತ್ತೆರಡು, ಅಂದ್ರೆ ಮೂವತ್ತೆಂಟು ಪರ್ಸೆಂಟ್. ಸ್ಟಾಫ್ ಸಂಬಳ ಮತ್ತೆ ರೂಮ್ ಎಂಬತ್ತೆಂಟು ಸಾವಿರ. ರೆಂಟ್ ಒಂದು ಲಕ್ಷ. ಗ್ಯಾಸ್ ನಲವತ್ತೆಂಟು ಸಿಲಿಂಡರ್, ಎಂಬತ್ತೆರಡು ಸಾವಿರ. ಕರೆಂಟ್, ನೀರು ಹದಿನಾರು. ಮುದ್ರಾ ಇಎಂಐ ಇಪ್ಪತ್ತೊಂದು. ಜಿಎಸ್‌ಟಿ ಇಪ್ಪತ್ತೆಂಟು. ಸ್ಟೀಮ್ ಟೇಬಲ್, ಪಾರ್ಸೆಲ್ ಕವರ್, ರಿಪೇರಿ, ಸಣ್ಣಪುಟ್ಟ ಖರ್ಚು ಮೂವತ್ತು."
-    tr: "Tāḷu. Kharchu kēḷu. Akki, bēḷe, hālu, tarakāri, eṇṇe: eraḍu lakṣa ippatteraḍu, andre mūvatteṇṭu parsenṭ. Sṭāf sambaḷa matte rūm embatteṇṭu sāvira. Renṭ ondu lakṣa. Gyās nalavatteṇṭu silinḍar, embatteraḍu sāvira. Kareṇṭ, nīru hadināru. Mudrā ī-em-ai ippattondu. Ji-es-ṭi ippatteṇṭu. Sṭīm ṭēbal, pārsel kavar, ripēri, saṇṇapuṭṭa kharchu mūvattu."
-    en: "Wait. Hear the expenses. Rice, dal, milk, vegetables, oil: two lakh twenty-two, which is thirty-eight percent. Staff salaries and rooms, eighty-eight thousand. Rent, one lakh. Gas, forty-eight cylinders, eighty-two thousand. Electricity and water, sixteen. MUDRA EMI, twenty-one. GST, twenty-eight. Steam table, parcel bags, repairs and small expenses, thirty."
+    t: "ತಾಳು. ಖರ್ಚು ಕೇಳು. ಅಕ್ಕಿ, ಬೇಳೆ, ಹಾಲು, ತರಕಾರಿ, ಎಣ್ಣೆ: ಎರಡು ಲಕ್ಷ ಇಪ್ಪತ್ತೆರಡು, ಅಂದ್ರೆ ಮೂವತ್ತೆಂಟು ಪರ್ಸೆಂಟ್. ಸ್ಟಾಫ್ ಸಂಬಳ ಮತ್ತೆ ರೂಮ್ ಎಂಬತ್ತೆಂಟು ಸಾವಿರ. ರೆಂಟ್ ಒಂದು ಲಕ್ಷ. ಗ್ಯಾಸ್ ನಲವತ್ತೆಂಟು ಸಿಲಿಂಡರ್, ಎಂಬತ್ತೆರಡು ಸಾವಿರ. ಕರೆಂಟ್, ನೀರು ಹದಿನಾರು. ಮುದ್ರಾ ಬಡ್ಡಿ ಎಂಟೂವರೆ; ಮೊರಟೋರಿಯಂ ಇರೋದ್ರಿಂದ ಬರೀ ಬಡ್ಡಿ. ಜಿಎಸ್‌ಟಿ ಇಪ್ಪತ್ತೆಂಟು. ಸ್ಟೀಮ್ ಟೇಬಲ್, ಪಾರ್ಸೆಲ್ ಕವರ್, ಮೆಷಿನ್‌ಗಳ ಇನ್ಶೂರೆನ್ಸ್, ರಿಪೇರಿ, ಸಣ್ಣಪುಟ್ಟ ಖರ್ಚು ನಲವತ್ತೆರಡೂವರೆ."
+    tr: "Tāḷu. Kharchu kēḷu. Akki, bēḷe, hālu, tarakāri, eṇṇe: eraḍu lakṣa ippatteraḍu, andre mūvatteṇṭu parsenṭ. Sṭāf sambaḷa matte rūm embatteṇṭu sāvira. Renṭ ondu lakṣa. Gyās nalavatteṇṭu silinḍar, embatteraḍu sāvira. Kareṇṭ, nīru hadināru. Mudrā baḍḍi eṇṭūvare; moraṭōriyam irōdrinda barī baḍḍi. Ji-es-ṭi ippatteṇṭu. Sṭīm ṭēbal, pārsel kavar, meṣin-gaḷa inśūrens, ripēri, saṇṇapuṭṭa kharchu nalavatteraḍūvare."
+    en: "Wait. Hear the expenses. Rice, dal, milk, vegetables, oil: two lakh twenty-two, which is thirty-eight percent. Staff salaries and rooms, eighty-eight thousand. Rent, one lakh. Gas, forty-eight cylinders, eighty-two thousand. Electricity and water, sixteen. MUDRA interest, eight and a half; only interest, because of the moratorium. GST, twenty-eight. Steam table, parcel bags, the equipment insurance, repairs and small expenses, forty-two and a half."
   - who: mahesh
     t: "ಒಟ್ಟು… ಐದು ಲಕ್ಷ ಎಂಬತ್ತೇಳು. ಅಂದ್ರೆ ಎರಡು ಸಾವಿರ ನಷ್ಟ."
     tr: "Oṭṭu… aidu lakṣa embattēḷu. Andre eraḍu sāvira naṣṭa."
@@ -619,6 +619,14 @@ lines:
     t: "ಎರಡು ಸಾವಿರ ನಷ್ಟ, ಅದೂ ನೀನು ಒಂದು ರೂಪಾಯಿ ಸಂಬಳ ತಗೊಳ್ಳದೆ. ಆದ್ರೆ ಬೇಜಾರು ಬೇಡ. ಮೊದಲ ತಿಂಗಳಲ್ಲಿ ಹೆಚ್ಚು ಕಡಿಮೆ ಬ್ರೇಕ್-ಈವನ್ ಅಂದ್ರೆ ಅದು ಒಳ್ಳೆ ಸುದ್ದಿ. ನನ್ನ ಶೀಟ್‌ನಲ್ಲಿ ಮೂರನೇ ತಿಂಗಳವರೆಗೆ ನಷ್ಟ ಅಂತ ಇತ್ತು."
     tr: "Eraḍu sāvira naṣṭa, adū nīnu ondu rūpāyi sambaḷa tagoḷḷade. Ādre bējāru bēḍa. Modala tingaḷalli hechchu kaḍime brēk-īvan andre adu oḷḷe suddi. Nanna śīṭ-nalli mūranē tingaḷavarege naṣṭa anta ittu."
     en: "A two-thousand loss, and that with you not taking a single rupee in salary. But don't be glum. Roughly break-even in the first month is good news. My sheet had losses until the third month."
+  - who: mahesh
+    t: "ಬ್ಯಾಂಕ್‌ನಲ್ಲಿ ಈಗ ಎಷ್ಟಿದೆ?"
+    tr: "Byāṅk-nalli īga eṣṭide?"
+    en: "And how much is in the bank now?"
+  - who: kavya
+    t: "ಒಂದು ಲಕ್ಷ ಎಂಬತ್ತು. ಜನವರಿಯ ಟ್ರಯಲ್ ವಾರಗಳು, ಸ್ಟಾಫ್‌ನ ಮೊದಲ ಸಂಬಳ, ಮೊದಲ ಸ್ಟಾಕ್ ಸೇರಿ ಎಪ್ಪತ್ತಾರು ಸಾವಿರ ಹೋಯ್ತು. ಬಿಗಿ, ಆದ್ರೆ ನಿಂತಿದೀವಿ."
+    tr: "Ondu lakṣa embattu. Janavariya ṭrayal vāragaḷu, sṭāf-na modala sambaḷa, modala sṭāk sēri eppattāru sāvira hōytu. Bigi, ādre nintidīvi."
+    en: "One lakh eighty. The trial weeks in January, the staff's first wages and the first stock took seventy-six thousand. Tight, but we're standing."
   - who: nitin
     t: "ಹಾಗಾದ್ರೆ ನನ್ನ ಪ್ರಾಫಿಟ್ ಶೇರ್?"
     tr: "Hāgādre nanna prāphiṭ śēr?"
@@ -734,9 +742,9 @@ lines:
     tr: "Namma ūrina dēvasthānada aḍugemaneyalli ivattigū saude ole. Sāvira janakke sāru, pāyasa saudeyallē. Kelavu hōṭel-gaḷu īga saudege badalāyisive anta kēḷide. Nanage saude ole gottu."
     en: "Even today, the temple kitchen back home cooks on firewood. Rasam and payasa for a thousand people, all on firewood. I hear some hotels have switched to firewood now. I know how to cook on a wood fire."
   - who: mahesh
-    t: "ನಾನೂ ಯೋಚನೆ ಮಾಡಿದೆ, ಮೂರ್ತಿ ಸಾರ್‌ಗೆ ಫೋನ್ ಕೂಡ ಮಾಡಿದೆ. ಅವರು ಹೇಳಿದ್ರು: ‘ಹೊಗೆ ಮೇಲೆ ಬಂದ್ರೆ ನಾನು ಉಸಿರಾಡೋದು ಹೇಗೆ? ಅದಕ್ಕೆ ಚಿಮಣಿ ಇಲ್ಲ, ಬೆಂಕಿ ಅಪಾಯ ಬೇರೆ. ಲೀಸ್‌ನಲ್ಲಿ ಬರೆದಿದೆ ನೋಡು.’ ಅವರು ಹೇಳಿದ್ದು ಸರಿ."
-    tr: "Nānū yōchane māḍide, Mūrti sār-ge phōn kūḍa māḍide. Avaru hēḷidru: ‘Hoge mēle bandre nānu usirāḍōdu hēge? Adakke chimaṇi illa, beṅki apāya bēre. Līs-nalli baredide nōḍu.’ Avaru hēḷiddu sari."
-    en: "I thought about it too, and I even phoned Murthy sir. He said: ‘If smoke comes up, how am I supposed to breathe? There's no chimney for that, and there's the fire risk besides. Look, it's written in the lease.’ He's right."
+    t: "ನಾನೂ ಯೋಚನೆ ಮಾಡಿದೆ, ಮೂರ್ತಿ ಸಾರ್‌ಗೆ ಫೋನ್ ಕೂಡ ಮಾಡಿದೆ. ಅವರು ಹೇಳಿದ್ರು: ‘ಹೊಗೆ ಮೇಲೆ ಬಂದ್ರೆ ನಾನು ಉಸಿರಾಡೋದು ಹೇಗೆ? ನಿಮ್ಮ ಚಿಮಣಿ ಗ್ಯಾಸ್ ಒಲೆಗೆ ಮಾಡಿದ್ದು, ಸೌದೆ ಹೊಗೆಗಲ್ಲ. ಬೆಂಕಿ ಅಪಾಯ ಬೇರೆ, ಇನ್ಶೂರೆನ್ಸ್ ಕೂಡ ಕೊಡಲ್ಲ.’ ಅವರು ಹೇಳಿದ್ದು ಸರಿ."
+    tr: "Nānū yōchane māḍide, Mūrti sār-ge phōn kūḍa māḍide. Avaru hēḷidru: ‘Hoge mēle bandre nānu usirāḍōdu hēge? Nimma chimaṇi gyās olege māḍiddu, saude hogegalla. Beṅki apāya bēre, inśūrens kūḍa koḍalla.’ Avaru hēḷiddu sari."
+    en: "I thought about it too, and I even phoned Murthy sir. He said: ‘If smoke comes up, how am I supposed to breathe? Your chimney was built for gas stoves, not for wood smoke. And there's the fire risk besides; the insurance won't cover it either.’ He's right."
   - who: nitin
     t: "ಹಾಗಾದ್ರೆ ಕರೆಂಟ್. ನಾನು ಇಡೀ ದಿನ ರಿಸರ್ಚ್ ಮಾಡಿದೆ. ಕಮರ್ಷಿಯಲ್ ಇಂಡಕ್ಷನ್, ಮೂರೂವರೆ ಕಿಲೋವ್ಯಾಟ್‌ನದ್ದು, ಒಂದಕ್ಕೆ ನಲವತ್ತೈದು ಸಾವಿರ. ಆದ್ರೆ ಇವತ್ತು ಬೆಂಗಳೂರಲ್ಲಿ ಎಲ್ಲಾ ಹೋಟೆಲ್‌ನವರೂ ಅದನ್ನೇ ಹುಡುಕ್ತಿದ್ದಾರೆ. ಸ್ಟಾಕ್ ಇಲ್ಲ, ರೇಟ್ ದಿನಾ ಏರ್ತಿದೆ."
     tr: "Hāgādre kareṇṭ. Nānu iḍī dina risarch māḍide. Kamarṣiyal inḍakṣan, mūrūvare kilōvyāṭ-naddu, ondakke nalavattaidu sāvira. Ādre ivattu Beṅgaḷūralli ellā hōṭel-navarū adannē huḍuktiddāre. Sṭāk illa, rēṭ dinā ērtide."
@@ -910,9 +918,9 @@ lines:
     tr: "Mārch lekka. Kalekṣan mūru lakṣa tombattu sāvira. Phebravariginta mūvatmūru parsenṭ kammi. Asōsiyēṣan ippattaidarinda mūvattu parsenṭ naṣṭa anta andāju māḍittu. Nāvu adakkinta svalpa keṭṭadāgidīvi."
     en: "March's accounts. Takings: three lakh ninety thousand. Thirty-three percent less than February. The association had estimated losses of twenty-five to thirty percent. We're doing a little worse than that."
   - who: kavya
-    t: "ಖರ್ಚು: ಸಾಮಾನು ಕಮ್ಮಿ ತಗೊಂಡಿದ್ರಿಂದ ಒಂದು ಲಕ್ಷ ನಲವತ್ತೈದು. ಸ್ಟಾಫ್ ಪೂರ್ತಿ, ಎಂಬತ್ತೆಂಟು, ಶಂಕರಣ್ಣನ ಹತ್ತು ಸಾವಿರ ಸಾಲವಾಗಿ ಬಾಕಿ. ರೆಂಟ್ ಒಂದು ಲಕ್ಷ. ಗ್ಯಾಸ್ ಹತ್ತೊಂಬತ್ತು ಸಾವಿರ. ಇಂಡಕ್ಷನ್ ಬಾಡಿಗೆ ಎಂಟು. ಕರೆಂಟ್ ಬಿಲ್ ಎರಡು ಪಟ್ಟಿಗಿಂತ ಜಾಸ್ತಿ, ಮೂವತ್ತೆಂಟು. ಇಎಂಐ, ಜಿಎಸ್‌ಟಿ, ಉಳಿದದ್ದು ಸೇರಿ ಒಟ್ಟು ನಾಲ್ಕು ಲಕ್ಷ ಐವತ್ತೆಂಟು."
-    tr: "Kharchu: sāmānu kammi tagoṇḍidrinda ondu lakṣa nalavattaidu. Sṭāf pūrti, embatteṇṭu, Śaṅkaraṇṇana hattu sāvira sālavāgi bāki. Renṭ ondu lakṣa. Gyās hattombattu sāvira. Inḍakṣan bāḍige eṇṭu. Kareṇṭ bil eraḍu paṭṭiginta jāsti, mūvatteṇṭu. Ī-em-ai, ji-es-ṭi, uḷidaddu sēri oṭṭu nālku lakṣa aivatteṇṭu."
-    en: "Expenses: since we bought less stock, one lakh forty-five. Staff in full, eighty-eight, with Shankara-anna's ten thousand owed to him as a loan. Rent, one lakh. Gas, nineteen thousand. Induction rental, eight. The electricity bill more than doubled: thirty-eight. With the EMI, GST and the rest, four lakh fifty-eight in all."
+    t: "ಖರ್ಚು: ಸಾಮಾನು ಕಮ್ಮಿ ತಗೊಂಡಿದ್ರಿಂದ ಒಂದು ಲಕ್ಷ ನಲವತ್ತೈದು. ಸ್ಟಾಫ್ ಪೂರ್ತಿ, ಎಂಬತ್ತೆಂಟು, ಶಂಕರಣ್ಣನ ಹತ್ತು ಸಾವಿರ ಸಾಲವಾಗಿ ಬಾಕಿ. ರೆಂಟ್ ಒಂದು ಲಕ್ಷ. ಗ್ಯಾಸ್ ಹತ್ತೊಂಬತ್ತು ಸಾವಿರ. ಇಂಡಕ್ಷನ್ ಬಾಡಿಗೆ ಎಂಟು. ಕರೆಂಟ್ ಬಿಲ್ ಎರಡು ಪಟ್ಟಿಗಿಂತ ಜಾಸ್ತಿ, ಮೂವತ್ತೆಂಟು. ಬ್ಯಾಂಕ್ ಬಡ್ಡಿ, ಜಿಎಸ್‌ಟಿ, ಉಳಿದದ್ದು ಸೇರಿ ಒಟ್ಟು ನಾಲ್ಕು ಲಕ್ಷ ಐವತ್ತೆಂಟು."
+    tr: "Kharchu: sāmānu kammi tagoṇḍidrinda ondu lakṣa nalavattaidu. Sṭāf pūrti, embatteṇṭu, Śaṅkaraṇṇana hattu sāvira sālavāgi bāki. Renṭ ondu lakṣa. Gyās hattombattu sāvira. Inḍakṣan bāḍige eṇṭu. Kareṇṭ bil eraḍu paṭṭiginta jāsti, mūvatteṇṭu. Byāṅk baḍḍi, ji-es-ṭi, uḷidaddu sēri oṭṭu nālku lakṣa aivatteṇṭu."
+    en: "Expenses: since we bought less stock, one lakh forty-five. Staff in full, eighty-eight, with Shankara-anna's ten thousand owed to him as a loan. Rent, one lakh. Gas, nineteen thousand. Induction rental, eight. The electricity bill more than doubled: thirty-eight. With the bank interest, GST and the rest, four lakh fifty-eight in all."
   - who: mahesh
     t: "ಅರವತ್ತೆಂಟು ಸಾವಿರ ನಷ್ಟ."
     tr: "Aravatteṇṭu sāvira naṣṭa."
@@ -922,9 +930,13 @@ lines:
     tr: "Haudu. Byāṅk-nalli uḷidirōdu ondu lakṣa hanneraḍu sāvira. Ēpril ondakke sambaḷa, aidakke renṭ. Eraḍū koṭṭa mēle kaiyalli bahutēka ēnū iralla. Innondu tingaḷu hīgē ādre…"
     en: "Yes. What's left in the bank is one lakh twelve thousand. Salaries on the first of April, rent on the fifth. Once both are paid, there's almost nothing in hand. If another month goes like this…"
   - who: nitin
-    t: "ನಾನು ಇನ್ನೂ ಎರಡು ಲಕ್ಷ ಹಾಕಬಹುದು, ಸಾಲವಾಗಿ, ಡೀಡ್‌ನಲ್ಲಿ ಬರೆದು. ಅಮ್ಮನ ಚಿನ್ನಕ್ಕೆ ಮುಂಚೆ ನನ್ನ ದುಡ್ಡು."
-    tr: "Nānu innū eraḍu lakṣa hākabahudu, sālavāgi, ḍīḍ-nalli baredu. Ammana chinnakke muñche nanna duḍḍu."
-    en: "I can put in two lakh more, as a loan, written into the deed. My money before Amma's gold."
+    t: "ನಾನು ಇನ್ನೂ ಎರಡು ಲಕ್ಷ ಹಾಕಬಹುದು, ಸಾಲವಾಗಿ, ಡೀಡ್‌ನಲ್ಲಿ ಬರೆದು. ದೊಡ್ಡಮ್ಮನ ಚಿನ್ನಕ್ಕೆ ಮುಂಚೆ ನನ್ನ ದುಡ್ಡು."
+    tr: "Nānu innū eraḍu lakṣa hākabahudu, sālavāgi, ḍīḍ-nalli baredu. Doḍḍammana chinnakke muñche nanna duḍḍu."
+    en: "I can put in two lakh more, as a loan, written into the deed. My money before Doddamma's gold."
+  - who: kavya
+    t: "ಮೇ ತನಕ ಕಾಯೋಣ ಅಂದ್ಕೊಂಡಿದ್ದೆ, ಆದ್ರೆ ಲೆಕ್ಕ ಕಾಯಲ್ಲ. ಸರಿ ನಿತಿನ್, ನಾಳೆನೇ ಹಾಕು. ಸಾಲದ ಪತ್ರ ನಾನು ಬರೆದು ಡೀಡ್‌ಗೆ ಸೇರಿಸ್ತೀನಿ. ಬಡ್ಡಿ ಇಲ್ಲ, ಆದ್ರೆ ವಾಪಸ್ ಕೊಡೋ ತಾರೀಖು ಬರೆದೇ ಇರ್ಬೇಕು."
+    tr: "Mē tanaka kāyōṇa andkoṇḍidde, ādre lekka kāyalla. Sari Nitin, nāḷenē hāku. Sālada patra nānu baredu ḍīḍ-ge sēristīni. Baḍḍi illa, ādre vāpas koḍō tārīkhu baredē irbēku."
+    en: "I'd thought we could wait until May, but the numbers won't wait. All right, Nitin, put it in tomorrow. I'll write the loan letter and attach it to the deed. No interest, but the repayment date has to be written down."
   - who: amma
     t: "ನಷ್ಟ ಆದ್ರೂ ನನಗೆ ಒಂದು ಸಮಾಧಾನ ಇದೆ. ಈ ತಿಂಗಳು ನಾವು ಯಾರ ಹೊಟ್ಟೆಗೂ ಮೋಸ ಮಾಡಿಲ್ಲ. ಹುಡುಗರ ಸಂಬಳ ನಿಂತಿಲ್ಲ, ಕದ್ದ ಸಿಲಿಂಡರ್ ಅಂಗಡಿಗೆ ಬಂದಿಲ್ಲ, ಇಡ್ಲಿ ರೇಟ್ ಏರಿಲ್ಲ. ದೇವರು ನೋಡ್ತಾನೆ."
     tr: "Naṣṭa ādrū nanage ondu samādhāna ide. Ī tingaḷu nāvu yāra hoṭṭegū mōsa māḍilla. Huḍugara sambaḷa nintilla, kadda silinḍar aṅgaḍige bandilla, iḍli rēṭ ērilla. Dēvaru nōḍtāne."
