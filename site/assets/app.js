@@ -296,6 +296,16 @@
   }
 
   // ---------- progress per scene ----------
+  // migrate the old lesson-wide tick (done:<lesson> = true) into "all scenes of that lesson done"
+  $$('.navlesson').forEach(a => {
+    const k = a.dataset.key, t = +a.dataset.total || 0;
+    if (t && store.get('done:' + k, false) === true && !store.get('migrated:' + k, false)) {
+      const set = new Set(store.get('scenes:' + k, []));
+      for (let n = 1; n <= t; n++) set.add('s-' + n);
+      store.set('scenes:' + k, [...set]);
+      store.set('migrated:' + k, true);
+    }
+  });
   // scene ids are the section anchors (#s-1, #s-2 …); progress is kept per lesson
   const pkey = k => 'scenes:' + k;
   const myKey = L.lang + '-' + L.num;

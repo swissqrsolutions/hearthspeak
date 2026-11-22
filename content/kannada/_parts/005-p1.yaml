@@ -608,3 +608,380 @@ lines:
     t: "ನಿನ್ನದೂ ಸೇರಿ, ಶೋಭಾ. ಅದರಲ್ಲಿ ಪ್ರಶ್ನೆನೇ ಇಲ್ಲ."
     tr: "Ninnadū sēri, Śōbhā. Adaralli praśnenē illa."
     en: "Yours too, Shobha. There's no question about that. (Mahadeva looks away and says nothing.)"
+
+  - chapter: "Chapter 3 — Papers"
+  - section: "The Village Accountant"
+    learn: "documents: maraṇa pramāṇa patra, vaṁśavṛkṣa pramāṇa patra, aphiḍaviṭ, ādhār kāpi, kraya patra · procedure: sthaḷa mahajar, hēḷike, nōṭis, ākṣēpaṇe, ār-ai dṛḍhīkarisu · key idea: khāte māliktvada purāve alla · ancestral vs self-acquired: tātaninda bandiddu, appa koṇḍkaṇḍiddu · official frankness: ellā sariyāgi naḍedre"
+  - scene: "Monday, 5 January 2026, 10:30 a.m. A small room at the back of the Gram Panchayat building in Bettahalli, used by the Village Accountant. Steel almirahs, bundles of files tied with red tape, a desktop computer and a printer. Siddaraju, about fifty, is sorting papers. Suresh, Mahadeva and Avva come in."
+  - who: va
+    t: "ಬನ್ನಿ, ಬನ್ನಿ, ಕೂತ್ಕೊಳ್ಳಿ. ಚನ್ನೇಗೌಡ್ರ ವಿಷಯ ಕೇಳಿ ತುಂಬಾ ಬೇಜಾರಾಯ್ತು. ಒಳ್ಳೆ ಮನುಷ್ಯ. ಭೂಕಂದಾಯ ಒಂದು ವರ್ಷಾನೂ ಬಾಕಿ ಇಟ್ಟೋರಲ್ಲ."
+    tr: "Banni, banni, kūtkoḷḷi. Cannēgauḍra viṣaya kēḷi tumbā bējārāytu. Oḷḷe manuṣya. Bhūkandāya ondu varṣānū bāki iṭṭōralla."
+    en: "Come in, come in, sit down. I was very sorry to hear about Channegowda. A good man. He never once left his land revenue unpaid, not for a single year."
+  - who: suresh
+    t: "ಧನ್ಯವಾದ ಸಿದ್ದರಾಜು ಅವರೇ. ನಾನು ಸುರೇಶ್, ದೊಡ್ಡ ಮಗ. ಅಪ್ಪನ ಹೆಸರಲ್ಲಿರೋ ಜಮೀನಿಗೆ ಪೌತಿ ಖಾತೆ ಮಾಡಿಸ್ಬೇಕು. ಏನೇನು ಬೇಕು, ಎಷ್ಟು ದಿನ ಆಗುತ್ತೆ ಅಂತ ತಿಳ್ಕೊಳ್ಳೋಕೆ ಬಂದ್ವಿ."
+    tr: "Dhanyavāda Siddarāju avarē. Nānu Surēś, doḍḍa maga. Appana hesarallirō jamīnige pauti khāte māḍisbēku. Ēnēnu bēku, eṣṭu dina āgutte anta tiḷkoḷḷōke bandvi."
+    en: "Thank you, Siddaraju. I'm Suresh, the eldest son. We need to get the pauti khata done for the land in Appa's name. We've come to find out what's needed and how long it takes."
+  - who: va
+    t: "ಒಳ್ಳೇದು, ತಡ ಮಾಡ್ಲಿಲ್ಲ ನೀವು. ಈಗ ಸರ್ಕಾರನೇ ಇ-ಪೌತಿ ಅಂತ ಅಭಿಯಾನ ನಡೆಸ್ತಿದೆ. ರಾಜ್ಯದಲ್ಲಿ ಸುಮಾರು ಐವತ್ತು ಲಕ್ಷ ಪಹಣಿಗಳು ಇನ್ನೂ ತೀರ್ಕೊಂಡೋರ ಹೆಸರಲ್ಲೇ ಇವೆ ಅಂತ ಲೆಕ್ಕ ಬಂದಿದೆ. ನಮ್ಮ ಮೇಲೂ ಮೇಲಿಂದ ಒತ್ತಡ ಇದೆ."
+    tr: "Oḷḷēdu, taḍa māḍlilla nīvu. Īga sarkāranē i-pauti anta abhiyāna naḍestide. Rājyadalli sumāru aivattu lakṣa pahaṇigaḷu innū tīrkoṇḍōra hesarallē ive anta lekka bandide. Namma mēlū mēlinda ottaḍa ide."
+    en: "Good, you didn't delay. Right now the government itself is running a campaign called e-Pauthi. They've worked out that around fifty lakh RTCs in the state are still in the names of people who have died. There's pressure on us from above too."
+  - who: mahadeva
+    t: "ಐವತ್ತು ಲಕ್ಷ! ಅಂದ್ರೆ ನಮ್ಮ ಹಂಗೆ ಎಷ್ಟೋ ಜನ ಅಪ್ಪ-ತಾತನ ಹೆಸರಲ್ಲೇ ಬೇಸಾಯ ಮಾಡ್ತಿದಾರೆ."
+    tr: "Aivattu lakṣa! Andre namma haṅge eṣṭō jana appa-tātana hesarallē bēsāya māḍtidāre."
+    en: "Fifty lakh! So lots of people like us are farming in their father's or grandfather's name."
+  - who: va
+    t: "ಹೌದು. ಕೆಲವರ ಪಹಣಿಯಲ್ಲಿ ಮುತ್ತಾತನ ಹೆಸರೂ ಇದೆ, ಅಂಥವರಿಗೆ ಒಂದರ ಹಿಂದೆ ಒಂದು ಮೂರು ಪೌತಿ ಮಾಡ್ಬೇಕು. ಈಗ ಕೇಳಿ, ಮೂರು ಮುಖ್ಯ ದಾಖಲೆ ಬೇಕು. ಒಂದು, ಮರಣ ಪ್ರಮಾಣ ಪತ್ರ. ಎರಡು, ವಂಶವೃಕ್ಷ ಪ್ರಮಾಣ ಪತ್ರ — ಅದಕ್ಕೆ ನಾಡಕಚೇರಿಯಲ್ಲಿ ಅರ್ಜಿ ಹಾಕ್ಬೇಕು, ತಹಸೀಲ್ದಾರ್ ಸಹಿ ಮಾಡ್ತಾರೆ. ಮೂರು, ಎಲ್ಲಾ ವಾರಸುದಾರರ ಆಧಾರ್ ಕಾಪಿ, ಅವರ ಫೋನ್ ನಂಬರ್."
+    tr: "Haudu. Kelavara pahaṇiyalli muttātana hesarū ide, anthavarige ondara hinde ondu mūru pauti māḍbēku. Īga kēḷi, mūru mukhya dākhale bēku. Ondu, maraṇa pramāṇa patra. Eraḍu, vaṁśavṛkṣa pramāṇa patra — adakke nāḍakacēriyalli arji hākbēku, tahasīldār sahi māḍtāre. Mūru, ellā vārasudārara ādhār kāpi, avara phōn nambar."
+    en: "Yes. Some people's RTCs still carry a great-grandfather's name; they need three pautis one after another. Now listen, three main documents are needed. One, the death certificate. Two, the family-tree certificate — for that you apply at the Nadakacheri and the Tahsildar signs it. Three, Aadhaar copies of all the heirs, and their phone numbers."
+  - who: suresh
+    t: "ಮರಣ ಪ್ರಮಾಣ ಪತ್ರ ಬಂದಿದೆ. ಮಹದೇವ ಆಸ್ಪತ್ರೆ ವರದಿ ಇಟ್ಕೊಂಡು ಮರಣ ನೋಂದಣಿ ಮಾಡಿಸಿದ್ದ. ಇಗೋ, ಮೂಲ ಪ್ರತಿ ಮತ್ತು ಎರಡು ಜೆರಾಕ್ಸ್."
+    tr: "Maraṇa pramāṇa patra bandide. Mahadēva āspatre varadi iṭkoṇḍu maraṇa nōndaṇi māḍisidda. Igō, mūla prati mattu eraḍu jerāks."
+    en: "The death certificate has come. Mahadeva got the death registered with the hospital's report. Here — the original and two photocopies."
+  - who: va
+    t: "ಸರಿ. ವಂಶವೃಕ್ಷಕ್ಕೆ ಅರ್ಜಿ ಹಾಕುವಾಗ ಒಂದು ಅಫಿಡವಿಟ್ ಕೊಡ್ಬೇಕು: ತೀರ್ಕೊಂಡೋರಿಗೆ ಯಾರ್ಯಾರು ವಾರಸುದಾರರು ಇದಾರೆ ಅಂತ. ಒಬ್ಬರ ಹೆಸರೂ ಬಿಟ್ಟು ಹೋಗ್ಬಾರದು. ಬಿಟ್ಟು ಹೋದ್ರೆ ಆಮೇಲೆ ಅದನ್ನ ಸರಿ ಮಾಡೋಕೆ ತಿಂಗಳುಗಟ್ಟಲೆ ಆಗುತ್ತೆ."
+    tr: "Sari. Vaṁśavṛkṣakke arji hākuvāga ondu aphiḍaviṭ koḍbēku: tīrkoṇḍōrige yāryāru vārasudāraru idāre anta. Obbara hesarū biṭṭu hōgbāradu. Biṭṭu hōdre āmēle adanna sari māḍōke tiṅgaḷugaṭṭale āgutte."
+    en: "Right. When you apply for the family tree, you have to give an affidavit stating who all the heirs of the deceased are. Not a single name must be left out. If one is, it takes months to put right afterwards."
+  - who: avva
+    t: "ನಮ್ಮೆಜಮಾನ್ರಿಗೆ ನಾನು, ಎರಡು ಗಂಡು ಮಕ್ಕಳು, ಒಬ್ಬ ಮಗಳು. ಅಷ್ಟೇ ಕಣಪ್ಪ. ಅವ್ರ ಅಪ್ಪ-ಅವ್ವ ಯಾವಾಗ್ಲೋ ಹೋಗ್ಬುಟ್ರು."
+    tr: "Nammejamānrige nānu, eraḍu gaṇḍu makkaḷu, obba magaḷu. Aṣṭē kaṇappa. Avra appa-avva yāvāglō hōgbuṭru."
+    en: "My husband has me, two sons and one daughter. That's all, son. His father and mother passed away long ago."
+  - who: va
+    t: "ಒಳ್ಳೇದು ಅಮ್ಮ. ಅವರ ತಾಯಿ ಬದುಕಿದ್ದಿದ್ರೆ ಅವರೂ ವಾರಸುದಾರರಾಗ್ತಿದ್ರು. ಹಾಗಾದ್ರೆ ನಾಲ್ಕು ಜನ. ಇನ್ನೊಂದು ಪ್ರಶ್ನೆ, ದಾಖಲೆಗೋಸ್ಕರ: ಈ ಜಮೀನು ಚನ್ನೇಗೌಡ್ರು ಸ್ವಂತ ಸಂಪಾದಿಸಿದ್ದಾ, ಅಥವಾ ಅವರ ಅಪ್ಪನಿಂದ ಬಂದಿದ್ದಾ?"
+    tr: "Oḷḷēdu amma. Avara tāyi badukiddidre avarū vārasudārarāgtidru. Hāgādre nālku jana. Innondu praśne, dākhalegōskara: ī jamīnu Cannēgauḍru svanta sampādisiddā, athavā avara appaninda bandiddā?"
+    en: "Good, Amma. If his mother had been alive, she too would have been an heir. So that makes four people. One more question, for the record: did Channegowda acquire this land himself, or did it come from his father?"
+  - who: mahadeva
+    t: "ಗದ್ದೆ ತಾತನಿಂದ ಬಂದಿದ್ದು, ಕರಿಯಪ್ಪನವರಿಂದ. ಹೊಲ — ಆ ಎಂಬತ್ತೇಳರ ಎರಡೂವರೆ ಎಕರೆ — ಅಪ್ಪ ಎಂಬತ್ತರ ದಶಕದಲ್ಲಿ ಸ್ವಂತ ದುಡ್ಡಲ್ಲಿ ಕೊಂಡ್ಕಂಡಿದ್ದು. ಕ್ರಯ ಪತ್ರ ಪೆಟ್ಟಿಗೇಲಿ ಇದೆ."
+    tr: "Gadde tātaninda bandiddu, Kariyappanavarinda. Hola — ā embattēḷara eraḍūvare ekare — appa embattara daśakadalli svanta duḍḍalli koṇḍkaṇḍiddu. Kraya patra peṭṭigēli ide."
+    en: "The wet land came from our grandfather, from Kariyappa. The dry field — those two and a half acres in 87 — Appa bought with his own money in the eighties. The sale deed is in the trunk."
+  - who: va
+    t: "ಅದನ್ನೂ ತನ್ನಿ. ಪೌತಿ ಖಾತೆಗೆ ಅದು ಅಷ್ಟು ಮುಖ್ಯ ಅಲ್ಲ, ಎರಡರಲ್ಲೂ ಎಲ್ಲಾ ವಾರಸುದಾರರ ಹೆಸರು ಸೇರುತ್ತೆ. ಆದ್ರೆ ಮುಂದೆ ಪಾಲು ಮಾಡ್ಕೊಳ್ಳುವಾಗ ಆ ವ್ಯತ್ಯಾಸ ಬೇಕಾಗಬಹುದು. ಒಂದು ವಿಷಯ ಮೊದ್ಲೇ ಹೇಳ್ತೀನಿ: ಖಾತೆ ಅಂದ್ರೆ ಮಾಲೀಕತ್ವದ ಪುರಾವೆ ಅಲ್ಲ. ಅದು ಕಂದಾಯದ ದಾಖಲೆ ಅಷ್ಟೇ. ಕೋರ್ಟ್‌ಗಳು ಇದನ್ನ ಪದೇ ಪದೇ ಹೇಳ್ತವೆ."
+    tr: "Adannū tanni. Pauti khātege adu aṣṭu mukhya alla, eraḍarallū ellā vārasudārara hesaru sērutte. Ādre munde pālu māḍkoḷḷuvāga ā vyatyāsa bēkāgabahudu. Ondu viṣaya modlē hēḷtīni: khāte andre mālīkatvada purāve alla. Adu kandāyada dākhale aṣṭē. Kōrṭ-gaḷu idanna padē padē hēḷtave."
+    en: "Bring that too. For the pauti khata it doesn't matter much — all the heirs' names go into both. But later, when you divide the property, that difference may matter. Let me tell you one thing up front: a khata is not proof of ownership. It's only a revenue record. The courts say this again and again."
+  - who: suresh
+    t: "ಅರ್ಥ ಆಯ್ತು. ಒಟ್ಟು ಎಷ್ಟು ದಿನ ಆಗುತ್ತೆ?"
+    tr: "Artha āytu. Oṭṭu eṣṭu dina āgutte?"
+    en: "Understood. How long will it take altogether?"
+  - who: va
+    t: "ವಂಶವೃಕ್ಷ ಸಕಾಲ ಯೋಜನೆಯಲ್ಲಿ ಬರುತ್ತೆ — ಹದಿನಾಲ್ಕು ಕೆಲಸದ ದಿನದೊಳಗೆ ಕೊಡ್ಬೇಕು ಅಂತ ನಿಯಮ ಇದೆ. ಆಮೇಲೆ ನಾನು ಜಮೀನಿಗೆ ಬಂದು ಸ್ಥಳ ಮಹಜರ್ ಮಾಡ್ತೀನಿ, ಎಲ್ಲಾ ವಾರಸುದಾರರ ಹೇಳಿಕೆ ತಗೋತೀನಿ, ಕಡತ ರೆವಿನ್ಯೂ ಇನ್ಸ್‌ಪೆಕ್ಟರ್‌ಗೆ ಕಳಿಸ್ತೀನಿ. ಎಲ್ಲರಿಗೂ ನೋಟಿಸ್ ಹೋಗುತ್ತೆ. ಯಾರೂ ಆಕ್ಷೇಪಣೆ ಮಾಡ್ದೇ ಇದ್ರೆ ಆರ್‌ಐ ದೃಢೀಕರಿಸ್ತಾರೆ, ಹೊಸ ಪಹಣಿ ಬರುತ್ತೆ. ಎಲ್ಲಾ ಸರಿಯಾಗಿ ನಡೆದ್ರೆ ಒಂದೂವರೆಯಿಂದ ಎರಡು ತಿಂಗಳು."
+    tr: "Vaṁśavṛkṣa sakāla yōjaneyalli barutte — hadinālku kelasada dinadoḷage koḍbēku anta niyama ide. Āmēle nānu jamīnige bandu sthaḷa mahajar māḍtīni, ellā vārasudārara hēḷike tagōtīni, kaḍata revinyū inspekṭar-ge kaḷistīni. Ellarigū nōṭis hōgutte. Yārū ākṣēpaṇe māḍdē idre ār-ai dṛḍhīkaristāre, hosa pahaṇi barutte. Ellā sariyāgi naḍedre ondūvareyinda eraḍu tiṅgaḷu."
+    en: "The family tree comes under the Sakala scheme — the rule says it must be issued within fourteen working days. After that I come to the land and do the spot mahazar, take statements from all the heirs and send the file to the Revenue Inspector. Notice goes to everyone. If nobody objects, the RI certifies it and a new RTC comes. If everything goes smoothly, a month and a half to two months."
+  - who: mahadeva
+    t: "ಎಲ್ಲಾ ಸರಿಯಾಗಿ ನಡೆದ್ರೆ… ಸರ್ಕಾರಿ ಕೆಲಸದಲ್ಲಿ ಅದೇ ದೊಡ್ಡ ‘ಆದ್ರೆ’ ಕಣ್ರೀ."
+    tr: "Ellā sariyāgi naḍedre… sarkāri kelasadalli adē doḍḍa ‘ādre’ kaṇrī."
+    en: "'If everything goes smoothly'… in government work, that's the big 'but', sir."
+  - who: va
+    t: "ನಿಜ ಹೇಳ್ತೀನಿ, ನನ್ನ ಕೈಯಲ್ಲಿ ಮೂರು ಹಳ್ಳಿ ಇವೆ, ನಾನೊಬ್ನೇ ಇದೀನಿ. ಸರ್ವರ್ ಡೌನ್ ಆದ್ರೆ ದಿನವೆಲ್ಲಾ ಕಂಪ್ಯೂಟರ್ ಮುಂದೆ ಕೂತ್ಕೊಂಡೇ ಇರ್ಬೇಕು. ಇವತ್ತು ಕೂಡ ಭೂಮಿ ತಂತ್ರಾಂಶ ಬೆಳಿಗ್ಗೆಯಿಂದ ತೆಗೀತಿಲ್ಲ. ನಿಮ್ಮ ಮೇಲೆ ಕೋಪ ಇಲ್ಲ, ವ್ಯವಸ್ಥೆ ಹಾಗಿದೆ."
+    tr: "Nija hēḷtīni, nanna kaiyalli mūru haḷḷi ive, nānobnē idīni. Sarvar ḍaun ādre dinavellā kampyūṭar munde kūtkoṇḍē irbēku. Ivattu kūḍa bhūmi tantrāṁśa beḷiggeyinda tegītilla. Nimma mēle kōpa illa, vyavasthe hāgide."
+    en: "I'll be honest: I have three villages in my charge and I'm on my own. When the server goes down I have to sit in front of the computer all day. Even today the Bhoomi software hasn't opened since morning. It's nothing against you — that's how the system is."
+  - who: suresh
+    t: "ಪರವಾಗಿಲ್ಲ. ನಾವು ಇವತ್ತೇ ನಾಡಕಚೇರಿಗೆ ಹೋಗಿ ವಂಶವೃಕ್ಷಕ್ಕೆ ಅರ್ಜಿ ಹಾಕ್ತೀವಿ. ಶೋಭಾ ಆಧಾರ್ ಕಾಪಿ ವಾಟ್ಸಾಪ್‌ನಲ್ಲಿ ಕಳಿಸಿದಾಳೆ, ಪ್ರಿಂಟ್ ತೆಗೆಸ್ತೀನಿ."
+    tr: "Paravāgilla. Nāvu ivattē nāḍakacērige hōgi vaṁśavṛkṣakke arji hāktīvi. Śōbhā ādhār kāpi vāṭsāp-nalli kaḷisidāḷe, priṇṭ tegestīni."
+    en: "That's all right. We'll go to the Nadakacheri today itself and apply for the family tree. Shobha has sent her Aadhaar copy on WhatsApp; I'll get it printed."
+  - who: va
+    t: "ಒಳ್ಳೇದು. ಒಂದು ಮಾತು: ಮಹಜರ್ ದಿನ ನಾಲ್ಕೂ ಜನ ಇರ್ಬೇಕು. ಮಗಳು ಮೈಸೂರಲ್ಲಿದ್ರೂ ಅವತ್ತು ಬರ್ಲೇಬೇಕು. ಆಮೇಲೆ ‘ನನ್ನ ಕೇಳ್ಲೇ ಇಲ್ಲ’ ಅನ್ನೋ ಮಾತು ಬರಬಾರದು."
+    tr: "Oḷḷēdu. Ondu mātu: mahajar dina nālkū jana irbēku. Magaḷu Maisūralliddrū avattu barlēbēku. Āmēle ‘nanna kēḷlē illa’ annō mātu barabāradu."
+    en: "Good. One thing: all four must be present on the day of the mahazar. Even if your sister lives in Mysuru, she must come that day. We don't want anyone saying later, 'Nobody asked me.'"
+
+  - section: "The Nadakacheri queue"
+    learn: "office life: ṭōkan nambar, kyū, arji phāram, rasīdi, sakāla, mesēj barutte · rural forms: kuntkōtīni, nōytā ide · mourning customs: varṣa āgōvaregū habba illa · a small trust that will matter later: nīnē tumbu, nīnē iṭkō"
+  - scene: "The same afternoon. The hobli Nadakacheri — the citizens' service centre — a single-storey government building with a neem tree outside. The verandah is full: farmers with files, old women with Aadhaar cards, students wanting caste and income certificates. A token machine and a Sakala notice board on the wall."
+  - who: mahadeva
+    t: "ಅಣ್ಣ, ನಮ್ಮ ಟೋಕನ್ ನಂಬರ್ ನಲವತ್ತೇಳು. ಈಗ ಇಪ್ಪತ್ತೊಂಬತ್ತು ನಡೀತಿದೆ. ಒಂದು ಗಂಟೆ ಆದ್ರೂ ಆಗುತ್ತೆ."
+    tr: "Aṇṇa, namma ṭōkan nambar nalavattēḷu. Īga ippattombattu naḍītide. Ondu gaṇṭe ādrū āgutte."
+    en: "Anna, our token number is forty-seven. They're on twenty-nine now. It'll be at least an hour."
+  - who: suresh
+    t: "ನಮ್ಮ ಬ್ಯಾಂಕಲ್ಲಿ ಗ್ರಾಹಕರು ಹತ್ತು ನಿಮಿಷ ಕಾದ್ರೆ ನನ್ನ ಮೇಲೆ ದೂರು ಬರೀತಾರೆ. ಇವತ್ತು ಗೊತ್ತಾಗ್ತಿದೆ ಕೌಂಟರ್‌ನ ಈ ಕಡೆ ನಿಲ್ಲೋದು ಹೇಗಿರುತ್ತೆ ಅಂತ."
+    tr: "Namma byāṅkalli grāhakaru hattu nimiṣa kādre nanna mēle dūru barītāre. Ivattu gottāgtide kauṇṭar-na ī kaḍe nillōdu hēgirutte anta."
+    en: "At my bank, if customers wait ten minutes they write complaints about me. Today I'm finding out what it's like to stand on this side of the counter."
+  - who: avva
+    t: "ನಾನು ಆ ಬೇವಿನ ಮರದ ಕೆಳಗೆ ಕುಂತ್ಕೋತೀನಿ ಕಣಪ್ಪ. ಕಾಲು ನೋಯ್ತಾ ಇದೆ."
+    tr: "Nānu ā bēvina marada keḷage kuntkōtīni kaṇappa. Kālu nōytā ide."
+    en: "I'll sit under that neem tree, son. My legs are aching."
+  - who: suresh
+    t: "ಬಾ ಅವ್ವ, ನಾನು ಕರ್ಕೊಂಡು ಹೋಗ್ತೀನಿ, ನೀರು ತಂದ್ಕೊಡ್ತೀನಿ. ಮಹದೇವ, ಅರ್ಜಿ ಫಾರಂ ನೀನೇ ತುಂಬು. ಕನ್ನಡ ಫಾರಂ, ನಿನ್ನ ಅಕ್ಷರ ನನಗಿಂತ ಚೆನ್ನಾಗಿದೆ."
+    tr: "Bā avva, nānu karkoṇḍu hōgtīni, nīru tandkoḍtīni. Mahadēva, arji phāram nīnē tumbu. Kannaḍa phāram, ninna akṣara nanaginta cennāgide."
+    en: "Come, Avva, I'll take you there and bring you some water. Mahadeva, you fill in the application form. It's a Kannada form, and your handwriting is better than mine."
+  - who: mahadeva
+    t: "ಆಯ್ತು. ರೇಷನ್ ಕಾರ್ಡ್ ಕೂಡ ಕೇಳ್ತಾರೆ ಅಂದ್ರು, ತಂದಿದೀನಿ. ಹೆಸರೆಲ್ಲಾ ಅದರಲ್ಲಿ ಇರೋ ಹಾಗೇ ಬರೀತೀನಿ, ಆಗ ಅಕ್ಷರ ತಪ್ಪಾಗಲ್ಲ."
+    tr: "Āytu. Rēṣan kārḍ kūḍa kēḷtāre andru, tandidīni. Hesarellā adaralli irō hāgē barītīni, āga akṣara tappāgalla."
+    en: "All right. They said they'd ask for the ration card as well, so I've brought it. I'll write all the names exactly as they are on it; that way there'll be no spelling mistakes."
+  - who: suresh
+    t: "ಅರ್ಜಿ ತಗೊಂಡ್ರು. ಶುಲ್ಕ ತುಂಬಾ ಕಮ್ಮಿ, ರಸೀದಿ ಕೊಟ್ರು. ಸಕಾಲದಲ್ಲಿ ಹದಿನಾಲ್ಕು ಕೆಲಸದ ದಿನದೊಳಗೆ ಬರುತ್ತೆ, ಫೋನಿಗೆ ಮೆಸೇಜ್ ಬರುತ್ತೆ ಅಂತ ಹೇಳಿದ್ರು."
+    tr: "Arji tagoṇḍru. Śulka tumbā kammi, rasīdi koṭru. Sakāladalli hadinālku kelasada dinadoḷage barutte, phōnige mesēj barutte anta hēḷidru."
+    en: "(an hour later, coming back from the counter) They've taken the application. The fee was very small, and they gave a receipt. They said under Sakala it'll come within fourteen working days, and a message will come to the phone."
+  - who: avva
+    t: "ಹದಿನಾಲ್ಕು ದಿನ… ಅಷ್ಟರಲ್ಲಿ ಸಂಕ್ರಾಂತಿನೂ ಬಂದು ಹೋಗುತ್ತೆ. ಈ ಸಲ ನಮ್ಮನೇಲಿ ಹಬ್ಬ ಮಾಡೋ ಹಂಗಿಲ್ಲ."
+    tr: "Hadinālku dina… aṣṭaralli saṅkrāntinū bandu hōgutte. Ī sala nammanēli habba māḍō haṅgilla."
+    en: "Fourteen days… Sankranti will have come and gone by then. This year we can't celebrate the festival in our house."
+  - who: suresh
+    t: "ಗೊತ್ತು ಅವ್ವ. ವರ್ಷ ಆಗೋವರೆಗೂ ಹಬ್ಬ ಇಲ್ಲ. ಆದ್ರೆ ರಕ್ಷಿತ್ ಬರ್ತಾನೆ, ಮಹದೇವನ ಜೊತೆ ದನಗಳಿಗೆ ಮೈ ತೊಳೀತಾನೆ. ತಾತಂಗೆ ಮಾತು ಕೊಟ್ಟಿದಾನೆ, ಅಷ್ಟಾದ್ರೂ ಮಾಡ್ಲಿ."
+    tr: "Gottu avva. Varṣa āgōvaregū habba illa. Ādre Rakṣit bartāne, Mahadēvana jote danagaḷige mai toḷītāne. Tātaṅge mātu koṭṭidāne, aṣṭādrū māḍli."
+    en: "I know, Avva. No festivals until the year is over. But Rakshith will come and wash the cattle with Mahadeva. He gave Thatha his word; let him at least do that much."
+  - who: mahadeva
+    t: "ಅಣ್ಣ, ಅರ್ಜಿ ಕಾಪಿ ನೀನೇ ಇಟ್ಕೋ. ನನ್ನ ಹತ್ರ ಇದ್ರೆ ದನಗಳ ಮೇವಿನ ಜೊತೆ ಎಲ್ಲೋ ಕಳೆದೋಗುತ್ತೆ."
+    tr: "Aṇṇa, arji kāpi nīnē iṭkō. Nanna hatra idre danagaḷa mēvina jote ellō kaḷedōgutte."
+    en: "Anna, you keep the copy of the application. If it stays with me it'll get lost somewhere along with the cattle fodder."
+  - who: suresh
+    t: "ಸರಿ, ಫೈಲಲ್ಲಿ ಇಡ್ತೀನಿ."
+    tr: "Sari, phailalli iḍtīni."
+    en: "Fine, I'll put it in the file. (He slips it into the folder without reading it.)"
+
+  - section: "A name left out"
+    learn: "reading a certificate: mṛtaru, patni, maga, vārasudāraru · blame and excuses: bēkanta biḍlilla, rēṣan kārḍ-nalli idda hāge · the law in plain words: maduve āgli biḍli, maganaṣṭē vārasudāraḷu · fixing it: tiddupaḍi arji · a hinted 'fee' and a firm refusal: rasīdi illada ondu rūpāyinū…"
+  - scene: "Thursday, 22 January 2026. The Village Accountant's room again. The family-tree certificate has arrived. Shobha has come from Mysuru on the early bus; Suresh has driven down from Bengaluru. Avva and Mahadeva are there too."
+  - who: va
+    t: "ವಂಶವೃಕ್ಷ ಪ್ರಮಾಣ ಪತ್ರ ಬಂದಿದೆ. ಮಹಜರ್‌ಗೆ ಮುಂಚೆ ನೀವೆಲ್ಲಾ ಒಂದ್ಸಲ ಚೆನ್ನಾಗಿ ನೋಡಿ. ಆಮೇಲೆ ‘ನಮಗೆ ಗೊತ್ತಿರ್ಲಿಲ್ಲ’ ಅನ್ಬೇಡಿ."
+    tr: "Vaṁśavṛkṣa pramāṇa patra bandide. Mahajar-ge mun̄ce nīvellā ondsala cennāgi nōḍi. Āmēle ‘namage gottirlilla’ anbēḍi."
+    en: "The family-tree certificate has come. Before the mahazar, all of you look at it carefully once. Don't say afterwards, 'We didn't know.'"
+  - who: shobha
+    t: "ಕೊಡಿ… ‘ಚನ್ನೇಗೌಡ ಬಿನ್ ಕರಿಯಪ್ಪ, ಮೃತರು. ವಾರಸುದಾರರು: ಒಂದು, ಪುಟ್ಟಮ್ಮ, ಪತ್ನಿ. ಎರಡು, ಸುರೇಶ, ಮಗ. ಮೂರು, ಮಹದೇವ, ಮಗ.’ … ಅಷ್ಟೇ? ನಾಲ್ಕನೇ ಹೆಸರು ಎಲ್ಲಿ? ನಾನು ಎಲ್ಲಿ?"
+    tr: "Koḍi… ‘Cannēgauḍa bin Kariyappa, mṛtaru. Vārasudāraru: ondu, Puṭṭamma, patni. Eraḍu, Surēśa, maga. Mūru, Mahadēva, maga.’ … Aṣṭē? Nālkanē hesaru elli? Nānu elli?"
+    en: "Give it to me… 'Channegowda, son of Kariyappa, deceased. Heirs: one, Puttamma, wife. Two, Suresha, son. Three, Mahadeva, son.' … That's all? Where's the fourth name? Where am I?"
+  - who: suresh
+    t: "ಏನು? ಕೊಡು ಇಲ್ಲಿ… ಹೌದು, ನಿನ್ನ ಹೆಸರೇ ಇಲ್ಲ. ಸಿದ್ದರಾಜು ಅವರೇ, ಇದು ಹೇಗಾಯ್ತು?"
+    tr: "Ēnu? Koḍu illi… haudu, ninna hesarē illa. Siddarāju avarē, idu hēgāytu?"
+    en: "What? Give it here… yes, your name isn't there at all. Siddaraju, how did this happen?"
+  - who: va
+    t: "ನಾಡಕಚೇರಿಯವರು ಅರ್ಜಿಯಲ್ಲಿ ಬರೆದ ಹೆಸರುಗಳನ್ನೇ ಪರಿಶೀಲನೆ ಮಾಡ್ತಾರೆ, ಸಾರ್. ಅವರು ಹೊಸ ಹೆಸರು ಸೇರಿಸಲ್ಲ. ಅರ್ಜಿಯ ಕಾಪಿ ನಿಮ್ಮ ಹತ್ರ ಇದ್ಯಾ? ನೋಡಿ."
+    tr: "Nāḍakacēriyavaru arjiyalli bareda hesarugaḷannē pariśīlane māḍtāre, sār. Avaru hosa hesaru sērisalla. Arjiya kāpi nimma hatra idyā? Nōḍi."
+    en: "The Nadakacheri people only verify the names written in the application, sir. They don't add new ones. Do you have a copy of the application? Have a look."
+  - who: suresh
+    t: "… ಅರ್ಜಿಯಲ್ಲೂ ಮೂರೇ ಹೆಸರು. ಮಹದೇವ, ಇದು ನೀನು ಬರೆದಿದ್ದು."
+    tr: "… Arjiyallū mūrē hesaru. Mahadēva, idu nīnu barediddu."
+    en: "(opening the folder) … Only three names in the application as well. Mahadeva, you're the one who wrote this."
+  - who: mahadeva
+    t: "ರೇಷನ್ ಕಾರ್ಡ್‌ನಲ್ಲಿ ಇದ್ದ ಹಾಗೆ ಬರೆದೆ ಅಣ್ಣ. ಶೋಭಂದು ಮದುವೆ ಆದ ಮೇಲೆ ಅವಳ ಹೆಸರು ಮೈಸೂರಿನ ಕಾರ್ಡ್‌ಗೆ ಹೋಯ್ತು. ನಾನು ಬೇಕಂತ ಬಿಡ್ಲಿಲ್ಲ."
+    tr: "Rēṣan kārḍ-nalli idda hāge barede aṇṇa. Śōbhandu maduve āda mēle avaḷa hesaru Maisūrina kārḍ-ge hōytu. Nānu bēkanta biḍlilla."
+    en: "I wrote it the way it was on the ration card, Anna. After Shobha's wedding her name moved to the card in Mysuru. I didn't leave it out on purpose."
+  - who: shobha
+    t: "ಬೇಕಂತ ಬಿಡ್ಲಿಲ್ವಾ? ಮಹದೇವ, ನೀನು ಹತ್ತನೇ ಕ್ಲಾಸ್ ಹುಡುಗ ಅಲ್ಲ. ವಂಶವೃಕ್ಷ ಅಂದ್ರೆ ರೇಷನ್ ಕಾರ್ಡ್ ಅಲ್ಲ. ಒಬ್ಬರ ಹೆಸರೂ ಬಿಡ್ಬಾರ್ದು ಅಂತ ಸಿದ್ದರಾಜು ಅವರು ಹೇಳಿದ್ರು ಅಂತ ಅಣ್ಣ ಅವತ್ತೇ ನನಗೆ ಫೋನಲ್ಲಿ ಹೇಳಿದ್ದ."
+    tr: "Bēkanta biḍlilvā? Mahadēva, nīnu hattanē klās huḍuga alla. Vaṁśavṛkṣa andre rēṣan kārḍ alla. Obbara hesarū biḍbārdu anta Siddarāju avaru hēḷidru anta aṇṇa avattē nanage phōnalli hēḷidda."
+    en: "Not on purpose? Mahadeva, you're not a tenth-standard boy. A family tree is not a ration card. Anna told me on the phone that very day that Siddaraju had said not a single name should be left out."
+  - who: mahadeva
+    t: "ಹೌದು ಕಣೇ, ಗೊತ್ತಿತ್ತು! ನಿಜ ಹೇಳ್ಲಾ? ನಮ್ಮೂರಲ್ಲಿ ಮದುವೆ ಆದ ಹೆಣ್ಣುಮಕ್ಕಳು ತವರು ಮನೆ ಜಮೀನಲ್ಲಿ ಪಾಲು ಕೇಳಲ್ಲ. ನಿನ್ ಮದುವೆಗೆ ಅಪ್ಪ ಎರಡು ಲಕ್ಷ ಸಾಲ ಮಾಡಿದ್ರು, ಐದು ವರ್ಷ ನಾನು ತೀರಿಸ್ದೆ. ಅದೇ ನಿನ್ನ ಪಾಲು ಅಂತ ಊರೆಲ್ಲಾ ಅಂದ್ಕೊಂಡಿದೆ."
+    tr: "Haudu kaṇē, gottittu! Nija hēḷlā? Nammūralli maduve āda heṇṇumakkaḷu tavaru mane jamīnalli pālu kēḷalla. Nin maduvege appa eraḍu lakṣa sāla māḍidru, aidu varṣa nānu tīrisde. Adē ninna pālu anta ūrellā andkoṇḍide."
+    en: "Yes, girl, I knew! Shall I tell you the truth? In our village, married daughters don't ask for a share of their parents' land. Appa borrowed two lakh for your wedding, and for five years I paid it off. The whole village believes that was your share."
+  - who: shobha
+    t: "ಊರು ಏನು ಅಂದ್ಕೊಳ್ಳುತ್ತೆ ಅನ್ನೋದು ಕಾನೂನು ಅಲ್ಲ. ಮದುವೆ ಖರ್ಚು ಆಸ್ತಿಯ ಪಾಲು ಅಲ್ಲ. ಹಿಂದೂ ಉತ್ತರಾಧಿಕಾರ ಕಾಯ್ದೆ ಪ್ರಕಾರ ಮಗಳು ಮದುವೆ ಆಗ್ಲಿ ಬಿಡ್ಲಿ, ಮಗನಷ್ಟೇ ವಾರಸುದಾರಳು. ಇದು ನನ್ನ ಅಭಿಪ್ರಾಯ ಅಲ್ಲ ಮಹದೇವ, ಕಾನೂನು."
+    tr: "Ūru ēnu andkoḷḷutte annōdu kānūnu alla. Maduve kharcu āstiya pālu alla. Hindū uttarādhikāra kāyde prakāra magaḷu maduve āgli biḍli, maganaṣṭē vārasudāraḷu. Idu nanna abhiprāya alla Mahadēva, kānūnu."
+    en: "What the village believes is not the law. Wedding expenses are not a share of the property. Under the Hindu Succession Act, a daughter — married or not — is as much an heir as a son. This isn't my opinion, Mahadeva. It's the law."
+  - who: avva
+    t: "ಅಯ್ಯೋ, ಆಫೀಸಲ್ಲಿ ಜಗಳ ಬೇಡ ಕಣ್ರಪ್ಪ… ಹೊರಗೆ ಊರಿನೋರೆಲ್ಲಾ ಕೇಳಿಸ್ಕೋತಿದಾರೆ."
+    tr: "Ayyō, āphīsalli jagaḷa bēḍa kaṇrappa… horage ūrinōrellā kēḷiskōtidāre."
+    en: "Oh, no fighting in the office, my children… everyone from the village outside can hear."
+  - who: va
+    t: "ಅಮ್ಮ ಹೇಳೋದು ಸರಿ. ನೋಡಿ, ನನ್ನ ಕೆಲಸ ಕಾನೂನು ಪ್ರಕಾರ ಎಲ್ಲಾ ವಾರಸುದಾರರ ಹೆಸರು ಸೇರಿಸೋದು. ಮಗಳ ಹೆಸರು ಬಿಟ್ಟು ಖಾತೆ ಮಾಡಿದ್ರೆ ಅದು ತಪ್ಪು, ನಾಳೆ ಅದಕ್ಕೆ ನಾನೇ ಉತ್ತರ ಕೊಡ್ಬೇಕು. ಇದನ್ನ ಸರಿ ಮಾಡೋಕೆ ತಿದ್ದುಪಡಿ ಅರ್ಜಿ ಹಾಕ್ಬೇಕು — ಹೊಸ ಅಫಿಡವಿಟ್, ಮಗಳ ಆಧಾರ್, ಅವರ ಸಹಿ."
+    tr: "Amma hēḷōdu sari. Nōḍi, nanna kelasa kānūnu prakāra ellā vārasudārara hesaru sērisōdu. Magaḷa hesaru biṭṭu khāte māḍidre adu tappu, nāḷe adakke nānē uttara koḍbēku. Idanna sari māḍōke tiddupaḍi arji hākbēku — hosa aphiḍaviṭ, magaḷa ādhār, avara sahi."
+    en: "Amma is right. Look, my job is to include the names of all the heirs as the law requires. If I do the khata leaving out the daughter's name, that's wrong, and tomorrow I'm the one who has to answer for it. To fix this you have to file a correction application — a new affidavit, the daughter's Aadhaar, her signature."
+  - who: suresh
+    t: "ಮತ್ತೆ ಎಷ್ಟು ದಿನ ಆಗುತ್ತೆ?"
+    tr: "Matte eṣṭu dina āgutte?"
+    en: "And how long will that take?"
+  - who: va
+    t: "ಮತ್ತೆ ಹದಿನಾಲ್ಕು ದಿನ, ಸಾರ್. ಕೆಲವರು… ಬೇಗ ಆಗ್ಲಿ ಅಂತ ತಾಲೂಕು ಆಫೀಸಲ್ಲಿ ಯಾರನ್ನೋ ‘ನೋಡ್ಕೊಳ್ತಾರೆ’. ಆಗ ಫೈಲ್ ಒಂದು ಟೇಬಲ್‌ನಿಂದ ಇನ್ನೊಂದು ಟೇಬಲ್‌ಗೆ ಬೇಗ ಓಡುತ್ತೆ. ನಾನೇನೂ ಕೇಳ್ತಿಲ್ಲ, ಹೀಗೂ ನಡೆಯುತ್ತೆ ಅಂತ ಹೇಳ್ದೆ ಅಷ್ಟೇ."
+    tr: "Matte hadinālku dina, sār. Kelavaru… bēga āgli anta tālūku āphīsalli yārannō ‘nōḍkoḷḷtāre’. Āga phail ondu ṭēbal-ninda innondu ṭēbal-ge bēga ōḍutte. Nānēnū kēḷtilla, hīgū naḍeyutte anta hēḷde aṣṭē."
+    en: "(lowering his voice) Another fourteen days, sir. Some people… to speed things up, they 'take care of' someone at the taluk office. Then the file runs quickly from one table to the next. I'm not asking for anything — I'm only telling you that this also happens."
+  - who: suresh
+    t: "ಸಿದ್ದರಾಜು ಅವರೇ, ನಾನು ಇಪ್ಪತ್ತು ವರ್ಷದಿಂದ ಬ್ಯಾಂಕಲ್ಲಿ ಕೆಲಸ ಮಾಡ್ತಿದೀನಿ. ರಸೀದಿ ಇಲ್ಲದ ಒಂದು ರೂಪಾಯಿನೂ ನನ್ನ ಕೈಯಿಂದ ಹೋಗಿಲ್ಲ. ನಮ್ಮಪ್ಪನ ಹೆಸರಲ್ಲಿ ಮಾಡೋ ಕೆಲಸಕ್ಕೆ ಆ ದಾರಿ ಬೇಡ. ಹದಿನಾಲ್ಕು ದಿನ ಕಾಯ್ತೀವಿ. ಬೇಕಾದ್ರೆ ಇಪ್ಪತ್ತೆಂಟು ದಿನ."
+    tr: "Siddarāju avarē, nānu ippattu varṣadinda byāṅkalli kelasa māḍtidīni. Rasīdi illada ondu rūpāyinū nanna kaiyinda hōgilla. Nammappana hesaralli māḍō kelasakke ā dāri bēḍa. Hadinālku dina kāytīvi. Bēkādre ippatteṇṭu dina."
+    en: "Siddaraju, I've worked in a bank for twenty years. Not one rupee without a receipt has ever left my hands. For work done in my father's name, we won't take that road. We'll wait fourteen days. Twenty-eight if need be."
+  - who: va
+    t: "ಸರಿ ಸಾರ್. ನಿಮ್ಮಂಥವರು ಇದ್ರೆ ನಮ್ಮ ಕೆಲಸಾನೂ ಸುಲಭ. ತಿದ್ದುಪಡಿ ಅರ್ಜಿ ನಾನೇ ಇವತ್ತು ಮುಂದಕ್ಕೆ ಕಳಿಸ್ತೀನಿ, ಹಿಂದೆ ಇಟ್ಕೊಳ್ಳಲ್ಲ. ಹೊಸ ಪ್ರಮಾಣ ಪತ್ರ ಬಂದ ಮೊದಲ ಶನಿವಾರ ಮಹಜರ್."
+    tr: "Sari sār. Nimmanthavaru idre namma kelasānū sulabha. Tiddupaḍi arji nānē ivattu mundakke kaḷistīni, hinde iṭkoḷḷalla. Hosa pramāṇa patra banda modala śanivāra mahajar."
+    en: "(nodding, a little embarrassed) All right, sir. With people like you, our work is easier too. I'll send the correction application forward myself today; I won't hold it back. The mahazar will be on the first Saturday after the new certificate comes."
+  - who: shobha
+    t: "ನಾನು ಬರ್ತೀನಿ. ಆ ಶನಿವಾರ ಮಾತ್ರ ಅಲ್ಲ, ಎಷ್ಟು ಸಲ ಕರೆದ್ರೂ ಬರ್ತೀನಿ."
+    tr: "Nānu bartīni. Ā śanivāra mātra alla, eṣṭu sala karedrū bartīni."
+    en: "I'll come. Not just that Saturday — however many times I'm called, I'll come."
+  - who: mahadeva
+    t: "ಬಾ, ಬಾ. ನಿನ್ನ ಪಾಲು ತಗೊಂಡು ಮೈಸೂರಿಗೆ ಹೋಗು. ಗದ್ದೆಗೆ ನೀರು ಕಟ್ಟೋಕೆ ಮಾತ್ರ ಯಾರೂ ಬರಲ್ಲ."
+    tr: "Bā, bā. Ninna pālu tagoṇḍu Maisūrige hōgu. Gaddege nīru kaṭṭōke mātra yārū baralla."
+    en: "Come, come. Take your share and go back to Mysuru. It's only to water the paddy field that nobody ever comes."
+  - who: suresh
+    t: "ಮಹದೇವ!"
+    tr: "Mahadēva!"
+    en: "Mahadeva!"
+  - who: mahadeva
+    t: "ಏನಣ್ಣ? ಸುಳ್ಳು ಹೇಳಿದ್ನಾ? … ನಾನು ಗದ್ದೆಗೆ ಹೋಗ್ಬೇಕು. ನಾಲೆಗೆ ಇವತ್ತು ನೀರು ಬಿಟ್ಟಿದಾರೆ, ನಮ್ಮ ಸರದಿ ಮಧ್ಯಾಹ್ನ."
+    tr: "Ēnaṇṇa? Suḷḷu hēḷidnā? … Nānu gaddege hōgbēku. Nālege ivattu nīru biṭṭidāre, namma saradi madhyāhna."
+    en: "What, Anna? Did I lie? … I have to go to the field. They've released water into the canal today, and our turn is this afternoon. (He walks out.)"
+  - who: avva
+    t: "ಶೋಭ… ಅವನ ಮಾತು ಮನಸ್ಸಿಗೆ ತಗೋಬೇಡ ಕಣೇ. ಅಪ್ಪ ಹೋದ ಮೇಲೆ ಅವನ ಕಾಲ ಕೆಳಗಿನ ನೆಲ ಕುಸಿದಂಗಾಗಿದೆ."
+    tr: "Śōbha… avana mātu manassige tagōbēḍa kaṇē. Appa hōda mēle avana kāla keḷagina nela kusidaṅgāgide."
+    en: "Shobha… don't take his words to heart, dear. Since your father went, it's as if the ground under his feet has given way."
+  - who: shobha
+    t: "ಅವ್ವ, ನನಗೆ ಆ ಮಣ್ಣು ಬೇಕು ಅಂತ ಅಲ್ಲ… ನನ್ನ ಹೆಸರು ಆ ಕಾಗದದಲ್ಲಿ ಇಲ್ಲ ಅಂದ್ರೆ, ನಾನು ಅಪ್ಪನ ಮಗಳೇ ಅಲ್ಲ ಅಂತ ಬರೆದ ಹಾಗೆ. ಅದನ್ನ ಮಾತ್ರ ನಾನು ಸಹಿಸೋಕಾಗಲ್ಲ."
+    tr: "Avva, nanage ā maṇṇu bēku anta alla… nanna hesaru ā kāgadadalli illa andre, nānu appana magaḷē alla anta bareda hāge. Adanna mātra nānu sahisōkāgalla."
+    en: "Avva, it isn't that I want that soil… if my name isn't on that paper, it's as though someone has written that I'm not Appa's daughter at all. That is the one thing I cannot bear."
+
+  - section: "The spot mahazar"
+    learn: "on-the-spot enquiry: sthaḷa mahajar, sākṣi, pan̄caru, hēḷike, baredukoḷḷi · in the record: bēsāya māḍuttiruvavaru · formal claims: kēḷikoḷḷtīni, nanna oppige ide · the objection: bāymātalli hēḷidru, ākṣēpaṇe koḍtīni, vivādita prakaraṇa · elder's counsel with -lā: kēḷlā"
+  - scene: "Saturday, 7 February 2026, ten in the morning. The paddy land beside the canal, survey number 112. The sugarcane stands tall. Siddaraju has come on his motorbike with a register and a printed form. Thimmegowda has walked over with his stick to sign as a witness. All four heirs are present."
+  - who: va
+    t: "ಎಲ್ರೂ ಬಂದಿದೀರಾ? ಸರಿ. ಇದು ಸ್ಥಳ ಮಹಜರ್. ಅಂದ್ರೆ ನಾನು ಜಮೀನಿಗೆ ಬಂದು, ಯಾರು ಬೇಸಾಯ ಮಾಡ್ತಿದಾರೆ, ಏನು ಬೆಳೆ ಇದೆ, ವಾರಸುದಾರರು ಯಾರು ಅಂತ ಸಾಕ್ಷಿಗಳ ಮುಂದೆ ಬರ್ಕೋತೀನಿ. ಆರ್‌ಐ ಸಾಹೇಬ್ರು ಬರ್ಬೇಕಿತ್ತು, ಆದ್ರೆ ಇವತ್ತು ಪಕ್ಕದ ಹಳ್ಳಿಯಲ್ಲಿ ಕೆರೆ ಒತ್ತುವರಿ ತೆರವು ನಡೀತಿದೆ. ಅವರು ಆಮೇಲೆ ಕಡತ ನೋಡಿ ದೃಢೀಕರಿಸ್ತಾರೆ."
+    tr: "Ellrū bandidīrā? Sari. Idu sthaḷa mahajar. Andre nānu jamīnige bandu, yāru bēsāya māḍtidāre, ēnu beḷe ide, vārasudāraru yāru anta sākṣigaḷa munde barkōtīni. Ār-ai sāhēbru barbēkittu, ādre ivattu pakkada haḷḷiyalli kere ottuvari teravu naḍītide. Avaru āmēle kaḍata nōḍi dṛḍhīkaristāre."
+    en: "Is everyone here? Good. This is the spot mahazar. It means I come to the land and, in front of witnesses, write down who is farming it, what crop is standing, and who the heirs are. The RI sir was supposed to come, but today there's an eviction of encroachments on the tank in the next village. He'll look at the file later and certify it."
+  - who: elder
+    t: "ಸಾಕ್ಷಿಗೆ ನಾನು ಸಹಿ ಹಾಕ್ತೀನಿ. ಚನ್ನೇಗೌಡನ ಮಕ್ಕಳು ಯಾರ್ಯಾರು ಅಂತ ಈ ಊರಲ್ಲಿ ನನಗಿಂತ ಚೆನ್ನಾಗಿ ಯಾರಿಗೆ ಗೊತ್ತು? ಮೂರೂ ಮಕ್ಳು ನನ್ನ ಕಣ್ಣ ಮುಂದೆ ಹುಟ್ಟಿದ್ದು."
+    tr: "Sākṣige nānu sahi hāktīni. Cannēgauḍana makkaḷu yāryāru anta ī ūralli nanaginta cennāgi yārige gottu? Mūrū makḷu nanna kaṇṇa munde huṭṭiddu."
+    en: "I'll sign as witness. Who in this village knows better than me who Channegowda's children are? All three were born before my eyes."
+  - who: va
+    t: "ಸರ್ವೆ ನಂಬರ್ ನೂರ ಹನ್ನೆರಡು, ಹಿಸ್ಸಾ ಎರಡು: ಮೂರು ಎಕರೆ ಇಪ್ಪತ್ತು ಗುಂಟೆ, ಕಬ್ಬಿನ ಬೆಳೆ ಇದೆ. ಸ್ಥಳದಲ್ಲಿ ಬೇಸಾಯ ಮಾಡ್ತಿರೋರು ಯಾರು?"
+    tr: "Sarve nambar nūra hanneraḍu, hissā eraḍu: mūru ekare ippattu guṇṭe, kabbina beḷe ide. Sthaḷadalli bēsāya māḍtirōru yāru?"
+    en: "Survey number 112, hissa 2: three acres twenty guntas, a sugarcane crop standing. Who is cultivating it on the spot?"
+  - who: mahadeva
+    t: "ನಾನು. ಮಹದೇವ, ಚನ್ನೇಗೌಡರ ಎರಡನೇ ಮಗ. ಇಪ್ಪತ್ತು ವರ್ಷದಿಂದ ನಾನೇ ಮಾಡ್ತಿದೀನಿ. ಅದನ್ನೂ ಬರ್ಕೊಳ್ಳಿ."
+    tr: "Nānu. Mahadēva, Cannēgauḍara eraḍanē maga. Ippattu varṣadinda nānē māḍtidīni. Adannū barkoḷḷi."
+    en: "Me. Mahadeva, Channegowda's second son. I've been doing it for twenty years. Write that down too."
+  - who: va
+    t: "ಬರ್ಕೋತೀನಿ: ‘ಸ್ಥಳದಲ್ಲಿ ಬೇಸಾಯ ಮಾಡುತ್ತಿರುವವರು ಮಹದೇವ.’ ಈಗ ವಾರಸುದಾರರ ಹೇಳಿಕೆ. ಪುಟ್ಟಮ್ಮನವರೇ, ನಿಮ್ಮ ಹೆಸರು, ಮೃತರ ಜೊತೆ ಸಂಬಂಧ?"
+    tr: "Barkōtīni: ‘Sthaḷadalli bēsāya māḍuttiruvavaru Mahadēva.’ Īga vārasudārara hēḷike. Puṭṭammanavarē, nimma hesaru, mṛtara jote sambandha?"
+    en: "I'm writing it: 'The person cultivating on the spot is Mahadeva.' Now the heirs' statements. Puttamma, your name and your relationship to the deceased?"
+  - who: avva
+    t: "ಪುಟ್ಟಮ್ಮ. ಚನ್ನೇಗೌಡ್ರ ಹೆಂಡ್ತಿ. ನಾನು ಓದಿಲ್ಲ ಕಣಪ್ಪ, ಹೆಬ್ಬೆಟ್ಟು ಹಾಕ್ತೀನಿ."
+    tr: "Puṭṭamma. Cannēgauḍra heṇḍti. Nānu ōdilla kaṇappa, hebbeṭṭu hāktīni."
+    en: "Puttamma. Channegowda's wife. I can't read, son; I'll give my thumbprint."
+  - who: shobha
+    t: "ಶೋಭಾ. ಚನ್ನೇಗೌಡರ ಮಗಳು. ಮದುವೆ ಆಗಿದೆ, ಮೈಸೂರಲ್ಲಿ ಇದೀನಿ. ನನ್ನ ಹೆಸರನ್ನ ವಾರಸುದಾರರ ಪಟ್ಟಿಯಲ್ಲಿ ಸೇರಿಸಬೇಕು ಅಂತ ಕೇಳ್ಕೊಳ್ತೀನಿ."
+    tr: "Śōbhā. Cannēgauḍara magaḷu. Maduve āgide, Maisūralli idīni. Nanna hesaranna vārasudārara paṭṭiyalli sērisabēku anta kēḷkoḷḷtīni."
+    en: "Shobha. Channegowda's daughter. I'm married and live in Mysuru. I request that my name be included in the list of heirs."
+  - who: suresh
+    t: "ಸುರೇಶ. ದೊಡ್ಡ ಮಗ. ಬೆಂಗಳೂರಲ್ಲಿ ಇದೀನಿ. ನಾಲ್ಕೂ ಜನರ ಹೆಸರು ಸೇರಿಸೋಕೆ ನನ್ನ ಪೂರ್ತಿ ಒಪ್ಪಿಗೆ ಇದೆ."
+    tr: "Surēśa. Doḍḍa maga. Beṅgaḷūralli idīni. Nālkū janara hesaru sērisōke nanna pūrti oppige ide."
+    en: "Suresha. The eldest son. I live in Bengaluru. I fully consent to all four names being included."
+  - who: va
+    t: "ಮಹದೇವ ಅವರೇ, ನಿಮ್ಮ ಹೇಳಿಕೆ?"
+    tr: "Mahadēva avarē, nimma hēḷike?"
+    en: "Mahadeva, your statement?"
+  - who: mahadeva
+    t: "ನನ್ನ ಹೆಸರು ಸೇರಿಸಿ. ಆದ್ರೆ ಇನ್ನೊಂದು ಮಾತೂ ಬರ್ಕೊಳ್ಳಿ: ಅಪ್ಪ ಬದುಕಿದ್ದಾಗ್ಲೇ ಬಾಯ್ಮಾತಲ್ಲಿ ‘ಗದ್ದೆ ನಿಂಗೆ, ನೀನೇ ನೋಡ್ಕೋ’ ಅಂತ ಹೇಳಿದ್ರು. ಅದಕ್ಕೆ ನನ್ನ ಆಕ್ಷೇಪಣೆ ಇದೆ. ನಾನು ಬರವಣಿಗೇಲಿ ಅರ್ಜಿ ಕೊಡ್ತೀನಿ."
+    tr: "Nanna hesaru sērisi. Ādre innondu mātū barkoḷḷi: appa badukiddāglē bāymātalli ‘gadde niṅge, nīnē nōḍkō’ anta hēḷidru. Adakke nanna ākṣēpaṇe ide. Nānu baravaṇigēli arji koḍtīni."
+    en: "(after a long pause) Include my name. But write down one more thing: while Appa was alive, he told me by word of mouth, 'The wet land is yours; you look after it.' I have an objection on that basis. I'll give a written application."
+  - who: shobha
+    t: "ಬಾಯ್ಮಾತು? ಯಾರ ಮುಂದೆ ಹೇಳಿದ್ರು? ಯಾವ ಕಾಗದದಲ್ಲಿದೆ?"
+    tr: "Bāymātu? Yāra munde hēḷidru? Yāva kāgadadallide?"
+    en: "By word of mouth? In front of whom did he say it? On which paper is it written?"
+  - who: va
+    t: "ದಯವಿಟ್ಟು ಇಲ್ಲಿ ವಾದ ಬೇಡ. ನಿಯಮ ಹೀಗಿದೆ: ಒಬ್ಬ ವಾರಸುದಾರರು ಲಿಖಿತವಾಗಿ ಆಕ್ಷೇಪಣೆ ಕೊಟ್ರೆ ಇದು ವಿವಾದಿತ ಪ್ರಕರಣ ಆಗುತ್ತೆ. ಆಗ ನಾನಾಗ್ಲೀ ಆರ್‌ಐ ಆಗ್ಲೀ ತೀರ್ಮಾನ ಮಾಡೋ ಹಾಗಿಲ್ಲ. ಕಡತ ತಹಸೀಲ್ದಾರ್ ಅವರ ನ್ಯಾಯಾಲಯಕ್ಕೆ ಹೋಗುತ್ತೆ, ಅಲ್ಲಿ ವಿಚಾರಣೆ ಆಗುತ್ತೆ."
+    tr: "Dayaviṭṭu illi vāda bēḍa. Niyama hīgide: obba vārasudāraru likhitavāgi ākṣēpaṇe koṭre idu vivādita prakaraṇa āgutte. Āga nānāglī ār-ai āglī tīrmāna māḍō hāgilla. Kaḍata tahasīldār avara nyāyālayakke hōgutte, alli vicāraṇe āgutte."
+    en: "Please, no arguments here. The rule is this: if one heir gives a written objection, it becomes a disputed case. Then neither I nor the RI can decide it. The file goes to the Tahsildar's court, and there's a hearing there."
+  - who: elder
+    t: "ಮಹದೇವ, ಕೇಳ್ಲಾ. ನಿಮ್ಮಪ್ಪ ನನ್ನ ಹತ್ರ ಯಾವತ್ತೂ ‘ಗದ್ದೆ ಮಹದೇವಂಗೆ’ ಅಂತ ಹೇಳಿಲ್ಲ. ‘ಮೂರೂ ಮಕ್ಳು ಚೆನ್ನಾಗಿರ್ಬೇಕು’ ಅಂತ ಹೇಳ್ತಿದ್ದ. ಆಫೀಸ್ ಕಾಗದಕ್ಕೆ ಹೋಗೋ ಮುಂಚೆ ಊರ ಹಿರಿಯರ ಮುಂದೆ ಕುಂತು ಮಾತಾಡಿ."
+    tr: "Mahadēva, kēḷlā. Nimmappa nanna hatra yāvattū ‘gadde Mahadēvaṅge’ anta hēḷilla. ‘Mūrū makḷu cennāgirbēku’ anta hēḷtidda. Āphīs kāgadakke hōgō mun̄ce ūra hiriyara munde kuntu mātāḍi."
+    en: "Mahadeva, listen to me, lad. Your father never once told me 'the wet land is for Mahadeva'. What he used to say was, 'All three children must do well.' Before you go running to office papers, sit down in front of the village elders and talk."
+  - who: mahadeva
+    t: "ಮಾತಾಡೋಣ ತಿಮ್ಮಣ್ಣ. ಆದ್ರೆ ಆಕ್ಷೇಪಣೆ ಕೊಡ್ತೀನಿ. ಯಾವ ಕಾಗದದಲ್ಲೂ ನನ್ನ ಇಪ್ಪತ್ತು ವರ್ಷ ಇಲ್ಲ. ಇಲ್ಲಾದ್ರೂ ಇರ್ಲಿ."
+    tr: "Mātāḍōṇa Timmaṇṇa. Ādre ākṣēpaṇe koḍtīni. Yāva kāgadadallū nanna ippattu varṣa illa. Illādrū irli."
+    en: "We'll talk, Thimmanna. But I'm giving the objection. My twenty years aren't on any paper anywhere. Let them at least be on this one."
+  - who: va
+    t: "ಸರಿ. ಮಹಜರ್‌ಗೆ ಎಲ್ರೂ ಸಹಿ ಹಾಕಿ. ಆಕ್ಷೇಪಣೆ ಅರ್ಜಿ ಸೋಮವಾರದೊಳಗೆ ನನಗೆ ಕೊಡಿ. ತಹಸೀಲ್ದಾರ್ ಕಚೇರಿಯಿಂದ ಎಲ್ಲರಿಗೂ ನೋಟಿಸ್ ಬರುತ್ತೆ, ವಿಚಾರಣೆಯ ದಿನಾಂಕ ಅದರಲ್ಲೇ ಇರುತ್ತೆ."
+    tr: "Sari. Mahajar-ge ellrū sahi hāki. Ākṣēpaṇe arji sōmavāradoḷage nanage koḍi. Tahasīldār kacēriyinda ellarigū nōṭis barutte, vicāraṇeya dināṅka adarallē irutte."
+    en: "Very well. Everyone sign the mahazar. Give me the objection application by Monday. A notice will come to all of you from the Tahsildar's office; the hearing date will be in it."
+
+  - section: "The Tahsildar's hearing"
+    learn: "formal register: hājarāgi, saṅkṣiptavāgi hēḷi, kaḍatadallive, sābītu · legal passives read out: tiraskarisalāgide, dākhalisatakkaddu, dākhalisalāgide · key ideas: māliktvada praśne sivil nyāyālayada kelasa, modala darjeya vārasudāraru, mēlmanavi · record words: kōṁ (wife of), bin (son of) · advice: kūtu mātāḍidare eṣṭō varṣa uḷiyutte"
+  - scene: "Thursday, 26 February 2026. The Tahsildar's court hall in the Mini Vidhana Soudha, Maddur. Ceiling fans, a long table, a clerk calling out case numbers. Benches are packed with farmers. Meena has taken a day's leave and come with Suresh. The notice said 10:30 a.m.; it is now past two."
+  - who: meena
+    t: "ಬೆಳಿಗ್ಗೆ ಹತ್ತೂವರೆಗೆ ಬನ್ನಿ ಅಂತ ನೋಟಿಸ್‌ನಲ್ಲಿತ್ತು. ಈಗ ಎರಡು ಗಂಟೆ ದಾಟಿದೆ. ನಮ್ಮ ಪ್ರಕರಣ ಪಟ್ಟಿಯಲ್ಲಿ ಮೂವತ್ತೆಂಟನೇದು."
+    tr: "Beḷigge hattūvarege banni anta nōṭis-nallittu. Īga eraḍu gaṇṭe dāṭide. Namma prakaraṇa paṭṭiyalli mūvatteṇṭanēdu."
+    en: "The notice said to come at half past ten in the morning. It's past two now. Our case is thirty-eighth on the list."
+  - who: suresh
+    t: "ಇಲ್ಲಿ ಪ್ರತಿ ಕೇಸಿನ ಹಿಂದೆ ಒಂದು ಕುಟುಂಬ ಇದೆ, ಮೀನಾ. ಆ ಮುದುಕರು ಬೆಳಿಗ್ಗೆಯಿಂದ ಒಂದು ಬದು ವಿಷಯಕ್ಕೆ ಕಾಯ್ತಿದಾರೆ. ಕೇಳಿಸ್ಕೊಂಡ್ಯಾ? ಅವರ ತಮ್ಮನ ಮಗ ಎರಡು ಅಡಿ ಒಳಗೆ ಬದು ಹಾಕಿದಾನಂತೆ."
+    tr: "Illi prati kēsina hinde ondu kuṭumba ide, Mīnā. Ā mudukaru beḷiggeyinda ondu badu viṣayakke kāytidāre. Kēḷiskoṇḍyā? Avara tammana maga eraḍu aḍi oḷage badu hākidānante."
+    en: "Behind every case here there's a family, Meena. That old man has been waiting since morning over a field bund. Did you hear? Apparently his brother's son has built the bund two feet inside his land."
+  - who: tahsildar
+    t: "ಮುಂದಿನ ಪ್ರಕರಣ: ಬೆಟ್ಟಹಳ್ಳಿ ಗ್ರಾಮ, ಸರ್ವೆ ನಂಬರ್ ನೂರ ಹನ್ನೆರಡು, ಹಿಸ್ಸಾ ಎರಡು ಮತ್ತು ಎಂಬತ್ತೇಳು, ಹಿಸ್ಸಾ ಒಂದು. ಮೃತ ಚನ್ನೇಗೌಡ ಅವರ ಪೌತಿ ಖಾತೆ — ವಿವಾದಿತ ಪ್ರಕರಣ. ಅರ್ಜಿದಾರರು ಮತ್ತು ಆಕ್ಷೇಪಣೆದಾರರು ಹಾಜರಾಗಿ."
+    tr: "Mundina prakaraṇa: Beṭṭahaḷḷi grāma, sarve nambar nūra hanneraḍu, hissā eraḍu mattu embattēḷu, hissā ondu. Mṛta Cannēgauḍa avara pauti khāte — vivādita prakaraṇa. Arjidāraru mattu ākṣēpaṇedāraru hājarāgi."
+    en: "Next case: Bettahalli village, survey number 112, hissa 2, and 87, hissa 1. Pauti khata of the late Channegowda — a disputed case. Applicants and objector, please come forward."
+  - who: suresh
+    t: "ಹಾಜರಿದೀವಿ ಮೇಡಂ. ನಾನು ಸುರೇಶ, ಹಿರಿಯ ಮಗ. ಇವರು ನಮ್ಮ ತಾಯಿ ಪುಟ್ಟಮ್ಮ, ತಂಗಿ ಶೋಭಾ, ತಮ್ಮ ಮಹದೇವ."
+    tr: "Hājaridīvi mēḍam. Nānu Surēśa, hiriya maga. Ivaru namma tāyi Puṭṭamma, taṅgi Śōbhā, tamma Mahadēva."
+    en: "We're present, madam. I'm Suresha, the eldest son. This is our mother Puttamma, my sister Shobha, and my brother Mahadeva."
+  - who: tahsildar
+    t: "ಕುಳಿತುಕೊಳ್ಳಿ. ಅಮ್ಮ, ನೀವು ಮುಂದೆ ಆ ಕುರ್ಚಿಯಲ್ಲಿ ಕುಳಿತುಕೊಳ್ಳಿ. … ಗ್ರಾಮ ಆಡಳಿತ ಅಧಿಕಾರಿಯವರ ವರದಿ, ಸ್ಥಳ ಮಹಜರ್, ತಿದ್ದುಪಡಿ ಮಾಡಿದ ವಂಶವೃಕ್ಷ ಪ್ರಮಾಣ ಪತ್ರ ಕಡತದಲ್ಲಿವೆ. ಶ್ರೀ ಮಹದೇವ ಅವರು ಆಕ್ಷೇಪಣೆ ಸಲ್ಲಿಸಿದ್ದಾರೆ. ಮಹದೇವ ಅವರೇ, ನಿಮ್ಮ ಆಕ್ಷೇಪಣೆಯನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ನೀವೇ ಹೇಳಿ."
+    tr: "Kuḷitukoḷḷi. Amma, nīvu munde ā kurciyalli kuḷitukoḷḷi. … Grāma āḍaḷita adhikāriyavara varadi, sthaḷa mahajar, tiddupaḍi māḍida vaṁśavṛkṣa pramāṇa patra kaḍatadallive. Śrī Mahadēva avaru ākṣēpaṇe sallisiddāre. Mahadēva avarē, nimma ākṣēpaṇeyannu saṅkṣiptavāgi nīvē hēḷi."
+    en: "Please sit. Amma, you sit on that chair in front. … The Village Administrative Officer's report, the spot mahazar and the corrected family-tree certificate are in the file. Shri Mahadeva has filed an objection. Mahadeva, please state your objection briefly yourself."
+  - who: mahadeva
+    t: "ಮೇಡಂ, ನಾನು ಇಪ್ಪತ್ತು ವರ್ಷದಿಂದ ಆ ಜಮೀನಲ್ಲಿ ದುಡೀತಿದೀನಿ. ಅಣ್ಣ ಬೆಂಗಳೂರಲ್ಲಿ, ತಂಗಿ ಮೈಸೂರಲ್ಲಿ. ಅಪ್ಪ ಬದುಕಿದ್ದಾಗ ‘ಗದ್ದೆ ನಿಂಗೆ, ನೀನೇ ನೋಡ್ಕೋ’ ಅಂತ ಹೇಳಿದ್ರು. ಸಾಲ ಕಟ್ಟಿದ್ದು ನಾನು, ಸಂಘದ ಸಾಲ ಈಗ್ಲೂ ಬಾಕಿ ಇದೆ. ಹಂಗಾಗಿ ಗದ್ದೆಯ ಖಾತೆ ನನ್ನೊಬ್ಬನ ಹೆಸರಿಗೆ ಮಾಡ್ಬೇಕು ಅಂತ ಕೇಳ್ಕೊಳ್ತೀನಿ."
+    tr: "Mēḍam, nānu ippattu varṣadinda ā jamīnalli duḍītidīni. Aṇṇa Beṅgaḷūralli, taṅgi Maisūralli. Appa badukiddāga ‘gadde niṅge, nīnē nōḍkō’ anta hēḷidru. Sāla kaṭṭiddu nānu, saṅghada sāla īglū bāki ide. Haṅgāgi gaddeya khāte nannobbana hesarige māḍbēku anta kēḷkoḷḷtīni."
+    en: "Madam, I've been toiling on that land for twenty years. My brother is in Bengaluru, my sister in Mysuru. While Appa was alive he said to me, 'The wet land is yours; you look after it.' I'm the one who repaid the loans, and the society loan is still outstanding. So I request that the khata of the wet land be made in my name alone."
+  - who: tahsildar
+    t: "ಆ ಮಾತಿಗೆ ಯಾವುದಾದರೂ ದಾಖಲೆ ಇದೆಯೇ? ನೋಂದಾಯಿತ ವಿಭಾಗ ಪತ್ರ, ದಾನ ಪತ್ರ, ಉಯಿಲು — ಯಾವುದಾದರೂ?"
+    tr: "Ā mātige yāvudādarū dākhale ideyē? Nōndāyita vibhāga patra, dāna patra, uyilu — yāvudādarū?"
+    en: "Is there any document for that statement? A registered partition deed, a gift deed, a will — anything at all?"
+  - who: mahadeva
+    t: "ಕಾಗದ ಇಲ್ಲ ಮೇಡಂ. ಹಳ್ಳಿಯಲ್ಲಿ ಅಪ್ಪನ ಮಾತೇ ಕಾಗದ. ಅವರ ದಿನಚರಿಯಲ್ಲಿ ‘ಜಮೀನು ಮಾರಲ್ಲ’ ಅಂತ ಬರೆದಿದಾರೆ."
+    tr: "Kāgada illa mēḍam. Haḷḷiyalli appana mātē kāgada. Avara dinacariyalli ‘jamīnu māralla’ anta baredidāre."
+    en: "There's no paper, madam. In a village, a father's word is the paper. In his diary he wrote, 'I will not sell the land.'"
+  - who: tahsildar
+    t: "ನಿಮ್ಮ ಭಾವನೆ ನನಗೆ ಅರ್ಥವಾಗುತ್ತೆ, ಮಹದೇವ ಅವರೇ. ಇಲ್ಲಿಗೆ ಬರುವ ಅರ್ಧ ಪ್ರಕರಣಗಳು ಇಂಥವೇ. ಆದರೆ ನಾನು ಕಾನೂನಿನ ಪ್ರಕಾರ ನಡೆಯಬೇಕು. ‘ಮಾರುವುದಿಲ್ಲ’ ಅನ್ನುವುದು ಉಯಿಲು ಅಲ್ಲ. ಬಾಯಿಮಾತಿನ ಹಂಚಿಕೆಯನ್ನು ಸಾಬೀತು ಮಾಡುವ ಯಾವುದೇ ದಾಖಲೆ ಕಡತದಲ್ಲಿ ಇಲ್ಲ."
+    tr: "Nimma bhāvane nanage arthavāgutte, Mahadēva avarē. Illige baruva ardha prakaraṇagaḷu inthavē. Ādare nānu kānūnina prakāra naḍeyabēku. ‘Māruvudilla’ annuvudu uyilu alla. Bāyimātina han̄cikeyannu sābītu māḍuva yāvudē dākhale kaḍatadalli illa."
+    en: "I understand your feelings, Mahadeva. Half the cases that come here are just like this. But I have to go by the law. 'I will not sell' is not a will. There is no document in the file that proves an oral division."
+  - who: shobha
+    t: "ಮೇಡಂ, ನಾನು ಒಂದು ಮಾತು ಹೇಳಬಹುದಾ? ಮೊದಲ ವಂಶವೃಕ್ಷದಲ್ಲಿ ನನ್ನ ಹೆಸರೇ ಬಿಟ್ಟುಹೋಗಿತ್ತು. ನನ್ನ ತಮ್ಮನ ದುಡಿಮೆಯನ್ನ ನಾನು ಅಲ್ಲಗಳೆಯಲ್ಲ. ಆದರೆ ನಾನೂ ಅದೇ ಅಪ್ಪನ ಮಗಳು."
+    tr: "Mēḍam, nānu ondu mātu hēḷabahudā? Modala vaṁśavṛkṣadalli nanna hesarē biṭṭuhōgittu. Nanna tammana duḍimeyanna nānu allagaḷeyalla. Ādare nānū adē appana magaḷu."
+    en: "Madam, may I say something? In the first family tree my name had been left out altogether. I don't deny my brother's labour. But I am the daughter of the same father."
+  - who: tahsildar
+    t: "ಹೇಳಿದ್ದು ದಾಖಲಾಗಿದೆ. ಈಗ ಎಲ್ಲರೂ ಕೇಳಿ, ಸ್ಪಷ್ಟವಾಗಿ ಹೇಳ್ತೀನಿ. ಈ ಕಚೇರಿಯಲ್ಲಿ ಆಗುವುದು ಖಾತೆ ಬದಲಾವಣೆ, ಅಂದರೆ ಕಂದಾಯ ದಾಖಲೆಯಲ್ಲಿ ಹೆಸರಿನ ಬದಲಾವಣೆ. ಯಾರಿಗೆ ಎಷ್ಟು ಪಾಲು, ಯಾವ ಜಮೀನು ಯಾರಿಗೆ — ಇಂಥ ಮಾಲೀಕತ್ವದ ಪ್ರಶ್ನೆಗಳನ್ನು ತೀರ್ಮಾನಿಸುವ ಅಧಿಕಾರ ನನಗಿಲ್ಲ. ಅದು ಸಿವಿಲ್ ನ್ಯಾಯಾಲಯದ ಕೆಲಸ, ಇಲ್ಲವೇ ನೀವೇ ಒಪ್ಪಿ ನೋಂದಾಯಿಸುವ ವಿಭಾಗ ಪತ್ರದ ಮೂಲಕ ಆಗಬೇಕು."
+    tr: "Hēḷiddu dākhalāgide. Īga ellarū kēḷi, spaṣṭavāgi hēḷtīni. Ī kacēriyalli āguvudu khāte badalāvaṇe, andare kandāya dākhaleyalli hesarina badalāvaṇe. Yārige eṣṭu pālu, yāva jamīnu yārige — intha mālīkatvada praśnegaḷannu tīrmānisuva adhikāra nanagilla. Adu sivil nyāyālayada kelasa, illavē nīvē oppi nōndāyisuva vibhāga patrada mūlaka āgabēku."
+    en: "What you said has been recorded. Now listen, all of you; I'll say it clearly. What happens in this office is a change of khata — a change of names in the revenue record. Who gets how much, which land goes to whom — I have no power to decide such questions of ownership. That is the civil court's work, or it must be done through a partition deed that you yourselves agree on and register."
+  - who: suresh
+    t: "ಹಾಗಾದ್ರೆ ಈಗ ಖಾತೆ ಯಾರ ಹೆಸರಿಗೆ ಆಗುತ್ತೆ ಮೇಡಂ?"
+    tr: "Hāgādre īga khāte yāra hesarige āgutte mēḍam?"
+    en: "Then in whose names will the khata be made now, madam?"
+  - who: tahsildar
+    t: "ಹಿಂದೂ ಉತ್ತರಾಧಿಕಾರ ಕಾಯ್ದೆಯ ಪ್ರಕಾರ ಮೃತರ ಪತ್ನಿ ಮತ್ತು ಮಕ್ಕಳು ಎಲ್ಲರೂ ಮೊದಲ ದರ್ಜೆಯ ವಾರಸುದಾರರು. ಮಗಳು ವಿವಾಹಿತಳಾಗಿರಲಿ ಇಲ್ಲದಿರಲಿ, ಅವಳ ಹಕ್ಕು ಮಗನಷ್ಟೇ. ಆದ್ದರಿಂದ ಆಕ್ಷೇಪಣೆಯನ್ನು ತಿರಸ್ಕರಿಸಲಾಗಿದೆ. ಎರಡೂ ಸರ್ವೆ ನಂಬರ್‌ಗಳಲ್ಲಿ ನಾಲ್ವರ ಹೆಸರನ್ನೂ ಜಂಟಿಯಾಗಿ ದಾಖಲಿಸತಕ್ಕದ್ದು. ಸ್ಥಳದಲ್ಲಿ ಬೇಸಾಯ ಮಾಡುತ್ತಿರುವವರು ಮಹದೇವ ಎಂಬುದನ್ನೂ ಕಡತದಲ್ಲಿ ದಾಖಲಿಸಲಾಗಿದೆ. ಸಹಕಾರ ಸಂಘದ ಸಾಲದ ಹೊಣೆ ಜಮೀನಿನ ಮೇಲೆ ಮುಂದುವರಿಯುತ್ತದೆ."
+    tr: "Hindū uttarādhikāra kāydeya prakāra mṛtara patni mattu makkaḷu ellarū modala darjeya vārasudāraru. Magaḷu vivāhitaḷāgirali illadirali, avaḷa hakku maganaṣṭē. Āddarinda ākṣēpaṇeyannu tiraskarisalāgide. Eraḍū sarve nambar-gaḷalli nālvara hesarannū jaṇṭiyāgi dākhalisatakkaddu. Sthaḷadalli bēsāya māḍuttiruvavaru Mahadēva embudannū kaḍatadalli dākhalisalāgide. Sahakāra saṅghada sālada hoṇe jamīnina mēle munduvariyuttade."
+    en: "Under the Hindu Succession Act, the deceased's wife and children are all Class I heirs. Whether a daughter is married or not, her right equals a son's. The objection is therefore rejected. The names of all four shall be entered jointly in both survey numbers. It has also been recorded in the file that Mahadeva is the person cultivating on the spot. Liability for the cooperative society loan continues to attach to the land."
+  - who: mahadeva
+    t: "ಅಂದ್ರೆ ನನ್ನ ಇಪ್ಪತ್ತು ವರ್ಷದ ಬೆವರು ಒಂದು ಸಾಲದಲ್ಲಿ ಮುಗೀತು. ‘ಬೇಸಾಯ ಮಾಡುತ್ತಿರುವವರು: ಮಹದೇವ.’ ಅಷ್ಟೇ."
+    tr: "Andre nanna ippattu varṣada bevaru ondu sāladalli mugītu. ‘Bēsāya māḍuttiruvavaru: Mahadēva.’ Aṣṭē."
+    en: "So twenty years of my sweat ends up in a single line. 'Person cultivating: Mahadeva.' That's all."
+  - who: tahsildar
+    t: "ಮಹದೇವ ಅವರೇ, ಆ ಸಾಲು ಚಿಕ್ಕದಲ್ಲ. ಮುಂದೆ ಪಾಲು ಮಾಡುವಾಗ ನಿಮ್ಮ ದುಡಿಮೆ, ನೀವು ತೀರಿಸಿದ ಸಾಲ — ಇವನ್ನೆಲ್ಲಾ ಕುಟುಂಬವಾಗಲೀ ನ್ಯಾಯಾಲಯವಾಗಲೀ ಪರಿಗಣಿಸಬಹುದು. ನನ್ನ ಆದೇಶ ಒಪ್ಪಿಗೆ ಇಲ್ಲದಿದ್ದರೆ ಸಹಾಯಕ ಆಯುಕ್ತರ ನ್ಯಾಯಾಲಯಕ್ಕೆ ಮೇಲ್ಮನವಿ ಹಾಕಬಹುದು. ಆದರೆ ಒಂದು ಸಲಹೆ: ಅಣ್ಣ, ತಮ್ಮ, ತಂಗಿ ಕೂತು ಮಾತಾಡಿದರೆ ಎಷ್ಟೋ ವರ್ಷ, ಎಷ್ಟೋ ದುಡ್ಡು ಉಳಿಯುತ್ತೆ. ಇವತ್ತು ಈ ಕೋಣೆಯಲ್ಲಿ ನಲವತ್ತು ಪ್ರಕರಣಗಳಿವೆ. ಹೆಚ್ಚಿನವು ಅಣ್ಣ-ತಮ್ಮಂದಿರದ್ದೇ."
+    tr: "Mahadēva avarē, ā sālu cikkadalla. Munde pālu māḍuvāga nimma duḍime, nīvu tīrisida sāla — ivannellā kuṭumbavāglī nyāyālayavāglī parigaṇisabahudu. Nanna ādēśa oppige illadiddare sahāyaka āyuktara nyāyālayakke mēlmanavi hākabahudu. Ādare ondu salahe: aṇṇa, tamma, taṅgi kūtu mātāḍidare eṣṭō varṣa, eṣṭō duḍḍu uḷiyutte. Ivattu ī kōṇeyalli nalavattu prakaraṇagaḷive. Heccinavu aṇṇa-tammandiraddē."
+    en: "Mahadeva, that line is not a small thing. Later, when the property is divided, your labour and the loans you repaid — all of this may be taken into account, whether by the family or by a court. If you don't accept my order, you may appeal to the Assistant Commissioner's court. But one piece of advice: if brothers and sister sit down and talk, it saves years and a great deal of money. There are forty cases in this room today. Most of them are between brothers."
+  - who: avva
+    t: "ಮೇಡಂ, ನಾನೊಂದು ಮಾತು… ನನ್ನ ಹೆಸರೂ ಆ ಕಾಗದಕ್ಕೆ ಬರುತ್ತಾ?"
+    tr: "Mēḍam, nānondu mātu… nanna hesarū ā kāgadakke baruttā?"
+    en: "Madam, may I say one thing… will my name also go onto that paper?"
+  - who: tahsildar
+    t: "ಬರುತ್ತೆ ಅಮ್ಮ. ಮೊದಲ ಹೆಸರೇ ನಿಮ್ಮದು. ಹೊಸ ಪಹಣಿ ಬಂದಾಗ ‘ಪುಟ್ಟಮ್ಮ ಕೋಂ ಚನ್ನೇಗೌಡ’ ಅಂತ ಇರುತ್ತೆ."
+    tr: "Barutte amma. Modala hesarē nimmadu. Hosa pahaṇi bandāga ‘Puṭṭamma kōṁ Cannēgauḍa’ anta irutte."
+    en: "It will, Amma. The very first name will be yours. When the new RTC comes, it will say 'Puttamma, wife of Channegowda'."
+  - who: avva
+    t: "ಐವತ್ತೆರಡು ವರ್ಷ ಆ ಮಣ್ಣಲ್ಲಿ ಕಳೆ ಕಿತ್ತಿದೀನಿ. ಇವತ್ತು ಮೊದಲ ಸಲ ಅದರ ಮೇಲೆ ನನ್ನ ಹೆಸರು… ಅವ್ರು ಇದ್ದಿದ್ರೆ ಇದನ್ನ ಕೇಳಿ ನಗ್ತಿದ್ರು."
+    tr: "Aivatteraḍu varṣa ā maṇṇalli kaḷe kittidīni. Ivattu modala sala adara mēle nanna hesaru… avru iddidre idanna kēḷi nagtidru."
+    en: "For fifty-two years I've pulled weeds from that soil. Today, for the first time, my name on it… If he were alive, he'd have laughed to hear this."
+  - who: tahsildar
+    t: "ಆದೇಶದ ಪ್ರತಿ ಹದಿನೈದು ದಿನದೊಳಗೆ ಸಿಗುತ್ತೆ. ಮುಂದಿನ ಪ್ರಕರಣ."
+    tr: "Ādēśada prati hadinaidu dinadoḷage sigutte. Mundina prakaraṇa."
+    en: "A copy of the order will be available within fifteen days. Next case."
+
+  - section: "On the steps"
+    learn: "bitterness and restraint: sikkitallā nimage bēkāgiddu, yārū geddilla · persuasion: kūrōṇa, nīnu hēḷōdellā hēḷu · setting up the elders' meeting: araḷi kaṭṭe, hiriyara munde, huṇṇime · proverb-like close: kānūnu pustaka vs ūrina nyāya"
+  - scene: "A few minutes later. The steps of the taluk office in the hot afternoon sun. Lorries roar past on the highway. Mahadeva stands a little apart from the others."
+  - who: mahadeva
+    t: "ಸಿಕ್ತಲ್ಲಾ ನಿಮಗೆ ಬೇಕಾಗಿದ್ದು. ಕಾಗದದಲ್ಲಿ ನಾಲ್ಕು ಹೆಸರು. ಆದ್ರೆ ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಐದಕ್ಕೆ ಎದ್ದು ಗದ್ದೆಗೆ ನೀರು ಕಟ್ಟೋದು ಒಂದೇ ಹೆಸರು — ನಂದು."
+    tr: "Siktallā nimage bēkāgiddu. Kāgadadalli nālku hesaru. Ādre nāḷe beḷigge aidakke eddu gaddege nīru kaṭṭōdu ondē hesaru — nandu."
+    en: "Well, you got what you wanted. Four names on the paper. But tomorrow at five in the morning, the one who gets up and waters the paddy field has only one name — mine."
+  - who: shobha
+    t: "ಮಹದೇವ, ನಾನು ಗೆದ್ದೆ ಅಂತ ಅಂದ್ಕೊಂಡಿಲ್ಲ. ಇವತ್ತು ಇಲ್ಲಿ ಯಾರೂ ಗೆದ್ದಿಲ್ಲ."
+    tr: "Mahadēva, nānu gedde anta andkoṇḍilla. Ivattu illi yārū geddilla."
+    en: "Mahadeva, I don't think I've won. Nobody won anything here today."
+  - who: meena
+    t: "ತಹಸೀಲ್ದಾರ್ ಹೇಳಿದ್ದು ಕೇಳಿದ್ರಲ್ಲ — ಕೂತು ಮಾತಾಡಿ ಅಂತ. ಮಹಜರ್ ದಿನ ತಿಮ್ಮೇಗೌಡ್ರೂ ಅದನ್ನೇ ಹೇಳಿದ್ರು. ಇಬ್ಬರು ಬೇರೆ ಬೇರೆ ಜನ, ಒಂದೇ ಸಲಹೆ."
+    tr: "Tahasīldār hēḷiddu kēḷidralla — kūtu mātāḍi anta. Mahajar dina Timmēgauḍrū adannē hēḷidru. Ibbaru bēre bēre jana, ondē salahe."
+    en: "You heard what the Tahsildar said — sit down and talk. Thimmegowda said the same thing on the day of the mahazar. Two very different people, one piece of advice."
+  - who: suresh
+    t: "ಮಹದೇವ, ತಿಮ್ಮೇಗೌಡ್ರ ಮುಂದೆ ಕೂರೋಣ. ಅರಳಿ ಕಟ್ಟೆ ಮೇಲೆ, ಊರ ಹಿರಿಯರ ಮುಂದೆ. ನೀನು ಹೇಳೋದೆಲ್ಲಾ ಹೇಳು, ಶೋಭಾ ಹೇಳೋದೆಲ್ಲಾ ಹೇಳ್ಲಿ, ಅವ್ವನ ಮಾತೂ ಕೇಳೋಣ. ಆಮೇಲೆ ತೀರ್ಮಾನ."
+    tr: "Mahadēva, Timmēgauḍra munde kūrōṇa. Araḷi kaṭṭe mēle, ūra hiriyara munde. Nīnu hēḷōdellā hēḷu, Śōbhā hēḷōdellā hēḷli, avvana mātū kēḷōṇa. Āmēle tīrmāna."
+    en: "Mahadeva, let's sit before Thimmegowda. On the platform under the peepul tree, in front of the village elders. You say everything you have to say, let Shobha say everything she has to say, and let's hear Avva too. Then we decide."
+  - who: avva
+    t: "ಹಂಗೇ ಮಾಡಿ ಕಣ್ರಪ್ಪ. ಕೋರ್ಟು-ಕಚೇರಿ ಅಂತ ಅಲೆದಾಡಿದ್ರೆ ಮನೆ ಒಡೆದೋಗುತ್ತೆ. ನಮ್ಮ ಮನೆತನದಲ್ಲಿ ಯಾರೂ ಕೋರ್ಟು ಮೆಟ್ಟಿಲು ಹತ್ತಿಲ್ಲ."
+    tr: "Haṅgē māḍi kaṇrappa. Kōrṭu-kacēri anta aledāḍidre mane oḍedōgutte. Namma manetanadalli yārū kōrṭu meṭṭilu hattilla."
+    en: "Do that, my children. If you go wandering from court to office, the family will break apart. No one in our family has ever climbed the steps of a court."
+  - who: mahadeva
+    t: "ಆಯ್ತು. ಹುಣ್ಣಿಮೆ ದಿನ ಕೂರೋಣ. ಆದ್ರೆ ಅಣ್ಣ, ಒಂದು ನೆನಪಿಟ್ಕೋ: ಅರಳಿ ಕಟ್ಟೆ ಮೇಲೆ ಯಾರೂ ಕಾನೂನು ಪುಸ್ತಕ ಓದಲ್ಲ. ಅಲ್ಲಿ ನಡೆಯೋದು ಊರಿನ ನ್ಯಾಯ."
+    tr: "Āytu. Huṇṇime dina kūrōṇa. Ādre aṇṇa, ondu nenapiṭkō: araḷi kaṭṭe mēle yārū kānūnu pustaka ōdalla. Alli naḍeyōdu ūrina nyāya."
+    en: "All right. We'll sit on the full-moon day. But Anna, remember one thing: on the peepul platform nobody reads law books. What runs there is the village's justice."
