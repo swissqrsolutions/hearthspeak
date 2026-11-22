@@ -1,0 +1,23 @@
+lang: kannada
+num: 5
+level: "B2+ → C1 · ~1 h 30 min"
+title:
+  t: "ತಾತನ ಜಮೀನು"
+  tr: "Tātana jamīnu"
+  en: "Grandfather's land"
+intro: "When Thatha dies in his village near Maddur, his six acres divide his three children: Suresh, a bank manager in Bengaluru; Mahadeva, who stayed and farmed; and Shobha, a nurse in Mysuru who claims her equal share. One real year, December 2025 to January 2027: the rites, the land records, the elders under the peepul tree, a land broker, a court case, a full farming season, the village jatre, the Lok Adalat and Sankranti."
+speakers:
+  suresh: { name: "Suresh", voice: kn-IN-GaganNeural, pitch: "+0Hz", rate: "-3%" }
+  meena: { name: "Meena", voice: kn-IN-SapnaNeural, pitch: "+2Hz", rate: "+0%" }
+  mahadeva: { name: "Mahadeva", voice: kn-IN-GaganNeural, pitch: "-10Hz", rate: "+4%" }
+  shobha: { name: "Shobha", voice: kn-IN-SapnaNeural, pitch: "+4Hz", rate: "+2%" }
+  avva: { name: "Avva · Puttamma", voice: kn-IN-SapnaNeural, pitch: "-18Hz", rate: "-12%" }
+  rakshith: { name: "Rakshith", voice: kn-IN-GaganNeural, pitch: "+12Hz", rate: "+6%" }
+  va: { name: "Mr. Siddaraju (Village Accountant)", voice: kn-IN-GaganNeural, pitch: "-8Hz", rate: "+2%" }
+  tahsildar: { name: "Ms. Kavitha (Tahsildar)", voice: kn-IN-SapnaNeural, pitch: "-6Hz", rate: "+0%" }
+  lawyer: { name: "Advocate Nagendra", voice: kn-IN-GaganNeural, pitch: "-12Hz", rate: "-2%" }
+  elder: { name: "Thimmegowda (elder)", voice: kn-IN-GaganNeural, pitch: "-22Hz", rate: "-10%" }
+  broker: { name: "Manjunath (broker)", voice: kn-IN-GaganNeural, pitch: "+4Hz", rate: "+10%" }
+  conciliator: { name: "Conciliator (retired judge)", voice: kn-IN-GaganNeural, pitch: "-16Hz", rate: "-6%" }
+  priest: { name: "Priest", voice: kn-IN-GaganNeural, pitch: "-14Hz", rate: "-4%" }
+  millman: { name: "Mill field officer", voice: kn-IN-GaganNeural, pitch: "-4Hz", rate: "+6%" }
