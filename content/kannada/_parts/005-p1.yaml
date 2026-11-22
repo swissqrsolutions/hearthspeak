@@ -1,0 +1,610 @@
+lines:
+  - chapter: "Chapter 1 — The call"
+  - section: "The phone at midnight"
+    learn: "bad news: hōgbiṭṭru, tīrkoṇḍru, innilla, hārṭ aṭyāk · reporting what had happened (past perfect): uṭa māḍi kūtidru, usiru nintōgittu · comforting: dhairya tagō, samādhāna māḍko · first Mandya markers: kaṇaṇṇa, hōgbuṭru, karkaṇḍu, hiḍkaṇḍidde"
+  - scene: "Tuesday, 9 December 2025, 11:40 at night. Suresh and Meena's flat in Vijayanagar, Bengaluru. The phone rings. It is Mahadeva, Suresh's younger brother, calling from the family's village, Bettahalli, near Maddur in Mandya district."
+  - who: suresh
+    t: "ಹಲೋ… ಮಹದೇವ? ಇಷ್ಟು ರಾತ್ರೀಲಿ? ಏನಾಯ್ತೋ?"
+    tr: "Halō… Mahadēva? Iṣṭu rātrīli? Ēnāytō?"
+    en: "Hello… Mahadeva? At this hour of the night? What's happened?"
+  - who: mahadeva
+    t: "ಅಣ್ಣ… ಅಪ್ಪ ಹೋಗ್ಬುಟ್ರು ಕಣಣ್ಣ."
+    tr: "Aṇṇa… appa hōgbuṭru kaṇaṇṇa."
+    en: "Anna… Appa is gone, brother."
+  - who: suresh
+    t: "ಏನು? ಏನ್ ಹೇಳ್ತಿದೀಯ? ಸಂಜೆ ತಾನೇ ಫೋನ್‌ನಲ್ಲಿ ನನ್ನ ಜೊತೆ ಮಾತಾಡಿದ್ರು. ಚೆನ್ನಾಗೇ ಇದ್ರು."
+    tr: "Ēnu? Ēn hēḷtidīya? San̄je tānē phōn-nalli nanna jote mātāḍidru. Cennāgē idru."
+    en: "What? What are you saying? He spoke to me on the phone only this evening. He was perfectly fine."
+  - who: mahadeva
+    t: "ಊಟ ಮಾಡಿ ಜಗುಲಿ ಮೇಲೆ ಕುಂತಿದ್ರು. ಎದೆ ನೋಯ್ತಾ ಇದೆ ಅಂದ್ರು, ಮೈಯೆಲ್ಲಾ ಬೆವರು. ನಾನು ಕಾರ್‌ನಲ್ಲಿ ಮದ್ದೂರು ಆಸ್ಪತ್ರೆಗೆ ಕರ್ಕಂಡು ಹೋದೆ."
+    tr: "Ūṭa māḍi jaguli mēle kuntidru. Ede nōytā ide andru, maiyellā bevaru. Nānu kār-nalli Maddūru āspatrege karkaṇḍu hōde."
+    en: "He'd eaten and was sitting out on the veranda. He said his chest was hurting; he was drenched in sweat. I took him to the Maddur hospital in the car."
+  - who: suresh
+    t: "ಆಮೇಲೆ? ಡಾಕ್ಟರ್ ಏನಂದ್ರು?"
+    tr: "Āmēle? Ḍākṭar ēnandru?"
+    en: "And then? What did the doctor say?"
+  - who: mahadeva
+    t: "ಆಸ್ಪತ್ರೆ ಮುಟ್ಟೋ ಮುಂಚೇನೇ ಉಸಿರು ನಿಂತೋಗಿತ್ತು ಅಂತ ಡಾಕ್ಟ್ರು ಹೇಳಿದ್ರು. ಹಾರ್ಟ್ ಅಟ್ಯಾಕ್ ಅಂತೆ. ನಾನು ಸ್ಟೀರಿಂಗ್ ಹಿಡ್ಕಂಡಿದ್ದೆ, ಅವ್ರು ಪಕ್ಕದಲ್ಲೇ ಇದ್ರು… ನಂಗೆ ಗೊತ್ತೇ ಆಗ್ಲಿಲ್ಲ ಕಣಣ್ಣ."
+    tr: "Āspatre muṭṭō mun̄cēnē usiru nintōgittu anta ḍākṭru hēḷidru. Hārṭ aṭyāk ante. Nānu sṭīriṅg hiḍkaṇḍidde, avru pakkadallē idru… naṅge gottē āglilla kaṇaṇṇa."
+    en: "The doctor said his breathing had stopped before we even reached the hospital. A heart attack, he says. I was holding the steering wheel, he was right there beside me… and I didn't even know, brother."
+  - who: suresh
+    t: "ಅಯ್ಯೋ… ಮಹದೇವ, ನೀನು ಈಗ ಎಲ್ಲಿದೀಯ? ಅವ್ವ ಹೇಗಿದಾರೆ?"
+    tr: "Ayyō… Mahadēva, nīnu īga ellidīya? Avva hēgidāre?"
+    en: "Oh no… Mahadeva, where are you now? How is Avva?"
+  - who: mahadeva
+    t: "ಅಪ್ಪನ್ನ ಮನೆಗೆ ಕರ್ಕಂಡು ಬಂದಿದೀವಿ. ಅವ್ವ ಅಳ್ತಾನೇ ಇದಾರೆ, ಯಾರ್ ಮಾತೂ ಕೇಳ್ತಿಲ್ಲ. ಪಕ್ಕದ್ಮನೆ ಹೆಂಗಸರು ಅವರ ಜೊತೆ ಕುಂತಿದಾರೆ."
+    tr: "Appanna manege karkaṇḍu bandidīvi. Avva aḷtānē idāre, yār mātū kēḷtilla. Pakkadmane heṅgasaru avara jote kuntidāre."
+    en: "We've brought Appa home. Avva won't stop crying; she isn't listening to anyone. The women from next door are sitting with her."
+  - who: suresh
+    t: "ಸರಿ, ನಾವು ಈಗಲೇ ಹೊರಡ್ತೀವಿ. ಎರಡು ಗಂಟೆ ಒಳಗೆ ಅಲ್ಲಿರ್ತೀವಿ. ಶೋಭಾಗೆ ಹೇಳಿದ್ಯಾ?"
+    tr: "Sari, nāvu īgalē horaḍtīvi. Eraḍu gaṇṭe oḷage allirtīvi. Śōbhāge hēḷidyā?"
+    en: "All right, we're leaving right now. We'll be there within two hours. Have you told Shobha?"
+  - who: mahadeva
+    t: "ಶೋಭಂಗೆ ಇನ್ನೂ ಹೇಳಿಲ್ಲ. ಆಸ್ಪತ್ರೆ ಡ್ಯೂಟೀಲಿ ಇರ್ತಾಳೆ ಅನ್ಸುತ್ತೆ. ನನ್ ಬಾಯಲ್ಲಿ ಮಾತೇ ಬರ್ತಿಲ್ಲ. ನೀನೇ ಹೇಳ್ಬುಡಣ್ಣ."
+    tr: "Śōbhaṅge innū hēḷilla. Āspatre ḍyūṭīli irtāḷe ansutte. Nan bāyalli mātē bartilla. Nīnē hēḷbuḍaṇṇa."
+    en: "I haven't told Shobha yet. I think she's on duty at the hospital. The words just won't come out of my mouth. You tell her, Anna."
+  - who: suresh
+    t: "ನಾನು ಹೇಳ್ತೀನಿ. ನೀನು ಧೈರ್ಯ ತಗೋ. ಅವ್ವನ್ನ ಒಬ್ಬರನ್ನೇ ಬಿಡ್ಬೇಡ."
+    tr: "Nānu hēḷtīni. Nīnu dhairya tagō. Avvanna obbarannē biḍbēḍa."
+    en: "I'll tell her. Be strong. Don't leave Avva alone."
+  - who: mahadeva
+    t: "ಆಯ್ತು. ಬೇಗ ಬಾ ಕಣಣ್ಣ. ಹುಷಾರಾಗಿ ಓಡ್ಸು, ರಾತ್ರಿ ಹೈವೇಲಿ ಲಾರಿಗಳು ಜಾಸ್ತಿ."
+    tr: "Āytu. Bēga bā kaṇaṇṇa. Huṣārāgi ōḍsu, rātri haivēli lārigaḷu jāsti."
+    en: "All right. Come quickly, brother. Drive carefully; there are a lot of lorries on the highway at night."
+  - who: meena
+    t: "ಸುರೇಶ್… ಏನಾಯ್ತು? ನಿಮ್ಮ ಮುಖ ಬಿಳಿಚ್ಕೊಂಡಿದೆ."
+    tr: "Surēś… ēnāytu? Nimma mukha biḷickoṇḍide."
+    en: "Suresh… what happened? Your face has gone white."
+  - who: suresh
+    t: "ಅಪ್ಪ ಇನ್ನಿಲ್ಲ, ಮೀನಾ. ಹಾರ್ಟ್ ಅಟ್ಯಾಕ್. ಆಸ್ಪತ್ರೆಗೆ ಕರ್ಕೊಂಡು ಹೋಗೋ ದಾರೀಲೇ ಹೋಗ್ಬಿಟ್ರಂತೆ."
+    tr: "Appa innilla, Mīnā. Hārṭ aṭyāk. Āspatrege karkoṇḍu hōgō dārīlē hōgbiṭrante."
+    en: "Appa is no more, Meena. A heart attack. They say he went on the way to the hospital."
+  - who: meena
+    t: "ಅಯ್ಯೋ ದೇವ್ರೇ… ಕಳೆದ ತಿಂಗಳು ನಾವು ಹೋದಾಗ ಗದ್ದೆ ಬದುಗಳ ಮೇಲೆ ನಮಗಿಂತ ಜೋರಾಗಿ ನಡೀತಿದ್ರು."
+    tr: "Ayyō dēvrē… kaḷeda tiṅgaḷu nāvu hōdāga gadde badugaḷa mēle namaginta jōrāgi naḍītidru."
+    en: "Oh God… when we went last month, he was striding along the bunds of the paddy fields faster than any of us."
+  - who: suresh
+    t: "ಅದೇ ನಂಬೋಕೇ ಆಗ್ತಿಲ್ಲ. ಎಪ್ಪತ್ನಾಲ್ಕು ವರ್ಷ ಆದ್ರೂ ಒಂದು ದಿನಾನೂ ಆಸ್ಪತ್ರೆಲಿ ಮಲಗಿದವರಲ್ಲ. ಬಿಪಿ ಮಾತ್ರೆ ಕೂಡ ಬೇಡ ಅಂತಿದ್ರು."
+    tr: "Adē nambōkē āgtilla. Eppatnālku varṣa ādrū ondu dinānū āspatreli malagidavaralla. Bi-pi mātre kūḍa bēḍa antidru."
+    en: "That's what I can't believe. Seventy-four years old, and he never spent a single day in hospital. He even used to refuse the BP tablets."
+  - who: meena
+    t: "ಒಂದು ನಿಮಿಷ ಕೂತ್ಕೊಳ್ಳಿ. ನೀರು ಕುಡೀರಿ. ಈ ಸ್ಥಿತಿಯಲ್ಲಿ ನೀವು ಡ್ರೈವ್ ಮಾಡೋದು ಬೇಡ. ಬ್ಯಾಗ್ ನಾನು ರೆಡಿ ಮಾಡ್ತೀನಿ."
+    tr: "Ondu nimiṣa kūtkoḷḷi. Nīru kuḍīri. Ī sthitiyalli nīvu ḍraiv māḍōdu bēḍa. Byāg nānu reḍi māḍtīni."
+    en: "Sit down for a minute. Drink some water. You shouldn't drive in this state. I'll pack the bag."
+  - who: suresh
+    t: "ಇಲ್ಲ, ನಾನೇ ಓಡಿಸ್ತೀನಿ. ಕೈಗೆ ಏನಾದ್ರೂ ಕೆಲಸ ಬೇಕು, ಇಲ್ಲಾಂದ್ರೆ ತಲೆ ಕೆಟ್ಟೋಗುತ್ತೆ. ರಕ್ಷಿತ್‌ನ ಎಬ್ಬಿಸು."
+    tr: "Illa, nānē ōḍistīni. Kaige ēnādrū kelasa bēku, illāndre tale keṭṭōgutte. Rakṣit-na ebbisu."
+    en: "No, I'll drive. My hands need something to do, or I'll go out of my mind. Wake Rakshith."
+  - who: rakshith
+    t: "ಅಪ್ಪಾ? ಇಷ್ಟು ಹೊತ್ತಲ್ಲಿ ಲೈಟ್ ಯಾಕೆ ಹಾಕಿದೀರ? ಏನಾಯ್ತು?"
+    tr: "Appā? Iṣṭu hottalli laiṭ yāke hākidīra? Ēnāytu?"
+    en: "Appa? Why are the lights on at this time? What's going on?"
+  - who: meena
+    t: "ರಕ್ಷಿತ್, ತಾತ ತೀರ್ಕೊಂಡ್ರು ಕಣೋ. ನಾವು ಈಗಲೇ ಊರಿಗೆ ಹೋಗ್ಬೇಕು. ಎರಡು ಜೊತೆ ಬಟ್ಟೆ ತಗೋ, ಬಿಳಿ ಶರ್ಟ್ ಇದ್ರೆ ಅದನ್ನೂ ತಗೋ."
+    tr: "Rakṣit, tāta tīrkoṇḍru kaṇō. Nāvu īgalē ūrige hōgbēku. Eraḍu jote baṭṭe tagō, biḷi śarṭ idre adannū tagō."
+    en: "Rakshith, Thatha has passed away, dear. We have to go to the village right now. Take two sets of clothes, and a white shirt if you have one."
+  - who: rakshith
+    t: "ತಾತ? ಆದ್ರೆ… ಮುಂದಿನ ತಿಂಗಳು ಸಂಕ್ರಾಂತಿಗೆ ಬಾ, ದನಗಳ ಕೊಂಬಿಗೆ ಬಣ್ಣ ಹಚ್ಚೋದು ಕಲಿಸ್ತೀನಿ ಅಂತ ಹೇಳಿದ್ರು."
+    tr: "Tāta? Ādre… mundina tiṅgaḷu saṅkrāntige bā, danagaḷa kombige baṇṇa haccōdu kalistīni anta hēḷidru."
+    en: "Thatha? But… he told me to come next month for Sankranti, he said he'd teach me how to paint the cattle's horns."
+  - who: suresh
+    t: "ಗೊತ್ತು ಕಣೋ. ಈಗ ನಿಂತು ಯೋಚಿಸೋಕೂ ಟೈಮ್ ಇಲ್ಲ. ಬೇಗ ರೆಡಿ ಆಗು. ನಿನ್ನ ಪರೀಕ್ಷೆ ವಿಷಯ ಆಮೇಲೆ ನೋಡೋಣ."
+    tr: "Gottu kaṇō. Īga nintu yōcisōkū ṭaim illa. Bēga reḍi āgu. Ninna parīkṣe viṣaya āmēle nōḍōṇa."
+    en: "I know, son. There's no time to stand and think now. Get ready quickly. We'll sort out your exams later."
+  - who: suresh
+    t: "ಶೋಭಾ, ಡ್ಯೂಟೀಲಿದೀಯಾ? … ಇಲ್ಲ, ಕೇಳು. ಒಂದು ನಿಮಿಷ ಎಲ್ಲಾದ್ರೂ ಕೂತ್ಕೊ."
+    tr: "Śōbhā, ḍyūṭīlidīyā? … Illa, kēḷu. Ondu nimiṣa ellādrū kūtko."
+    en: "(on the phone) Shobha, are you on duty? … No, listen. Sit down somewhere for a minute."
+  - who: shobha
+    t: "ನೈಟ್ ಡ್ಯೂಟಿ ಅಣ್ಣ, ವಾರ್ಡ್‌ನಲ್ಲಿದೀನಿ. ನೀನು ಇಷ್ಟು ಹೊತ್ತಲ್ಲಿ ಫೋನ್ ಮಾಡಿದ್ಯಾ ಅಂದ್ರೆ… ಅಪ್ಪಂಗೆ ಏನಾದ್ರೂ ಆಯ್ತಾ?"
+    tr: "Naiṭ ḍyūṭi aṇṇa, vārḍ-nallidīni. Nīnu iṣṭu hottalli phōn māḍidyā andre… appaṅge ēnādrū āytā?"
+    en: "Night duty, Anna, I'm on the ward. If you're calling at this hour… has something happened to Appa?"
+  - who: suresh
+    t: "ಹೌದು ಶೋಭಾ. ಅಪ್ಪ ಹೋಗ್ಬಿಟ್ರು. ರಾತ್ರಿ ಹತ್ತೂವರೆಗೆ. ಎದೆನೋವು ಬಂತು, ಮಹದೇವ ಮದ್ದೂರಿಗೆ ಕರ್ಕೊಂಡು ಹೋದ, ಆದ್ರೆ ಅಷ್ಟರಲ್ಲಿ ತಡ ಆಗಿತ್ತು."
+    tr: "Haudu Śōbhā. Appa hōgbiṭru. Rātri hattūvarege. Edenōvu bantu, Mahadēva Maddūrige karkoṇḍu hōda, ādre aṣṭaralli taḍa āgittu."
+    en: "Yes, Shobha. Appa's gone. At half past ten tonight. He had chest pain; Mahadeva took him to Maddur, but by then it was too late."
+  - who: shobha
+    t: "ಇಲ್ಲ… ಇಲ್ಲ ಅಣ್ಣ. ಕಳೆದ ವಾರ ನಾನೇ ಹೇಳಿದ್ದೆ, ಒಂದು ಇಸಿಜಿ ಮಾಡಿಸ್ಕೊಳ್ಳಿ ಅಂತ. ನಾನು ನರ್ಸ್ ಆಗಿ ಏನು ಪ್ರಯೋಜನ? ನನ್ನ ಸ್ವಂತ ಅಪ್ಪನ ಎದೆನೋವು ಗುರುತಿಸೋಕೆ ಆಗ್ಲಿಲ್ಲ."
+    tr: "Illa… illa aṇṇa. Kaḷeda vāra nānē hēḷidde, ondu i-si-ji māḍiskoḷḷi anta. Nānu nars āgi ēnu prayōjana? Nanna svanta appana edenōvu gurutisōke āglilla."
+    en: "No… no, Anna. Only last week I told him to get an ECG done. What use is my being a nurse? I couldn't even recognise my own father's chest pain."
+  - who: suresh
+    t: "ಹಾಗೆ ಹೇಳ್ಬೇಡ. ಅವರು ಯಾರ ಮಾತು ಕೇಳ್ತಿದ್ರು ಹೇಳು? ನೀನು ಮೈಸೂರಿಂದ ಹೇಗೆ ಬರ್ತೀಯ?"
+    tr: "Hāge hēḷbēḍa. Avaru yāra mātu kēḷtidru hēḷu? Nīnu Maisūrinda hēge bartīya?"
+    en: "Don't say that. Tell me, whose advice did he ever take? How will you get here from Mysuru?"
+  - who: shobha
+    t: "ನನ್ನ ಗಂಡ ಕಾರ್ ತರ್ತಾರೆ. ಮೈಸೂರಿಂದ ಮದ್ದೂರು ಒಂದು ಗಂಟೆ ಅಷ್ಟೇ. ಬೆಳಕು ಹರಿಯೋ ಮುಂಚೆ ಅಲ್ಲಿರ್ತೀನಿ. ಅವ್ವನ್ನ ನೋಡ್ಕೊಳ್ಳಿ ಅಣ್ಣ, ಪ್ಲೀಸ್."
+    tr: "Nanna ganḍa kār tartāre. Maisūrinda Maddūru ondu gaṇṭe aṣṭē. Beḷaku hariyō mun̄ce allirtīni. Avvanna nōḍkoḷḷi aṇṇa, plīs."
+    en: "My husband will bring the car. Mysuru to Maddur is only an hour. I'll be there before daybreak. Look after Avva, Anna, please."
+
+  - section: "The expressway at night"
+    learn: "habitual past for memories: hēḷtidru, hēḷkoḷḷtidru · past perfect: hogidde, muridittu, bandittu · reasons and consequences: adē varṣa…, adakkē… · how to behave at a death: kālu muṭṭi namaskāra, tumbā bējārāgide"
+  - scene: "About 1:30 a.m. The Bengaluru–Mysuru expressway, almost empty. Suresh drives; Meena sits beside him; Rakshith is in the back seat, wide awake."
+  - who: rakshith
+    t: "ಅಪ್ಪಾ, ತಾತ ಯಾವಾಗಲೂ ಊರಲ್ಲೇ ಇದ್ರಾ? ಯಾವತ್ತೂ ಬೆಂಗಳೂರಿಗೆ ಬಂದು ಇರ್ಬೇಕು ಅಂತ ಅವರಿಗೆ ಅನ್ಸಿರ್ಲಿಲ್ವಾ?"
+    tr: "Appā, tāta yāvāgalū ūrallē idrā? Yāvattū Beṅgaḷūrige bandu irbēku anta avarige ansirlilvā?"
+    en: "Appa, did Thatha always live in the village? Didn't he ever feel like coming to live in Bengaluru?"
+  - who: suresh
+    t: "ಒಂದೇ ಸಲ ಬಂದಿದ್ರು, ನೀನು ಹುಟ್ಟಿದಾಗ. ಹತ್ತು ದಿನ ಇದ್ರು. ಹನ್ನೊಂದನೇ ದಿನ ಬೆಳಿಗ್ಗೆ ಬ್ಯಾಗ್ ಕಟ್ಕೊಂಡು ಬಾಗಿಲಲ್ಲಿ ನಿಂತಿದ್ರು. ‘ಇಲ್ಲಿ ಮಣ್ಣಿನ ವಾಸನೆನೇ ಇಲ್ಲ, ಅಲ್ಲಿ ದನಗಳು ನನ್ನ ಕಾಯ್ತಿರ್ತವೆ’ ಅಂದ್ರು."
+    tr: "Ondē sala bandidru, nīnu huṭṭidāga. Hattu dina idru. Hannondanē dina beḷigge byāg kaṭkoṇḍu bāgilalli nintidru. ‘Illi maṇṇina vāsanenē illa, alli danagaḷu nanna kāytirtave’ andru."
+    en: "He came just once, when you were born. He stayed ten days. On the eleventh morning he was standing at the door with his bag packed. 'There's no smell of soil here,' he said, 'and the cattle back there are waiting for me.'"
+  - who: meena
+    t: "ನಿಮ್ಮಪ್ಪ ಹೇಳ್ತಿದ್ದ ಒಂದು ಮಾತು ನನಗೆ ಇನ್ನೂ ನೆನಪಿದೆ: ‘ನೆಲ ನಮ್ಮನ್ನ ಸಾಕುತ್ತೆ, ಅದಕ್ಕೇ ನಾವು ನೆಲನ ಸಾಕ್ಬೇಕು.’"
+    tr: "Nimmappa hēḷtidda ondu mātu nanage innū nenapide: ‘Nela nammanna sākutte, adakkē nāvu nelana sākbēku.’"
+    en: "I still remember something your father used to say: 'The land feeds us, so we have to take care of the land.'"
+  - who: suresh
+    t: "ಹೌದು. ನಾನು ಬ್ಯಾಂಕ್ ಕೆಲಸಕ್ಕೆ ಬೆಂಗಳೂರಿಗೆ ಹೊರಟಾಗ ಒಂದು ವಾರ ನನ್ನ ಜೊತೆ ಮಾತೇ ಆಡಿರಲಿಲ್ಲ. ಆಮೇಲೆ ಊರಲ್ಲಿ ಎಲ್ಲರ ಮುಂದೆ ‘ನನ್ನ ಮಗ ಬ್ಯಾಂಕ್ ಮ್ಯಾನೇಜರ್’ ಅಂತ ಹೆಮ್ಮೆಯಿಂದ ಹೇಳ್ಕೊಳ್ತಿದ್ರು."
+    tr: "Haudu. Nānu byāṅk kelasakke Beṅgaḷūrige horaṭāga ondu vāra nanna jote mātē āḍiralilla. Āmēle ūralli ellara munde ‘nanna maga byāṅk myānējar’ anta hemmeyinda hēḷkoḷḷtidru."
+    en: "Yes. When I left for the bank job in Bengaluru, he didn't speak to me for a whole week. Later, in front of the whole village, he'd proudly tell everyone, 'My son is a bank manager.'"
+  - who: rakshith
+    t: "ಮಹದೇವ ಚಿಕ್ಕಪ್ಪ ಯಾಕೆ ಊರಲ್ಲೇ ಉಳ್ಕೊಂಡ್ರು? ಅವರೂ ಓದಿದ್ರಲ್ವಾ?"
+    tr: "Mahadēva cikkappa yāke ūrallē uḷkoṇḍru? Avarū ōdidralvā?"
+    en: "Why did Mahadeva Chikkappa stay back in the village? He studied too, didn't he?"
+  - who: suresh
+    t: "ಅವನು ಪಿಯುಸಿ ಮುಗಿಸಿದ್ದ. ಅದೇ ವರ್ಷ ಅಪ್ಪನ ಕಾಲು ಮುರಿದಿತ್ತು, ಕಬ್ಬು ಕಟಾವಿಗೆ ಬಂದಿತ್ತು. ಯಾರಾದ್ರೂ ಜಮೀನು ನೋಡ್ಕೋಬೇಕಿತ್ತು. ನಾನು ಆಗ್ಲೇ ಬೆಂಗಳೂರಲ್ಲಿದ್ದೆ. ಅವನು ಉಳ್ಕೊಂಡ. ಆಮೇಲೆ ಯಾವತ್ತೂ ಹೊರಗೆ ಬರ್ಲೇ ಇಲ್ಲ."
+    tr: "Avanu pi-yu-si mugisidda. Adē varṣa appana kālu muridittu, kabbu kaṭāvige bandittu. Yārādrū jamīnu nōḍkōbēkittu. Nānu āglē Beṅgaḷūralliddē. Avanu uḷkoṇḍa. Āmēle yāvattū horage barlē illa."
+    en: "He had finished his PUC. That same year Appa had broken his leg, and the sugarcane was ready for harvest. Someone had to look after the land. I was already in Bengaluru. He stayed. And after that he never came out."
+  - who: meena
+    t: "ಅದಕ್ಕೇ ಅವರ ಮನಸ್ಸಲ್ಲಿ ಸ್ವಲ್ಪ ನೋವಿದೆ ಅನ್ಸುತ್ತೆ. ಇವತ್ತು ಆ ವಿಷಯ ಏನೂ ಎತ್ತಬೇಡಿ, ಸುರೇಶ್. ಅವರು ಒಬ್ಬರೇ ಅಪ್ಪನ್ನ ಆಸ್ಪತ್ರೆಗೆ ಕರ್ಕೊಂಡು ಹೋಗಿದಾರೆ."
+    tr: "Adakkē avara manassalli svalpa nōvide ansutte. Ivattu ā viṣaya ēnū ettabēḍi, Surēś. Avaru obbarē appanna āspatrege karkoṇḍu hōgidāre."
+    en: "That's why I think there's some hurt in his heart. Don't bring any of that up today, Suresh. He took your father to the hospital all on his own."
+  - who: suresh
+    t: "ನಾನ್ಯಾಕೆ ಎತ್ತಲಿ? … ನೋಡು, ಮದ್ದೂರು ಎಕ್ಸಿಟ್ ಬಂತು. ಇನ್ನು ಹದಿನೈದು ಕಿಲೋಮೀಟರ್ ಅಷ್ಟೇ."
+    tr: "Nānyāke ettali? … Nōḍu, Maddūru eksiṭ bantu. Innu hadinaidu kilōmīṭar aṣṭē."
+    en: "Why would I bring it up? … Look, here's the Maddur exit. Just fifteen more kilometres."
+  - who: rakshith
+    t: "ಅಪ್ಪಾ, ಅಲ್ಲಿ ಏನು ಮಾಡ್ಬೇಕು, ಏನು ಹೇಳ್ಬೇಕು ಅಂತ ನನಗೆ ಗೊತ್ತಿಲ್ಲ. ಯಾರಾದ್ರೂ ಮಾತಾಡಿಸಿದ್ರೆ?"
+    tr: "Appā, alli ēnu māḍbēku, ēnu hēḷbēku anta nanage gottilla. Yārādrū mātāḍisidre?"
+    en: "Appa, I don't know what to do there or what to say. What if somebody talks to me?"
+  - who: meena
+    t: "ಜಾಸ್ತಿ ಮಾತಾಡೋದು ಬೇಡ. ದೊಡ್ಡವರ ಕಾಲು ಮುಟ್ಟಿ ನಮಸ್ಕಾರ ಮಾಡು. ಯಾರಾದ್ರೂ ಏನಾದ್ರೂ ಕೇಳಿದ್ರೆ ‘ಹೌದು, ತುಂಬಾ ಬೇಜಾರಾಗಿದೆ’ ಅಂದ್ರೆ ಸಾಕು. ಅಜ್ಜಿ ಪಕ್ಕ ಕೂತ್ಕೋ, ಅದೇ ದೊಡ್ಡ ಸಹಾಯ."
+    tr: "Jāsti mātāḍōdu bēḍa. Doḍḍavara kālu muṭṭi namaskāra māḍu. Yārādrū ēnādrū kēḷidre ‘haudu, tumbā bējārāgide’ andre sāku. Ajji pakka kūtkō, adē doḍḍa sahāya."
+    en: "You don't need to say much. Touch the elders' feet and greet them. If anyone asks you anything, just say, 'Yes, it's very sad.' Sit beside Ajji; that's the biggest help."
+  - who: rakshith
+    t: "ಸರಿ ಅಮ್ಮ. … ಅಪ್ಪಾ, ನೀವು ಇನ್ನೂ ಒಂದು ಸಲಾನೂ ಅತ್ತಿಲ್ಲ."
+    tr: "Sari amma. … Appā, nīvu innū ondu salānū attilla."
+    en: "OK, Amma. … Appa, you haven't cried even once yet."
+  - who: suresh
+    t: "ದೊಡ್ಡ ಮಗ ಅಳೋಕೆ ಮುಂಚೆ ಮಾಡ್ಬೇಕಾದ ಕೆಲಸ ಎಲ್ಲಾ ಮುಗಿಸ್ಬೇಕು ಅಂತ ನಮ್ಮಪ್ಪಾನೇ ಹೇಳ್ಕೊಟ್ಟಿದ್ರು, ಕಣೋ. ಅಳೋದು ಆಮೇಲೆ."
+    tr: "Doḍḍa maga aḷōke mun̄ce māḍbēkāda kelasa ellā mugisbēku anta nammappānē hēḷkoṭṭidru, kaṇō. Aḷōdu āmēle."
+    en: "My father himself taught me that the eldest son must finish everything that has to be done before he cries, son. The crying comes later."
+
+  - section: "The house in Bettahalli"
+    learn: "condolence formulas: ātmakke śānti sigli, dēvru śakti koḍli, nāvellā idīvi · Avva's rural speech: bandyā kaṇappa, kaṇavva, battāḷe · respectful address: Gauḍre, Surēśappa · death words: maṇṇu māḍōdu, cikkōnu, horaṭōda, bāḷida"
+  - scene: "Before dawn, Wednesday 10 December. The old tiled house in Bettahalli, Maddur taluk. Thatha, Channegowda, lies on a mat in the front hall with a garland of marigolds round his neck and an oil lamp burning by his head. Village women sit around Avva. Men stand in the yard in the cold."
+  - who: avva
+    t: "ಸುರೇಸಾ… ಬಂದ್ಯಾ ಕಣಪ್ಪ… ನೋಡು ನಿಮ್ಮಪ್ಪನ್ನ. ಮಾತೇ ಆಡ್ತಿಲ್ಲ. ‘ಪುಟ್ಟಮ್ಮ, ನಾಳೆ ಬೇಗ ಗದ್ದೆಗೆ ಹೋಗ್ಬೇಕು, ಐದು ಗಂಟೆಗೆ ಎಬ್ಬಿಸು’ ಅಂದಿದ್ರು. ಈಗ ಯಾರ್ನ ಎಬ್ಬಿಸ್ಲಿ?"
+    tr: "Surēsā… bandyā kaṇappa… nōḍu nimmappanna. Mātē āḍtilla. ‘Puṭṭamma, nāḷe bēga gaddege hōgbēku, aidu gaṇṭege ebbisu’ andidru. Īga yārna ebbisli?"
+    en: "Suresha… you've come, my son… look at your father. He won't say a word. He'd told me, 'Puttamma, I have to go to the paddy field early tomorrow, wake me at five.' Whom do I wake now?"
+  - who: suresh
+    t: "ಅವ್ವಾ… ನಾನು ಬಂದೆ. ಸಮಾಧಾನ ಮಾಡ್ಕೊ ಅವ್ವ. ನಾವೆಲ್ಲಾ ಇದೀವಿ."
+    tr: "Avvā… nānu bande. Samādhāna māḍko avva. Nāvellā idīvi."
+    en: "Avva… I'm here. Try to calm yourself, Avva. We're all here."
+  - who: avva
+    t: "ಐವತ್ತೆರಡು ವರ್ಷ ಕಣಪ್ಪ ಅವರ ಜೊತೆ ಬಾಳಿದೆ. ಹದಿನೆಂಟು ವರ್ಷದವಳಾಗಿ ಈ ಮನೆಗೆ ಕಾಲಿಟ್ಟೆ. ಒಂದು ಮಾತೂ ಹೇಳ್ದೆ ಹೊರಟೋದ್ರು ನೋಡು."
+    tr: "Aivatteraḍu varṣa kaṇappa avara jote bāḷide. Hadineṇṭu varṣadavaḷāgi ī manege kāliṭṭe. Ondu mātū hēḷde horaṭōdru nōḍu."
+    en: "Fifty-two years I lived with him, son. I stepped into this house at eighteen. And look, he's gone without saying a single word."
+  - who: meena
+    t: "ಅತ್ತೆ, ಸ್ವಲ್ಪ ನೀರು ಕುಡೀರಿ. ರಾತ್ರಿಯಿಂದ ನೀವು ಏನೂ ತಿಂದಿಲ್ಲ ಅಂತ ಪಕ್ಕದ್ಮನೆ ಅಕ್ಕ ಹೇಳಿದ್ರು."
+    tr: "Atte, svalpa nīru kuḍīri. Rātriyinda nīvu ēnū tindilla anta pakkadmane akka hēḷidru."
+    en: "Atte, drink a little water. The lady next door says you haven't eaten anything since last night."
+  - who: avva
+    t: "ತಿನ್ನೋಕೆ ಮನಸ್ಸೇ ಇಲ್ಲ ಕಣವ್ವ. ರಕ್ಷಿತ್ ಬಂದ್ನಾ? ಬಾರಪ್ಪ ಇಲ್ಲಿ. ನಿಮ್ ತಾತ ನಿನ್ನೆ ಕೂಡ ನಿನ್ ಬಗ್ಗೆನೇ ಮಾತಾಡ್ತಿದ್ರು, ‘ನನ್ ಮೊಮ್ಮಗ ಡಾಕ್ಟರ್ ಆಗ್ತಾನೆ’ ಅಂತ."
+    tr: "Tinnōke manassē illa kaṇavva. Rakṣit bandnā? Bārappa illi. Nim tāta ninne kūḍa nin baggenē mātāḍtidru, ‘nan mommaga ḍākṭar āgtāne’ anta."
+    en: "I've no heart to eat, dear. Has Rakshith come? Come here, child. Your grandfather was talking about you just yesterday: 'My grandson is going to be a doctor.'"
+  - who: rakshith
+    t: "ಅಜ್ಜಿ… ನಾನು ಇಲ್ಲೇ ಇದೀನಿ. ನಿಮ್ ಪಕ್ಕಾನೇ ಕೂತ್ಕೋತೀನಿ."
+    tr: "Ajji… nānu illē idīni. Nim pakkānē kūtkōtīni."
+    en: "Ajji… I'm right here. I'll sit next to you."
+  - who: mahadeva
+    t: "ಅಣ್ಣ, ಬಂದ್ಯಾ. ಒಳ್ಳೇದಾಯ್ತು. ಊರಿನೋರೆಲ್ಲಾ ರಾತ್ರಿಯಿಂದ ಬತ್ತಾನೇ ಇದಾರೆ. ತಿಮ್ಮೇಗೌಡ್ರು ಬಂದಿದಾರೆ, ಹೊರಗೆ ಕುಂತಿದಾರೆ."
+    tr: "Aṇṇa, bandyā. Oḷḷēdāytu. Ūrinōrellā rātriyinda battānē idāre. Timmēgauḍru bandidāre, horage kuntidāre."
+    en: "Anna, you've come. Good. People from the village have been coming all night. Thimmegowda has come; he's sitting outside."
+  - who: suresh
+    t: "ಮಹದೇವ… ನೀನು ರಾತ್ರಿಯೆಲ್ಲಾ ಒಬ್ಬನೇ ಎಲ್ಲಾ ನೋಡ್ಕೊಂಡೆ. ಏನಾದ್ರೂ ತಿಂದ್ಯಾ?"
+    tr: "Mahadēva… nīnu rātriyellā obbanē ellā nōḍkoṇḍe. Ēnādrū tindyā?"
+    en: "(holding his brother) Mahadeva… you handled everything all night on your own. Have you eaten anything?"
+  - who: mahadeva
+    t: "ತಿನ್ನೋದು ಆಮೇಲೆ. ಮಣ್ಣು ಮಾಡೋದು ಎಷ್ಟೊತ್ತಿಗೆ ಅಂತ ತೀರ್ಮಾನ ಮಾಡ್ಬೇಕು. ಶೋಭ ಬರೋವರ್ಗೂ ಕಾಯ್ಬೇಕು ಅಲ್ವಾ."
+    tr: "Tinnōdu āmēle. Maṇṇu māḍōdu eṣṭottige anta tīrmāna māḍbēku. Śōbha barōvargū kāybēku alvā."
+    en: "Eating can wait. We have to decide what time the burial will be. We have to wait till Shobha comes, don't we."
+  - who: elder
+    t: "ಸುರೇಶಪ್ಪ, ಬಾ ಇಲ್ಲಿ. … ಚನ್ನೇಗೌಡ ನನಗಿಂತ ನಾಲ್ಕು ವರ್ಷ ಚಿಕ್ಕೋನು. ನಾನು ಇನ್ನೂ ಕೋಲು ಹಿಡ್ಕಂಡು ಕುಂತಿದೀನಿ, ಅವ್ನು ಮುಂಚೆನೇ ಹೊರಟೋದ. ದೇವರ ಲೆಕ್ಕ ಯಾರಿಗೂ ಅರ್ಥ ಆಗಲ್ಲ."
+    tr: "Surēśappa, bā illi. … Cannēgauḍa nanaginta nālku varṣa cikkōnu. Nānu innū kōlu hiḍkaṇḍu kuntidīni, avnu mun̄cenē horaṭōda. Dēvara lekka yārigū artha āgalla."
+    en: "Suresh, my boy, come here. … Channegowda was four years younger than me. I'm still sitting here holding my stick, and he's gone ahead of me. Nobody understands God's accounts."
+  - who: suresh
+    t: "ನಮಸ್ಕಾರ ತಿಮ್ಮೇಗೌಡ್ರೇ. ನೀವು ಬಂದಿದ್ದು ಅಪ್ಪಂಗೆ ಸಿಕ್ಕಿದ ಗೌರವ. ಅವರು ಯಾವಾಗಲೂ ‘ಏನೇ ಇದ್ರೂ ತಿಮ್ಮಣ್ಣನ್ನ ಕೇಳಿ ಮಾಡು’ ಅಂತಿದ್ರು."
+    tr: "Namaskāra Timmēgauḍrē. Nīvu bandiddu appaṅge sikkida gaurava. Avaru yāvāgalū ‘ēnē idrū Timmaṇṇanna kēḷi māḍu’ antidru."
+    en: "Namaskara, Thimmegowda. Your coming here is an honour to Appa. He always used to say, 'Whatever it is, ask Thimmanna before you do it.'"
+  - who: elder
+    t: "ಅವ್ನ ಆತ್ಮಕ್ಕೆ ಶಾಂತಿ ಸಿಗ್ಲಿ. ನಿಮ್ಮವ್ವಂಗೆ ದೇವ್ರು ಶಕ್ತಿ ಕೊಡ್ಲಿ. ಇವತ್ತು ದುಃಖದ ದಿನ, ಆದ್ರೆ ಮಾಡ್ಬೇಕಾದ್ದು ಸರಿಯಾಗಿ ಮಾಡ್ಬೇಕು. ಹೊತ್ತು ಮೀರೋದು ಬೇಡ, ಮಧ್ಯಾಹ್ನದೊಳಗೆ ಮಣ್ಣು ಮಾಡಿ."
+    tr: "Avna ātmakke śānti sigli. Nimmavvaṅge dēvru śakti koḍli. Ivattu duḥkhada dina, ādre māḍbēkāddu sariyāgi māḍbēku. Hottu mīrōdu bēḍa, madhyāhnadoḷage maṇṇu māḍi."
+    en: "May his soul find peace. May God give your mother strength. Today is a day of grief, but what must be done has to be done properly. Don't let it get late; finish the burial before midday."
+  - who: mahadeva
+    t: "ಅಪ್ಪ ಮುಂಚೇನೇ ಹೇಳಿದ್ರು, ‘ನನ್ನ ನಮ್ಮ ಹೊಲದಲ್ಲೇ, ಆ ಹುಣಸೆ ಮರದ ಕೆಳಗೆ ಮಲಗಿಸಿ’ ಅಂತ. ಅದನ್ನೇ ಮಾಡ್ತೀವಿ."
+    tr: "Appa mun̄cēnē hēḷidru, ‘nanna namma holadallē, ā huṇase marada keḷage malagisi’ anta. Adannē māḍtīvi."
+    en: "Appa had told us long ago, 'Lay me in our own field, under that tamarind tree.' That's exactly what we'll do."
+  - who: elder
+    t: "ಸರಿಯಾದ ಮಾತು. ಬೆವರು ಸುರಿಸಿದ ನೆಲದಲ್ಲೇ ಮಲಗೋದು ರೈತನಿಗೆ ದೊಡ್ಡ ಭಾಗ್ಯ."
+    tr: "Sariyāda mātu. Bevaru surisida neladallē malagōdu raitanige doḍḍa bhāgya."
+    en: "Well said. For a farmer, to lie in the very soil he poured his sweat into is a great blessing."
+  - who: shobha
+    t: "ಅವ್ವಾ…! ಅಪ್ಪಾ… ಒಂದು ಮಾತು ಹೇಳ್ಬಾರದಿತ್ತಾ? ನಾನು ಬರೋವರ್ಗೂ ಕಾಯ್ಬಾರದಿತ್ತಾ?"
+    tr: "Avvā…! Appā… ondu mātu hēḷbāradittā? Nānu barōvargū kāybāradittā?"
+    en: "(running in) Avva…! Appa… couldn't you have said one word? Couldn't you have waited until I came?"
+  - who: avva
+    t: "ಬಂದ್ಯಾ ಮಗಳೇ… ನಿನ್ನೆ ನಿನ್ನನ್ನೇ ಕೇಳ್ತಿದ್ರು ಕಣೇ. ‘ಶೋಭ ಯಾವಾಗ ಬತ್ತಾಳೆ, ಸಂಕ್ರಾಂತಿಗೆ ಬತ್ತಾಳಾ’ ಅಂತ."
+    tr: "Bandyā magaḷē… ninne ninnannē kēḷtidru kaṇē. ‘Śōbha yāvāga battāḷe, saṅkrāntige battāḷā’ anta."
+    en: "You've come, my daughter… only yesterday he was asking about you, dear. 'When is Shobha coming? Will she come for Sankranti?'"
+  - who: shobha
+    t: "ನಾನು ಬಂದಿದೀನಿ ಅವ್ವ. ಇನ್ನು ಕೆಲವು ದಿನ ಇಲ್ಲೇ ಇರ್ತೀನಿ, ನಿನ್ನ ಜೊತೆ. ಆಸ್ಪತ್ರೆಗೆ ರಜೆ ಹಾಕಿದೀನಿ."
+    tr: "Nānu bandidīni avva. Innu kelavu dina illē irtīni, ninna jote. Āspatrege raje hākidīni."
+    en: "I'm here, Avva. I'll stay here with you for some days now. I've taken leave from the hospital."
+
+  - section: "I am the one who stayed"
+    learn: "the first quarrel: iddōnu nānē, nīvu habbakke bandu hōgtidri · rhetorical questions: hēḷidre ēn māḍtidde? · peace-making: sāku, ibbrū; ivattu ī mātu bēḍa · funeral customs: tamaṭe, caṭṭa, hegalu koḍu, ‘hōgi banni’ is never said"
+  - scene: "Late morning. In the yard the drummers have arrived and the bamboo bier is being tied. Suresh, Mahadeva and Shobha stand apart, near the cattle shed."
+  - who: shobha
+    t: "ಮಹದೇವ, ಒಂದು ಮಾತು ಕೇಳ್ಬೇಕು. ಅಪ್ಪಂಗೆ ಕಳೆದ ವಾರದಿಂದಲೇ ಸುಸ್ತು ಆಗ್ತಿತ್ತು ಅಂತ ಅವ್ವ ಹೇಳ್ತಿದ್ದಾರೆ. ಯಾಕೆ ಯಾರೂ ನಮಗೆ ಹೇಳ್ಲಿಲ್ಲ?"
+    tr: "Mahadēva, ondu mātu kēḷbēku. Appaṅge kaḷeda vāradindalē sustu āgtittu anta avva hēḷtiddāre. Yāke yārū namage hēḷlilla?"
+    en: "Mahadeva, I need to ask you something. Avva says Appa had been feeling exhausted since last week. Why did nobody tell us?"
+  - who: mahadeva
+    t: "ಹೇಳಿದ್ರೆ ಏನ್ ಮಾಡ್ತಿದ್ದೆ? ಮೈಸೂರಿಂದ ಬಂದು ಬಿಪಿ ನೋಡ್ತಿದ್ದ್ಯಾ? ಅವ್ರು ಯಾರ್ ಮಾತೂ ಕೇಳ್ತಿರ್ಲಿಲ್ಲ. ಬೆಳಿಗ್ಗೆ ಐದಕ್ಕೆ ಎದ್ದು ಹಸುಗಳ ಹಾಲು ಕರೀತಿದ್ರು, ಮಧ್ಯಾಹ್ನದವರ್ಗೂ ಗದ್ದೇಲಿ ಇರ್ತಿದ್ರು."
+    tr: "Hēḷidre ēn māḍtidde? Maisūrinda bandu bi-pi nōḍtiddyā? Avru yār mātū kēḷtirlilla. Beḷigge aidakke eddu hasugaḷa hālu karītidru, madhyāhnadavargū gaddēli irtidru."
+    en: "And if we had, what would you have done? Come from Mysuru to check his BP? He didn't listen to anyone. He'd be up at five milking the cows and out in the paddy field till noon."
+  - who: suresh
+    t: "ಶೋಭಾ ಕೇಳಿದ್ದು ತಪ್ಪಲ್ಲ, ಮಹದೇವ. ನಾವೂ ಅವರ ಮಕ್ಕಳೇ. ಒಂದು ಫೋನ್ ಮಾಡಿದ್ರೆ ಬೆಂಗಳೂರಲ್ಲಿ ಒಳ್ಳೆ ಡಾಕ್ಟರ್ ಹತ್ರ ತೋರಿಸ್ತಿದ್ವಿ."
+    tr: "Śōbhā kēḷiddu tappalla, Mahadēva. Nāvū avara makkaḷē. Ondu phōn māḍidre Beṅgaḷūralli oḷḷe ḍākṭar hatra tōristidvi."
+    en: "Shobha isn't wrong to ask, Mahadeva. We're his children too. One phone call and we'd have shown him to a good doctor in Bengaluru."
+  - who: mahadeva
+    t: "ಬೆಂಗಳೂರು! ಯಾವಾಗ್ಲೂ ಬೆಂಗಳೂರು. ಅಣ್ಣ, ಇಪ್ಪತ್ತು ವರ್ಷದಿಂದ ಇಲ್ಲಿ ಇದ್ದೋನು ನಾನು. ಮಳೆ ಬರದೇ ಇದ್ದಾಗ, ಕಬ್ಬಿನ ದುಡ್ಡು ಬರದೇ ಇದ್ದಾಗ, ಅಪ್ಪಂಗೆ ಜ್ವರ ಬಂದಾಗ — ಇದ್ದೋನು ನಾನೇ. ನೀವು ಹಬ್ಬಕ್ಕೆ ಎರಡು ದಿನ ಬಂದು ಹೋಗ್ತಿದ್ರಿ."
+    tr: "Beṅgaḷūru! Yāvāglū Beṅgaḷūru. Aṇṇa, ippattu varṣadinda illi iddōnu nānu. Maḷe barade iddāga, kabbina duḍḍu barade iddāga, appaṅge jvara bandāga — iddōnu nānē. Nīvu habbakke eraḍu dina bandu hōgtidri."
+    en: "Bengaluru! Always Bengaluru. Anna, the one who's been here for twenty years is me. When the rain didn't come, when the cane money didn't come, when Appa had fever — the one who was here was me. You people came for two days at festival time and left."
+  - who: shobha
+    t: "ಅಂದ್ರೆ ನಾವು ಅಪ್ಪನ್ನ ಪ್ರೀತಿಸ್ತಿರ್ಲಿಲ್ಲ ಅಂತಾನಾ? ನನಗೆ ಮದುವೆ ಮಾಡಿ ಮೈಸೂರಿಗೆ ಕಳಿಸಿದ್ದು ನೀವೇ, ನಾನಾಗಿ ಹೋಗ್ಲಿಲ್ಲ."
+    tr: "Andre nāvu appanna prītistirlilla antānā? Nanage maduve māḍi Maisūrige kaḷisiddu nīvē, nānāgi hōglilla."
+    en: "So you mean we didn't love Appa? It was all of you who married me off and sent me to Mysuru; I didn't go of my own accord."
+  - who: suresh
+    t: "ಸಾಕು, ಇಬ್ರೂ. ಒಳಗೆ ಅಪ್ಪ ಮಲಗಿದಾರೆ, ಹೊರಗೆ ಊರಿನೋರು ನಿಂತಿದಾರೆ. ಇವತ್ತು ಈ ಮಾತು ಬೇಡ."
+    tr: "Sāku, ibbrū. Oḷage appa malagidāre, horage ūrinōru nintidāre. Ivattu ī mātu bēḍa."
+    en: "Enough, both of you. Appa is lying inside, and the whole village is standing outside. Not this talk today."
+  - who: mahadeva
+    t: "ಶೋಭ ಕೇಳಿದ್ಲು, ಅದಕ್ಕೆ ಹೇಳ್ದೆ ಅಷ್ಟೇ. … ನನ್ ಮಾತು ತಪ್ಪು ತಿಳ್ಕೋಬೇಡ ಶೋಭ. ರಾತ್ರಿ ಅವ್ರು ನನ್ ಪಕ್ಕದಲ್ಲೇ ಉಸಿರು ಬಿಟ್ರು. ಆ ಕಾರ್ ಸೀಟು ಇನ್ನೂ ನನ್ ಕಣ್ಣ ಮುಂದೇನೇ ಇದೆ."
+    tr: "Śōbha kēḷidlu, adakke hēḷde aṣṭē. … Nan mātu tappu tiḷkōbēḍa Śōbha. Rātri avru nan pakkadallē usiru biṭru. Ā kār sīṭu innū nan kaṇṇa mundēnē ide."
+    en: "Shobha asked, so I answered, that's all. … Don't take what I said the wrong way, Shobha. Last night he breathed his last right beside me. I can still see that car seat in front of my eyes."
+  - who: shobha
+    t: "ಗೊತ್ತು. ನಿನಗೆ ತುಂಬಾ ಕಷ್ಟ ಆಗಿರುತ್ತೆ. ನಾನೂ ಜೋರಾಗಿ ಮಾತಾಡ್ಬಾರದಿತ್ತು. ಕ್ಷಮಿಸು."
+    tr: "Gottu. Ninage tumbā kaṣṭa āgirutte. Nānū jōrāgi mātāḍbāradittu. Kṣamisu."
+    en: "I know. It must have been terribly hard for you. I shouldn't have raised my voice either. Forgive me."
+  - who: elder
+    t: "ಮಕ್ಕಳೇ, ತಮಟೆಯೋರು ಬಂದಿದಾರೆ. ಚಟ್ಟ ರೆಡಿ ಆಗಿದೆ. ದೊಡ್ಡ ಮಗ ಮುಂದೆ ನಿಲ್ಬೇಕು. ಸುರೇಶಪ್ಪ, ಬಾ."
+    tr: "Makkaḷē, tamaṭeyōru bandidāre. Caṭṭa reḍi āgide. Doḍḍa maga munde nilbēku. Surēśappa, bā."
+    en: "Children, the drummers have come. The bier is ready. The eldest son must stand in front. Suresh, come."
+  - who: mahadeva
+    t: "ಅಣ್ಣಾನೇ ಮಾಡ್ಲಿ. ಅದು ದೊಡ್ಡ ಮಗನ ಹಕ್ಕು. ನನಗೆ ಏನೂ ಬೇಡ."
+    tr: "Aṇṇānē māḍli. Adu doḍḍa magana hakku. Nanage ēnū bēḍa."
+    en: "Let Anna do it. That's the eldest son's right. I don't want anything."
+  - who: suresh
+    t: "ಇಲ್ಲ, ಮಹದೇವ. ನಾವಿಬ್ರೂ ಸೇರಿ ಮಾಡೋಣ. ಅಪ್ಪನ್ನ ಕೊನೇ ಸಲ ಹೆಗಲ ಮೇಲೆ ಹೊರೋಕೆ ನಿನಗೂ ಅಷ್ಟೇ ಹಕ್ಕಿದೆ."
+    tr: "Illa, Mahadēva. Nāvibbrū sēri māḍōṇa. Appanna konē sala hegala mēle horōke ninagū aṣṭē hakkide."
+    en: "No, Mahadeva. We'll do it together, the two of us. You have just as much right to carry Appa on your shoulder one last time."
+  - who: elder
+    t: "ಹಂಗೇ ಮಾಡಿ. ಅಣ್ಣ-ತಮ್ಮ ಸೇರಿ ಹೆಗಲು ಕೊಟ್ರೆ ಅದೇ ಚನ್ನೇಗೌಡಂಗೆ ಖುಷಿ."
+    tr: "Haṅgē māḍi. Aṇṇa-tamma sēri hegalu koṭre adē Cannēgauḍaṅge khuṣi."
+    en: "Do just that. If the brothers give their shoulders together, that's what would make Channegowda happiest."
+  - who: rakshith
+    t: "ಅಮ್ಮ, ನಾನೂ ಹೆಗಲು ಕೊಡ್ಬಹುದಾ? ತಾತನ್ನ ಹೊಲದವರೆಗೂ…"
+    tr: "Amma, nānū hegalu koḍbahudā? Tātanna holadavaregū…"
+    en: "Amma, can I give my shoulder too? Carry Thatha as far as the field…"
+  - who: meena
+    t: "ಕೊಡು ಕಂದ. ನಿಮ್ಮಪ್ಪನ ಪಕ್ಕ ನಿಂತ್ಕೋ. ನಿಧಾನವಾಗಿ ನಡಿ, ಹಿಂದೆ ತಿರುಗಿ ನೋಡ್ಬೇಡ."
+    tr: "Koḍu kanda. Nimmappana pakka nintkō. Nidhānavāgi naḍi, hinde tirugi nōḍbēḍa."
+    en: "Yes, my love. Stand next to your father. Walk slowly, and don't turn and look back."
+  - who: avva
+    t: "‘ಹೋಗಿ ಬನ್ನಿ’ ಅನ್ನೋ ಹಂಗಿಲ್ಲ ಕಣ್ರಪ್ಪ… ಹೋಗಿ. ನಿಧಾನಕ್ಕೆ ಕರ್ಕಂಡು ಹೋಗಿ. ಅವ್ರಿಗೆ ಆ ಹುಣಸೆ ಮರದ ನೆರಳು ಅಂದ್ರೆ ತುಂಬಾ ಇಷ್ಟ."
+    tr: "‘Hōgi banni’ annō haṅgilla kaṇrappa… hōgi. Nidhānakke karkaṇḍu hōgi. Avrige ā huṇase marada neraḷu andre tumbā iṣṭa."
+    en: "(at the doorway) I can't even say 'go and come back', my sons… Go. Take him gently. He loved the shade of that tamarind tree."
+
+  - chapter: "Chapter 2 — The eleventh day"
+  - section: "Milk under the tamarind tree"
+    learn: "the third-day rite: hālu-tuppa biḍōdu, samādhi, eḍe iḍōdu · habitual past in memories: kuntu nōḍtidru, naḍītidri, antidri · warm Mandya address: kaṇappa, kaṇē, kaṇrappa · belief and respect: adu nambike, vāda bēḍa"
+  - scene: "Thursday, 11 December 2025, just after sunrise. The dryland field, under the tamarind tree. A fresh mound of earth marks Thatha's grave. The family has walked out from the house carrying a brass pot of milk, a small bowl of ghee and a plate of food covered with a banana leaf."
+  - who: avva
+    t: "ಇಲ್ಲೇ ಕಣಪ್ಪ… ದಿನಾ ಬೆಳಿಗ್ಗೆ ಗದ್ದೆಗೆ ಹೋಗೋ ಮುಂಚೆ ಇದೇ ಮರದ ಕೆಳಗೆ ಐದು ನಿಮಿಷ ಕುಂತು ಆಕಾಶ ನೋಡ್ತಿದ್ರು. ‘ಮಳೆ ಬತ್ತದಾ ಇಲ್ವಾ ಅಂತ ಮೋಡನೇ ಹೇಳುತ್ತೆ’ ಅಂತಿದ್ರು."
+    tr: "Illē kaṇappa… dinā beḷigge gaddege hōgō mun̄ce idē marada keḷage aidu nimiṣa kuntu ākāśa nōḍtidru. ‘Maḷe battadā ilvā anta mōḍanē hēḷutte’ antidru."
+    en: "Right here, son… every morning before going to the paddy field he'd sit under this very tree for five minutes and look at the sky. 'The clouds themselves tell you whether the rain will come or not,' he used to say."
+  - who: rakshith
+    t: "ಅಜ್ಜಿ, ಮೂರನೇ ದಿನ ನಾವು ಇಲ್ಲಿಗೆ ಯಾಕೆ ಬಂದಿದೀವಿ? ಹಾಲು ಯಾಕೆ ತಂದಿದೀರ?"
+    tr: "Ajji, mūranē dina nāvu illige yāke bandidīvi? Hālu yāke tandidīra?"
+    en: "Ajji, why have we come here on the third day? Why have you brought milk?"
+  - who: avva
+    t: "ಇದಕ್ಕೆ ಹಾಲು-ತುಪ್ಪ ಬಿಡೋದು ಅಂತಾರೆ ಕಣಪ್ಪ. ಮಣ್ಣು ಮಾಡಿದ ಮೂರನೇ ದಿನ ಮನೆಯೋರೆಲ್ಲಾ ಬಂದು ಸಮಾಧಿ ಮೇಲೆ ಹಾಲು, ತುಪ್ಪ ಬಿಡ್ತೀವಿ, ಹೋದೋರಿಗೆ ತಂಪಾಗ್ಲಿ ಅಂತ. ಅವ್ರಿಗೆ ಇಷ್ಟ ಆಗಿದ್ದ ತಿಂಡಿನೂ ಎಡೆ ಇಡ್ತೀವಿ."
+    tr: "Idakke hālu-tuppa biḍōdu antāre kaṇappa. Maṇṇu māḍida mūranē dina maneyōrellā bandu samādhi mēle hālu, tuppa biḍtīvi, hōdōrige tampāgli anta. Avrige iṣṭa āgidda tiṇḍinū eḍe iḍtīvi."
+    en: "This is called 'giving milk and ghee', child. On the third day after the burial the whole family comes and pours milk and ghee over the grave, so that the one who has gone may feel cool and at peace. We also lay out the food he liked as an offering."
+  - who: rakshith
+    t: "ಎಡೆ ಅಂದ್ರೆ?"
+    tr: "Eḍe andre?"
+    en: "What does 'ede' mean?"
+  - who: meena
+    t: "ಎಡೆ ಅಂದ್ರೆ ಹೋದೋರಿಗೆ ಅಂತ ತೆಗೆದಿಡೋ ಊಟ, ದೇವರ ನೈವೇದ್ಯದ ಹಾಗೆ. ನೋಡು, ಅಜ್ಜಿ ತಾತಂಗೆ ಇಷ್ಟವಾದ ರಾಗಿ ರೊಟ್ಟಿ, ಕಾಯಿ ಚಟ್ನಿ ಮಾಡ್ಕೊಂಡು ಬಂದಿದಾರೆ."
+    tr: "Eḍe andre hōdōrige anta tegediḍō ūṭa, dēvara naivēdyada hāge. Nōḍu, ajji tātaṅge iṣṭavāda rāgi roṭṭi, kāyi caṭni māḍkoṇḍu bandidāre."
+    en: "An 'ede' is food set aside for the one who has passed, like an offering to God. Look, Ajji has made the ragi rotti and coconut chutney Thatha loved and brought them along."
+  - who: mahadeva
+    t: "ಅಣ್ಣ, ಹಾಲು ನೀನು ಮೊದ್ಲು ಬಿಡು. ಆಮೇಲೆ ನಾನು, ಆಮೇಲೆ ಶೋಭ."
+    tr: "Aṇṇa, hālu nīnu modlu biḍu. Āmēle nānu, āmēle Śōbha."
+    en: "Anna, you pour the milk first. Then me, then Shobha."
+  - who: suresh
+    t: "ಇಲ್ಲ, ಅವ್ವ ಮೊದ್ಲು. ಐವತ್ತೆರಡು ವರ್ಷ ಅವರ ಜೊತೆ ಇದ್ದೋರು ಅವ್ವ. ಬಾ ಅವ್ವ, ಕೈ ಹಿಡ್ಕೊಳ್ತೀನಿ."
+    tr: "Illa, avva modlu. Aivatteraḍu varṣa avara jote iddōru avva. Bā avva, kai hiḍkoḷḷtīni."
+    en: "No, Avva first. She's the one who was with him for fifty-two years. Come, Avva, I'll hold your hand."
+  - who: avva
+    t: "ತಗಳಿ… ನಿಮ್ಮ ಗೌರಿ ಹಸುವಿನ ಹಾಲು. ಮೊನ್ನೆ ತಾನೇ ಕರು ಹಾಕ್ತು. ಹೆಣ್ಣು ಕರು. ನೀವು ನೋಡ್ಲೇ ಇಲ್ಲ."
+    tr: "Tagaḷi… nimma Gauri hasuvina hālu. Monne tānē karu hāktu. Heṇṇu karu. Nīvu nōḍlē illa."
+    en: "(pouring the milk) Take it… milk from your cow Gauri. She calved only the other day. A female calf. You never even saw it."
+  - who: shobha
+    t: "ಅಪ್ಪಾ, ನಾನು ಚಿಕ್ಕವಳಿದ್ದಾಗ ನನ್ನನ್ನ ಹೆಗಲ ಮೇಲೆ ಕೂರಿಸ್ಕೊಂಡು ಇದೇ ಬದು ಮೇಲೆ ನಡೀತಿದ್ರಿ. ಬೀಳ್ತೀನಿ ಅಂತ ನಾನು ಅತ್ತಾಗ, ‘ನಾನಿರೋವರ್ಗೂ ನೀನು ಬೀಳಲ್ಲ ಮಗಳೇ’ ಅಂತಿದ್ರಿ."
+    tr: "Appā, nānu cikkavaḷiddāga nannanna hegala mēle kūriskoṇḍu idē badu mēle naḍītidri. Bīḷtīni anta nānu attāga, ‘nānirōvargū nīnu bīḷalla magaḷē’ antidri."
+    en: "Appa, when I was little you used to carry me on your shoulders along this very bund. When I cried that I'd fall, you'd say, 'As long as I'm here, you won't fall, my girl.'"
+  - who: mahadeva
+    t: "ಆ ಮಾತು ಅವ್ರು ನಿಜ ಮಾಡಿದ್ರು. ನಿನ್ ಮದುವೆಗೆ ಸಾಲ ಮಾಡಿದ್ರೂ ಊರಲ್ಲಿ ಯಾರ್ ಮುಂದೂ ತಲೆ ತಗ್ಗಿಸ್ಲಿಲ್ಲ."
+    tr: "Ā mātu avru nija māḍidru. Nin maduvege sāla māḍidrū ūralli yār mundū tale taggislilla."
+    en: "He kept that promise. Even though he borrowed money for your wedding, he never bowed his head before anyone in the village."
+  - who: shobha
+    t: "ಗೊತ್ತು ಮಹದೇವ. ಅದನ್ನ ನಾನು ಯಾವತ್ತೂ ಮರೆತಿಲ್ಲ."
+    tr: "Gottu Mahadēva. Adanna nānu yāvattū maretilla."
+    en: "(quietly) I know, Mahadeva. I have never forgotten that."
+  - who: suresh
+    t: "ರಕ್ಷಿತ್, ಬಾ. ನೀನೂ ಸ್ವಲ್ಪ ಹಾಲು ಬಿಡು. ಮೊಮ್ಮಕ್ಕಳಲ್ಲಿ ನೀನೇ ದೊಡ್ಡೋನು."
+    tr: "Rakṣit, bā. Nīnū svalpa hālu biḍu. Mommakkaḷalli nīnē doḍḍōnu."
+    en: "Rakshith, come. You pour a little milk too. You're the eldest of the grandchildren."
+  - who: rakshith
+    t: "ತಾತ… ಸಂಕ್ರಾಂತಿಗೆ ನಾನು ಬರ್ತೀನಿ. ನೀವು ಹೇಳ್ಕೊಡ್ಬೇಕಾಗಿದ್ದನ್ನ ಚಿಕ್ಕಪ್ಪನ ಹತ್ರ ಕಲೀತೀನಿ. ಮಾತು ಕೊಡ್ತೀನಿ."
+    tr: "Tāta… saṅkrāntige nānu bartīni. Nīvu hēḷkoḍbēkāgiddanna cikkappana hatra kalītīni. Mātu koḍtīni."
+    en: "Thatha… I'll come for Sankranti. What you were going to teach me, I'll learn from Chikkappa. I promise."
+  - who: mahadeva
+    t: "ಬಾರಪ್ಪ, ಕಲಿಸ್ತೀನಿ. ದನಗಳ ಕೊಂಬಿಗೆ ಬಣ್ಣ ಹಚ್ಚೋದು ಅಷ್ಟೇ ಅಲ್ಲ, ನೇಗಿಲು ಹಿಡಿಯೋದೂ ಕಲಿಸ್ತೀನಿ. ಚನ್ನೇಗೌಡ್ರ ಮೊಮ್ಮಗ ಅಂದ್ಮೇಲೆ ಮಣ್ಣು ಮುಟ್ಟಲೇಬೇಕು."
+    tr: "Bārappa, kalistīni. Danagaḷa kombige baṇṇa haccōdu aṣṭē alla, nēgilu hiḍiyōdū kalistīni. Cannēgauḍra mommaga andmēle maṇṇu muṭṭalēbēku."
+    en: "Come, lad, I'll teach you. Not just painting the cattle's horns — I'll teach you to hold a plough too. If you're Channegowda's grandson, you have to touch the soil."
+  - who: avva
+    t: "ಕಾಗೆ ಬಂತು ನೋಡಿ… ಎಡೆ ಮುಟ್ತು. ಅವ್ರಿಗೆ ತೃಪ್ತಿ ಆಯ್ತು ಕಣ್ರಪ್ಪ. ನಡೀರಿ, ಮನೆಗೆ ಹೋಗೋಣ."
+    tr: "Kāge bantu nōḍi… eḍe muṭtu. Avrige tṛpti āytu kaṇrappa. Naḍīri, manege hōgōṇa."
+    en: "Look, a crow has come… it has touched the offering. He is satisfied, my children. Come, let's go home."
+  - who: rakshith
+    t: "ಅಮ್ಮ, ಕಾಗೆ ಮುಟ್ಟಿದ್ರೆ ತಾತಂಗೆ ತೃಪ್ತಿ ಆಯ್ತು ಅಂತಾನಾ?"
+    tr: "Amma, kāge muṭṭidre tātaṅge tṛpti āytu antānā?"
+    en: "(whispering) Amma, does a crow touching it really mean Thatha is satisfied?"
+  - who: meena
+    t: "ಅದು ನಂಬಿಕೆ ಕಂದ. ನಂಬಿಕೆ ಬಗ್ಗೆ ಇವತ್ತು ವಾದ ಬೇಡ. ಅಜ್ಜಿ ಮುಖ ನೋಡು, ಮೂರು ದಿನದಲ್ಲಿ ಮೊದಲ ಸಲ ಸ್ವಲ್ಪ ಸಮಾಧಾನ ಕಾಣ್ತಿದೆ. ಅಷ್ಟು ಸಾಕು."
+    tr: "Adu nambike kanda. Nambike bagge ivattu vāda bēḍa. Ajji mukha nōḍu, mūru dinadalli modala sala svalpa samādhāna kāṇtide. Aṣṭu sāku."
+    en: "That's a belief, my love. No arguments about beliefs today. Look at Ajji's face — for the first time in three days there's a little peace in it. That's enough."
+
+  - section: "The eleventh-day feast"
+    learn: "ritual words: tithi, vaikuṇṭha samārādhane, sūtaka, piṇḍa, kūdalu tegesōdu · feast words: paṅkti, baḍisu, eleaḍike, mudde toḷasōdu, avarekāḷu sāru · hosting: saṅkōca bēḍa, hoṭṭe tumbā ūṭa māḍi · blessings and proverb: kūḍi bāḷidare svarga sukha"
+  - scene: "Friday, 19 December 2025. The eleventh day. A canvas canopy has been put up in the yard. Thatha's photograph, garlanded, stands on a chair in the front hall with an oil lamp before it. Suresh and Mahadeva have had their heads shaved. Behind the house, hired cooks stir huge copper pots over wood fires. The village priest has arrived."
+  - who: priest
+    t: "ಸುರೇಶ್, ಮಹದೇವ, ಇಬ್ರೂ ಇಲ್ಲಿ ಕೂತ್ಕೊಳ್ಳಿ. ಇವತ್ತು ಹನ್ನೊಂದನೇ ದಿನದ ಕಾರ್ಯ. ಕೆಲವರು ಇದನ್ನ ವೈಕುಂಠ ಸಮಾರಾಧನೆ ಅಂತಾರೆ, ನಮ್ಮ ಕಡೆ ಹೆಚ್ಚಾಗಿ ತಿಥಿ ಅಂತೀವಿ. ಇವತ್ತಿಗೆ ಮನೆಯ ಸೂತಕ ಮುಗಿಯುತ್ತೆ."
+    tr: "Surēś, Mahadēva, ibbrū illi kūtkoḷḷi. Ivattu hannondanē dinada kārya. Kelavaru idanna vaikuṇṭha samārādhane antāre, namma kaḍe heccāgi tithi antīvi. Ivattige maneya sūtaka mugiyutte."
+    en: "Suresh, Mahadeva, both of you sit here. Today is the eleventh-day rite. Some call it Vaikuntha Samaradhane; round here we mostly call it the tithi. With today, the household's period of mourning impurity comes to an end."
+  - who: suresh
+    t: "ಆಯ್ತು ಸ್ವಾಮಿ. ಏನೇನು ಮಾಡ್ಬೇಕು ಅಂತ ನೀವೇ ಹೇಳಿ. ನಮಗೆ ಎಲ್ಲಾ ಗೊತ್ತಿಲ್ಲ. ಮನೇಲಿ ಇಂಥ ಕಾರ್ಯ ಏನೇ ಇದ್ರೂ ಅಪ್ಪಾನೇ ಮುಂದೆ ನಿಂತು ನೋಡ್ಕೊಳ್ತಿದ್ರು."
+    tr: "Āytu svāmi. Ēnēnu māḍbēku anta nīvē hēḷi. Namage ellā gottilla. Manēli intha kārya ēnē idrū appānē munde nintu nōḍkoḷḷtidru."
+    en: "Very well, Swami. Please tell us what has to be done. We don't know it all. Whenever there was a rite like this in the house, it was always Appa who stood in front and handled it."
+  - who: priest
+    t: "ಮೊದಲು ಪಿಂಡ ಇಡ್ಬೇಕು. ಆಮೇಲೆ ಅವರ ಫೋಟೋಗೆ ಪೂಜೆ, ಎಡೆ. ಆಮೇಲೆ ಬಂದೋರಿಗೆಲ್ಲಾ ಊಟ. ಬಂದೋರು ಹೊಟ್ಟೆ ತುಂಬಾ ಊಟ ಮಾಡಿ, ಮನಸ್ಸಿಂದ ಹರಸಿ ಹೋದ್ರೆ ಅದೇ ಹೋದೋರಿಗೆ ದೊಡ್ಡ ಪುಣ್ಯ."
+    tr: "Modalu piṇḍa iḍbēku. Āmēle avara phōṭōge pūje, eḍe. Āmēle bandōrigellā ūṭa. Bandōru hoṭṭe tumbā ūṭa māḍi, manassinda harasi hōdre adē hōdōrige doḍḍa puṇya."
+    en: "First the rice-ball offerings have to be placed. Then worship before his photograph, and the food offering. After that, a meal for everyone who has come. If the guests eat their fill and leave blessing him from the heart, that is the greatest merit for the departed."
+  - who: rakshith
+    t: "ಅಪ್ಪಾ, ನಿಮ್ಮ ತಲೆ… ಚಿಕ್ಕಪ್ಪಂದೂ… ಕೂದಲು ಯಾಕೆ ತೆಗೆಸಿದ್ರಿ?"
+    tr: "Appā, nimma tale… cikkappandū… kūdalu yāke tegesidri?"
+    en: "Appa, your head… and Chikkappa's too… why did you have your hair shaved off?"
+  - who: suresh
+    t: "ಅಪ್ಪ ಹೋದಾಗ ಗಂಡು ಮಕ್ಕಳು ಕೂದಲು ತೆಗೆಸೋದು ನಮ್ಮಲ್ಲಿ ಪದ್ಧತಿ. ಸೋಮವಾರ ಇದೇ ತಲೆ ಇಟ್ಕೊಂಡು ಬ್ಯಾಂಕ್‌ಗೆ ಹೋಗ್ಬೇಕು. ಪರವಾಗಿಲ್ಲ, ನೋಡಿದೋರಿಗೆಲ್ಲಾ ಅರ್ಥ ಆಗುತ್ತೆ."
+    tr: "Appa hōdāga gaṇḍu makkaḷu kūdalu tegesōdu nammalli paddhati. Sōmavāra idē tale iṭkoṇḍu byāṅk-ge hōgbēku. Paravāgilla, nōḍidōrigellā artha āgutte."
+    en: "When a father dies, it's our custom for the sons to have their heads shaved. On Monday I'll have to go to the bank with my head like this. Never mind — everyone who sees it will understand."
+  - who: meena
+    t: "ಮಹದೇವ, ಅಡುಗೆಯೋರು ಮುನ್ನೂರು ಜನಕ್ಕೆ ಮಾಡಿದಾರೆ. ಊರಿನೋರು, ನೆಂಟರು, ಶೋಭಾ ಮನೆಯೋರು ಎಲ್ಲಾ ಸೇರಿದ್ರೆ ಸಾಕಾಗುತ್ತಾ?"
+    tr: "Mahadēva, aḍugeyōru munnūru janakke māḍidāre. Ūrinōru, neṇṭaru, Śōbhā maneyōru ellā sēridre sākāguttā?"
+    en: "Mahadeva, the cooks have made food for three hundred. With the villagers, the relatives and Shobha's in-laws all together, will it be enough?"
+  - who: mahadeva
+    t: "ಸಾಕಾಗುತ್ತೆ ಅತ್ತಿಗೆ. ಮುದ್ದೆ, ಅವರೆಕಾಳು ಸಾರು, ಅನ್ನ, ಪಾಯಸ, ಹೋಳಿಗೆ. ಕಡಿಮೆ ಬಿದ್ರೆ ಇನ್ನೊಂದು ಪಾತ್ರೆ ಮುದ್ದೆ ತೊಳಸೋದು ಅರ್ಧ ಗಂಟೆ ಕೆಲಸ. ನಮ್ಮೂರಲ್ಲಿ ತಿಥಿ ಊಟಕ್ಕೆ ಬಂದೋರ್ನ ಅರ್ಧ ಹೊಟ್ಟೇಲಿ ಕಳಿಸಿದ್ರೆ ಅದು ಮನೆತನಕ್ಕೇ ಅವಮಾನ."
+    tr: "Sākāgutte attige. Mudde, avarekāḷu sāru, anna, pāyasa, hōḷige. Kaḍime bidre innondu pātre mudde toḷasōdu ardha gaṇṭe kelasa. Nammūralli tithi ūṭakke bandōrna ardha hoṭṭēli kaḷisidre adu manetanakkē avamāna."
+    en: "It'll be enough, Attige. Ragi mudde, field-bean saaru, rice, payasa, holige. If we run short, stirring another pot of mudde is half an hour's work. In our village, sending a tithi guest home half-fed is a disgrace to the whole family name."
+  - who: elder
+    t: "ಪುಟ್ಟಮ್ಮ, ಎದ್ದು ಬಾರವ್ವ. ಬಂದೋರೆಲ್ಲಾ ನಿನ್ನ ಮುಖ ನೋಡ್ಬೇಕು ಅಂತ ಕಾಯ್ತಿದಾರೆ."
+    tr: "Puṭṭamma, eddu bāravva. Bandōrellā ninna mukha nōḍbēku anta kāytidāre."
+    en: "Puttamma, get up and come out, dear. Everyone who has come is waiting to see your face."
+  - who: avva
+    t: "ಏನ್ ಮುಖ ತೋರಿಸ್ಲಿ ತಿಮ್ಮಣ್ಣ… ಇವತ್ತು ಕುಂಕುಮ ಇಲ್ಲದ ಹಣೆ, ಬಳೆ ಇಲ್ಲದ ಕೈ."
+    tr: "Ēn mukha tōrisli Timmaṇṇa… ivattu kuṅkuma illada haṇe, baḷe illada kai."
+    en: "What face can I show them, Thimmanna… today it's a forehead without kumkum and hands without bangles."
+  - who: elder
+    t: "ಹಣೇಲಿ ಕುಂಕುಮ ಇಲ್ಲ ಅಂದ್ರೆ ಏನಾಯ್ತು? ಈ ಮನೆ ನಿಂತಿರೋದು ನಿನ್ನಿಂದ ಕಣವ್ವ. ಚನ್ನೇಗೌಡ ಹೊಲದಲ್ಲಿ ದುಡಿದ, ನೀನು ಮನೆ ಕಟ್ಟಿದೆ. ಇವತ್ತಿಂದ ಈ ಮನೆಗೆ ಯಜಮಾನಿ ನೀನೇ."
+    tr: "Haṇēli kuṅkuma illa andre ēnāytu? Ī mane nintirōdu ninninda kaṇavva. Cannēgauḍa holadalli duḍida, nīnu mane kaṭṭide. Ivattinda ī manege yajamāni nīnē."
+    en: "So what if there's no kumkum on your forehead? This house stands because of you, my dear. Channegowda toiled in the fields; you built the home. From today, you are the head of this house."
+  - who: shobha
+    t: "ಹೌದು ಅವ್ವ. ನೀನು ಮುಂದೆ ಕುಂತ್ಕೊಂಡ್ರೆ ನಮಗೆಲ್ಲಾ ಧೈರ್ಯ. ಬಾ, ನಾನು ಕೈ ಹಿಡ್ಕೊಳ್ತೀನಿ."
+    tr: "Haudu avva. Nīnu munde kuntkoṇḍre namagellā dhairya. Bā, nānu kai hiḍkoḷḷtīni."
+    en: "Yes, Avva. If you sit out in front, it gives all of us courage. Come, I'll hold your hand."
+  - who: priest
+    t: "ಈಗ ಎಡೆ ಇಡಿ. ಚನ್ನೇಗೌಡರಿಗೆ ಏನೇನು ಇಷ್ಟ ಇತ್ತೋ ಅದೆಲ್ಲಾ ಈ ಬಾಳೆ ಎಲೆ ಮೇಲೆ ಇಡಿ."
+    tr: "Īga eḍe iḍi. Cannēgauḍarige ēnēnu iṣṭa ittō adellā ī bāḷe ele mēle iḍi."
+    en: "Now lay out the offering. Put everything Channegowda liked on this banana leaf."
+  - who: avva
+    t: "ಮುದ್ದೆ, ಬಸ್ಸಾರು, ಒಂದು ಚೂರು ಬೆಲ್ಲ… ಊಟ ಆದ ಮೇಲೆ ಒಂದು ಎಲೆಅಡಿಕೆ. ಐವತ್ತು ವರ್ಷ ಇದೇ ಊಟ. ಮೊನ್ನೆ ರಕ್ಷಿತ್ ಬೆಂಗಳೂರಿಂದ ಪಿಜ್ಜಾ ತಂದಾಗ ‘ಇದ್ಯಾಕೆ ರೊಟ್ಟಿ ಮೇಲೆ ಚಟ್ನಿ ಚೆಲ್ಲಿದೀರ’ ಅಂದಿದ್ರು."
+    tr: "Mudde, bassāru, ondu cūru bella… ūṭa āda mēle ondu eleaḍike. Aivattu varṣa idē ūṭa. Monne Rakṣit Beṅgaḷūrinda pijjā tandāga ‘idyāke roṭṭi mēle caṭni cellidīra’ andidru."
+    en: "Mudde, bassaru, a small piece of jaggery… and after the meal, betel leaf and areca nut. Fifty years, the same meal. When Rakshith brought a pizza from Bengaluru the other time, he said, 'Why have you spilled chutney all over a rotti?'"
+  - who: rakshith
+    t: "ಅವತ್ತು ಅರ್ಧ ತಿಂದು, ‘ಚೆನ್ನಾಗಿದೆ ಕಣಪ್ಪ, ಆದ್ರೆ ಮುದ್ದೆ ಹಂಗಿಲ್ಲ’ ಅಂದ್ರು. ನಾನು ಆ ಫೋಟೋ ಇನ್ನೂ ಫೋನಲ್ಲಿ ಇಟ್ಕೊಂಡಿದೀನಿ."
+    tr: "Avattu ardha tindu, ‘cennāgide kaṇappa, ādre mudde haṅgilla’ andru. Nānu ā phōṭō innū phōnalli iṭkoṇḍidīni."
+    en: "(with a small smile) That day he ate half and said, 'It's nice, lad, but it's not like mudde.' I've still got that photo on my phone."
+  - who: elder
+    t: "ಬನ್ನಿ ಎಲ್ರೂ, ಎಲೆ ಹಾಕಿದಾರೆ. ಮೊದಲ ಪಂಕ್ತಿಗೆ ಹಿರಿಯರು ಕುಂತ್ಕಳಿ. ಹುಡುಗರು ಬಡಿಸೋಕೆ ಬನ್ನಿ."
+    tr: "Banni ellrū, ele hākidāre. Modala paṅktige hiriyaru kuntkaḷi. Huḍugaru baḍisōke banni."
+    en: "Come, everyone, the leaves have been laid. Elders, take your places in the first row. Young men, come and serve."
+  - who: suresh
+    t: "ಇನ್ನೂ ಸ್ವಲ್ಪ ಪಾಯಸ ಹಾಕ್ಲಾ? ಸಂಕೋಚ ಬೇಡ, ಹೊಟ್ಟೆ ತುಂಬಾ ಊಟ ಮಾಡಿ."
+    tr: "Innū svalpa pāyasa hāklā? Saṅkōca bēḍa, hoṭṭe tumbā ūṭa māḍi."
+    en: "(serving along the row) Shall I give you a little more payasa? Don't be shy, eat your fill."
+  - who: elder
+    t: "ಸಾಕಪ್ಪ, ಹೊಟ್ಟೆ ತುಂಬ್ತು, ಮನಸ್ಸೂ ತುಂಬ್ತು. ಚನ್ನೇಗೌಡನ ಮಕ್ಕಳು ಒಟ್ಟಿಗೆ ನಿಂತು ಬಡಿಸ್ತಿರೋದು ನೋಡಿ ಖುಷಿ ಆಯ್ತು. ಹಿಂಗೇ ಒಟ್ಟಿಗಿರಿ. ‘ಕೂಡಿ ಬಾಳಿದರೆ ಸ್ವರ್ಗ ಸುಖ’ ಅಂತ ಹಿರಿಯರು ಸುಮ್ನೆ ಹೇಳಿಲ್ಲ."
+    tr: "Sākappa, hoṭṭe tumbtu, manassū tumbtu. Cannēgauḍana makkaḷu oṭṭige nintu baḍistirōdu nōḍi khuṣi āytu. Hiṅgē oṭṭigiri. ‘Kūḍi bāḷidare svarga sukha’ anta hiriyaru sumne hēḷilla."
+    en: "Enough, son — my stomach is full, and so is my heart. It made me glad to see Channegowda's children standing together and serving. Stay together like this. Our elders didn't say 'living together is heaven's own happiness' for nothing."
+  - who: mahadeva
+    t: "ಕೇಳಿಸ್ಕೊಂಡ್ಯಾ ಅಣ್ಣ? ಊರಿನೋರು ನಮ್ಮನ್ನೇ ನೋಡ್ತಿದಾರೆ. ಚನ್ನೇಗೌಡನ ಮಕ್ಕಳು ಆಸ್ತಿಗೆ ಹೊಡ್ದಾಡ್ತಾರಾ ಇಲ್ವಾ ಅಂತ ಕಾಯ್ತಿದಾರೆ."
+    tr: "Kēḷiskoṇḍyā aṇṇa? Ūrinōru nammannē nōḍtidāre. Cannēgauḍana makkaḷu āstige hoḍdāḍtārā ilvā anta kāytidāre."
+    en: "(quietly, to Suresh) Did you hear that, Anna? The village is watching us. They're waiting to see whether Channegowda's children will fight over the property or not."
+  - who: suresh
+    t: "ಅವರಿಗೆ ಆ ಸುದ್ದಿ ಸಿಗಲ್ಲ, ಮಹದೇವ. ನಮ್ಮ ಮನೆ ವಿಷಯ ನಮ್ಮ ಮನೆ ಒಳಗೇ ಮಾತಾಡ್ಕೊಳ್ಳೋಣ."
+    tr: "Avarige ā suddi sigalla, Mahadēva. Namma mane viṣaya namma mane oḷagē mātāḍkoḷḷōṇa."
+    en: "They won't get that news, Mahadeva. Our family matters we'll talk over inside our own house."
+
+  - section: "The tin trunk"
+    learn: "land records: pahaṇi, sarve nambar, hissā, ekare and guṇṭe, nīrāvari vs khuṣki, mālīka, bin · money left behind: beḷe sāla, vyavasāya sēvā sahakāra saṅgha, pi-em kisān kantu, baḍḍi · inheritance words: vārasudāraru, pauti khāte · rural speech: maḍagu, tagaḷi"
+  - scene: "That night. The guests have gone; the canopy is half taken down. In the front hall, under Thatha's old wooden cot, there is a dented tin trunk. Mahadeva drags it out. The family sits around it on the floor under a single bulb."
+  - who: mahadeva
+    t: "ಅಣ್ಣ, ಶೋಭ, ಇಲ್ಲಿ ಬನ್ನಿ. ಅಪ್ಪನ ಮಂಚದ ಕೆಳಗೆ ಈ ತಗಡಿನ ಪೆಟ್ಟಿಗೆ ಇತ್ತು. ಬೀಗದ ಕೈ ಅವ್ವನ ಹತ್ರ ಇತ್ತು. ಇವತ್ತು ಕಾರ್ಯ ಮುಗೀಲಿ ಅಂತ ಕಾಯ್ತಿದ್ದೆ."
+    tr: "Aṇṇa, Śōbha, illi banni. Appana man̄cada keḷage ī tagaḍina peṭṭige ittu. Bīgada kai avvana hatra ittu. Ivattu kārya mugīli anta kāytidde."
+    en: "Anna, Shobha, come here. This tin trunk was under Appa's cot. Avva had the key. I was waiting for today's rite to be over."
+  - who: avva
+    t: "ತಗಳಿ. ಇದರಲ್ಲಿ ಏನೇನಿದೆ ಅಂತ ನನಗೂ ಪೂರ್ತಿ ಗೊತ್ತಿಲ್ಲ. ಕಾಗದ ಪತ್ರ ಎಲ್ಲಾ ಅವ್ರೇ ಮಡಗ್ತಿದ್ರು. ನಾನು ಓದಿದೋಳಲ್ಲ ಕಣಪ್ಪ."
+    tr: "Tagaḷi. Idaralli ēnēnide anta nanagū pūrti gottilla. Kāgada patra ellā avrē maḍagtidru. Nānu ōdidōḷalla kaṇappa."
+    en: "Here, take it. Even I don't know everything that's in it. He was the one who kept all the papers. I never went to school, son."
+  - who: shobha
+    t: "ಎಷ್ಟೊಂದು ಕಾಗದ! ಇದು ನೋಡು ಅಣ್ಣ — ಪಹಣಿ. ಗ್ರಾಮ ಬೆಟ್ಟಹಳ್ಳಿ, ಸರ್ವೆ ನಂಬರ್ ನೂರ ಹನ್ನೆರಡು, ಹಿಸ್ಸಾ ಎರಡು. ಮಾಲೀಕರು: ಚನ್ನೇಗೌಡ ಬಿನ್ ಕರಿಯಪ್ಪ."
+    tr: "Eṣṭondu kāgada! Idu nōḍu aṇṇa — pahaṇi. Grāma Beṭṭahaḷḷi, sarve nambar nūra hanneraḍu, hissā eraḍu. Mālīkaru: Cannēgauḍa bin Kariyappa."
+    en: "So many papers! Look at this, Anna — an RTC. Village Bettahalli, survey number 112, hissa 2. Owner: Channegowda, son of Kariyappa."
+  - who: suresh
+    t: "ಕೊಡು ನೋಡೋಣ. … ಮೂರು ಎಕರೆ ಇಪ್ಪತ್ತು ಗುಂಟೆ, ನೀರಾವರಿ, ಬೆಳೆ ಕಬ್ಬು. ಇದು ನಾಲೆ ಪಕ್ಕದ ಗದ್ದೆ. ಇನ್ನೊಂದು — ಸರ್ವೆ ನಂಬರ್ ಎಂಬತ್ತೇಳು, ಹಿಸ್ಸಾ ಒಂದು: ಎರಡು ಎಕರೆ ಇಪ್ಪತ್ತು ಗುಂಟೆ, ಖುಷ್ಕಿ, ರಾಗಿ, ಅವರೆ. ಹುಣಸೆ ಮರ ಇರೋ ಹೊಲ ಇದೇ."
+    tr: "Koḍu nōḍōṇa. … Mūru ekare ippattu guṇṭe, nīrāvari, beḷe kabbu. Idu nāle pakkada gadde. Innondu — sarve nambar embattēḷu, hissā ondu: eraḍu ekare ippattu guṇṭe, khuṣki, rāgi, avare. Huṇase mara irō hola idē."
+    en: "Give it here, let's see. … Three acres twenty guntas, irrigated, crop: sugarcane. That's the wet land next to the canal. And the other one — survey number 87, hissa 1: two acres twenty guntas, rain-fed, ragi and field beans. That's the field with the tamarind tree."
+  - who: rakshith
+    t: "ಗುಂಟೆ ಅಂದ್ರೆ ಏನಪ್ಪ? ಎಕರೆ ಗೊತ್ತು."
+    tr: "Guṇṭe andre ēnappa? Ekare gottu."
+    en: "What's a gunta, Appa? I know what an acre is."
+  - who: mahadeva
+    t: "ನಲವತ್ತು ಗುಂಟೆ ಸೇರಿದ್ರೆ ಒಂದು ಎಕರೆ ಕಣಪ್ಪ. ಒಂದು ಗುಂಟೆ ಅಂದ್ರೆ ಸುಮಾರು ಸಾವಿರದ ತೊಂಬತ್ತು ಚದರ ಅಡಿ. ಬೆಂಗಳೂರಲ್ಲಿ ಮೂವತ್ತು-ನಲವತ್ತರ ಸೈಟು ಅಂತೀರಲ್ಲ, ಹೆಚ್ಚು ಕಮ್ಮಿ ಅಷ್ಟು."
+    tr: "Nalavattu guṇṭe sēridre ondu ekare kaṇappa. Ondu guṇṭe andre sumāru sāvirada tombattu cadara aḍi. Beṅgaḷūralli mūvattu-nalavattara saiṭu antīralla, heccu kammi aṣṭu."
+    en: "Forty guntas make one acre, lad. One gunta is about one thousand and ninety square feet. You know the thirty-by-forty sites you talk about in Bengaluru? More or less that much."
+  - who: suresh
+    t: "ಒಟ್ಟು ಆರು ಎಕರೆ. ಆದ್ರೆ ನೋಡು, ಈ ಪಹಣಿ ಕಳೆದ ತಿಂಗಳು ತೆಗೆಸಿದ್ದು. ಇನ್ನೂ ಅಪ್ಪನ ಹೆಸರಲ್ಲೇ ಇದೆ. ಸರ್ಕಾರದ ಲೆಕ್ಕದಲ್ಲಿ ಈ ಜಮೀನಿನ ಮಾಲೀಕರು ಈಗ ಬದುಕಿಲ್ಲದ ಒಬ್ಬರು. ಇದನ್ನ ಬದಲಾಯಿಸ್ಬೇಕು."
+    tr: "Oṭṭu āru ekare. Ādre nōḍu, ī pahaṇi kaḷeda tiṅgaḷu tegesiddu. Innū appana hesarallē ide. Sarkārada lekkadalli ī jamīnina mālīkaru īga badukillada obbaru. Idanna badalāyisbēku."
+    en: "Six acres in all. But look, this RTC was taken out last month. It's still in Appa's name. As far as the government's records go, the owner of this land is now someone who is no longer alive. That has to be changed."
+  - who: mahadeva
+    t: "ಅದಕ್ಕೇ ಇನ್ನೊಂದು ವಿಷಯ ಹೇಳ್ಬೇಕು. ಪಿಎಂ ಕಿಸಾನ್ ದುಡ್ಡು — ವರ್ಷಕ್ಕೆ ಆರು ಸಾವಿರ, ಮೂರು ಕಂತಲ್ಲಿ ಎರಡೆರಡು ಸಾವಿರ — ಅಪ್ಪನ ಅಕೌಂಟಿಗೆ ಬರ್ತಿತ್ತು. ಇನ್ಮುಂದೆ ಆ ಕಂತು ಯಾರಿಗೂ ಬರಲ್ಲ ಅಂತ ಬ್ಯಾಂಕ್‌ನೋರು ಹೇಳಿದ್ರು. ಜಮೀನು ನಮ್ಮ ಹೆಸರಿಗೆ ಬರೋವರ್ಗೂ ನಿಂತೋಗುತ್ತೆ."
+    tr: "Adakkē innondu viṣaya hēḷbēku. Pi-em kisān duḍḍu — varṣakke āru sāvira, mūru kantalli eraḍeraḍu sāvira — appana akauṇṭige bartittu. Inmunde ā kantu yārigū baralla anta byāṅk-nōru hēḷidru. Jamīnu namma hesarige barōvargū nintōgutte."
+    en: "That's why I need to tell you something else. The PM-Kisan money — six thousand a year, two thousand at a time in three instalments — used to come into Appa's account. The bank people told me no instalment will come to anyone from now on. It stops until the land comes into our names."
+  - who: suresh
+    t: "ಸರಿಯಾಗೇ ಹೇಳಿದಾರೆ. ಖಾತೆ ವಾರಸುದಾರರ ಹೆಸರಿಗೆ ಬರ್ಬೇಕು. ಅದಕ್ಕೆ ಪೌತಿ ಖಾತೆ ಅಂತಾರೆ. ಅದಾದ ಮೇಲೆ ಹೊಸದಾಗಿ ಅರ್ಜಿ, ಇ-ಕೆವೈಸಿ ಎಲ್ಲಾ ಮಾಡಿದ್ರೆ ಮತ್ತೆ ಶುರು ಆಗುತ್ತೆ."
+    tr: "Sariyāgē hēḷidāre. Khāte vārasudārara hesarige barbēku. Adakke pauti khāte antāre. Adāda mēle hosadāgi arji, i-ke-vai-si ellā māḍidre matte śuru āgutte."
+    en: "They told you right. The khata has to come into the heirs' names. That's called 'pauti khata'. After that, if we apply afresh and do the e-KYC and so on, it will start again."
+  - who: rakshith
+    t: "ಪೌತಿ ಅಂದ್ರೆ?"
+    tr: "Pauti andre?"
+    en: "What does 'pauti' mean?"
+  - who: suresh
+    t: "ಯಾರಾದ್ರೂ ತೀರ್ಕೊಂಡಾಗ ಅವರ ಜಮೀನಿನ ಖಾತೆಯನ್ನ ಅವರ ವಾರಸುದಾರರಿಗೆ — ಅಂದ್ರೆ ಹೆಂಡ್ತಿ, ಮಕ್ಕಳಿಗೆ — ಬದಲಾಯಿಸೋದು. ಸಾವಿನ ನಂತರದ ಖಾತೆ ಬದಲಾವಣೆ ಅಂತ ತಿಳ್ಕೋ."
+    tr: "Yārādrū tīrkoṇḍāga avara jamīnina khāteyanna avara vārasudārarige — andre heṇḍti, makkaḷige — badalāyisōdu. Sāvina nantarada khāte badalāvaṇe anta tiḷkō."
+    en: "When someone dies, transferring the khata of their land to their heirs — that is, the wife and children. Think of it as the change of khata after a death."
+  - who: shobha
+    t: "ಇದು ಇನ್ನೊಂದು ಕಾಗದ… ವ್ಯವಸಾಯ ಸೇವಾ ಸಹಕಾರ ಸಂಘ, ಬೆಟ್ಟಹಳ್ಳಿ. ಬೆಳೆ ಸಾಲ — ಒಂದು ಲಕ್ಷ ಅರವತ್ತು ಸಾವಿರ. ಸಾಲಗಾರ: ಚನ್ನೇಗೌಡ. ಮಹದೇವ, ಅಪ್ಪ ಸಾಲ ತಗೊಂಡಿದ್ರು ಅಂತ ನಮಗೆ ಗೊತ್ತೇ ಇರ್ಲಿಲ್ಲ."
+    tr: "Idu innondu kāgada… Vyavasāya Sēvā Sahakāra Saṅgha, Beṭṭahaḷḷi. Beḷe sāla — ondu lakṣa aravattu sāvira. Sālagāra: Cannēgauḍa. Mahadēva, appa sāla tagoṇḍidru anta namage gottē irlilla."
+    en: "Here's another paper… the Agricultural Service Cooperative Society, Bettahalli. Crop loan — one lakh sixty thousand. Borrower: Channegowda. Mahadeva, we didn't even know Appa had taken a loan."
+  - who: mahadeva
+    t: "ಪ್ರತಿ ವರ್ಷ ತಗೋತೀವಿ ಕಣೇ. ಕಬ್ಬು ನೆಡೋವಾಗ ಗೊಬ್ಬರ, ಕೂಲಿ, ಎಲ್ಲಾ ಅದರಿಂದಲೇ. ಕಾರ್ಖಾನೆ ದುಡ್ಡು ಬಂದಾಗ ತೀರಿಸ್ತೀವಿ. ಈ ಸಲ ಕಬ್ಬಿನ ದುಡ್ಡು ಇನ್ನೂ ಬಂದಿಲ್ಲ, ಅದಕ್ಕೇ ಬಾಕಿ ಇದೆ."
+    tr: "Prati varṣa tagōtīvi kaṇē. Kabbu neḍōvāga gobbara, kūli, ellā adarindalē. Kārkhāne duḍḍu bandāga tīristīvi. Ī sala kabbina duḍḍu innū bandilla, adakkē bāki ide."
+    en: "We take it every year, girl. When we plant the cane — fertiliser, labour, all of it comes from that loan. We repay it when the factory money comes. This time the cane money still hasn't come, that's why it's outstanding."
+  - who: suresh
+    t: "ನಾನು ಬ್ಯಾಂಕಲ್ಲಿ ನೋಡಿರೋ ಪ್ರಕಾರ, ಸಹಕಾರ ಸಂಘದ ಬೆಳೆ ಸಾಲಕ್ಕೆ ಐದು ಲಕ್ಷದವರೆಗೂ ಬಡ್ಡಿ ಇಲ್ಲ — ಆದ್ರೆ ಟೈಮಿಗೆ ಸರಿಯಾಗಿ ಕಟ್ಟಿದ್ರೆ ಮಾತ್ರ. ತಡ ಆದ್ರೆ ಬಡ್ಡಿ ಬೀಳುತ್ತೆ. ಸಾಲಗಾರ ತೀರ್ಕೊಂಡ್ರೆ ಸಾಲ ಮಾಯ ಆಗಲ್ಲ. ಅದು ಜಮೀನಿನ ಮೇಲೆ ಉಳಿಯುತ್ತೆ, ವಾರಸುದಾರರು ತೀರಿಸ್ಬೇಕು."
+    tr: "Nānu byāṅkalli nōḍirō prakāra, sahakāra saṅghada beḷe sālakke aidu lakṣadavaregū baḍḍi illa — ādre ṭaimige sariyāgi kaṭṭidre mātra. Taḍa ādre baḍḍi bīḷutte. Sālagāra tīrkoṇḍre sāla māya āgalla. Adu jamīnina mēle uḷiyutte, vārasudāraru tīrisbēku."
+    en: "From what I've seen at the bank, co-op crop loans are interest-free up to five lakh — but only if you repay on time. If you're late, interest is charged. When a borrower dies, the loan doesn't vanish. It stays on the land, and the heirs have to repay it."
+  - who: shobha
+    t: "ವಾರಸುದಾರರು ಅಂದ್ರೆ ನಾವು ನಾಲ್ಕು ಜನ — ಅವ್ವ, ನೀನು, ಮಹದೇವ, ನಾನು. ಸಾಲ ಆಗ್ಲೀ, ಜಮೀನು ಆಗ್ಲೀ, ನಾಲ್ಕೂ ಜನಕ್ಕೆ ಸೇರಿದ್ದು."
+    tr: "Vārasudāraru andre nāvu nālku jana — avva, nīnu, Mahadēva, nānu. Sāla āglī, jamīnu āglī, nālkū janakke sēriddu."
+    en: "The heirs means the four of us — Avva, you, Mahadeva and me. Whether it's the loan or the land, it belongs to all four of us."
+  - who: mahadeva
+    t: "ಸಾಲ ಕಟ್ಟೋದು ನಾನು. ಕಬ್ಬು ಬೆಳೆಯೋದು ನಾನು. ಕಾರ್ಖಾನೆ ಮುಂದೆ ಕ್ಯೂನಲ್ಲಿ ನಿಲ್ಲೋದು ನಾನು. ಈಗ ಜಮೀನು ಮಾತ್ರ ನಾಲ್ಕೂ ಜನಕ್ಕೆ ಸೇರಿದ್ದಾ?"
+    tr: "Sāla kaṭṭōdu nānu. Kabbu beḷeyōdu nānu. Kārkhāne munde kyūnalli nillōdu nānu. Īga jamīnu mātra nālkū janakke sēriddā?"
+    en: "(after a pause) Repaying the loan — me. Growing the cane — me. Standing in the queue outside the factory — me. And now only the land belongs to all four?"
+  - who: meena
+    t: "ಮಹದೇವ, ಶೋಭಾ ಕಾನೂನು ಏನು ಹೇಳುತ್ತೆ ಅಂತ ಹೇಳಿದ್ಲು ಅಷ್ಟೇ. ಇದು ಈ ರಾತ್ರಿ ತೀರ್ಮಾನ ಮಾಡೋ ವಿಷಯ ಅಲ್ಲ. ಕಾಗದ ಎಲ್ಲಾ ಒಂದು ಫೈಲಲ್ಲಿ ಜೋಡಿಸಿ ಇಡೋಣ. ಯಾವುದೂ ಕಳೆದುಹೋಗ್ಬಾರದು."
+    tr: "Mahadēva, Śōbhā kānūnu ēnu hēḷutte anta hēḷidlu aṣṭē. Idu ī rātri tīrmāna māḍō viṣaya alla. Kāgada ellā ondu phailalli jōḍisi iḍōṇa. Yāvudū kaḷeduhōgbāradu."
+    en: "Mahadeva, Shobha only said what the law says. This isn't something to decide tonight. Let's put all the papers in order in one file. Nothing must get lost."
+
+  - section: "Thatha's diary"
+    learn: "reading years aloud: sāvirada ombainūra tombatteṇṭu, eraḍu sāvirada hattu · past perfect and habitual past: māride, kaṭṭidvi, kaḷistidde · counterfactual: gottidre … kaḷistidde · a diary is not a will: uyilu alla, dinacari · the father's unspoken wish"
+  - scene: "Later the same night. At the bottom of the trunk, wrapped in a white cotton cloth, lies a thick hardbound notebook, its pages yellow and soft at the edges. Rakshith lifts it out."
+  - who: rakshith
+    t: "ಅಪ್ಪಾ, ಕೆಳಗೆ ಬಿಳಿ ಬಟ್ಟೇಲಿ ಸುತ್ತಿದ ಒಂದು ದಪ್ಪ ಪುಸ್ತಕ ಇದೆ. ಲೆಕ್ಕದ ಪುಸ್ತಕನಾ?"
+    tr: "Appā, keḷage biḷi baṭṭēli suttida ondu dappa pustaka ide. Lekkada pustakanā?"
+    en: "Appa, there's a thick book at the bottom, wrapped in a white cloth. Is it an account book?"
+  - who: avva
+    t: "ಅದು ಅವ್ರ ದಿನಚರಿ ಕಣಪ್ಪ. ಮೊದ್ಲು ಲಾಟೀನು ಬೆಳಕಲ್ಲಿ, ಆಮೇಲೆ ಕರೆಂಟ್ ಬಂದ ಮೇಲೆ ಬಲ್ಬ್ ಕೆಳಗೆ, ದಿನಾ ರಾತ್ರಿ ಏನೋ ಬರೀತಿದ್ರು. ‘ಏನ್ ಬರೀತೀರಿ’ ಅಂದ್ರೆ ‘ಲೆಕ್ಕ’ ಅಂತಿದ್ರು."
+    tr: "Adu avra dinacari kaṇappa. Modlu lāṭīnu beḷakalli, āmēle kareṇṭ banda mēle balb keḷage, dinā rātri ēnō barītidru. ‘Ēn barītīri’ andre ‘lekka’ antidru."
+    en: "That's his diary, child. First by lantern light, later under the bulb once the electricity came, he'd write something every night. If I asked, 'What are you writing?', he'd say, 'Accounts.'"
+  - who: suresh
+    t: "ನಲವತ್ತು ವರ್ಷದ ದಿನಚರಿ… ರಕ್ಷಿತ್, ನೀನೇ ಓದು. ನಿನ್ನ ಕನ್ನಡ ಓದು ಹೇಗಿದೆ ನೋಡೋಣ. ತಾತನ ಅಕ್ಷರ ಸ್ವಲ್ಪ ಕಷ್ಟ, ನಿಧಾನವಾಗಿ ಓದು."
+    tr: "Nalavattu varṣada dinacari… Rakṣit, nīnē ōdu. Ninna kannaḍa ōdu hēgide nōḍōṇa. Tātana akṣara svalpa kaṣṭa, nidhānavāgi ōdu."
+    en: "Forty years of diary… Rakshith, you read it. Let's see how your Kannada reading is. Thatha's handwriting is a bit difficult; read slowly."
+  - who: rakshith
+    t: "‘ಸಾವಿರದ ಒಂಬೈನೂರ ತೊಂಬತ್ತೆಂಟು, ಜೂನ್ ಹದಿನೈದು. ಸುರೇಶನ ಕಾಲೇಜು ಫೀಸಿಗೆ ಎರಡು ಎತ್ತು ಮಾರಿದೆ. ಹದಿನಾಲ್ಕು ಸಾವಿರ. ಎತ್ತು ಹೋದ್ರೆ ಹೋಗ್ಲಿ, ಮಗ ಓದ್ಲಿ.’"
+    tr: "‘Sāvirada ombainūra tombatteṇṭu, jūn hadinaidu. Surēśana kālēju phīsige eraḍu ettu māride. Hadinālku sāvira. Ettu hōdre hōgli, maga ōdli.’"
+    en: "'Fifteenth of June, 1998. Sold the two bullocks for Suresh's college fees. Fourteen thousand. If the bullocks go, let them go — let my son study.'"
+  - who: suresh
+    t: "ನನಗೆ ಹೇಳಿದ್ದು ‘ಎತ್ತುಗಳಿಗೆ ವಯಸ್ಸಾಗಿತ್ತು, ಅದಕ್ಕೇ ಮಾರಿದೆ’ ಅಂತ. ಇಪ್ಪತ್ತೇಳು ವರ್ಷ ನಾನು ಅದನ್ನೇ ನಂಬಿದ್ದೆ."
+    tr: "Nanage hēḷiddu ‘ettugaḷige vayassāgittu, adakkē māride’ anta. Ippattēḷu varṣa nānu adannē nambidde."
+    en: "(after a silence) What he told me was, 'The bullocks had grown old, so I sold them.' For twenty-seven years I believed that."
+  - who: rakshith
+    t: "‘ಎರಡು ಸಾವಿರದ ಹತ್ತು, ಮೇ ಮೂರು. ಶೋಭಳ ಮದುವೆ. ಸಂಘದ ಸಾಲ, ಕೈಸಾಲ ಸೇರಿ ಎರಡು ಲಕ್ಷ. ಮಗಳು ಸಂತೋಷವಾಗಿ ಗಂಡನ ಮನೆಗೆ ಹೋದ್ಲು. ಸಾಲ ಮೂರು ವರ್ಷದಲ್ಲಿ ತೀರಿಸ್ತೀನಿ.’"
+    tr: "‘Eraḍu sāvirada hattu, mē mūru. Śōbhaḷa maduve. Saṅghada sāla, kaisāla sēri eraḍu lakṣa. Magaḷu santōṣavāgi gaṇḍana manege hōdlu. Sāla mūru varṣadalli tīristīni.’"
+    en: "'Third of May, 2010. Shobha's wedding. Society loan and private borrowing together, two lakh. My daughter went happily to her husband's home. I will clear the debt in three years.'"
+  - who: shobha
+    t: "ಮೂರು ವರ್ಷ ಅಂತ ಬರೆದಿದ್ರು… ಎಷ್ಟು ವರ್ಷ ಆಯ್ತು ತೀರಿಸೋಕೆ, ಮಹದೇವ?"
+    tr: "Mūru varṣa anta baredidru… eṣṭu varṣa āytu tīrisōke, Mahadēva?"
+    en: "He wrote three years… how many years did it actually take to repay, Mahadeva?"
+  - who: mahadeva
+    t: "ಐದು ವರ್ಷ. ಎರಡು ಸಾವಿರದ ಹದಿನೈದರಲ್ಲಿ ಕೊನೇ ಕಂತು ಕಟ್ಟಿದ್ವಿ. ಆ ವರ್ಷ ಕಬ್ಬು ನಾನೇ ಕಡಿಸಿ, ನಾನೇ ಟ್ರ್ಯಾಕ್ಟರ್‌ನಲ್ಲಿ ಕಾರ್ಖಾನೆಗೆ ಹೊಡ್ಕಂಡು ಹೋಗಿದ್ದೆ."
+    tr: "Aidu varṣa. Eraḍu sāvirada hadinaidaralli konē kantu kaṭṭidvi. Ā varṣa kabbu nānē kaḍisi, nānē ṭryākṭar-nalli kārkhānege hoḍkaṇḍu hōgidde."
+    en: "Five years. We paid the last instalment in 2015. That year I had the cane cut myself and drove it to the factory on the tractor myself."
+  - who: shobha
+    t: "ನನಗೆ ಯಾರೂ ಹೇಳ್ಲೇ ಇಲ್ಲ. ಸಂಬಳ ಬಂದಾಗ ಪ್ರತಿ ತಿಂಗಳು ಅವ್ವಂಗೆ ಸ್ವಲ್ಪ ಕಳಿಸ್ತಿದ್ದೆ. ಸಾಲ ಇದೆ ಅಂತ ಗೊತ್ತಿದ್ರೆ ಇನ್ನೂ ಜಾಸ್ತಿ ಕಳಿಸ್ತಿದ್ದೆ."
+    tr: "Nanage yārū hēḷlē illa. Sambaḷa bandāga prati tiṅgaḷu avvaṅge svalpa kaḷistidde. Sāla ide anta gottidre innū jāsti kaḷistidde."
+    en: "Nobody ever told me. Every month when my salary came, I used to send Avva a little. If I'd known there was a debt, I would have sent much more."
+  - who: avva
+    t: "ಅವ್ರೇ ಬೇಡ ಅಂದಿದ್ರು ಕಣೇ. ‘ಹೆಣ್ಮಗಳ ಹತ್ರ ಸಾಲದ ಮಾತು ಆಡ್ಬಾರ್ದು. ತವರು ಮನೆ ಅಂದ್ರೆ ಅವಳಿಗೆ ನೆರಳು ಆಗ್ಬೇಕು, ಭಾರ ಅಲ್ಲ’ ಅಂತಿದ್ರು."
+    tr: "Avrē bēḍa andidru kaṇē. ‘Heṇmagaḷa hatra sālada mātu āḍbārdu. Tavaru mane andre avaḷige neraḷu āgbēku, bhāra alla’ antidru."
+    en: "It was he who said not to, dear. He used to say, 'Never talk about debts in front of a daughter. Her parents' home must be a shade for her, not a burden.'"
+  - who: rakshith
+    t: "ಇನ್ನೊಂದು ಇದೆ, ಇತ್ತೀಚಿನದು… ‘ಎರಡು ಸಾವಿರದ ಇಪ್ಪತ್ತೈದು, ನವೆಂಬರ್ ಇಪ್ಪತ್ತು. ಮದ್ದೂರಿಂದ ಒಬ್ಬ ಬ್ರೋಕರ್ ಬಂದಿದ್ದ. ಎಕ್ಸ್‌ಪ್ರೆಸ್‌ವೇ ಹತ್ರ ಆಗಿರೋದ್ರಿಂದ ಜಮೀನಿಗೆ ಒಳ್ಳೆ ರೇಟು ಕೊಡ್ತೀನಿ ಅಂದ. ಬೇಡ ಅಂದೆ. ನಾನಿರೋವರ್ಗೂ ಈ ಮಣ್ಣು ಮಾರಲ್ಲ.’"
+    tr: "Innondu ide, ittīcinadu… ‘Eraḍu sāvirada ippattaidu, navembar ippattu. Maddūrinda obba brōkar bandidda. Ekspres-vē hatra āgirōdrinda jamīnige oḷḷe rēṭu koḍtīni anda. Bēḍa ande. Nānirōvargū ī maṇṇu māralla.’"
+    en: "There's another one, a recent one… 'Twentieth of November, 2025. A broker came from Maddur. He said that since it's near the expressway he'd give a good rate for the land. I said no. As long as I live, I will not sell this soil.'"
+  - who: mahadeva
+    t: "ಕೇಳಿದ್ರಾ? ‘ಮಾರಲ್ಲ’ ಅಂತ ಬರೆದಿದಾರೆ. ಅಪ್ಪನ ಕೈಯಲ್ಲೇ."
+    tr: "Kēḷidrā? ‘Māralla’ anta baredidāre. Appana kaiyallē."
+    en: "Did you hear that? 'I will not sell,' he's written. In Appa's own hand."
+  - who: shobha
+    t: "‘ನಾನಿರೋವರ್ಗೂ’ ಅಂತಾನೂ ಬರೆದಿದಾರೆ, ಮಹದೇವ. ಅದು ಉಯಿಲು ಅಲ್ಲ, ದಿನಚರಿ."
+    tr: "‘Nānirōvargū’ antānū baredidāre, Mahadēva. Adu uyilu alla, dinacari."
+    en: "He's also written 'as long as I live', Mahadeva. It's a diary, not a will."
+  - who: suresh
+    t: "ಸಾಕು. ಇವತ್ತು ಅಪ್ಪನ ಕಾರ್ಯದ ದಿನ. ಅವರ ಅಕ್ಷರ ಕೈಯಲ್ಲಿ ಹಿಡ್ಕೊಂಡು ನಾವು ವಕೀಲರ ಹಾಗೆ ವಾದ ಮಾಡೋದು ಬೇಡ."
+    tr: "Sāku. Ivattu appana kāryada dina. Avara akṣara kaiyalli hiḍkoṇḍu nāvu vakīlara hāge vāda māḍōdu bēḍa."
+    en: "Enough. Today is the day of Appa's rite. Let's not hold his handwriting in our hands and argue over it like lawyers."
+  - who: rakshith
+    t: "ಕೊನೇ ಪುಟದಲ್ಲಿ ದಿನಾಂಕ ಇಲ್ಲದೆ ಒಂದು ಸಾಲು ಇದೆ… ‘ನನ್ನ ಮೂರು ಮಕ್ಕಳೂ ಮೂರು ಕಡೆ ಇದ್ದಾರೆ. ಒಂದು ದಿನ ಈ ಮನೆ ಅಂಗಳದಲ್ಲಿ ಮೂವರೂ ಒಟ್ಟಿಗೆ ಕೂತು ಊಟ ಮಾಡೋದು ನೋಡ್ಬೇಕು.’"
+    tr: "Konē puṭadalli dināṅka illade ondu sālu ide… ‘Nanna mūru makkaḷū mūru kaḍe iddāre. Ondu dina ī mane aṅgaḷadalli mūvarū oṭṭige kūtu ūṭa māḍōdu nōḍbēku.’"
+    en: "On the last page there's one line with no date… 'My three children live in three different places. One day I must see all three of them sitting together and eating in the yard of this house.'"
+  - who: avva
+    t: "ಇವತ್ತು ಮೂರೂ ಜನ ಅದೇ ಅಂಗಳದಲ್ಲಿ ಊಟ ಮಾಡಿದ್ರಿ ಕಣ್ರಪ್ಪ… ಅದನ್ನ ನೋಡೋಕೆ ಅವ್ರೇ ಇಲ್ಲ."
+    tr: "Ivattu mūrū jana adē aṅgaḷadalli ūṭa māḍidri kaṇrappa… adanna nōḍōke avrē illa."
+    en: "Today all three of you ate in that very yard, my children… and he isn't here to see it."
+  - who: suresh
+    t: "ಅವ್ವ, ನಾನು ಸೋಮವಾರ ಬೆಂಗಳೂರಿಗೆ ಹೋಗ್ಬೇಕು, ಬ್ಯಾಂಕಲ್ಲಿ ಡಿಸೆಂಬರ್ ಕ್ಲೋಸಿಂಗ್ ಕೆಲಸ ಇದೆ. ಹೊಸ ವರ್ಷದ ಮೊದಲ ವಾರ ರಜೆ ಹಾಕಿ ಬರ್ತೀನಿ. ಗ್ರಾಮ ಲೆಕ್ಕಿಗರನ್ನ ನೋಡಿ ಪೌತಿ ಖಾತೆ ಕೆಲಸ ಶುರು ಮಾಡೋಣ. ಎಲ್ಲರ ಆಧಾರ್ ಕಾಪಿ ರೆಡಿ ಇಟ್ಕೊಳ್ಳಿ."
+    tr: "Avva, nānu sōmavāra Beṅgaḷūrige hōgbēku, byāṅkalli ḍisembar klōsiṅg kelasa ide. Hosa varṣada modala vāra raje hāki bartīni. Grāma lekkigaranna nōḍi pauti khāte kelasa śuru māḍōṇa. Ellara ādhār kāpi reḍi iṭkoḷḷi."
+    en: "Avva, I have to go back to Bengaluru on Monday; there's the December closing work at the bank. I'll take leave and come in the first week of the new year. We'll see the Village Accountant and start the pauti khata work. Keep everyone's Aadhaar copies ready."
+  - who: shobha
+    t: "ಎಲ್ಲರ ಅಂದ್ರೆ ನನ್ನದೂ ಸೇರಿ, ಅಲ್ವಾ ಅಣ್ಣ?"
+    tr: "Ellara andre nannadū sēri, alvā aṇṇa?"
+    en: "Everyone's means mine too, doesn't it, Anna?"
+  - who: suresh
+    t: "ನಿನ್ನದೂ ಸೇರಿ, ಶೋಭಾ. ಅದರಲ್ಲಿ ಪ್ರಶ್ನೆನೇ ಇಲ್ಲ."
+    tr: "Ninnadū sēri, Śōbhā. Adaralli praśnenē illa."
+    en: "Yours too, Shobha. There's no question about that. (Mahadeva looks away and says nothing.)"
