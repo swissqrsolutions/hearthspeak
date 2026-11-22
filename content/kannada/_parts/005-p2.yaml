@@ -624,3 +624,380 @@ lines:
     t: "ಅಪ್ಪ ಇದ್ದಿದ್ರೆ ಈ ಜಗಳಾನೇ ಇರ್ತಿರ್ಲಿಲ್ಲ, ಅವ್ವ."
     tr: "Appa iddidre ī jagaḷānē irtirlilla, avva."
     en: "If Appa were alive, there wouldn't be any fight at all, Avva."
+
+  - chapter: "Chapter 6 — The case"
+  - section: "Advocate Nagendra"
+    learn: "a lawyer's questions: nōndāyita vibhāga patra, dāna patra, hakku biḍugaḍe patra · shares: svayārjita (Section 8, talā nālkanē ondu bhāga) vs pitrārjita (Section 6, sahasamāṁśi) · stages of a suit: vādapatra, samans, likhita hēḷike, vivādāṁśagaḷu, prilimināri ḍikri, phainal ḍikri, kamiṣanar · court fee: jaṇṭi svādhīna vs horagiṭṭu, mārukaṭṭe maulya · legal passives in the plaint: kōruvudilla, kōralāgilla · honesty about time: daśakagaḷu hiḍiyutte"
+  - scene: "Thursday, 9 April 2026. Advocate Nagendra's chamber, in a lane behind the court complex in Maddur. A narrow room lined with brown law reports; a typist at an old computer in the corner; a Bar Association calendar on the wall. Nagendra, in his late fifties, wears a white shirt; his black coat hangs on the chair. Shobha sits opposite him with her folder. She has come alone."
+  - who: lawyer
+    t: "ಬನ್ನಿ ಮೇಡಂ, ಕುಳಿತುಕೊಳ್ಳಿ. ಮೈಸೂರಿನ ರಾಮಚಂದ್ರ ಅವರು ಫೋನ್ ಮಾಡಿದ್ರು, ನೀವು ಬರ್ತೀರಿ ಅಂತ. ತಂದೆ ತೀರಿಕೊಂಡಿದ್ದು ಕೇಳಿ ಬೇಸರ ಆಯ್ತು. ಮೊದಲು ನೀವೇ ಪೂರ್ತಿ ಕತೆ ಹೇಳಿ. ಆಮೇಲೆ ನಾನು ಕಾಗದ ನೋಡ್ತೀನಿ."
+    tr: "Banni mēḍam, kuḷitukoḷḷi. Maisūrina Rāmacandra avaru phōn māḍidru, nīvu bartīri anta. Tande tīrikoṇḍiddu kēḷi bēsara āytu. Modalu nīvē pūrti kate hēḷi. Āmēle nānu kāgada nōḍtīni."
+    en: "Come in, madam, please sit. Mr Ramachandra from Mysuru phoned to say you'd be coming. I was sorry to hear about your father. First, tell me the whole story yourself. Then I'll look at the papers."
+  - who: shobha
+    t: "ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಹೇಳ್ತೀನಿ ಸಾರ್. ಅಪ್ಪ ಡಿಸೆಂಬರ್‌ನಲ್ಲಿ ತೀರಿಕೊಂಡ್ರು, ಉಯಿಲು ಇಲ್ಲ. ಆರು ಎಕರೆ — ಮೂರೂವರೆ ಎಕರೆ ಗದ್ದೆ ಅಜ್ಜನಿಂದ ಬಂದಿದ್ದು, ಎರಡೂವರೆ ಎಕರೆ ಹೊಲ ಅಪ್ಪ ತಮ್ಮ ದುಡಿಮೆಯಿಂದ ಕೊಂಡಿದ್ದು. ತಹಸೀಲ್ದಾರ್ ಆದೇಶದಿಂದ ಪಹಣಿಯಲ್ಲಿ ನಾಲ್ವರ ಹೆಸರೂ ಬಂದಿದೆ — ಅವ್ವ, ಅಣ್ಣ, ತಮ್ಮ, ನಾನು. ತಮ್ಮ ಮಹದೇವ ಬೇಸಾಯ ಮಾಡ್ತಿದಾನೆ. ಗದ್ದೆ ಒಡೆಯೋಕೆ ಬಿಡಲ್ಲ, ನನಗೆ ಪಾಲು ಕೊಡೋಕೂ ಒಪ್ಪಲ್ಲ. ಊರ ಹಿರಿಯರ ಮುಂದೆ ಮಾತಾಡಿದ್ವಿ — ಏನೂ ಆಗಲಿಲ್ಲ."
+    tr: "Saṅkṣiptavāgi hēḷtīni sār. Appa Ḍisembar-nalli tīrikoṇḍru, uyilu illa. Āru ekare — mūrūvare ekare gadde ajjaninda bandiddu, eraḍūvare ekare hola appa tamma duḍimeyinda koṇḍiddu. Tahasīldār ādēśadinda pahaṇiyalli nālvara hesarū bandide — avva, aṇṇa, tamma, nānu. Tamma Mahadēva bēsāya māḍtidāne. Gadde oḍeyōke biḍalla, nanage pālu koḍōkū oppalla. Ūra hiriyara munde mātāḍidvi — ēnū āgalilla."
+    en: "I'll keep it short, sir. Appa died in December, without a will. Six acres — three and a half acres of wet land that came from my grandfather, and two and a half acres of dry field that Appa bought with his own earnings. By the Tahsildar's order, all four names are now in the RTC — Avva, my elder brother, my younger brother and me. My younger brother Mahadeva farms it. He won't let the wet land be divided, and he won't agree to give me a share. We talked before the village elders — nothing came of it."
+  - who: lawyer
+    t: "ಮೂರು ಪ್ರಶ್ನೆ. ಒಂದು: ಎರಡು ಸಾವಿರದ ನಾಲ್ಕರ ಡಿಸೆಂಬರ್‌ಗಿಂತ ಮುಂಚೆ ಕುಟುಂಬದಲ್ಲಿ ನೋಂದಾಯಿತ ವಿಭಾಗ ಪತ್ರ ಆಗಿತ್ತಾ? ಎರಡು: ತಂದೆ ಯಾರಿಗಾದ್ರೂ ದಾನ ಪತ್ರ ಮಾಡಿದ್ರಾ? ಮೂರು: ನಿಮ್ಮ ಮದುವೆ ಸಮಯದಲ್ಲಿ ನೀವು ಯಾವುದಾದ್ರೂ ಹಕ್ಕು ಬಿಡುಗಡೆ ಪತ್ರಕ್ಕೆ ಸಹಿ ಹಾಕಿದ್ರಾ? ಹಳ್ಳಿಗಳಲ್ಲಿ ಇದು ತುಂಬಾ ನಡೆಯುತ್ತೆ."
+    tr: "Mūru praśne. Ondu: eraḍu sāvirada nālkara Ḍisembar-ginta mun̄ce kuṭumbadalli nōndāyita vibhāga patra āgittā? Eraḍu: tande yārigādrū dāna patra māḍidrā? Mūru: nimma maduve samayadalli nīvu yāvudādrū hakku biḍugaḍe patrakke sahi hākidrā? Haḷḷigaḷalli idu tumbā naḍeyutte."
+    en: "Three questions. One: before December 2004, was there any registered partition deed in the family? Two: did your father execute a gift deed in anyone's favour? Three: at the time of your wedding, did you sign any release deed? That happens a lot in villages."
+  - who: shobha
+    t: "ಮೂರಕ್ಕೂ ಇಲ್ಲ ಸಾರ್. ನಾನು ಯಾವ ಕಾಗದಕ್ಕೂ ಸಹಿ ಹಾಕಿಲ್ಲ. ನನ್ನ ತಮ್ಮ ‘ಅಪ್ಪ ಬಾಯ್ಮಾತಲ್ಲಿ ಗದ್ದೆ ನನಗೆ ಅಂದಿದ್ರು’ ಅಂತಾನೆ, ಅಷ್ಟೇ."
+    tr: "Mūrakkū illa sār. Nānu yāva kāgadakkū sahi hākilla. Nanna tamma ‘appa bāymātalli gadde nanage andidru’ antāne, aṣṭē."
+    en: "No to all three, sir. I haven't signed any paper. My brother says 'Appa told me by word of mouth the wet land was mine', that's all."
+  - who: lawyer
+    t: "ಹಾಗಾದ್ರೆ ಕಾನೂನಿನಲ್ಲಿ ನಿಮ್ಮ ಸ್ಥಿತಿ ಗಟ್ಟಿಯಾಗಿದೆ. ಹೊಲ ನಿಮ್ಮ ತಂದೆಯ ಸ್ವಯಾರ್ಜಿತ ಆಸ್ತಿ. ಉಯಿಲು ಇಲ್ಲದ್ದರಿಂದ ಸೆಕ್ಷನ್ ಎಂಟರ ಪ್ರಕಾರ ಮೊದಲ ದರ್ಜೆಯ ನಾಲ್ಕು ವಾರಸುದಾರರಿಗೆ — ತಾಯಿಯೂ ಸೇರಿ — ತಲಾ ನಾಲ್ಕನೇ ಒಂದು ಭಾಗ."
+    tr: "Hāgādre kānūninalli nimma sthiti gaṭṭiyāgide. Hola nimma tandeya svayārjita āsti. Uyilu illaddarinda sekṣan eṇṭara prakāra modala darjeya nālku vārasudārarige — tāyiyū sēri — talā nālkanē ondu bhāga."
+    en: "Then your position in law is strong. The dry field is your father's self-acquired property. Since there's no will, under Section 8 it goes to the four Class I heirs — your mother included — one quarter each."
+  - who: lawyer
+    t: "ಗದ್ದೆ ಸ್ವಲ್ಪ ಬೇರೆ. ಅದು ಪಿತ್ರಾರ್ಜಿತ. ತಿದ್ದುಪಡಿ ಆದ ಸೆಕ್ಷನ್ ಆರರ ಪ್ರಕಾರ ನೀವು ಹುಟ್ಟಿನಿಂದಲೇ ಸಹಸಮಾಂಶಿ — ನಿಮ್ಮ ಅಣ್ಣ-ತಮ್ಮಂದಿರ ಹಾಗೇ. ತಂದೆಯ ಸ್ವಂತ ಭಾಗ ಅವರ ಮರಣದ ನಂತರ ವಾರಸುದಾರರಿಗೆ ಹಂಚಿಹೋಗುತ್ತೆ, ಅದರಲ್ಲಿ ತಾಯಿಗೂ ಪಾಲಿದೆ. ನಿಖರವಾಗಿ ಎಷ್ಟು ಭಾಗ ಅನ್ನೋದನ್ನ ಕೋರ್ಟ್ ಪ್ರಿಲಿಮಿನರಿ ಡಿಕ್ರಿಯಲ್ಲಿ ಘೋಷಿಸುತ್ತೆ. ಆದರೆ ಒಂದು ವಿಷಯ ಖಚಿತ: ಗದ್ದೆಯಲ್ಲಿ ನಿಮ್ಮ ಪಾಲು ಪ್ರತಿ ಸಹೋದರನ ಪಾಲಿನಷ್ಟೇ."
+    tr: "Gadde svalpa bēre. Adu pitrārjita. Tiddupaḍi āda sekṣan ārara prakāra nīvu huṭṭinindalē sahasamāṁśi — nimma aṇṇa-tammandira hāgē. Tandeya svanta bhāga avara maraṇada nantara vārasudārarige han̄cihōgutte, adaralli tāyigū pālide. Nikharavāgi eṣṭu bhāga annōdanna kōrṭ prilimināri ḍikriyalli ghōṣisutte. Ādare ondu viṣaya khacita: gaddeyalli nimma pālu prati sahōdarana pālinaṣṭē."
+    en: "The wet land is a little different. It's ancestral. Under the amended Section 6, you are a coparcener from birth — just like your brothers. Your father's own portion passes on his death to his heirs, and your mother has a share in that. Exactly what fraction is something the court will declare in the preliminary decree. But one thing is certain: in the wet land, your share is the same as each of your brothers'."
+  - who: shobha
+    t: "ಮಹದೇವ ಇಪ್ಪತ್ತು ವರ್ಷ ದುಡಿದಿದ್ದು, ಸಾಲ ತೀರಿಸಿದ್ದು — ಅದಕ್ಕೆ ಕೋರ್ಟಲ್ಲಿ ಏನೂ ಬೆಲೆ ಇಲ್ವಾ?"
+    tr: "Mahadēva ippattu varṣa duḍididdu, sāla tīrisiddu — adakke kōrṭalli ēnū bele ilvā?"
+    en: "Mahadeva's twenty years of labour, the loans he repaid — do those count for nothing in court?"
+  - who: lawyer
+    t: "ಒಳ್ಳೆ ಪ್ರಶ್ನೆ — ಸಾಮಾನ್ಯವಾಗಿ ವಾದಿಗಳು ಇದನ್ನ ಕೇಳಲ್ಲ. ಜಂಟಿ ಆಸ್ತಿಯಲ್ಲಿ ಒಬ್ಬರು ಬೇಸಾಯ ಮಾಡಿದ್ರೆ ಅವರಿಗೆ ಕೂಲಿ ಅಂತ ಕಾನೂನು ಕೊಡಲ್ಲ. ಆದರೆ ಅವರು ತೀರಿಸಿದ ಸಾಲ, ಮಾಡಿದ ಸುಧಾರಣೆ — ಪಾಲು ಮಾಡುವಾಗ ಕೋರ್ಟ್ ಪರಿಗಣಿಸಬಹುದು. ಇನ್ನೊಂದು ಕಡೆ, ನೀವು ಕಳೆದ ಮೂರು ವರ್ಷದ ಆದಾಯದಲ್ಲಿ ನಿಮ್ಮ ಪಾಲಿನ ಲೆಕ್ಕವನ್ನೂ ಕೇಳಬಹುದು."
+    tr: "Oḷḷe praśne — sāmānyavāgi vādigaḷu idanna kēḷalla. Jaṇṭi āstiyalli obbaru bēsāya māḍidre avarige kūli anta kānūnu koḍalla. Ādare avaru tīrisida sāla, māḍida sudhāraṇe — pālu māḍuvāga kōrṭ parigaṇisabahudu. Innondu kaḍe, nīvu kaḷeda mūru varṣada ādāyadalli nimma pālina lekkavannū kēḷabahudu."
+    en: "A good question — plaintiffs don't usually ask it. If one co-owner farms joint property, the law doesn't pay him wages for it. But the loans he cleared and the improvements he made — the court may take those into account when dividing. On the other side, you could also ask for an account of your share of the income for the last three years."
+  - who: shobha
+    t: "ಬೇಡ ಸಾರ್. ಅವನ ಬೆವರಿನ ದುಡ್ಡಲ್ಲಿ ನನಗೆ ಒಂದು ಪೈಸೆನೂ ಬೇಡ. ಹಿಂದಿನ ಲೆಕ್ಕ ಕೇಳಲ್ಲ. ಮುಂದಿನ ಪಾಲು ಮಾತ್ರ."
+    tr: "Bēḍa sār. Avana bevarina duḍḍalli nanage ondu paisenū bēḍa. Hindina lekka kēḷalla. Mundina pālu mātra."
+    en: "No, sir. I don't want a single paisa of the money from his sweat. I won't ask for past accounts. Only my share from here on."
+  - who: lawyer
+    t: "ಸರಿ. ಅದನ್ನ ದಾವೆಯಲ್ಲೇ ಸ್ಪಷ್ಟವಾಗಿ ಬರೆಯೋಣ — ‘ವಾದಿಯು ಹಿಂದಿನ ಆದಾಯದ ಲೆಕ್ಕವನ್ನು ಕೋರುವುದಿಲ್ಲ’ ಅಂತ. ಎದುರು ಪಕ್ಷದವರು ಓದಿದಾಗ ಅದು ಸ್ವಲ್ಪ ಬಿಸಿ ಕಡಿಮೆ ಮಾಡುತ್ತೆ. ಈಗ ಅವರ ಬಾಯ್ಮಾತಿನ ಪಾಲಿನ ವಾದ. ವಿನೀತಾ ಶರ್ಮಾ ತೀರ್ಪಿನ ನಂತರ, ಆ ಕಾಲದ ಸಾರ್ವಜನಿಕ ದಾಖಲೆಗಳ ಬೆಂಬಲ ಇಲ್ಲದ ಬಾಯ್ಮಾತಿನ ವಿಭಾಗವನ್ನ ಕೋರ್ಟ್‌ಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಒಪ್ಪಲ್ಲ."
+    tr: "Sari. Adanna dāveyallē spaṣṭavāgi bareyōṇa — ‘vādiyu hindina ādāyada lekkavannu kōruvudilla’ anta. Eduru pakṣadavaru ōdidāga adu svalpa bisi kaḍime māḍutte. Īga avara bāymātina pālina vāda. Vinītā Śarmā tīrpina nantara, ā kālada sārvajanika dākhalegaḷa bembala illada bāymātina vibhāgavanna kōrṭ-gaḷu sāmānyavāgi oppalla."
+    en: "Fine. Let's write that clearly in the plaint itself — 'The plaintiff does not seek an account of past income.' When the other side reads it, it will take some of the heat out of things. Now, their oral-partition argument. Since the Vineeta Sharma judgment, courts generally don't accept an oral partition that isn't backed by public records from that time."
+  - who: shobha
+    t: "ದಾವೆ ಹೇಗೆ ನಡೆಯುತ್ತೆ ಸಾರ್? ಹಂತ ಹಂತವಾಗಿ ಹೇಳಿ."
+    tr: "Dāve hēge naḍeyutte sār? Hanta hantavāgi hēḷi."
+    en: "How does a suit proceed, sir? Tell me step by step."
+  - who: lawyer
+    t: "ಮೊದಲು ವಾದಪತ್ರ — ಪ್ಲೇಂಟ್ — ಇಲ್ಲಿನ ಸಿವಿಲ್ ಜಡ್ಜ್ ನ್ಯಾಯಾಲಯದಲ್ಲಿ ಮೂಲ ದಾವೆಯಾಗಿ ಹಾಕ್ತೀವಿ. ಕೋರ್ಟ್ ಎಲ್ಲಾ ಪ್ರತಿವಾದಿಗಳಿಗೆ ಸಮನ್ಸ್ ಕಳಿಸುತ್ತೆ. ಅವರು ಲಿಖಿತ ಹೇಳಿಕೆ ಕೊಡ್ತಾರೆ. ಆಮೇಲೆ ವಿವಾದಾಂಶಗಳ ರಚನೆ, ಸಾಕ್ಷಿ, ವಾದ. ಆಮೇಲೆ ಪ್ರಿಲಿಮಿನರಿ ಡಿಕ್ರಿ — ಯಾರಿಗೆ ಎಷ್ಟು ಪಾಲು ಅಂತ ಘೋಷಣೆ. ಅದಾದ ಮೇಲೆ ಫೈನಲ್ ಡಿಕ್ರಿ ಪ್ರಕ್ರಿಯೆ: ಕೋರ್ಟ್ ಒಬ್ಬ ಕಮಿಷನರ್‌ನ ನೇಮಿಸುತ್ತೆ, ಸರ್ವೇಯರ್ ಬಂದು ಜಮೀನು ಅಳತೆ ಮಾಡಿ, ಗಡಿ ಕಲ್ಲು ಹಾಕಿ ಭಾಗ ಮಾಡ್ತಾರೆ."
+    tr: "Modalu vādapatra — plēṇṭ — illina sivil jaḍj nyāyālayadalli mūla dāveyāgi hāktīvi. Kōrṭ ellā prativādigaḷige samans kaḷisutte. Avaru likhita hēḷike koḍtāre. Āmēle vivādāṁśagaḷa racane, sākṣi, vāda. Āmēle prilimināri ḍikri — yārige eṣṭu pālu anta ghōṣaṇe. Adāda mēle phainal ḍikri prakriye: kōrṭ obba kamiṣanar-na nēmisutte, sarvēyar bandu jamīnu aḷate māḍi, gaḍi kallu hāki bhāga māḍtāre."
+    en: "First the plaint — we file it as an original suit in the Civil Judge's court here. The court sends summons to all the defendants. They file written statements. Then the issues are framed, then evidence, then arguments. Then the preliminary decree — the declaration of who gets what share. After that, the final decree proceedings: the court appoints a commissioner, and a surveyor comes, measures the land, sets boundary stones and divides it."
+  - who: shobha
+    t: "ಪ್ರತಿವಾದಿಗಳು ಅಂದ್ರೆ — ಮಹದೇವ ಮಾತ್ರ ತಾನೇ?"
+    tr: "Prativādigaḷu andre — Mahadēva mātra tānē?"
+    en: "By defendants you mean — only Mahadeva, surely?"
+  - who: lawyer
+    t: "ಇಲ್ಲ ಮೇಡಂ. ವಿಭಾಗದ ದಾವೆಯಲ್ಲಿ ಎಲ್ಲಾ ಸಹ ಮಾಲೀಕರೂ ಪಕ್ಷಕಾರರಾಗಬೇಕು. ಪ್ರತಿವಾದಿ ಒಂದು: ನಿಮ್ಮ ತಾಯಿ ಪುಟ್ಟಮ್ಮ. ಎರಡು: ಸುರೇಶ. ಮೂರು: ಮಹದೇವ. ಸಹಕಾರ ಸಂಘದ ಸಾಲ ಜಮೀನಿನ ಮೇಲಿರೋದರಿಂದ ಆ ಸಂಘಕ್ಕೂ ನೋಟಿಸ್ ಹೋಗಬಹುದು."
+    tr: "Illa mēḍam. Vibhāgada dāveyalli ellā saha mālīkarū pakṣakārarāgabēku. Prativādi ondu: nimma tāyi Puṭṭamma. Eraḍu: Surēśa. Mūru: Mahadēva. Sahakāra saṅghada sāla jamīnina mēlirōdarinda ā saṅghakkū nōṭis hōgabahudu."
+    en: "No, madam. In a partition suit, every co-owner has to be a party. Defendant one: your mother, Puttamma. Two: Suresha. Three: Mahadeva. Since the cooperative society's loan is on the land, a notice may go to the society as well."
+  - who: shobha
+    t: "ಅವ್ವನ ಹೆಸರು… ಪ್ರತಿವಾದಿಯಾಗಿ? ಸಾರ್, ನನ್ನ ತಾಯಿಯ ಮೇಲೆ ನಾನು ಕೇಸ್ ಹಾಕ್ತೀನಾ? ಊರಲ್ಲಿ ಎಲ್ರೂ ಅದನ್ನೇ ಹೇಳ್ತಾರೆ — ‘ಹೆತ್ತ ತಾಯಿ ಮೇಲೆ ಕೋರ್ಟಿಗೆ ಹೋದ್ಲು’ ಅಂತ."
+    tr: "Avvana hesaru… prativādiyāgi? Sār, nanna tāyiya mēle nānu kēs hāktīnā? Ūralli ellrū adannē hēḷtāre — ‘hetta tāyi mēle kōrṭige hōdlu’ anta."
+    en: "Avva's name… as a defendant? Sir, am I to file a case against my own mother? That's exactly what everyone in the village will say — 'she went to court against the mother who bore her.'"
+  - who: lawyer
+    t: "ಅದು ತಾಯಿಯ ವಿರುದ್ಧ ಅಲ್ಲ, ಮೇಡಂ. ಅವರ ಪಾಲನ್ನೂ ಕೋರ್ಟ್ ಘೋಷಿಸಬೇಕಲ್ಲ — ಅದಕ್ಕೆ ಅವರು ಪಕ್ಷಕಾರರು. ಬೇಕಾದ್ರೆ ದಾವೆಯಲ್ಲೇ ಬರೆಯೋಣ: ‘ಒಂದನೇ ಪ್ರತಿವಾದಿಯ ವಿರುದ್ಧ ಯಾವುದೇ ಪರಿಹಾರ ಕೋರಲಾಗಿಲ್ಲ.’ ಅಂಥವರನ್ನ ನಾವು ‘ಔಪಚಾರಿಕ ಪಕ್ಷಕಾರರು’ ಅಂತೀವಿ. ಆದರೆ ಹೌದು, ಊರಿಗೆ ಈ ವ್ಯತ್ಯಾಸ ಅರ್ಥ ಆಗಲ್ಲ. ಅದು ನಿಮಗೆ ಮೊದಲೇ ಗೊತ್ತಿರಲಿ."
+    tr: "Adu tāyiya viruddha alla, mēḍam. Avara pālannū kōrṭ ghōṣisabēkalla — adakke avaru pakṣakāraru. Bēkādre dāveyallē bareyōṇa: ‘Ondanē prativādiya viruddha yāvudē parihāra kōralāgilla.’ Anthavaranna nāvu ‘aupacārika pakṣakāraru’ antīvi. Ādare haudu, ūrige ī vyatyāsa artha āgalla. Adu nimage modalē gottirali."
+    en: "It isn't against your mother, madam. The court has to declare her share too — that's why she's a party. If you like, we'll write it into the plaint itself: 'No relief is sought against the first defendant.' We call such people 'formal parties'. But yes — the village won't understand the difference. Better you know that going in."
+  - who: shobha
+    t: "… ಖರ್ಚು ಎಷ್ಟಾಗುತ್ತೆ ಸಾರ್? ಕೋರ್ಟ್ ಶುಲ್ಕ, ನಿಮ್ಮ ಫೀಸು — ಎಲ್ಲಾ ಮೊದಲೇ ಗೊತ್ತಿರಲಿ."
+    tr: "… Kharcu eṣṭāgutte sār? Kōrṭ śulka, nimma phīsu — ellā modalē gottirali."
+    en: "(after a pause) … How much will it cost, sir? The court fee, your fee — let me know everything up front."
+  - who: lawyer
+    t: "ಕೋರ್ಟ್ ಶುಲ್ಕದಲ್ಲಿ ಒಂದು ಮುಖ್ಯ ವಿಷಯ ಇದೆ. ಕರ್ನಾಟಕ ನ್ಯಾಯಾಲಯ ಶುಲ್ಕ ಕಾಯ್ದೆಯ ಪ್ರಕಾರ, ವಾದಿ ಜಮೀನಿನ ಜಂಟಿ ಸ್ವಾಧೀನದಲ್ಲಿದ್ದಾರೆ ಅಂತ ಹೇಳಿದ್ರೆ ಒಂದು ಸಣ್ಣ ನಿಗದಿತ ಶುಲ್ಕ ಸಾಕು — ಕೆಲವು ನೂರು ರೂಪಾಯಿ. ಆದರೆ ಎದುರು ಪಕ್ಷದವರು ‘ಇವರನ್ನ ಜಮೀನಿಂದ ಹೊರಗಿಟ್ಟು ವರ್ಷಗಳಾಯ್ತು’ ಅಂತ ವಾದಿಸಿ, ಕೋರ್ಟ್ ಅದನ್ನ ಒಪ್ಪಿದ್ರೆ, ನಿಮ್ಮ ಪಾಲಿನ ಮಾರುಕಟ್ಟೆ ಮೌಲ್ಯದ ಮೇಲೆ ಶುಲ್ಕ ಕಟ್ಟಬೇಕಾಗುತ್ತೆ. ಅದು ಸಾವಿರಗಳಲ್ಲಿ ನಿಲ್ಲಲ್ಲ, ಲಕ್ಷದ ಹತ್ತಿರ ಹೋಗಬಹುದು."
+    tr: "Kōrṭ śulkadalli ondu mukhya viṣaya ide. Karnāṭaka nyāyālaya śulka kāydeya prakāra, vādi jamīnina jaṇṭi svādhīnadalliddāre anta hēḷidre ondu saṇṇa nigadita śulka sāku — kelavu nūru rūpāyi. Ādare eduru pakṣadavaru ‘ivaranna jamīninda horagiṭṭu varṣagaḷāytu’ anta vādisi, kōrṭ adanna oppidre, nimma pālina mārukaṭṭe maulyada mēle śulka kaṭṭabēkāgutte. Adu sāviragaḷalli nillalla, lakṣada hattira hōgabahudu."
+    en: "There's one important point about the court fee. Under the Karnataka Court Fees Act, if the plaintiff states she is in joint possession of the land, a small fixed fee is enough — a few hundred rupees. But if the other side argues 'she's been kept out of the land for years' and the court accepts that, you'd have to pay a fee on the market value of your share. That won't stop at thousands — it could come close to a lakh."
+  - who: shobha
+    t: "ನಾನು ಮೈಸೂರಲ್ಲಿದೀನಿ. ಅವನು ಅದನ್ನೇ ಹೇಳ್ತಾನೆ."
+    tr: "Nānu Maisūrallidīni. Avanu adannē hēḷtāne."
+    en: "I live in Mysuru. That's exactly what he'll say."
+  - who: lawyer
+    t: "ಹೇಳಬಹುದು. ಆದರೆ ಜಂಟಿ ಆಸ್ತಿಯಲ್ಲಿ ಒಬ್ಬರ ಸ್ವಾಧೀನ ಎಲ್ಲರ ಸ್ವಾಧೀನ ಅಂತಾನೇ ಕಾನೂನು ಸಾಮಾನ್ಯವಾಗಿ ನೋಡುತ್ತೆ. ಅದಕ್ಕಿಂತ ಮುಖ್ಯ — ತಹಸೀಲ್ದಾರ್ ಆದೇಶದಿಂದ ನಿಮ್ಮ ಹೆಸರು ಈಗ ಪಹಣಿಯಲ್ಲಿದೆ. ಅವತ್ತು ಆ ಹೆಸರಿಗಾಗಿ ನೀವು ಹೋರಾಡಿದ್ದು ಇವತ್ತು ಉಪಯೋಗಕ್ಕೆ ಬರ್ತಿದೆ. ನನ್ನ ಫೀಸು: ದಾವೆ ಹಾಕಿ ಲಿಖಿತ ಹೇಳಿಕೆಯ ಹಂತದವರೆಗೆ ಇಪ್ಪತ್ತೈದು ಸಾವಿರ. ಮುಂದಿನ ಹಂತಗಳಿಗೆ ಬೇರೆ. ಪ್ರತಿ ರೂಪಾಯಿಗೂ ರಸೀದಿ ಕೊಡ್ತೀನಿ."
+    tr: "Hēḷabahudu. Ādare jaṇṭi āstiyalli obbara svādhīna ellara svādhīna antānē kānūnu sāmānyavāgi nōḍutte. Adakkinta mukhya — tahasīldār ādēśadinda nimma hesaru īga pahaṇiyallide. Avattu ā hesarigāgi nīvu hōrāḍiddu ivattu upayōgakke bartide. Nanna phīsu: dāve hāki likhita hēḷikeya hantadavarege ippattaidu sāvira. Mundina hantagaḷige bēre. Prati rūpāyigū rasīdi koḍtīni."
+    en: "He may. But in joint property the law generally treats one co-owner's possession as everyone's possession. More important — thanks to the Tahsildar's order, your name is now in the RTC. The fight you put up for that name back then is paying off today. My fee: twenty-five thousand up to the written-statement stage. The later stages separately. I'll give you a receipt for every rupee."
+  - who: shobha
+    t: "ಎಷ್ಟು ವರ್ಷ ಆಗುತ್ತೆ ಸಾರ್? ನಿಜ ಹೇಳಿ."
+    tr: "Eṣṭu varṣa āgutte sār? Nija hēḷi."
+    en: "How many years will it take, sir? Tell me honestly."
+  - who: lawyer
+    t: "ನಿಜ ಹೇಳ್ತೀನಿ. ಕಳೆದ ಅಕ್ಟೋಬರ್‌ನಲ್ಲಿ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟೇ ಒಂದು ತೀರ್ಪಲ್ಲಿ ಹೇಳಿದೆ — ವಿಳಂಬದ ಪಟ್ಟಿಯಲ್ಲಿ ವಿಭಾಗದ ದಾವೆಗಳು ಮೊದಲ ಸ್ಥಾನದಲ್ಲಿವೆ, ಎಷ್ಟೋ ಸಲ ದಶಕಗಳು ಹಿಡಿಯುತ್ತೆ ಅಂತ. ನಮ್ಮ ರಾಜ್ಯದ ಜಿಲ್ಲಾ ನ್ಯಾಯಾಲಯಗಳಲ್ಲಿ ಒಂದೂವರೆ ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು ವಿಭಾಗದ ದಾವೆಗಳು ಬಾಕಿ ಇವೆ. ಸಾಮಾನ್ಯವಾಗಿ ಪ್ರಿಲಿಮಿನರಿ ಡಿಕ್ರಿಗೆ ಮೂರರಿಂದ ಏಳು ವರ್ಷ. ಫೈನಲ್ ಡಿಕ್ರಿಗೆ ಇನ್ನೂ ಕೆಲವು ವರ್ಷ. ಮೇಲ್ಮನವಿ ಹೋದ್ರೆ ಇನ್ನೂ ಜಾಸ್ತಿ."
+    tr: "Nija hēḷtīni. Kaḷeda akṭōbar-nalli Karnāṭaka haikōrṭē ondu tīrpalli hēḷide — viḷambada paṭṭiyalli vibhāgada dāvegaḷu modala sthānadallive, eṣṭō sala daśakagaḷu hiḍiyutte anta. Namma rājyada jillā nyāyālayagaḷalli ondūvare lakṣakkū heccu vibhāgada dāvegaḷu bāki ive. Sāmānyavāgi prilimināri ḍikrige mūrarinda ēḷu varṣa. Phainal ḍikrige innū kelavu varṣa. Mēlmanavi hōdre innū jāsti."
+    en: "I'll tell you honestly. Last October the Karnataka High Court itself said in a judgment that partition suits top the list for delay and often take decades. In our state's district courts more than one and a half lakh partition suits are pending. Usually three to seven years to the preliminary decree. A few more years for the final decree. Longer still if there's an appeal."
+  - who: shobha
+    t: "ದಶಕಗಳು… ಆಗ ಅವ್ವ…"
+    tr: "Daśakagaḷu… āga avva…"
+    en: "Decades… by then Avva…"
+  - who: lawyer
+    t: "ಅದಕ್ಕೇ ಎಲ್ಲಾ ಕಕ್ಷಿದಾರರಿಗೂ ನಾನು ಹೇಳೋದು: ದಾವೆ ಹಾಕೋದು ಒಂದು ಬಾಗಿಲು ತೆಗೆಯೋದು, ರಾಜಿಯ ಬಾಗಿಲು ಮುಚ್ಚೋದಲ್ಲ. ಕೋರ್ಟೇ ಮಧ್ಯಸ್ಥಿಕೆ ಕೇಂದ್ರಕ್ಕೆ ಕಳಿಸಬಹುದು. ಲೋಕ ಅದಾಲತ್‌ನಲ್ಲಿ ರಾಜಿ ಆದ್ರೆ ಅದಕ್ಕೆ ಡಿಕ್ರಿಯಷ್ಟೇ ಬಲ, ಮೇಲ್ಮನವಿ ಇಲ್ಲ, ಕೋರ್ಟ್ ಶುಲ್ಕವೂ ವಾಪಸ್. ಇಪ್ಪತ್ತೆರಡು ವರ್ಷದ ವಕೀಲಿಕೆಯಲ್ಲಿ, ಸಮನ್ಸ್ ಬಂದ ಮೇಲೇ ಮೊದಲ ಸಲ ಗಂಭೀರವಾಗಿ ಮಾತಾಡೋಕೆ ಕೂತ ಎಷ್ಟೋ ಕುಟುಂಬಗಳನ್ನ ನೋಡಿದೀನಿ."
+    tr: "Adakkē ellā kakṣidārarigū nānu hēḷōdu: dāve hākōdu ondu bāgilu tegeyōdu, rājiya bāgilu muccōdalla. Kōrṭē madhyasthike kēndrakke kaḷisabahudu. Lōka Adālat-nalli rāji ādre adakke ḍikriyaṣṭē bala, mēlmanavi illa, kōrṭ śulkavū vāpas. Ippatteraḍu varṣada vakīlikeyalli, samans banda mēlē modala sala gambhīravāgi mātāḍōke kūta eṣṭō kuṭumbagaḷanna nōḍidīni."
+    en: "That's why I tell every client: filing a suit opens one door; it doesn't shut the door to compromise. The court itself may send the case to the mediation centre. A settlement at a Lok Adalat has the force of a decree, there's no appeal, and the court fee is refunded. In twenty-two years of practice I've seen many families sit down to talk seriously for the first time only after the summons arrived."
+  - who: shobha
+    t: "ಇನ್ನೊಂದು ಸಾರ್. ನನ್ನ ಯಜಮಾನ್ರು ಒಬ್ಬ ಬ್ರೋಕರ್‌ಗೆ ಫೋನ್ ಮಾಡಿ ರೇಟ್ ಕೇಳಿದ್ರು — ನನಗೆ ಗೊತ್ತಿಲ್ಲದೆ. ಅವರಿಗೆ ಸರಿಯಾಗಿ ಹೇಳಿದೀನಿ. ಆದರೆ ಈಗ ನನ್ನ ತಮ್ಮ ನಾನು ಮಾರೋಕೆ ಹೊರಟಿದೀನಿ ಅಂತ ನಂಬಿದಾನೆ."
+    tr: "Innondu sār. Nanna yajamānru obba brōkar-ge phōn māḍi rēṭ kēḷidru — nanage gottillade. Avarige sariyāgi hēḷidīni. Ādare īga nanna tamma nānu mārōke horaṭidīni anta nambidāne."
+    en: "One more thing, sir. My husband phoned a broker and asked the rate — without my knowledge. I've given him a proper piece of my mind. But now my brother believes I'm out to sell."
+  - who: lawyer
+    t: "ದಾವೆ ಬಾಕಿ ಇರುವಾಗ ಯಾರಾದ್ರೂ ಮಾರಿದ್ರೂ ಆ ಮಾರಾಟ ಕೋರ್ಟಿನ ತೀರ್ಪಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತೆ. ಅದಕ್ಕೇ ಬ್ರೋಕರ್‌ಗಳು ವಿವಾದದ ಜಮೀನು ಮುಟ್ಟಲ್ಲ. ಬೇಕಾದ್ರೆ ಯಾರೂ ಮಾರಬಾರದು ಅಂತ ತಾತ್ಕಾಲಿಕ ತಡೆಯಾಜ್ಞೆಗೂ ಅರ್ಜಿ ಹಾಕಬಹುದು."
+    tr: "Dāve bāki iruvāga yārādrū māridrū ā mārāṭa kōrṭina tīrpige oḷapaṭṭirutte. Adakkē brōkar-gaḷu vivādada jamīnu muṭṭalla. Bēkādre yārū mārabāradu anta tātkālika taḍeyājñegū arji hākabahudu."
+    en: "While a suit is pending, even if someone sells, the sale is subject to the court's final judgment. That's exactly why brokers won't touch disputed land. If you want, we can also apply for a temporary injunction so that nobody sells."
+  - who: shobha
+    t: "ಬೇಡ ಸಾರ್. ತಡೆಯಾಜ್ಞೆ ಅಂದ್ರೆ ಊರಲ್ಲಿ ‘ಅಕ್ಕ ತಮ್ಮನ ಕೈ ಕಟ್ಟಿದ್ಲು’ ಅಂತಾರೆ. ನಾನು ಅವನ ಕೈ ಕಟ್ಟೋಕೆ ಬಂದಿಲ್ಲ. ಪಾಲು ಮಾತ್ರ ಕೇಳ್ತಿದೀನಿ."
+    tr: "Bēḍa sār. Taḍeyājñe andre ūralli ‘akka tammana kai kaṭṭidlu’ antāre. Nānu avana kai kaṭṭōke bandilla. Pālu mātra kēḷtidīni."
+    en: "No, sir. An injunction, and the village will say 'the sister tied her brother's hands.' I haven't come to tie his hands. I'm only asking for my share."
+  - who: lawyer
+    t: "ಸರಿ, ನಿಮ್ಮಿಷ್ಟ. ಹಾಗಾದ್ರೆ ಈ ವಕಾಲತ್ತಿಗೆ ಸಹಿ ಮಾಡಿ — ಅಂದ್ರೆ ನಿಮ್ಮ ಪರವಾಗಿ ನಾನು ವಾದಿಸೋಕೆ ನೀವು ಕೊಡೋ ಅಧಿಕಾರ. ಮತ್ತೆ ವಾದಪತ್ರದ ಕೊನೆಯ ಈ ದೃಢೀಕರಣ — ‘ಇಲ್ಲಿ ಬರೆದಿರುವುದು ನನ್ನ ತಿಳಿವಳಿಕೆಯಂತೆ ಸತ್ಯ’ — ಇದನ್ನ ಓದಿ, ಅರ್ಥ ಮಾಡ್ಕೊಂಡು ಸಹಿ ಹಾಕಿ. ಸೋಮವಾರ ಫೈಲ್ ಮಾಡ್ತೀನಿ."
+    tr: "Sari, nimmiṣṭa. Hāgādre ī vakālattige sahi māḍi — andre nimma paravāgi nānu vādisōke nīvu koḍō adhikāra. Matte vādapatrada koneya ī dṛḍhīkaraṇa — ‘illi barediruvudu nanna tiḷivaḷikeyante satya’ — idanna ōdi, artha māḍkoṇḍu sahi hāki. Sōmavāra phail māḍtīni."
+    en: "All right, as you wish. Then sign this vakalath — the authority you give me to argue on your behalf. And this verification at the end of the plaint — 'What is written here is true to the best of my knowledge' — read it, make sure you understand it, and sign. I'll file it on Monday."
+  - scene: "Shobha holds the pen over the paper. Then she puts it down, takes out her phone, steps to the doorway and calls Suresh."
+  - who: shobha
+    t: "ಅಣ್ಣ… ನಾನು ವಕೀಲರ ಆಫೀಸಲ್ಲಿದೀನಿ. ಸಹಿ ಹಾಕೋಕೆ ಮುಂಚೆ ನಿನಗೆ ಹೇಳ್ಬೇಕು ಅನ್ನಿಸ್ತು. ದಾವೆಯಲ್ಲಿ ನಿನ್ನ ಹೆಸರೂ, ಅವ್ವನ ಹೆಸರೂ ಪ್ರತಿವಾದಿಗಳಾಗಿ ಬರುತ್ತೆ."
+    tr: "Aṇṇa… nānu vakīlara āphīsallidīni. Sahi hākōke mun̄ce ninage hēḷbēku annistu. Dāveyalli ninna hesarū, avvana hesarū prativādigaḷāgi barutte."
+    en: "Anna… I'm at the lawyer's office. Before I sign, I felt I had to tell you. In the suit, your name and Avva's name will go in as defendants too."
+  - who: suresh
+    t: "ಶೋಭಾ, ನಾನು ನಿನ್ನ ತಡೆಯಲ್ಲ. ಹದಿನಾರು ವರ್ಷದ ಹಿಂದೆ ನಿನ್ನ ಮಾತು ಕೇಳ್ಲಿಲ್ಲ; ಈಗ ನಿನ್ನ ಹಕ್ಕನ್ನ ತಡೆಯೋ ಅಧಿಕಾರ ನನಗಿಲ್ಲ. ಒಂದೇ ಕೇಳ್ಕೊಳ್ತೀನಿ: ಕೋರ್ಟಲ್ಲಿ ಏನೇ ಆದ್ರೂ ಅವ್ವನ ಮನೆ ಬಾಗಿಲು ನಿನಗೆ ಮುಚ್ಚಿಕೊಳ್ಳಬಾರದು. ನಾನು ಎರಡೂ ಕಡೆ ಬಾಗಿಲು ತೆಗೆದಿಟ್ಟಿರ್ತೀನಿ."
+    tr: "Śōbhā, nānu ninna taḍeyalla. Hadināru varṣada hinde ninna mātu kēḷlilla; īga ninna hakkanna taḍeyō adhikāra nanagilla. Ondē kēḷkoḷḷtīni: kōrṭalli ēnē ādrū avvana mane bāgilu ninage muccikoḷḷabāradu. Nānu eraḍū kaḍe bāgilu tegediṭṭirtīni."
+    en: "(on the phone, after a long silence) Shobha, I won't stop you. Sixteen years ago I didn't listen to you; now I have no right to stand in the way of your right. I ask only one thing: whatever happens in court, Avva's door must never close on you. I'll keep the doors open on both sides."
+  - who: shobha
+    t: "ಅದೇ ಸಾಕು ಅಣ್ಣ. … ಎಲ್ಲಿ ಸಹಿ ಹಾಕ್ಬೇಕು ಸಾರ್?"
+    tr: "Adē sāku aṇṇa. … Elli sahi hākbēku sār?"
+    en: "That's enough, Anna. … (to the lawyer) Where do I sign, sir?"
+
+  - section: "The summons"
+    learn: "a summons read aloud (formal written Kannada): ī mūlaka tiḷisuvudēnendare, mēlkaṇḍa dāve, khuddāgi, hājarāgatakkaddu, tappidalli, gairuhājari, ēkapakṣīyavāgi vicāraṇe māḍalāguvudu · shock: nan mēlē kēs hākidlā? · free legal aid for women: tālūku kānūnu sēvegaḷa samiti, ucitavāgi · bitter irony: kāgadakke mātra bele anta kalisiddu nīvē"
+  - scene: "Tuesday, 28 April 2026, late afternoon. A process server from the Maddur court has come on a moped and left three envelopes at the house, taking Avva's thumbprint and Mahadeva's signature in his register. Mahadeva sits on the veranda step and tears one open. Avva stands behind him. Suresh is on the phone from Bengaluru, on speaker."
+  - who: avva
+    t: "ಏನಪ್ಪ ಅದು? ಸರ್ಕಾರದ ಮುದ್ರೆ ಇದೆ. ಹೊಸ ಪಹಣಿನಾ?"
+    tr: "Ēnappa adu? Sarkārada mudre ide. Hosa pahaṇinā?"
+    en: "What is it, son? It has a government seal. Is it the new RTC?"
+  - who: mahadeva
+    t: "ಪಹಣಿ ಅಲ್ಲ ಅವ್ವ. ಕೋರ್ಟಿಂದ ಸಮನ್ಸ್. ಕೇಳು, ಓದ್ತೀನಿ: ‘ಸಿವಿಲ್ ನ್ಯಾಯಾಧೀಶರ ಮತ್ತು ಜೆಎಂಎಫ್‌ಸಿ ನ್ಯಾಯಾಲಯ, ಮದ್ದೂರು. ಮೂಲ ದಾವೆ. ವಾದಿ: ಶೋಭಾ, ಚನ್ನೇಗೌಡರ ಮಗಳು. ಪ್ರತಿವಾದಿಗಳು: ಒಂದು, ಪುಟ್ಟಮ್ಮ…’"
+    tr: "Pahaṇi alla avva. Kōrṭinda samans. Kēḷu, ōdtīni: ‘Sivil nyāyādhīśara mattu je-em-eph-si nyāyālaya, Maddūru. Mūla dāve. Vādi: Śōbhā, Cannēgauḍara magaḷu. Prativādigaḷu: ondu, Puṭṭamma…’"
+    en: "It's not the RTC, Avva. It's a summons from the court. Listen, I'll read it: 'Court of the Civil Judge and JMFC, Maddur. Original Suit. Plaintiff: Shobha, daughter of Channegowda. Defendants: one, Puttamma…'"
+  - who: avva
+    t: "ನಾನು? ನನ್ ಹೆಸರಾ? ನನ್ ಮಗಳು… ನನ್ ಮೇಲೇ ಕೇಸ್ ಹಾಕಿದ್ಲಾ?"
+    tr: "Nānu? Nan hesarā? Nan magaḷu… nan mēlē kēs hākidlā?"
+    en: "Me? My name? My daughter… has filed a case against me?"
+  - who: suresh
+    t: "ಅವ್ವ, ಹಂಗಲ್ಲ. ಕೇಳು. ಪಾಲಿನ ಕೇಸಲ್ಲಿ ಜಮೀನಲ್ಲಿ ಹೆಸರಿರೋ ಎಲ್ಲರನ್ನೂ ಸೇರಿಸ್ಲೇಬೇಕು ಅನ್ನೋ ನಿಯಮ ಇದೆ. ನನ್ ಹೆಸರೂ ಇದೆ. ದಾವೆಯಲ್ಲೇ ಬರೆದಿದಾರೆ — ‘ಒಂದನೇ ಪ್ರತಿವಾದಿಯ ವಿರುದ್ಧ ಯಾವ ಪರಿಹಾರವೂ ಕೇಳಿಲ್ಲ’ ಅಂತ. ಶೋಭಾ ಸಹಿ ಹಾಕೋ ಮುಂಚೆ ನನಗೆ ಫೋನ್ ಮಾಡಿ ಹೇಳಿದ್ಲು."
+    tr: "Avva, haṅgalla. Kēḷu. Pālina kēsalli jamīnalli hesarirō ellarannū sērislēbēku annō niyama ide. Nan hesarū ide. Dāveyallē baredidāre — ‘ondanē prativādiya viruddha yāva parihāravū kēḷilla’ anta. Śōbhā sahi hākō mun̄ce nanage phōn māḍi hēḷidlu."
+    en: "(on speaker) Avva, it's not like that. Listen. There's a rule that in a partition case everyone whose name is on the land has to be included. My name's there too. It's written in the plaint itself — 'no relief is sought against the first defendant.' Shobha phoned and told me before she signed."
+  - who: mahadeva
+    t: "ನಿನಗೆ ಮೊದಲೇ ಗೊತ್ತಿತ್ತಾ ಅಣ್ಣ? ಗೊತ್ತಿದ್ದೂ ಹೇಳ್ಲಿಲ್ಲ?"
+    tr: "Ninage modalē gottittā aṇṇa? Gottiddū hēḷlilla?"
+    en: "You knew beforehand, Anna? You knew and didn't tell me?"
+  - who: suresh
+    t: "ಹೇಳೋಕೆ ಮೂರು ಸಲ ಫೋನ್ ಮಾಡಿದೆ, ಮಹದೇವ. ನೀನು ಒಂದೂ ಎತ್ತಲಿಲ್ಲ. ಮೆಸೇಜ್‌ಗೂ ಉತ್ತರ ಇಲ್ಲ."
+    tr: "Hēḷōke mūru sala phōn māḍide, Mahadēva. Nīnu ondū ettalilla. Mesēj-gū uttara illa."
+    en: "I phoned you three times to tell you, Mahadeva. You didn't pick up once. No reply to my message either."
+  - who: mahadeva
+    t: "‘…ಈ ಮೂಲಕ ನಿಮಗೆ ತಿಳಿಸುವುದೇನೆಂದರೆ, ಮೇಲ್ಕಂಡ ದಾವೆಗೆ ಉತ್ತರ ನೀಡಲು ದಿನಾಂಕ ಇಪ್ಪತ್ತು ಮೇ, ಎರಡು ಸಾವಿರದ ಇಪ್ಪತ್ತಾರರಂದು ಬೆಳಿಗ್ಗೆ ಹನ್ನೊಂದು ಗಂಟೆಗೆ ಖುದ್ದಾಗಿ ಅಥವಾ ವಕೀಲರ ಮೂಲಕ ಹಾಜರಾಗತಕ್ಕದ್ದು. ತಪ್ಪಿದಲ್ಲಿ ನಿಮ್ಮ ಗೈರುಹಾಜರಿಯಲ್ಲಿ ದಾವೆಯನ್ನು ಏಕಪಕ್ಷೀಯವಾಗಿ ವಿಚಾರಣೆ ಮಾಡಲಾಗುವುದು.’"
+    tr: "‘…Ī mūlaka nimage tiḷisuvudēnendare, mēlkaṇḍa dāvege uttara nīḍalu dināṅka ippattu Mē, eraḍu sāvirada ippattārarandu beḷigge hannondu gaṇṭege khuddāgi athavā vakīlara mūlaka hājarāgatakkaddu. Tappidalli nimma gairuhājariyalli dāveyannu ēkapakṣīyavāgi vicāraṇe māḍalāguvudu.’"
+    en: "(saying nothing, then reading on) '…You are hereby informed that you shall appear in person or through an advocate on the twentieth of May, two thousand and twenty-six, at eleven in the morning, to answer the above suit. Failing which, the suit will be heard ex parte in your absence.'"
+  - who: avva
+    t: "ಏಕ… ಪಕ್ಷೀಯ? ಅಂಗಂದ್ರೆ ಏನಪ್ಪ?"
+    tr: "Ēka… pakṣīya? Aṅgandre ēnappa?"
+    en: "Ex… parte? What does that mean, son?"
+  - who: suresh
+    t: "ನಾವು ಹೋಗದಿದ್ರೆ ನಾವಿಲ್ಲದೇನೇ ಕೇಸ್ ನಡೆಸ್ತಾರೆ ಅಂತ, ಅವ್ವ. ಅದಕ್ಕೇ ಹೋಗ್ಲೇಬೇಕು. ಆದ್ರೆ ನೀನು ಹೆದರಬೇಡ. ಮದ್ದೂರು ಕೋರ್ಟಲ್ಲೇ ತಾಲೂಕು ಕಾನೂನು ಸೇವೆಗಳ ಸಮಿತಿ ಅಂತ ಇದೆ. ಹೆಂಗಸರಿಗೆ ಉಚಿತವಾಗಿ ವಕೀಲರನ್ನ ಕೊಡ್ತಾರೆ. ನಿನಗೆ ಅವರ ಮೂಲಕ ಒಬ್ಬ ವಕೀಲರು ಸಿಗ್ತಾರೆ, ಒಂದು ರೂಪಾಯಿ ಖರ್ಚಿಲ್ಲ."
+    tr: "Nāvu hōgadidre nāvilladēnē kēs naḍestāre anta, avva. Adakkē hōglēbēku. Ādre nīnu hedarabēḍa. Maddūru kōrṭallē tālūku kānūnu sēvegaḷa samiti anta ide. Heṅgasarige ucitavāgi vakīlaranna koḍtāre. Ninage avara mūlaka obba vakīlaru sigtāre, ondu rūpāyi kharcilla."
+    en: "It means if we don't go, they'll run the case without us, Avva. That's why we must go. But don't be afraid. Right there in the Maddur court there's the Taluk Legal Services Committee. They give women a lawyer free of charge. You'll get a lawyer through them; it won't cost a rupee."
+  - who: avva
+    t: "ಐವತ್ತೆರಡು ವರ್ಷ ಸಂಸಾರ ಮಾಡಿ, ಎಪ್ಪತ್ತನೇ ವಯಸ್ಸಲ್ಲಿ ನನಗೊಬ್ಬ ವಕೀಲ… ನನ್ ಮಗಳ ವಿರುದ್ಧ ಅಲ್ಲ, ನನ್ ಮಗನ ವಿರುದ್ಧಾನೂ ಅಲ್ಲ. ಹಂಗಾದ್ರೆ ಆ ವಕೀಲ ಯಾರ ಪರವಾಗಿ ಮಾತಾಡ್ತಾನೆ?"
+    tr: "Aivatteraḍu varṣa saṁsāra māḍi, eppattanē vayassalli nanagobba vakīla… nan magaḷa viruddha alla, nan magana viruddhānū alla. Haṅgādre ā vakīla yāra paravāgi mātāḍtāne?"
+    en: "Fifty-two years of married life, and at seventy I get a lawyer of my own… not against my daughter, not against my son either. Then on whose side will that lawyer speak?"
+  - who: suresh
+    t: "ನಿನ್ನ ಪರವಾಗಿ, ಅವ್ವ. ನಿನ್ನ ಪಾಲಿನ ಪರವಾಗಿ. ಮತ್ತೆ ನಿನ್ನ ಆಸೆಯ ಪರವಾಗಿ — ಮನೆ ಒಡೀಬಾರ್ದು ಅನ್ನೋ ಆಸೆ."
+    tr: "Ninna paravāgi, avva. Ninna pālina paravāgi. Matte ninna āseya paravāgi — mane oḍībārdu annō āse."
+    en: "On yours, Avva. On behalf of your share. And on behalf of your wish — the wish that the house mustn't break."
+  - who: mahadeva
+    t: "ನಾನೂ ಸುಮ್ನೆ ಕೂತಿಲ್ಲ. ಅವಳು ವಕೀಲರ ಮಾತಾಡಿದ ದಿನಾನೇ ಮಂಡ್ಯದಲ್ಲಿ ಒಬ್ಬ ವಕೀಲರನ್ನ ನೋಡಿದ್ದೆ. ಅವರು ಹೇಳಿದಾರೆ: ಲಿಖಿತ ಹೇಳಿಕೆ ಜೊತೆ ತಡೆಯಾಜ್ಞೆಗೆ ಅರ್ಜಿ ಹಾಕೋಣ — ಕೇಸ್ ಮುಗಿಯೋವರೆಗೆ ಯಾರೂ ಜಮೀನು ಮಾರಬಾರದು, ನಾನು ಮಾಡ್ತಿರೋ ಬೇಸಾಯಕ್ಕೆ ಯಾರೂ ಅಡ್ಡಿ ಮಾಡಬಾರದು ಅಂತ."
+    tr: "Nānū sumne kūtilla. Avaḷu vakīlara mātāḍida dinānē Maṇḍyadalli obba vakīlaranna nōḍidde. Avaru hēḷidāre: likhita hēḷike jote taḍeyājñege arji hākōṇa — kēs mugiyōvarege yārū jamīnu mārabāradu, nānu māḍtirō bēsāyakke yārū aḍḍi māḍabāradu anta."
+    en: "I haven't been sitting idle either. The very day she talked of a lawyer, I'd gone and seen one in Mandya. He says: along with the written statement, let's apply for an injunction — that until the case ends nobody may sell the land, and nobody may obstruct the farming I'm doing."
+  - who: suresh
+    t: "ಯಾರೂ ಮಾರೋಕೆ ಹೊರಟಿಲ್ಲ, ಮಹದೇವ. ಶೋಭಾನೇ ತಡೆಯಾಜ್ಞೆ ಬೇಡ ಅಂದ್ಲಂತೆ — ‘ತಮ್ಮನ ಕೈ ಕಟ್ಟೋಕೆ ಬಂದಿಲ್ಲ’ ಅಂತ."
+    tr: "Yārū mārōke horaṭilla, Mahadēva. Śōbhānē taḍeyājñe bēḍa andlante — ‘tammana kai kaṭṭōke bandilla’ anta."
+    en: "Nobody's out to sell, Mahadeva. Shobha herself turned down an injunction, I'm told — 'I haven't come to tie my brother's hands,' she said."
+  - who: mahadeva
+    t: "ಬಾಯಿಮಾತು, ಅಣ್ಣ. ಬಾಯಿಮಾತಿಗೆ ಬೆಲೆ ಇಲ್ಲ, ಕಾಗದಕ್ಕೆ ಮಾತ್ರ ಬೆಲೆ ಅಂತ ನನಗೆ ಕಲಿಸಿದ್ದು ನೀವೇ — ತಹಸೀಲ್ದಾರ್ ಕಚೇರೀಲಿ. ಈಗ ನಾನೂ ಕಾಗದ ಮಾಡಿಸ್ಕೋತೀನಿ."
+    tr: "Bāyimātu, aṇṇa. Bāyimātige bele illa, kāgadakke mātra bele anta nanage kalisiddu nīvē — tahasīldār kacērīli. Īga nānū kāgada māḍiskōtīni."
+    en: "Word of mouth, Anna. It was all of you who taught me — in the Tahsildar's office — that word of mouth is worth nothing and only paper counts. Now I'll get myself some paper too."
+  - who: avva
+    t: "ಕಾಗದ, ಕಾಗದ, ಕಾಗದ… ಈ ಮನೇಲಿ ಮನುಷ್ಯರಿಗಿಂತ ಕಾಗದ ಜಾಸ್ತಿ ಆಯ್ತು."
+    tr: "Kāgada, kāgada, kāgada… ī manēli manuṣyariginta kāgada jāsti āytu."
+    en: "(sitting down heavily on the step) Paper, paper, paper… in this house there's more paper now than people."
+  - who: suresh
+    t: "ಅವ್ವ, ಇಪ್ಪತ್ತನೇ ತಾರೀಖು ರಜೆ ಹಾಕಿ ಬರ್ತೀನಿ. ನಿನ್ನ ಕೈ ಹಿಡ್ಕೊಂಡು ಕೋರ್ಟಿಗೆ ನಾನೇ ಕರ್ಕೊಂಡು ಹೋಗ್ತೀನಿ."
+    tr: "Avva, ippattanē tārīkhu raje hāki bartīni. Ninna kai hiḍkoṇḍu kōrṭige nānē karkoṇḍu hōgtīni."
+    en: "Avva, I'll take leave on the twentieth and come. I'll hold your hand and take you to court myself."
+  - who: avva
+    t: "ಮೆಟ್ಟಿಲು ಹತ್ತೋವಾಗ ಕೈ ಬಿಡ್ಬೇಡ ಕಣಪ್ಪ. ನಮ್ಮ ಮನೆತನದಲ್ಲಿ ಮೊದಲ ಸಲ ಕೋರ್ಟು ಮೆಟ್ಟಿಲು ಹತ್ತೋಳು ನಾನೇ ಆಗ್ತೀನಿ ಅಂತ ಕನಸಲ್ಲೂ ಅಂದ್ಕೊಂಡಿರ್ಲಿಲ್ಲ."
+    tr: "Meṭṭilu hattōvāga kai biḍbēḍa kaṇappa. Namma manetanadalli modala sala kōrṭu meṭṭilu hattōḷu nānē āgtīni anta kanasallū andkoṇḍirlilla."
+    en: "Don't let go of my hand on the steps, son. I never dreamed that the first one in our family to climb the steps of a court would be me."
+
+  - section: "Night calls"
+    learn: "a mother on the phone: ūṭa āytā modlu hēḷu, aḷbēḍa · sad vs angry: bējāride, kōpa illa · counterfactual regret: gottiddidre … biḍtirlilla · reported habitual speech: … antidru · a son's fear: nanage ēnu uḷiyutte? · identity: gurutu koḍōdu kāgada alla"
+  - scene: "The same night. Avva cannot sleep. She asks Mahadeva to dial Shobha's number for her; he does it without a word, hands her the phone and walks out to the cattle shed."
+  - who: shobha
+    t: "ಅವ್ವ? ಇಷ್ಟು ರಾತ್ರೀಲಿ… ಸಮನ್ಸ್ ಬಂತಾ?"
+    tr: "Avva? Iṣṭu rātrīli… samans bantā?"
+    en: "Avva? At this time of night… has the summons come?"
+  - who: avva
+    t: "ಬಂತು ಕಣವ್ವ. ಊಟ ಆಯ್ತಾ, ಮೊದ್ಲು ಅದು ಹೇಳು."
+    tr: "Bantu kaṇavva. Ūṭa āytā, modlu adu hēḷu."
+    en: "It's come, my girl. Have you eaten? Tell me that first."
+  - who: shobha
+    t: "ಅವ್ವ, ನಿನ್ನ ಹೆಸರು ಹಾಕೋದು ನನಗೂ ಇಷ್ಟ ಇರ್ಲಿಲ್ಲ. ವಕೀಲರು ಕಾನೂನು ಅಂದ್ರು. ನಾನು ನಿನ್ನ ವಿರುದ್ಧ ಅಲ್ಲ, ಆಣೆ."
+    tr: "Avva, ninna hesaru hākōdu nanagū iṣṭa irlilla. Vakīlaru kānūnu andru. Nānu ninna viruddha alla, āṇe."
+    en: "(crying) Avva, I didn't want your name in it either. The lawyer said it's the law. I'm not against you, I swear."
+  - who: avva
+    t: "ಅಳ್ಬೇಡ. ನಿನ್ ಮೇಲೆ ನಂಗೆ ಕೋಪ ಇಲ್ಲ. ಬೇಜಾರಿದೆ, ಕೋಪ ಇಲ್ಲ. ಎರಡಕ್ಕೂ ವ್ಯತ್ಯಾಸ ಇದೆ ಕಣವ್ವ."
+    tr: "Aḷbēḍa. Nin mēle naṅge kōpa illa. Bējāride, kōpa illa. Eraḍakkū vyatyāsa ide kaṇavva."
+    en: "Don't cry. I'm not angry with you. I'm sad, not angry. There's a difference between the two, my girl."
+  - who: shobha
+    t: "ಅವ್ವ, ನಿಂಗೊಂದು ಗೊತ್ತಾ? ಅಪ್ಪ ಸಾಲ ಮಾಡಿ ನನ್ನ ಮದುವೆ ಮಾಡಿದ್ದು ನನಗೆ ಡಿಸೆಂಬರ್‌ನಲ್ಲೇ ಗೊತ್ತಾಗಿದ್ದು. ಗೊತ್ತಿದ್ದಿದ್ರೆ ಅವತ್ತು ಅಷ್ಟು ಖರ್ಚು ಮಾಡೋಕೆ ಬಿಡ್ತಿರ್ಲಿಲ್ಲ. ಎಲ್ರೂ ನನ್ನಿಂದ ಮುಚ್ಚಿಟ್ಟರು — ಸಾಲಾನೂ, ಕಷ್ಟಾನೂ. ಈಗ ಆ ಮುಚ್ಚಿಟ್ಟಿದ್ದೇ ನನ್ನ ಪಾಲು ಅಂತಾರೆ."
+    tr: "Avva, niṅgondu gottā? Appa sāla māḍi nanna maduve māḍiddu nanage Ḍisembar-nallē gottāgiddu. Gottiddidre avattu aṣṭu kharcu māḍōke biḍtirlilla. Ellrū nanninda mucciṭṭaru — sālānū, kaṣṭānū. Īga ā mucciṭṭiddē nanna pālu antāre."
+    en: "Avva, do you know something? I only found out in December that Appa borrowed to pay for my wedding. If I'd known, I'd never have let you spend that much back then. Everyone hid it from me — the debt and the hardship. And now they say the very thing they hid from me was my share."
+  - who: avva
+    t: "ಮುಚ್ಚಿಟ್ಟಿದ್ದು ನಿಮ್ಮಪ್ಪನ ಹಠ ಕಣವ್ವ, ನಿನ್ನ ತಪ್ಪಲ್ಲ. ‘ತವರು ಮಗಳಿಗೆ ನೆರಳಾಗ್ಬೇಕು, ಭಾರ ಆಗ್ಬಾರ್ದು’ ಅಂತಿದ್ರು. … ಇಪ್ಪತ್ತನೇ ತಾರೀಖು ಕೋರ್ಟಿಗೆ ಬರ್ತೀಯಲ್ಲ? ಬಂದಾಗ ನನ್ ಪಕ್ಕ ಕೂರು. ನೀನು ಆ ಕಡೆ, ನಾನು ಈ ಕಡೆ ಅನ್ನೋದು ಕಾಗದದಲ್ಲಿರ್ಲಿ. ಬೆಂಚಿನ ಮೇಲೆ ಬೇಡ."
+    tr: "Mucciṭṭiddu nimmappana haṭha kaṇavva, ninna tappalla. ‘Tavaru magaḷige neraḷāgbēku, bhāra āgbārdu’ antidru. … Ippattanē tārīkhu kōrṭige bartīyalla? Bandāga nan pakka kūru. Nīnu ā kaḍe, nānu ī kaḍe annōdu kāgadadallirli. Beṇcina mēle bēḍa."
+    en: "Hiding it was your father's stubbornness, my girl, not your fault. He used to say, 'A daughter's parents' home must be a shade for her, never a burden.' … You're coming to court on the twentieth, aren't you? When you come, sit beside me. Let 'you on that side, me on this' stay on paper. Not on the bench."
+  - who: shobha
+    t: "ಪ್ರಯತ್ನ ಮಾಡ್ತೀನಿ ಅವ್ವ."
+    tr: "Prayatna māḍtīni avva."
+    en: "I'll try, Avva."
+  - scene: "Avva goes out to the cattle shed. A single bulb hangs over the two cows and the calf. Mahadeva sits on an upturned bucket."
+  - who: avva
+    t: "ಇಲ್ಲಿ ಯಾಕೆ ಕೂತಿದೀಯಪ್ಪ? ದನಗಳ ಜೊತೆ ಮಾತಾಡ್ತಿದೀಯಾ?"
+    tr: "Illi yāke kūtidīyappa? Danagaḷa jote mātāḍtidīyā?"
+    en: "Why are you sitting out here, son? Talking to the cows?"
+  - who: mahadeva
+    t: "ದನಗಳು ಕೋರ್ಟಿಗೆ ಹೋಗಲ್ಲ ಅವ್ವ. … ಅವ್ವ, ಕೇಸ್ ನಡೆದು ಗದ್ದೆ ನಾಲ್ಕು ತುಂಡಾದ್ರೆ ನನಗೆ ಏನು ಉಳಿಯುತ್ತೆ? ಒಂದು ಪಟ್ಟಿ ಜಮೀನು, ಎರಡು ದನ, ಮತ್ತೆ ‘ತಂಗಿ ಜೊತೆ ಕೋರ್ಟಲ್ಲಿ ಜಗಳ ಆಡಿದೋನು’ ಅನ್ನೋ ಹೆಸರು. ಅಣ್ಣನಿಗೆ ಬ್ಯಾಂಕ್ ಇದೆ, ಅವಳಿಗೆ ಆಸ್ಪತ್ರೆ ಇದೆ. ನನಗೆ ಇರೋದು ಇದೊಂದೇ."
+    tr: "Danagaḷu kōrṭige hōgalla avva. … Avva, kēs naḍedu gadde nālku tuṇḍādre nanage ēnu uḷiyutte? Ondu paṭṭi jamīnu, eraḍu dana, matte ‘taṅgi jote kōrṭalli jagaḷa āḍidōnu’ annō hesaru. Aṇṇanige byāṅk ide, avaḷige āspatre ide. Nanage irōdu idondē."
+    en: "Cows don't go to court, Avva. … Avva, if the case goes on and the wet land is cut into four, what's left for me? A strip of land, two cows, and the name of 'the man who fought his sister in court'. Anna has his bank, she has her hospital. All I have is this."
+  - who: avva
+    t: "ಮಹದೇವ, ನಾನು ಹದಿನೆಂಟನೇ ವಯಸ್ಸಲ್ಲಿ ಈ ಮನೆಗೆ ಬಂದಾಗ ನನ್ ಕೈಲಿ ಒಂದು ಟ್ರಂಕು, ಎರಡು ಸೀರೆ ಬಿಟ್ರೆ ಏನೂ ಇರ್ಲಿಲ್ಲ. ಜಮೀನು ನನ್ ಹೆಸರಿಗೆ ಬಂದಿದ್ದು ಮೊನ್ನೆ. ಆದ್ರೂ ಐವತ್ತೆರಡು ವರ್ಷದಲ್ಲಿ ನಾನು ಈ ಮನೆಯೋಳಲ್ಲ ಅಂತ ಒಂದ್ಸಲಾನೂ ಅನ್ಸಲಿಲ್ಲ. ಯಾಕೆ ಗೊತ್ತಾ? ಮನುಷ್ಯನಿಗೆ ಗುರುತು ಕೊಡೋದು ಕಾಗದ ಅಲ್ಲ ಕಣಪ್ಪ. ಅವನು ಮಾಡೋ ಕೆಲಸ, ಅವನು ಪ್ರೀತಿಸೋ ಜನ."
+    tr: "Mahadēva, nānu hadineṇṭanē vayassalli ī manege bandāga nan kaili ondu ṭraṅku, eraḍu sīre biṭre ēnū irlilla. Jamīnu nan hesarige bandiddu monne. Ādrū aivatteraḍu varṣadalli nānu ī maneyōḷalla anta ondsalānū ansalilla. Yāke gottā? Manuṣyanige gurutu koḍōdu kāgada alla kaṇappa. Avanu māḍō kelasa, avanu prītisō jana."
+    en: "Mahadeva, when I came into this house at eighteen, apart from a trunk and two saris I had nothing in my hands. The land came into my name only the other day. And yet in fifty-two years I never once felt I didn't belong to this house. Do you know why? What gives a person their identity isn't paper, son. It's the work they do and the people they love."
+  - who: mahadeva
+    t: "… ನಿನ್ನ ಹಂಗೆ ಯೋಚನೆ ಮಾಡೋಕೆ ನನಗೆ ಇನ್ನೂ ಐವತ್ತು ವರ್ಷ ಬೇಕು ಅವ್ವ. ಹೋಗಿ ಮಲ್ಕೋ. ನಾನು ಕರುಗೆ ಹುಲ್ಲು ಹಾಕಿ ಬರ್ತೀನಿ."
+    tr: "… Ninna haṅge yōcane māḍōke nanage innū aivattu varṣa bēku avva. Hōgi malkō. Nānu karuge hullu hāki bartīni."
+    en: "… To think the way you do, I'll need another fifty years, Avva. Go and sleep. I'll give the calf some hay and come in."
+
+  - section: "The corridor"
+    learn: "the silence: grūp biṭṭu hōdaru, phōn ettalla, mātē nintōytu · a hearing explained: madhyantara ādēśa, yathāsthiti kāpāḍabēku, māruvantilla, aḍaviḍuvantilla, aḍḍi māḍuvantilla · next date and written statements: mundina dināṅka, likhita hēḷike · a lawyer's observation: ondē kāralli bartāre, eraḍu kāralli · Avva's division: sama pālu, yāva ḍikrinū bēḍa · the diary echoed: nagtidrō, aḷtidrō"
+  - scene: "Tuesday night, 19 May 2026. The flat in Vijayanagar. Suresh sits with his phone; the family WhatsApp group, 'Bettahalli Mane', has been silent for three weeks. Meena is packing a bag for the morning; Rakshith leans in the doorway."
+  - who: suresh
+    t: "ನೋಡು ಮೀನಾ. ‘ಬೆಟ್ಟಹಳ್ಳಿ ಮನೆ’ ಗ್ರೂಪ್. ಕೊನೆಯ ಮೆಸೇಜ್ ಏಪ್ರಿಲ್ ಇಪ್ಪತ್ತೆಂಟು — ‘ಶೋಭಾ ಗ್ರೂಪ್ ಬಿಟ್ಟು ಹೋದರು.’ ಅದಾದ ಮೇಲೆ ಒಂದು ‘ಗುಡ್ ಮಾರ್ನಿಂಗ್’ ಕೂಡ ಇಲ್ಲ."
+    tr: "Nōḍu Mīnā. ‘Beṭṭahaḷḷi Mane’ grūp. Koneya mesēj Ēpril ippatteṇṭu — ‘Śōbhā grūp biṭṭu hōdaru.’ Adāda mēle ondu ‘guḍ mārniṅg’ kūḍa illa."
+    en: "Look, Meena. The 'Bettahalli Mane' group. The last message is from the twenty-eighth of April — 'Shobha left the group.' Since then, not even a single 'good morning'."
+  - who: meena
+    t: "ಮಹದೇವ ಫೋನ್ ಎತ್ತಿದ್ನಾ?"
+    tr: "Mahadēva phōn ettidnā?"
+    en: "Has Mahadeva picked up?"
+  - who: suresh
+    t: "ಅವ್ವನ ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಕೇಳಿದ್ರೆ ಎರಡೇ ಮಾತು: ‘ಚೆನ್ನಾಗಿದಾಳೆ. ಇಡ್ತೀನಿ.’ ಶೋಭಾ ಮೆಸೇಜ್‌ಗೆ ಉತ್ತರ ಕೊಡ್ತಾಳೆ, ಆದ್ರೆ ಮಹದೇವನ ಹೆಸರು ಬಂದ ತಕ್ಷಣ ಮೌನ. ಡಿಸೆಂಬರ್‌ನಲ್ಲಿ ಅಪ್ಪನ್ನ ಹೊರೋವಾಗ ನಾವಿಬ್ರೂ ಒಟ್ಟಿಗೆ ಹೆಗಲು ಕೊಟ್ವಿ, ಮೀನಾ. ಐದು ತಿಂಗಳಲ್ಲಿ ಮಾತೇ ನಿಂತೋಯ್ತು."
+    tr: "Avvana ārōgyada bagge kēḷidre eraḍē mātu: ‘Cennāgidāḷe. Iḍtīni.’ Śōbhā mesēj-ge uttara koḍtāḷe, ādre Mahadēvana hesaru banda takṣaṇa mauna. Ḍisembar-nalli appanna horōvāga nāvibbrū oṭṭige hegalu koṭvi, Mīnā. Aidu tiṅgaḷalli mātē nintōytu."
+    en: "Ask him about Avva's health and you get exactly two phrases: 'She's fine. Hanging up.' Shobha replies to messages, but the moment Mahadeva's name comes up — silence. In December the two of us carried Appa on our shoulders together, Meena. In five months, even talking has stopped."
+  - who: meena
+    t: "ನಾಳೆ ನಾನೂ ಬರ್ತೀನಿ. ಶಾಲೆಗೆ ಬೇಸಿಗೆ ರಜೆ. ನೀವು ಅವ್ವನ ಕೈ ಹಿಡ್ಕೊಳ್ಳಿ, ನಾನು ಶೋಭಾ ಪಕ್ಕ ಕೂರ್ತೀನಿ. ಯಾರಾದ್ರೂ ಒಬ್ರು ಅವಳ ಪಕ್ಕ ಇರ್ಬೇಕು."
+    tr: "Nāḷe nānū bartīni. Śālege bēsige raje. Nīvu avvana kai hiḍkoḷḷi, nānu Śōbhā pakka kūrtīni. Yārādrū obru avaḷa pakka irbēku."
+    en: "I'll come tomorrow too. School's on summer holiday. You hold Avva's hand; I'll sit next to Shobha. Somebody has to be beside her."
+  - who: rakshith
+    t: "ಅಪ್ಪ, ನಾಳೆ ನಾನೂ ಬರ್ಲಾ? ಅಜ್ಜಿ ಜೊತೆ ಇರ್ತೀನಿ."
+    tr: "Appa, nāḷe nānū barlā? Ajji jote irtīni."
+    en: "Appa, can I come tomorrow too? I'll stay with Ajji."
+  - who: suresh
+    t: "ಬೇಡ ಕಂದ. ನಾಳೆ ನಿನಗೆ ಬೇಸಿಗೆ ಕೋಚಿಂಗ್ ಕ್ಲಾಸ್ ಇದೆ. ಮತ್ತೆ… ಕೋರ್ಟ್ ಕಾರಿಡಾರು ಹದಿನೇಳು ವರ್ಷದವನು ನೋಡ್ಬೇಕಾದ ಜಾಗ ಅಲ್ಲ."
+    tr: "Bēḍa kanda. Nāḷe ninage bēsige kōciṅg klās ide. Matte… kōrṭ kāriḍāru hadinēḷu varṣadavanu nōḍbēkāda jāga alla."
+    en: "No, son. You have your summer coaching class tomorrow. And besides… a court corridor isn't a place a seventeen-year-old should have to see."
+  - who: rakshith
+    t: "ಆದ್ರೆ ತಾತನ ಮನೆಯ ಜಗಳ ನಾನು ನೋಡ್ಬೇಕಾದ ವಿಷಯ ಅಲ್ವಾ ಅಪ್ಪ? ನಾಳೆ ಆ ಜಮೀನು ನನ್ನ ತಲೆಮಾರಿಗೂ ಬರುತ್ತೆ."
+    tr: "Ādre tātana maneya jagaḷa nānu nōḍbēkāda viṣaya alvā appa? Nāḷe ā jamīnu nanna talemārigū barutte."
+    en: "But isn't Thatha's family quarrel something I ought to see, Appa? One day that land will come to my generation too."
+  - who: suresh
+    t: "… ಸರಿ. ಮುಂದಿನ ಸಲ ಬಾ. ನಿನ್ನ ಮಾತು ಕೇಳಿ ನನಗೊಂದು ಅರ್ಥ ಆಯ್ತು — ನಾವು ಜಗಳ ಆಡ್ತಿರೋದು ನಿನ್ನ ಕಣ್ಣ ಮುಂದೆ. ನೀನು ಕಲಿಯೋದು ನಾವು ಏನು ಹೇಳ್ತೀವಿ ಅಂತಲ್ಲ, ಏನು ಮಾಡ್ತೀವಿ ಅಂತ."
+    tr: "… Sari. Mundina sala bā. Ninna mātu kēḷi nanagondu artha āytu — nāvu jagaḷa āḍtirōdu ninna kaṇṇa munde. Nīnu kaliyōdu nāvu ēnu hēḷtīvi antalla, ēnu māḍtīvi anta."
+    en: "(after a pause) … All right. Come next time. Listening to you, I've understood something — we're fighting right in front of your eyes. What you'll learn isn't what we say, but what we do."
+  - scene: "Wednesday, 20 May 2026. The corridor of the Civil Judge and JMFC court in Maddur. Every bench is full; people sit on the floor along the walls; a peon calls out case numbers from a list. Shobha sits at one end with Meena. Mahadeva stands at the other end by a pillar, beside his Mandya lawyer's junior. On the middle bench Suresh sits with Avva, who holds a cloth bundle in her lap."
+  - who: meena
+    t: "ಅವ್ವ ನಿನ್ನನ್ನ ಪಕ್ಕ ಕೂರು ಅಂದಿದ್ರಂತೆ."
+    tr: "Avva ninnanna pakka kūru andidrante."
+    en: "(softly, to Shobha) I hear Avva asked you to sit beside her."
+  - who: shobha
+    t: "ಅಂದಿದ್ರು ಅತ್ತಿಗೆ. ಆದ್ರೆ ಆ ಕಡೆ ಮಹದೇವನ ವಕೀಲರ ಜೂನಿಯರ್ ಎಲ್ಲಾ ನೋಡ್ತಿದಾರೆ. ನಾನು ಅವ್ವನ ಪಕ್ಕ ಕೂತ್ರೆ ‘ತಾಯಿ ಮೇಲೆ ಒತ್ತಡ ಹಾಕ್ತಿದಾಳೆ’ ಅಂತಾರೆ ಅಂತ ಭಯ. ನೋಡಿ — ನನ್ನ ಸ್ವಂತ ಅವ್ವನ ಪಕ್ಕ ಕೂರೋಕೂ ಈಗ ಲೆಕ್ಕ ಹಾಕ್ಬೇಕು."
+    tr: "Andidru attige. Ādre ā kaḍe Mahadēvana vakīlara jūniyar ellā nōḍtidāre. Nānu avvana pakka kūtre ‘tāyi mēle ottaḍa hāktidāḷe’ antāre anta bhaya. Nōḍi — nanna svanta avvana pakka kūrōkū īga lekka hākbēku."
+    en: "She did, Attige. But Mahadeva's lawyer's junior over there is watching everything. I'm afraid that if I sit beside Avva they'll say 'she's pressuring her mother'. Look at it — now I have to calculate even before sitting next to my own mother."
+  - who: meena
+    t: "ಇವತ್ತು ಬೇಕಾದ್ರೆ ಲೆಕ್ಕ ಹಾಕು. ಆದ್ರೆ ರೊಟ್ಟಿ ಬಂದಾಗ ಲೆಕ್ಕ ಬಿಡು. ಅವ್ವನ ಮಡಿಲಲ್ಲಿ ಆ ಗಂಟು ನೋಡಿದ್ಯಾ?"
+    tr: "Ivattu bēkādre lekka hāku. Ādre roṭṭi bandāga lekka biḍu. Avvana maḍilalli ā gaṇṭu nōḍidyā?"
+    en: "Calculate today if you must. But stop calculating when the rotti comes out. Did you see that bundle in Avva's lap?"
+  - scene: "The case is called at 12:40. It is over in six minutes. Advocate Nagendra comes out, straightening his white bands, and goes to Suresh."
+  - who: lawyer
+    t: "ಸುರೇಶ್ ಅವರೇ, ನೀವು ಎರಡನೇ ಪ್ರತಿವಾದಿ, ನಿಮಗೂ ತಿಳಿಸೋದು ನನ್ನ ಕರ್ತವ್ಯ. ಒಳಗೆ ಏನಾಯ್ತು ಅಂತ ಸರಳವಾಗಿ ಹೇಳ್ತೀನಿ."
+    tr: "Surēś avarē, nīvu eraḍanē prativādi, nimagū tiḷisōdu nanna kartavya. Oḷage ēnāytu anta saraḷavāgi hēḷtīni."
+    en: "Mr Suresh, you're the second defendant; it's my duty to inform you too. I'll explain simply what happened inside."
+  - who: lawyer
+    t: "ಮೂರನೇ ಪ್ರತಿವಾದಿ ಮಹದೇವ ಅವರ ವಕೀಲರು ತಾತ್ಕಾಲಿಕ ತಡೆಯಾಜ್ಞೆಗೆ ಅರ್ಜಿ ಹಾಕಿದ್ರು. ನ್ಯಾಯಾಧೀಶರು ಮಧ್ಯಂತರ ಆದೇಶ ಕೊಟ್ಟಿದಾರೆ: ಮುಂದಿನ ದಿನಾಂಕದವರೆಗೆ ಯಥಾಸ್ಥಿತಿ ಕಾಪಾಡಬೇಕು. ಅಂದ್ರೆ ಯಾವ ಪಕ್ಷಕಾರರೂ ಜಮೀನನ್ನ ಮಾರುವಂತಿಲ್ಲ, ಅಡವಿಡುವಂತಿಲ್ಲ. ಮತ್ತೆ ಮಹದೇವ ಅವರು ಮಾಡ್ತಿರೋ ಬೇಸಾಯಕ್ಕೆ ಯಾರೂ ಅಡ್ಡಿ ಮಾಡುವಂತಿಲ್ಲ."
+    tr: "Mūranē prativādi Mahadēva avara vakīlaru tātkālika taḍeyājñege arji hākidru. Nyāyādhīśaru madhyantara ādēśa koṭṭidāre: mundina dināṅkadavarege yathāsthiti kāpāḍabēku. Andre yāva pakṣakārarū jamīnanna māruvantilla, aḍaviḍuvantilla. Matte Mahadēva avaru māḍtirō bēsāyakke yārū aḍḍi māḍuvantilla."
+    en: "The lawyer for the third defendant, Mahadeva, applied for a temporary injunction. The judge has passed an interim order: the status quo must be maintained until the next date. That means none of the parties may sell or mortgage the land. And no one may obstruct the cultivation Mahadeva is carrying on."
+  - who: suresh
+    t: "ಅಂದ್ರೆ ಶೋಭಾ ಕೇಳದಿದ್ದ ತಡೆಯಾಜ್ಞೆಯನ್ನ ಮಹದೇವ ಕೇಳಿ ತಗೊಂಡ."
+    tr: "Andre Śōbhā kēḷadidda taḍeyājñeyanna Mahadēva kēḷi tagoṇḍa."
+    en: "So the injunction Shobha wouldn't ask for, Mahadeva asked for and got."
+  - who: lawyer
+    t: "ಹೌದು. ಕಾನೂನಿನ ದೃಷ್ಟಿಯಿಂದ ನಮಗೆ ಇದರಿಂದ ನಷ್ಟ ಇಲ್ಲ — ನಾವೂ ಮಾರಾಟ ಬೇಡ ಅಂತಾನೇ ಇದ್ವಿ. ಆದ್ರೆ ಊರಲ್ಲಿ ‘ಮಹದೇವ ಕೋರ್ಟಲ್ಲಿ ಗೆದ್ದ’ ಅಂತ ಸುದ್ದಿ ಹೋಗುತ್ತೆ. ಮೊದಲ ದಿನವೇ ಎರಡೂ ಕಡೆಯವರಿಗೆ ಒಂದೊಂದು ‘ಗೆಲುವು’ ಸಿಕ್ತು. ಇಂಥ ಕೇಸುಗಳು ಹೀಗೇ ಉದ್ದ ಆಗೋದು."
+    tr: "Haudu. Kānūnina dṛṣṭiyinda namage idarinda naṣṭa illa — nāvū mārāṭa bēḍa antānē idvi. Ādre ūralli ‘Mahadēva kōrṭalli gedda’ anta suddi hōgutte. Modala dinavē eraḍū kaḍeyavarige ondondu ‘geluvu’ siktu. Intha kēsugaḷu hīgē udda āgōdu."
+    en: "Yes. Legally it does us no harm — we didn't want a sale either. But word will go round the village that 'Mahadeva won in court'. On the very first day, each side has got its own 'victory'. That's exactly how cases like this grow long."
+  - who: suresh
+    t: "ಮುಂದಿನ ದಿನಾಂಕ ಯಾವಾಗ?"
+    tr: "Mundina dināṅka yāvāga?"
+    en: "When's the next date?"
+  - who: lawyer
+    t: "ಆಗಸ್ಟ್ ಹದಿನಾಲ್ಕು. ಅಷ್ಟರಲ್ಲಿ ಪ್ರತಿವಾದಿಗಳು ಲಿಖಿತ ಹೇಳಿಕೆ ಹಾಕಬೇಕು. ನಿಮ್ಮ ತಾಯಿಯವರಿಗೆ ತಾಲೂಕು ಕಾನೂನು ಸೇವೆಗಳ ಸಮಿತಿಯಿಂದ ವಕೀಲರನ್ನ ನೇಮಿಸಿದಾರೆ — ಒಳ್ಳೆಯವರು, ನನಗೆ ಗೊತ್ತು. ಇನ್ನೊಂದು: ನ್ಯಾಯಾಧೀಶರು ತಾವೇ ಕೇಳಿದ್ರು — ‘ಕುಟುಂಬದ ವಿಷಯ, ಮಧ್ಯಸ್ಥಿಕೆಗೆ ಹೋಗ್ತೀರಾ?’ ಅಂತ. ಮಹದೇವ ಅವರ ಕಡೆಯಿಂದ ‘ಈಗ ಬೇಡ’ ಅಂತ ಉತ್ತರ ಬಂತು."
+    tr: "Āgasṭ hadinālku. Aṣṭaralli prativādigaḷu likhita hēḷike hākabēku. Nimma tāyiyavarige tālūku kānūnu sēvegaḷa samitiyinda vakīlaranna nēmisidāre — oḷḷeyavaru, nanage gottu. Innondu: nyāyādhīśaru tāvē kēḷidru — ‘kuṭumbada viṣaya, madhyasthikege hōgtīrā?’ anta. Mahadēva avara kaḍeyinda ‘īga bēḍa’ anta uttara bantu."
+    en: "The fourteenth of August. By then the defendants have to file their written statements. A lawyer has been assigned to your mother by the Taluk Legal Services Committee — a good man, I know him. One more thing: the judge asked on his own, 'It's a family matter — will you go to mediation?' The answer from Mahadeva's side was 'not now'."
+  - who: lawyer
+    t: "ಇಪ್ಪತ್ತೆರಡು ವರ್ಷದಿಂದ ಈ ಕಾರಿಡಾರ್ ನೋಡ್ತಿದೀನಿ, ಸುರೇಶ್ ಅವರೇ. ಅಣ್ಣ-ತಮ್ಮಂದಿರು ಮೊದಲ ದಿನ ಒಂದೇ ಕಾರಲ್ಲಿ ಬರ್ತಾರೆ. ಎರಡನೇ ಸಲ ಎರಡು ಕಾರಲ್ಲಿ. ಹತ್ತನೇ ಸಲ ಒಬ್ಬರ ಮುಖ ಇನ್ನೊಬ್ಬರು ನೋಡಲ್ಲ. ನಿಮ್ಮ ಮನೆಯವರು ಮೊದಲ ದಿನವೇ ಮೂರು ಮೂಲೆಯಲ್ಲಿ ಕೂತಿದಾರೆ."
+    tr: "Ippatteraḍu varṣadinda ī kāriḍār nōḍtidīni, Surēś avarē. Aṇṇa-tammandiru modala dina ondē kāralli bartāre. Eraḍanē sala eraḍu kāralli. Hattanē sala obbara mukha innobbaru nōḍalla. Nimma maneyavaru modala dinavē mūru mūleyalli kūtidāre."
+    en: "I've been watching this corridor for twenty-two years, Mr Suresh. On the first day brothers come in one car. The second time, in two cars. By the tenth, they won't look at each other's faces. Your family is sitting in three different corners on the very first day."
+  - who: suresh
+    t: "ಹೌದು ಸಾರ್. … ಧನ್ಯವಾದ. ನಿಮ್ಮ ಪ್ರಾಮಾಣಿಕತೆಗೆ."
+    tr: "Haudu sār. … Dhanyavāda. Nimma prāmāṇikatege."
+    en: "Yes, sir. … Thank you. For your honesty."
+  - scene: "The lawyer goes back in for his next case. Avva unties the cloth bundle in her lap. Inside, wrapped in a banana leaf, are ragi rottis she made before dawn, still faintly warm, and a little steel box of chutney."
+  - who: avva
+    t: "ಮಹದೇವ, ಬಾರಪ್ಪ ಇಲ್ಲಿ. ಶೋಭಾ, ನೀನೂ ಬಾ ಕಣವ್ವ. ಬೆಳಿಗ್ಗೆಯಿಂದ ಯಾರೂ ಏನೂ ತಿಂದಿಲ್ಲ. ನಾಲ್ಕು ಗಂಟೆಗೆ ಎದ್ದು ರಾಗಿ ರೊಟ್ಟಿ ಮಾಡಿ ತಂದಿದೀನಿ."
+    tr: "Mahadēva, bārappa illi. Śōbhā, nīnū bā kaṇavva. Beḷiggeyinda yārū ēnū tindilla. Nālku gaṇṭege eddu rāgi roṭṭi māḍi tandidīni."
+    en: "Mahadeva, come here, son. Shobha, you come too, my girl. Nobody's eaten a thing since morning. I got up at four and made ragi rottis."
+  - scene: "At first neither of them moves. Then Shobha comes, with Meena. After a long moment Mahadeva walks over too, but stays standing."
+  - who: shobha
+    t: "ಅವ್ವ… ನಿನ್ನ ಮಂಡಿ ನೋವಲ್ಲಿ ನಾಲ್ಕು ಗಂಟೆಗೆ ಎದ್ದು ಒಲೆ ಮುಂದೆ ಕೂತ್ಯಾ?"
+    tr: "Avva… ninna maṇḍi nōvalli nālku gaṇṭege eddu ole munde kūtyā?"
+    en: "Avva… with your knees, you got up at four and sat in front of the stove?"
+  - who: avva
+    t: "ಮಂಡಿ ನೋಯ್ತಿತ್ತು. ಕರುಳು ಅದಕ್ಕಿಂತ ಜಾಸ್ತಿ ನೋಯ್ತಿತ್ತು. … ಇಲ್ಲಿ ನೋಡಿ. ನಿಮ್ಮಪ್ಪನ ಜಮೀನನ್ನ ಕೋರ್ಟು ಹಂಚುತ್ತಂತೆ — ಎಷ್ಟು ವರ್ಷ ಆಗುತ್ತೋ ಆ ದೇವ್ರಿಗೇ ಗೊತ್ತು. ನನ್ ಕೈಲಿ ಹಂಚೋಕಾಗೋದು ಇಷ್ಟೇ."
+    tr: "Maṇḍi nōytittu. Karuḷu adakkinta jāsti nōytittu. … Illi nōḍi. Nimmappana jamīnanna kōrṭu han̄cuttante — eṣṭu varṣa āguttō ā dēvrigē gottu. Nan kaili han̄cōkāgōdu iṣṭē."
+    en: "My knees hurt. My insides hurt more. … Look here. They say the court will divide your father's land — God alone knows how many years it will take. This is all I can divide with my own hands."
+  - scene: "She tears the last rotti into three pieces and holds them out, one to each of her children."
+  - who: avva
+    t: "ಒಂದು ಸುರೇಶಂಗೆ. ಒಂದು ಮಹದೇವಂಗೆ. ಒಂದು ಶೋಭಂಗೆ. ಸಮ ಪಾಲು. ಯಾವ ವಕೀಲನೂ ಬೇಡ, ಯಾವ ಡಿಕ್ರಿನೂ ಬೇಡ. ತಿನ್ನಿ."
+    tr: "Ondu Surēśaṅge. Ondu Mahadēvaṅge. Ondu Śōbhaṅge. Sama pālu. Yāva vakīlanū bēḍa, yāva ḍikrinū bēḍa. Tinni."
+    en: "One for Suresha. One for Mahadeva. One for Shobha. Equal shares. No lawyer needed, no decree needed. Eat."
+  - who: shobha
+    t: "ಇದಕ್ಕೆ ಯಾವ ಕೋರ್ಟ್ ಶುಲ್ಕಾನೂ ಇಲ್ಲ, ಅಲ್ವಾ ಅವ್ವ?"
+    tr: "Idakke yāva kōrṭ śulkānū illa, alvā avva?"
+    en: "(taking her piece, her voice breaking) No court fee for this one, is there, Avva?"
+  - who: mahadeva
+    t: "ರೊಟ್ಟಿ ತಗೋತೀನಿ, ಅವ್ವ. ಆದ್ರೆ ಆಗಸ್ಟ್ ಹದಿನಾಲ್ಕಕ್ಕೆ ನನ್ ಲಿಖಿತ ಹೇಳಿಕೆ ಹೋಗುತ್ತೆ."
+    tr: "Roṭṭi tagōtīni, avva. Ādre Āgasṭ hadinālkakke nan likhita hēḷike hōgutte."
+    en: "(taking his piece; then quietly, eyes on the floor) I'll take the rotti, Avva. But on the fourteenth of August my written statement goes in."
+  - who: avva
+    t: "ಹೋಗ್ಲಿ. ನಿನ್ನ ಕಾಗದ ನೀನು ಕೊಡು. ಆದ್ರೆ ರೊಟ್ಟಿ ಇಲ್ಲೇ ಕೂತು ತಿನ್ನು. ನಿಂತ್ಕಂಡು ತಿಂದ್ರೆ ಮೈಗೆ ಹಿಡಿಯಲ್ಲ ಅಂತಿದ್ರು ನಿಮ್ಮಪ್ಪ."
+    tr: "Hōgli. Ninna kāgada nīnu koḍu. Ādre roṭṭi illē kūtu tinnu. Nintkaṇḍu tindre maige hiḍiyalla antidru nimmappa."
+    en: "Let it go in. You give your paper. But sit down here and eat the rotti. Your father used to say food eaten standing never does you any good."
+  - scene: "Mahadeva hesitates — then sits at the far end of the bench. For a few minutes the three siblings eat in silence on the same bench, Avva in the middle, none of them looking at the others. Then the peon calls the next case. Mahadeva gets up first and walks out without a word. Shobha picks up her bag: her bus to Mysuru leaves at three."
+  - who: shobha
+    t: "ಮೀನಾ ಅತ್ತಿಗೆ, ಬರ್ತೀನಿ. ಅಣ್ಣ… ಅವ್ವನ್ನ ಜೋಪಾನ."
+    tr: "Mīnā attige, bartīni. Aṇṇa… avvanna jōpāna."
+    en: "Meena Attige, I'll be going. Anna… take care of Avva."
+  - who: suresh
+    t: "ನಡಿ ಅವ್ವ, ಮನೆಗೆ ಹೋಗೋಣ. ಮೆಟ್ಟಿಲು ಹುಷಾರು."
+    tr: "Naḍi avva, manege hōgōṇa. Meṭṭilu huṣāru."
+    en: "(helping Avva up) Come, Avva, let's go home. Careful on the steps."
+  - who: avva
+    t: "ನಿಮ್ಮಪ್ಪ ಆ ದಿನಚರೀಲಿ ಕೊನೆಗೆ ಏನು ಬರೆದಿದ್ರು, ಸುರೇಶ? ‘ಮೂರೂ ಮಕ್ಳು ಈ ಮನೆ ಅಂಗಳದಲ್ಲಿ ಒಟ್ಟಿಗೆ ಕೂತು ಉಣ್ಣೋದು ನೋಡ್ಬೇಕು’ ಅಂತ ತಾನೇ? … ಇವತ್ತು ಮೂರೂ ಜನ ಒಂದೇ ಬೆಂಚಿನ ಮೇಲೆ ಉಂಡ್ರು. ಅಂಗಳದಲ್ಲಲ್ಲ, ಕೋರ್ಟಿನ ಕಾರಿಡಾರಲ್ಲಿ. ಅವ್ರು ಇದನ್ನ ನೋಡಿದ್ರೆ ನಗ್ತಿದ್ರೋ, ಅಳ್ತಿದ್ರೋ — ನನಗೆ ಗೊತ್ತಿಲ್ಲ ಕಣಪ್ಪ."
+    tr: "Nimmappa ā dinacarīli konege ēnu baredidru, Surēśa? ‘Mūrū makḷu ī mane aṅgaḷadalli oṭṭige kūtu uṇṇōdu nōḍbēku’ anta tānē? … Ivattu mūrū jana ondē beṇcina mēle uṇḍru. Aṅgaḷadallalla, kōrṭina kāriḍāralli. Avru idanna nōḍidre nagtidrō, aḷtidrō — nanage gottilla kaṇappa."
+    en: "(at the top of the court steps, watching Mahadeva's motorbike and Shobha's bus go off in opposite directions) What was the last thing your father wrote in that diary, Suresha? 'I must see all three children sitting together and eating in the yard of this house' — wasn't it? … Today all three of them ate on the same bench. Not in the yard — in a court corridor. If he saw this, would he laugh or would he cry? I don't know, son."
