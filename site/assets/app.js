@@ -11,7 +11,21 @@
   // ---------- install as an app (Android/Chrome shows a real Install button; iPhone gets a hint) ----------
   (() => {
     const installed = matchMedia('(display-mode: standalone)').matches || navigator.standalone;
-    if (installed || store.get('installDismissed', false)) return;
+    if (installed) return;
+    // a permanent "Install as app" button in the menu (the bottom bar can be dismissed)
+    let menuEvt = null;
+    const menuBtn = document.getElementById('installApp');
+    if (menuBtn) {
+      menuBtn.hidden = false;
+      addEventListener('beforeinstallprompt', e => { e.preventDefault(); menuEvt = e; });
+      menuBtn.onclick = async () => {
+        if (menuEvt) { menuEvt.prompt(); await menuEvt.userChoice; menuEvt = null; return; }
+        const m = document.getElementById('offlineMsg');
+        if (m) m.textContent = /iphone|ipad/i.test(navigator.userAgent) ? 'Tap Share, then "Add to Home Screen".' : 'Chrome menu ⋮ → "Add to Home screen" → Install.';
+      };
+      addEventListener('appinstalled', () => { menuBtn.hidden = true; });
+    }
+    if (store.get('installDismissed', false)) return;
     const bar = document.createElement('div');
     bar.className = 'installbar';
     bar.innerHTML = '<span><b>Install Hearthspeak</b><br><small>Open it from your home screen, works offline.</small></span><button class="go" type="button">Install</button><button class="x" type="button" aria-label="Not now">✕</button>';

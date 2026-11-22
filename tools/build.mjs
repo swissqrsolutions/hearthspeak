@@ -190,7 +190,7 @@ function navFor(cur) {
       ${ls.length ? `<ol class="navlessons">${items}</ol>` : '<div class="navsoon">Coming soon</div>'}`;
   }).join('');
   return `<aside id="nav" class="nav"><div class="navhead"><img src="../../assets/icon.svg?v=door" alt="" width="28" height="28"><span>Hearthspeak</span><button id="theme" class="themebtn" aria-label="Switch dark or light mode">${ICON.moon}${ICON.sun}</button></div>${courses}
-    <div class="navfoot"><button id="offline">Save all lessons for offline use</button><div id="offlineMsg" class="small"></div></div></aside>
+    <div class="navfoot"><button id="installApp" hidden>Install as app</button><button id="offline">Save all lessons for offline use</button><div id="offlineMsg" class="small"></div></div></aside>
   <div id="scrim" class="scrim"></div>`;
 }
 for (const x of built) fs.writeFileSync(x.out, x.page.replace('<!--NAV-->', navFor(x)));

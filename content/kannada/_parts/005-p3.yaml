@@ -1,0 +1,604 @@
+lines:
+  - chapter: "Chapter 7 — The season"
+  - section: "The weekend farmer"
+    learn: "offering help: holada kelasa ēnideyō hēḷu, māḍtīni · the nursery and the canal: sasimaḍi, nāṭi, kūḷe kabbu, kaṭṭu paddhati · rural commands: barigālalli bā, hiṅge hiḍkō · habitual past: appa haṅgē māḍtidru · first blisters: kaige guḷḷe bandide"
+  - scene: "Saturday, 6 June 2026, half past six in the morning. Bettahalli. Suresh's car stops at the gate. He wears an old shirt and a dhoti and carries a pair of rubber boots in a plastic bag; Rakshith, still sleepy, gets out of the back. Mahadeva is in the cattle shed, milking."
+  - who: mahadeva
+    t: "ಅಣ್ಣ? ಇಷ್ಟು ಬೆಳಿಗ್ಗೆ? ಕೋರ್ಟಿಂದ ಏನಾದ್ರೂ ಕಾಗದ ಬಂತಾ?"
+    tr: "Aṇṇa? Iṣṭu beḷigge? Kōrṭinda ēnādrū kāgada bantā?"
+    en: "Anna? This early? Has some paper come from the court?"
+  - who: suresh
+    t: "ಯಾವ ಕಾಗದಾನೂ ಇಲ್ಲ. ಇನ್ಮೇಲೆ ಪ್ರತಿ ಶನಿವಾರ-ಭಾನುವಾರ ಬರ್ತೀನಿ ಅಂತ ತೀರ್ಮಾನ ಮಾಡಿದೀನಿ. ಹೊಲದ ಕೆಲಸ ಏನಿದೆಯೋ ಹೇಳು, ಮಾಡ್ತೀನಿ."
+    tr: "Yāva kāgadānū illa. Inmēle prati Śanivāra-Bhānuvāra bartīni anta tīrmāna māḍidīni. Holada kelasa ēnideyō hēḷu, māḍtīni."
+    en: "No paper at all. I've decided I'll come every Saturday and Sunday from now on. Tell me whatever work there is in the fields, and I'll do it."
+  - who: mahadeva
+    t: "ನೀನಾ? ಬ್ಯಾಂಕ್ ಮ್ಯಾನೇಜರು ಗದ್ದೆಗೆ ಇಳೀತಾರಾ? ಕೋರ್ಟಲ್ಲಿ ‘ನಾನೂ ಬೇಸಾಯ ಮಾಡ್ದೆ’ ಅಂತ ಹೇಳೋಕೆ ಸಾಕ್ಷಿ ಮಾಡ್ಕಳ್ತಿದೀಯಾ?"
+    tr: "Nīnā? Byāṅk myānējaru gaddege iḷītārā? Kōrṭalli ‘nānū bēsāya māḍde’ anta hēḷōke sākṣi māḍkaḷtidīyā?"
+    en: "You? A bank manager stepping down into the wet field? Are you collecting evidence so you can tell the court 'I farmed too'?"
+  - who: suresh
+    t: "ಕೋರ್ಟಲ್ಲಿ ನಾನು ಏನೂ ಕೇಳ್ತಿಲ್ಲ, ಮಹದೇವ. ಆದ್ರೆ ಇಪ್ಪತ್ತು ವರ್ಷ ನೀನೊಬ್ಬನೇ ಹೊತ್ತಿದ್ದನ್ನ ನಾನು ಒಂದು ದಿನಾನೂ ಹೊತ್ತಿಲ್ಲ. ಪಾಲಿನ ಮಾತಾಡೋಕೆ ಮುಂಚೆ ಆ ಭಾರ ಎಷ್ಟು ಅಂತ ನನಗೆ ಗೊತ್ತಾಗ್ಬೇಕು."
+    tr: "Kōrṭalli nānu ēnū kēḷtilla, Mahadēva. Ādre ippattu varṣa nīnobbanē hottiddanna nānu ondu dinānū hottilla. Pālina mātāḍōke mun̄ce ā bhāra eṣṭu anta nanage gottāgbēku."
+    en: "I'm not asking for anything in court, Mahadeva. But what you carried alone for twenty years, I haven't carried for a single day. Before anyone talks about shares, I need to know how heavy that load is."
+  - who: avva
+    t: "ಬಂದವನನ್ನ ಬಾಗಿಲಲ್ಲೇ ನಿಲ್ಲಿಸಿ ಪ್ರಶ್ನೆ ಕೇಳ್ತೀಯಾ ಮಹದೇವ? ಮೊದ್ಲು ಕಾಫಿ ಕುಡೀಲಿ. ಆಮೇಲೆ ಬೇಕಾದ್ರೆ ಗುದ್ದಲಿ ಕೊಡು."
+    tr: "Bandavananna bāgilallē nillisi praśne kēḷtīyā Mahadēva? Modlu kāphi kuḍīli. Āmēle bēkādre guddali koḍu."
+    en: "(from the veranda) Are you going to keep him standing at the door and question him, Mahadeva? Let him drink his coffee first. Then give him a spade if you like."
+  - who: mahadeva
+    t: "ಸರಿ. ಕಾಫಿ ಆದ್ಮೇಲೆ ಸಸಿಮಡಿ ಹತ್ರ ಬಾ. ಬೂಟು ಬೇಡ, ಕೆಸರಲ್ಲಿ ಹೂತ್ಕಂಡು ಹೋಗುತ್ತೆ. ಬರಿಗಾಲಲ್ಲಿ ಬಾ."
+    tr: "Sari. Kāphi ādmēle sasimaḍi hatra bā. Būṭu bēḍa, kesaralli hūtkaṇḍu hōgutte. Barigālalli bā."
+    en: "All right. After coffee, come to the nursery bed. No boots — they'll sink in the mud. Come barefoot."
+  - scene: "An hour later. Beside the canal, on the one-acre strip of survey 112 where the old cane was cut in May, Mahadeva has raised a small nursery bed of paddy seedlings. The rest of the wet land is green with young cane."
+  - who: suresh
+    t: "ಇಲ್ಲಿ ಕಬ್ಬು ಇತ್ತಲ್ಲ? ಈಗ ಭತ್ತ ಯಾಕೆ?"
+    tr: "Illi kabbu ittalla? Īga bhatta yāke?"
+    en: "Wasn't there cane here? Why paddy now?"
+  - who: mahadeva
+    t: "ಮೇ ತಿಂಗಳಲ್ಲಿ ಈ ಒಂದು ಎಕರೆ ಕಬ್ಬು ಕಡಿದ್ವಿ. ಮೂರು ವರ್ಷ ಕೂಳೆ ಕಬ್ಬು ಬಿಟ್ಟಿದ್ವಿ, ಮಣ್ಣು ಸುಸ್ತಾಗಿದೆ. ಒಂದು ಬೆಳೆ ಭತ್ತ ಹಾಕಿದ್ರೆ ಮಣ್ಣಿಗೂ ವಿಶ್ರಾಂತಿ, ಮನೆಗೂ ವರ್ಷದ ಅಕ್ಕಿ. ಅಪ್ಪ ಯಾವಾಗ್ಲೂ ಹಂಗೇ ಮಾಡ್ತಿದ್ರು."
+    tr: "Mē tiṅgaḷalli ī ondu ekare kabbu kaḍidvi. Mūru varṣa kūḷe kabbu biṭṭidvi, maṇṇu sustāgide. Ondu beḷe bhatta hākidre maṇṇigū viśrānti, manegū varṣada akki. Appa yāvāglū haṅgē māḍtidru."
+    en: "In May we cut the cane on this one acre. We'd let it grow back as ratoon for three years; the soil is tired. Put in one crop of paddy, and the soil gets a rest and the house gets a year's rice. Appa always did it that way."
+  - who: rakshith
+    t: "ಚಿಕ್ಕಪ್ಪ, ‘ಕೂಳೆ ಕಬ್ಬು’ ಅಂದ್ರೆ ಏನು? ನಂಗೆ ಹಳ್ಳಿ ಪದಗಳು ಇನ್ನೂ ಪೂರ್ತಿ ಅರ್ಥ ಆಗಲ್ಲ."
+    tr: "Cikkappa, ‘kūḷe kabbu’ andre ēnu? Naṅge haḷḷi padagaḷu innū pūrti artha āgalla."
+    en: "Chikkappa, what does 'koole kabbu' mean? I still don't fully understand village words."
+  - who: mahadeva
+    t: "ಕಬ್ಬು ಕಡಿದ ಮೇಲೆ ಬುಡ ಮಣ್ಣಲ್ಲೇ ಇರುತ್ತೆ. ಅದಕ್ಕೆ ನೀರು, ಗೊಬ್ಬರ ಕೊಟ್ರೆ ಮತ್ತೆ ಚಿಗುರುತ್ತೆ — ಹೊಸ ಬೀಜ ಬೇಕಿಲ್ಲ. ಅದೇ ಕೂಳೆ. ಖರ್ಚು ಕಮ್ಮಿ, ಆದ್ರೆ ಪ್ರತಿ ವರ್ಷ ಇಳುವರಿ ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ಕಮ್ಮಿ ಆಗುತ್ತೆ. ನಮ್ಮಂಗೇ — ವಯಸ್ಸಾದಂಗೆ."
+    tr: "Kabbu kaḍida mēle buḍa maṇṇallē irutte. Adakke nīru, gobbara koṭre matte cigurutte — hosa bīja bēkilla. Adē kūḷe. Kharcu kammi, ādre prati varṣa iḷuvari svalpa svalpa kammi āgutte. Nammaṅgē — vayassādaṅge."
+    en: "When the cane is cut, the stump stays in the soil. Give it water and fertiliser and it sprouts again — no new seed needed. That's the ratoon. Less expense, but every year the yield drops a little. Just like us — as we get older."
+  - who: suresh
+    t: "ನಾಟಿ ಯಾವಾಗ? ಸಸಿ ಚೆನ್ನಾಗಿ ಬಂದಿದೆ."
+    tr: "Nāṭi yāvāga? Sasi cennāgi bandide."
+    en: "When's the transplanting? The seedlings have come up well."
+  - who: mahadeva
+    t: "ಅದು ನಮ್ಮ ಕೈಲಿಲ್ಲ. ನಾಲೆಗೆ ನೀರು ಬಿಟ್ಟಾಗ. ಕೆಆರ್‌ಎಸ್ ತುಂಬಿದ್ರೆ ವಿಶ್ವೇಶ್ವರಯ್ಯ ನಾಲೆಗೆ ಜುಲೈನಲ್ಲಿ ನೀರು ಬರುತ್ತೆ ಅಂತಾರೆ. ಅದೂ ಕಟ್ಟು ಪದ್ಧತಿಯಲ್ಲಿ — ಕೆಲವು ದಿನ ನೀರು, ಕೆಲವು ದಿನ ಇಲ್ಲ. ಅಷ್ಟರಲ್ಲಿ ತಮಿಳುನಾಡಿಗೆ ಎಷ್ಟು ಬಿಡ್ಬೇಕು ಅಂತ ದೆಹಲಿಯಲ್ಲಿ ಮೀಟಿಂಗು. ನಮ್ಮ ಸಸಿ ಕಾಯ್ತಾ ಇರುತ್ತೆ."
+    tr: "Adu namma kaililla. Nālege nīru biṭṭāga. Ke-Ār-Es tumbidre Viśvēśvarayya nālege Julai-nalli nīru barutte antāre. Adū kaṭṭu paddhatiyalli — kelavu dina nīru, kelavu dina illa. Aṣṭaralli Tamiḷunāḍige eṣṭu biḍbēku anta Dehaliyalli mīṭiṅgu. Namma sasi kāytā irutte."
+    en: "That's not in our hands. It's when they release water into the canal. If KRS fills, they say water will come down the Visvesvaraya Canal in July. And even then by rotation — some days water, some days none. Meanwhile there are meetings in Delhi about how much must go to Tamil Nadu. And our seedlings sit here waiting."
+  - who: suresh
+    t: "ಬ್ಯಾಂಕಲ್ಲಿ ನಾನು ರೈತರ ಸಾಲದ ಫೈಲ್ ನೋಡ್ತೀನಿ — ‘ಬೆಳೆ: ಭತ್ತ, ನೀರಾವರಿ: ನಾಲೆ’ ಅಂತ ಒಂದು ಕಾಲಂ. ಆ ಒಂದು ಕಾಲಂ ಹಿಂದೆ ಇಷ್ಟು ಕಾಯೋದಿದೆ ಅಂತ ನಂಗೆ ಯಾವತ್ತೂ ಅನ್ನಿಸಿರಲಿಲ್ಲ."
+    tr: "Byāṅkalli nānu raitara sālada phail nōḍtīni — ‘beḷe: bhatta, nīrāvari: nāle’ anta ondu kālam. Ā ondu kālam hinde iṣṭu kāyōdide anta naṅge yāvattū annisiralilla."
+    en: "At the bank I look at farmers' loan files — there's one column: 'Crop: paddy. Irrigation: canal.' It never once struck me how much waiting lies behind that one column."
+  - who: mahadeva
+    t: "ಕಾಲಂನಲ್ಲಿ ಕಾಯೋದು ಕಾಣ್ಸಲ್ಲ ಕಣಣ್ಣ. ತಗೋ, ಈ ಬದುವಿನ ಕಳೆ ಕಿತ್ತು ಹಾಕು. ಕುಡುಗೋಲು ಹಿಂಗೆ ಹಿಡ್ಕೋ — ಇಲ್ಲಾಂದ್ರೆ ಬೆರಳು ಹೋಗುತ್ತೆ."
+    tr: "Kālam-nalli kāyōdu kāṇsalla kaṇaṇṇa. Tagō, ī baduvina kaḷe kittu hāku. Kuḍugōlu hiṅge hiḍkō — illāndre beraḷu hōgutte."
+    en: "Waiting doesn't show in a column, Anna. Here — pull the weeds off this bund. Hold the sickle like this, or you'll lose a finger."
+  - scene: "Noon. Suresh straightens his back with a groan. His palms are red; a blister has risen at the base of his thumb."
+  - who: rakshith
+    t: "ಅಪ್ಪ, ನಿನ್ನ ಕೈಗೆ ಗುಳ್ಳೆ ಬಂದಿದೆ! ಜಿಮ್‌ನಲ್ಲೂ ಹೀಗಾಗಲ್ಲ."
+    tr: "Appa, ninna kaige guḷḷe bandide! Jim-nallū hīgāgalla."
+    en: "Appa, you've got a blister on your hand! Even the gym doesn't do that."
+  - who: mahadeva
+    t: "ಮೊದಲ ದಿನ ಎಲ್ರಿಗೂ ಬರುತ್ತೆ. ಹದಿನೈದು ವರ್ಷದವನಾಗಿದ್ದಾಗ ನಂಗೂ ಬಂದಿತ್ತು. ಅಪ್ಪ ಹರಳೆಣ್ಣೆ ಹಚ್ಚಿ ‘ನಾಳೆ ಮತ್ತೆ ಬಾ’ ಅಂದಿದ್ರು. … ನೀನೂ ನಾಳೆ ಬರ್ತೀಯಾ ಅಣ್ಣ?"
+    tr: "Modala dina ellrigū barutte. Hadinaidu varṣadavanāgiddāga naṅgū bandittu. Appa haraḷeṇṇe hacci ‘nāḷe matte bā’ andidru. … Nīnū nāḷe bartīyā aṇṇa?"
+    en: "Everyone gets one the first day. I got one too, when I was fifteen. Appa rubbed castor oil on it and said, 'Come again tomorrow.' … Will you come tomorrow too, Anna?"
+  - who: suresh
+    t: "ನಾಳೆ ಮಾತ್ರ ಅಲ್ಲ. ಈ ಬೆಳೆ ಕೊಯ್ಲು ಆಗೋವರೆಗೂ ಬರ್ತೀನಿ. ಆಮೇಲೆ ಏನಾಗುತ್ತೋ ನೋಡೋಣ."
+    tr: "Nāḷe mātra alla. Ī beḷe koylu āgōvaregū bartīni. Āmēle ēnāguttō nōḍōṇa."
+    en: "Not just tomorrow. I'll keep coming until this crop is harvested. After that, we'll see what happens."
+  - who: mahadeva
+    t: "ನೋಡೋಣ."
+    tr: "Nōḍōṇa."
+    en: "(not looking up, but his voice has softened) We'll see."
+
+  - section: "The field officer"
+    learn: "the mill's terms: kabbina nōndaṇi, kaṭāvu ādēśa, rikavari, tūka · prices: nyāyasammata mattu lābhadāyaka bele (ephārpi), kviṇṭālige, ṭannige, kaṭāvu-sāgaṇe kharcu kaḷedu · law vs practice: hadinālku dinadoḷage pāvati, baḍḍi sērisi · an honest official: nānu hēḷōdu kāgadadalli irōdu mātra · consent: oppige patra"
+  - scene: "Saturday, 18 July 2026. The rain has come in fits and starts; KRS is filling. A young man on a motorbike, with a tablet in a plastic cover and a sugar factory ID card on a ribbon, stops on the cart track beside survey 112. He is the field officer who registers cane and fixes the cutting schedule."
+  - who: millman
+    t: "ನಮಸ್ಕಾರ. ನಾನು ಕಾರ್ಖಾನೆಯ ಕ್ಷೇತ್ರ ಅಧಿಕಾರಿ, ಪ್ರದೀಪ್. ಸರ್ವೆ ನಂಬರ್ ನೂರಾ ಹನ್ನೆರಡರ ಕಬ್ಬಿನ ನೋಂದಣಿ ಪರಿಶೀಲನೆಗೆ ಬಂದಿದೀನಿ. ಚನ್ನೇಗೌಡರ ಹೆಸರಲ್ಲಿ ನೋಂದಣಿ ಇತ್ತು — ಅವರು…"
+    tr: "Namaskāra. Nānu kārkhāneya kṣētra adhikāri, Pradīp. Sarve nambar nūrā hanneraḍara kabbina nōndaṇi pariśīlanege bandidīni. Cannēgauḍara hesaralli nōndaṇi ittu — avaru…"
+    en: "Namaskara. I'm the factory's field officer, Pradeep. I've come to check the cane registration for survey number one hundred and twelve. The registration was in Channegowda's name — he…"
+  - who: mahadeva
+    t: "ಡಿಸೆಂಬರ್‌ನಲ್ಲಿ ಹೋದ್ರು ಸಾರ್. ಈಗ ಪಹಣಿಯಲ್ಲಿ ನಾವು ನಾಲ್ಕು ಜನದ ಹೆಸರಿದೆ. ಬೇಸಾಯ ನಾನು ಮಾಡ್ತೀನಿ — ತಹಸೀಲ್ದಾರ್ ಆರ್ಡರಲ್ಲೂ ಬರೆದಿದೆ, ಕೋರ್ಟೂ ಅದನ್ನೇ ಹೇಳಿದೆ."
+    tr: "Ḍisembar-nalli hōdru sār. Īga pahaṇiyalli nāvu nālku janada hesaride. Bēsāya nānu māḍtīni — tahasīldār ārḍarallū baredide, kōrṭū adannē hēḷide."
+    en: "He passed away in December, sir. Now the RTC has all four of our names. I'm the one who farms — it's written in the Tahsildar's order, and the court has said the same."
+  - who: millman
+    t: "ಹಾಗಾದ್ರೆ ನೋಂದಣಿಯನ್ನ ನಿಮ್ಮ ಹೆಸರಿಗೆ ಬದಲಾಯಿಸಬೇಕು. ಹೊಸ ಪಹಣಿ, ಮರಣ ಪ್ರಮಾಣಪತ್ರ, ಉಳಿದ ವಾರಸುದಾರರ ಒಪ್ಪಿಗೆ ಪತ್ರ, ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್ — ಹಣ ನೇರ ಖಾತೆಗೆ ಹೋಗೋದು. ಒಪ್ಪಿಗೆ ಪತ್ರ ಇಲ್ಲದಿದ್ರೆ ಕಾರ್ಖಾನೆ ಹಣ ಯಾರ ಖಾತೆಗೆ ಹಾಕ್ಬೇಕು ಅಂತ ಗೊಂದಲ ಆಗುತ್ತೆ."
+    tr: "Hāgādre nōndaṇiyanna nimma hesarige badalāyisabēku. Hosa pahaṇi, maraṇa pramāṇapatra, uḷida vārasudārara oppige patra, nimma byāṅk pās-buk — haṇa nēra khātege hōgōdu. Oppige patra illadidre kārkhāne haṇa yāra khātege hākbēku anta gondala āgutte."
+    en: "Then the registration has to be changed to your name. The new RTC, the death certificate, a consent letter from the other heirs, your bank passbook — the money goes straight into the account. Without the consent letter there'll be confusion over whose account the factory should pay into."
+  - who: suresh
+    t: "ಒಪ್ಪಿಗೆ ಪತ್ರಕ್ಕೆ ನಾನು ಇವತ್ತೇ ಸಹಿ ಹಾಕ್ತೀನಿ. ಅವ್ವನೂ ಹೆಬ್ಬೆಟ್ಟು ಒತ್ತುತ್ತಾಳೆ. ತಂಗಿ ಮೈಸೂರಲ್ಲಿದಾಳೆ — ಅವಳನ್ನ ನಾನು ಕೇಳ್ತೀನಿ."
+    tr: "Oppige patrakke nānu ivattē sahi hāktīni. Avvanū hebbeṭṭu ottuttāḷe. Taṅgi Maisūrallidāḷe — avaḷanna nānu kēḷtīni."
+    en: "I'll sign the consent letter today. Avva will give her thumbprint too. My sister is in Mysuru — I'll ask her."
+  - who: mahadeva
+    t: "ಅವಳು ಕೊಡ್ತಾಳಾ? ಕೋರ್ಟಲ್ಲಿ ಕೇಸ್ ಹಾಕಿದೋಳು?"
+    tr: "Avaḷu koḍtāḷā? Kōrṭalli kēs hākidōḷu?"
+    en: "(low, to Suresh) Will she give it? The one who filed a case in court?"
+  - who: suresh
+    t: "ಕೇಳಿ ನೋಡೋಣ. ಕೇಳದೇನೇ ‘ಕೊಡಲ್ಲ’ ಅಂತ ನಾವೇ ತೀರ್ಮಾನ ಮಾಡೋದು ಬೇಡ."
+    tr: "Kēḷi nōḍōṇa. Kēḷadēnē ‘koḍalla’ anta nāvē tīrmāna māḍōdu bēḍa."
+    en: "Let's ask and see. Let's not decide 'she won't' for her without even asking."
+  - who: rakshith
+    t: "ಸಾರ್, ಒಂದು ಪ್ರಶ್ನೆ. ಕಬ್ಬಿಗೆ ಬೆಲೆ ಯಾರು ತೀರ್ಮಾನ ಮಾಡ್ತಾರೆ? ಕಾರ್ಖಾನೆನಾ, ಸರ್ಕಾರಾನಾ?"
+    tr: "Sār, ondu praśne. Kabbige bele yāru tīrmāna māḍtāre? Kārkhānenā, sarkārānā?"
+    en: "Sir, one question. Who decides the price of cane? The factory or the government?"
+  - who: millman
+    t: "ಒಳ್ಳೆ ಪ್ರಶ್ನೆ. ಕೇಂದ್ರ ಸರ್ಕಾರ ಪ್ರತಿ ವರ್ಷ ‘ನ್ಯಾಯಸಮ್ಮತ ಮತ್ತು ಲಾಭದಾಯಕ ಬೆಲೆ’ — ಎಫ್‌ಆರ್‌ಪಿ — ನಿಗದಿ ಮಾಡುತ್ತೆ. ಕಳೆದ ಹಂಗಾಮಿಗೆ ಕ್ವಿಂಟಾಲಿಗೆ ಮುನ್ನೂರ ಐವತ್ತೈದು ರೂಪಾಯಿ, ಅಂದ್ರೆ ಟನ್ನಿಗೆ ಮೂರು ಸಾವಿರದ ಐನೂರ ಐವತ್ತು — ಹತ್ತು ಪಾಯಿಂಟ್ ಎರಡೈದು ಪರ್ಸೆಂಟ್ ರಿಕವರಿಗೆ. ರಿಕವರಿ ಅಂದ್ರೆ ಒಂದು ಟನ್ ಕಬ್ಬಿನಿಂದ ಎಷ್ಟು ಸಕ್ಕರೆ ಬರುತ್ತೆ ಅನ್ನೋದು. ರಿಕವರಿ ಜಾಸ್ತಿ ಆದ್ರೆ ಬೆಲೆ ಜಾಸ್ತಿ, ಕಮ್ಮಿ ಆದ್ರೆ ಕಮ್ಮಿ."
+    tr: "Oḷḷe praśne. Kēndra sarkāra prati varṣa ‘nyāyasammata mattu lābhadāyaka bele’ — ephārpi — nigadi māḍutte. Kaḷeda haṅgāmige kviṇṭālige munnūra aivattaidu rūpāyi, andre ṭannige mūru sāvirada ainūra aivattu — hattu pāyiṇṭ eraḍaidu parsenṭ rikavarige. Rikavari andre ondu ṭan kabbininda eṣṭu sakkare barutte annōdu. Rikavari jāsti ādre bele jāsti, kammi ādre kammi."
+    en: "Good question. Every year the central government fixes the 'fair and remunerative price' — the FRP. For last season it was three hundred and fifty-five rupees a quintal — three thousand five hundred and fifty a tonne — at a recovery of ten point two five percent. Recovery means how much sugar comes out of a tonne of cane. Higher recovery, higher price; lower recovery, lower price."
+  - who: mahadeva
+    t: "ಮತ್ತೆ ರಾಜ್ಯ ಸರ್ಕಾರದ ಮೂರು ಸಾವಿರದ ಮುನ್ನೂರು? ಕಳೆದ ನವೆಂಬರ್‌ನಲ್ಲಿ ಬೆಳಗಾವಿ ಕಡೆ ರೈತರು ರಸ್ತೆಗೆ ಇಳಿದಾಗ ಮುಖ್ಯಮಂತ್ರಿಗಳು ಘೋಷಣೆ ಮಾಡಿದ್ರಲ್ಲ? ಅದು ನಮಗೂ ಸಿಗುತ್ತಾ, ಇಲ್ಲಾ ಉತ್ತರ ಕರ್ನಾಟಕಕ್ಕೆ ಮಾತ್ರಾನಾ?"
+    tr: "Matte rājya sarkārada mūru sāvirada munnūru? Kaḷeda Navembar-nalli Beḷagāvi kaḍe raitaru rastege iḷidāga mukhyamantrigaḷu ghōṣaṇe māḍidralla? Adu namagū siguttā, illā uttara Karnāṭakakke mātrānā?"
+    en: "And the state government's three thousand three hundred? Last November, when the farmers took to the roads round Belagavi, didn't the Chief Minister announce it? Do we get that too, or is it only for North Karnataka?"
+  - who: millman
+    t: "ನೇರವಾಗಿ ಹೇಳ್ತೀನಿ, ಗೌಡ್ರೇ. ಆ ಮೂರು ಸಾವಿರದ ಮುನ್ನೂರು ಹನ್ನೊಂದೂಕಾಲು ಪರ್ಸೆಂಟ್ ರಿಕವರಿಗೆ, ಕಟಾವು-ಸಾಗಣೆ ಖರ್ಚು ಕಳೆದು ಅಂತ ನಮಗೆ ತಿಳಿಸಿದ್ರು. ನಮ್ಮ ಕಡೆ ರಿಕವರಿ ಅಷ್ಟು ಬರಲ್ಲ. ಮಂಡ್ಯದ ಕಾರ್ಖಾನೆಗಳು ಎಷ್ಟು ಕೊಡ್ತಾವೆ ಅನ್ನೋದು ಇನ್ನೂ ಸ್ಪಷ್ಟ ಇಲ್ಲ. ನಾನು ಹೇಳೋದು ಕಾಗದದಲ್ಲಿ ಇರೋದು ಮಾತ್ರ — ಆಮೇಲೆ ‘ಪ್ರದೀಪ್ ಹೇಳಿದ್ರು’ ಅಂತ ಹಿಡ್ಕೋಬೇಡಿ."
+    tr: "Nēravāgi hēḷtīni, gauḍrē. Ā mūru sāvirada munnūru hannondūkālu parsenṭ rikavarige, kaṭāvu-sāgaṇe kharcu kaḷedu anta namage tiḷisidru. Namma kaḍe rikavari aṣṭu baralla. Maṇḍyada kārkhānegaḷu eṣṭu koḍtāve annōdu innū spaṣṭa illa. Nānu hēḷōdu kāgadadalli irōdu mātra — āmēle ‘Pradīp hēḷidru’ anta hiḍkōbēḍi."
+    en: "I'll be straight with you, Gowdre. That three thousand three hundred is for eleven and a quarter percent recovery, after deducting harvesting and transport — that's what we were told. Recovery around here doesn't come that high. How much the Mandya factories will actually pay still isn't clear. I only tell you what's on paper — don't hold me to it later saying 'Pradeep said so'."
+  - who: suresh
+    t: "ಇನ್ನೊಂದು ವಿಷಯ ಸಾರ್. ಕಾನೂನು ಪ್ರಕಾರ ಕಬ್ಬು ಕೊಟ್ಟು ಹದಿನಾಲ್ಕು ದಿನದೊಳಗೆ ಹಣ ಪಾವತಿ ಆಗ್ಬೇಕು ಅಲ್ವಾ? ತಡ ಆದ್ರೆ ಬಡ್ಡಿ ಸೇರಿಸಿ ಕೊಡ್ಬೇಕು. ಕಳೆದ ಸಲದ ಕಬ್ಬಿನ ಹಣ ಅಪ್ಪ ತೀರಿಕೊಂಡಾಗ್ಲೂ ಬಂದಿರಲಿಲ್ಲ."
+    tr: "Innondu viṣaya sār. Kānūnu prakāra kabbu koṭṭu hadinālku dinadoḷage haṇa pāvati āgbēku alvā? Taḍa ādre baḍḍi sērisi koḍbēku. Kaḷeda salada kabbina haṇa appa tīrikoṇḍāglū bandiralilla."
+    en: "One more thing, sir. By law, payment has to be made within fourteen days of supplying the cane, doesn't it? If it's late, they must pay interest on top. The money for the last lot of cane hadn't come even when Appa died."
+  - who: millman
+    t: "ನಿಜ. ಕಾನೂನು ಹದಿನಾಲ್ಕು ದಿನ ಅನ್ನುತ್ತೆ. ಆದ್ರೆ ಸಕ್ಕರೆ ಮಾರಾಟ ಆಗಿಲ್ಲ, ಬಾಯ್ಲರ್ ಕೆಟ್ಟು ಅರೆಯೋದು ನಿಂತಿತ್ತು, ಕರೆಂಟ್ ಬಿಲ್ ಬಾಕಿ — ಹೀಗೆ ನೂರು ಕಾರಣ. ನಾನು ಕೆಲಸ ಮಾಡೋ ಕಾರ್ಖಾನೆ ಬಗ್ಗೆ ಕೆಟ್ಟದಾಗಿ ಮಾತಾಡಬಾರದು. ಆದ್ರೆ ನಾನೂ ರೈತನ ಮಗ, ಸಾರ್. ನಮ್ಮಪ್ಪಾನೂ ಕಬ್ಬಿನ ಹಣಕ್ಕೆ ಆರು ತಿಂಗಳು ಕಾದಿದ್ರು."
+    tr: "Nija. Kānūnu hadinālku dina annutte. Ādre sakkare mārāṭa āgilla, bāylar keṭṭu areyōdu nintittu, kareṇṭ bil bāki — hīge nūru kāraṇa. Nānu kelasa māḍō kārkhāne bagge keṭṭadāgi mātāḍabāradu. Ādre nānū raitana maga, sār. Nammappānū kabbina haṇakke āru tiṅgaḷu kādidru."
+    en: "True. The law says fourteen days. But the sugar hasn't sold, the boiler broke down and crushing stopped, the electricity bill is in arrears — a hundred reasons. I shouldn't speak ill of the factory I work for. But I'm a farmer's son too, sir. My own father waited six months for his cane money."
+  - who: mahadeva
+    t: "ಕಟಾವು ಯಾವಾಗ ಸಾರ್? ಈ ಎರಡೂವರೆ ಎಕರೆ ಕಬ್ಬಿಗೆ ಅಕ್ಟೋಬರ್‌ಗೆ ಹದಿನಾಲ್ಕು ತಿಂಗಳು ಆಗುತ್ತೆ. ಜಾಸ್ತಿ ದಿನ ನಿಂತ್ರೆ ಕಬ್ಬು ಒಣಗಿ ತೂಕ ಕಮ್ಮಿ ಆಗುತ್ತೆ."
+    tr: "Kaṭāvu yāvāga sār? Ī eraḍūvare ekare kabbige Akṭōbar-ge hadinālku tiṅgaḷu āgutte. Jāsti dina nintre kabbu oṇagi tūka kammi āgutte."
+    en: "When's the harvest, sir? This two and a half acres of cane will be fourteen months old by October. If it stands too long, the cane dries out and loses weight."
+  - who: millman
+    t: "ಅಕ್ಟೋಬರ್ ಕೊನೆ ವಾರಕ್ಕೆ ಕಟಾವು ಆದೇಶ ಹಾಕೋಕೆ ಪ್ರಯತ್ನ ಮಾಡ್ತೀನಿ. ಆದ್ರೆ ಕಡಿಯೋಕೆ ಆಳು ನೀವೇ ಹುಡುಕ್ಕೋಬೇಕು, ಇಲ್ಲಾ ಕಟಾವು ಯಂತ್ರ ಬಾಡಿಗೆಗೆ ತಗೋಬೇಕು. ಈಗ ಹಳ್ಳಿಗಳಲ್ಲಿ ಆಳುಗಳೇ ಸಿಗಲ್ಲ — ಹುಡುಗರೆಲ್ಲಾ ಬೆಂಗಳೂರಲ್ಲಿ ಕ್ಯಾಬ್ ಓಡಿಸ್ತಿದಾರೆ."
+    tr: "Akṭōbar kone vārakke kaṭāvu ādēśa hākōke prayatna māḍtīni. Ādre kaḍiyōke āḷu nīvē huḍukkōbēku, illā kaṭāvu yantra bāḍigege tagōbēku. Īga haḷḷigaḷalli āḷugaḷē sigalla — huḍugarellā Beṅgaḷūralli kyāb ōḍistidāre."
+    en: "I'll try to put in the harvest order for the last week of October. But you'll have to find cutters yourselves, or hire a harvester. You can't get labourers in the villages now — the young men are all driving cabs in Bengaluru."
+  - who: rakshith
+    t: "ಅಂದ್ರೆ ಕಬ್ಬು ಬೆಳೆಯೋದು ಒಂದು ಕಷ್ಟ, ಕಡಿಯೋದು ಇನ್ನೊಂದು ಕಷ್ಟ, ಹಣ ಬರೋದು ಮೂರನೇ ಕಷ್ಟ."
+    tr: "Andre kabbu beḷeyōdu ondu kaṣṭa, kaḍiyōdu innondu kaṣṭa, haṇa barōdu mūranē kaṣṭa."
+    en: "So growing the cane is one struggle, cutting it is another, and getting paid is the third."
+  - who: millman
+    t: "ನಾಲ್ಕನೇದೂ ಇದೆ ತಮ್ಮ — ಮಳೆ. ಅದು ಯಾರ ಸುತ್ತೋಲೆಗೂ ಸಿಗಲ್ಲ. ಬರ್ತೀನಿ ಗೌಡ್ರೇ. ಒಪ್ಪಿಗೆ ಪತ್ರ ಬೇಗ ಕಳಿಸಿ."
+    tr: "Nālkanēdū ide tamma — maḷe. Adu yāra suttōlegū sigalla. Bartīni gauḍrē. Oppige patra bēga kaḷisi."
+    en: "There's a fourth one too, young man — the rain. That doesn't obey anybody's circular. I'll be off, Gowdre. Send the consent letter soon."
+  - scene: "That evening Suresh calls Shobha and puts the phone on speaker. Mahadeva, filling the cattle trough, pretends not to listen."
+  - who: shobha
+    t: "ಒಪ್ಪಿಗೆ ಪತ್ರಾನಾ? … ಅಣ್ಣ, ಕಬ್ಬಿನ ಹಣ ಬೆವರು ಸುರಿಸಿದವನ ಖಾತೆಗೆ ಹೋಗ್ಬೇಕು. ಅದರಲ್ಲಿ ನನಗೆ ಯಾವ ತಕರಾರೂ ಇಲ್ಲ. ನಾಳೆ ವಕೀಲರಿಗೆ ತೋರಿಸಿ, ಸಹಿ ಹಾಕಿ ಕಳಿಸ್ತೀನಿ — ಕೇಸಿಗೆ ತೊಂದರೆ ಆಗಬಾರ್ದು, ಅಷ್ಟೇ."
+    tr: "Oppige patrānā? … Aṇṇa, kabbina haṇa bevaru surisidavana khātege hōgbēku. Adaralli nanage yāva takarārū illa. Nāḷe vakīlarige tōrisi, sahi hāki kaḷistīni — kēsige tondare āgabārdu, aṣṭē."
+    en: "A consent letter? … Anna, the cane money should go into the account of the man who sweated for it. I have no objection to that at all. Tomorrow I'll show it to the lawyer, sign it and send it — it just mustn't harm the case, that's all."
+  - who: mahadeva
+    t: "ಕೇಳಿದ್ಯಾ ಗೌರಿ? ‘ಬೆವರು ಸುರಿಸಿದವನು’ ಅಂದ್ಲು."
+    tr: "Kēḷidyā Gauri? ‘Bevaru surisidavanu’ andlu."
+    en: "(to the cow, after the call ends) Did you hear that, Gauri? 'The man who sweated for it,' she said."
+
+  - section: "Night water"
+    learn: "a court notice: mundūḍalāgide, pīṭhāsīna adhikārigaḷu, svīkarisalāgide, jaṇṭi arji · night irrigation: badu oḍedide, nīru kaṭṭōdu, namma sarati · the failed borewell: ārunūrā aivattu aḍi, ondu hani nīrū barlilla, battōytu · admitting fault: adu nanna tappu, kēḷiskoḷḷalilla · proposing peace: alli hōgōṇa, Śōbhā oppidre"
+  - scene: "Friday, 14 August 2026. The Maddur court complex. The cause list is pinned to the notice board; beside the number of Shobha's suit is one word in red ink. Suresh and Mahadeva have come together, on Mahadeva's motorbike. Advocate Nagendra reads the board."
+  - who: lawyer
+    t: "‘ಮುಂದೂಡಲಾಗಿದೆ.’ ಪೀಠಾಸೀನ ಅಧಿಕಾರಿಗಳು ತರಬೇತಿಗೆ ಹೋಗಿದಾರೆ. ಲಿಖಿತ ಹೇಳಿಕೆಗಳನ್ನ ಕಚೇರಿಯಲ್ಲಿ ಸ್ವೀಕರಿಸಲಾಗಿದೆ. ಮುಂದಿನ ದಿನಾಂಕ ನವೆಂಬರ್ ಇಪ್ಪತ್ತೇಳು."
+    tr: "‘Mundūḍalāgide.’ Pīṭhāsīna adhikārigaḷu tarabētige hōgidāre. Likhita hēḷikegaḷanna kacēriyalli svīkarisalāgide. Mundina dināṅka Navembar ippattēḷu."
+    en: "'Adjourned.' The presiding officer has gone for training. The written statements have been received at the office. Next date: the twenty-seventh of November."
+  - who: mahadeva
+    t: "ಮೂರು ತಿಂಗಳು ಕಾದು, ಒಂದು ಪದ. ‘ಮುಂದೂಡಲಾಗಿದೆ.’ ಇದಕ್ಕೆ ನಾನು ನಾಟಿ ಮಾಡಿದ ಗದ್ದೆ ಬಿಟ್ಟು ಬಂದೆ."
+    tr: "Mūru tiṅgaḷu kādu, ondu pada. ‘Mundūḍalāgide.’ Idakke nānu nāṭi māḍida gadde biṭṭu bande."
+    en: "Three months of waiting, and one word. 'Adjourned.' For this I left a freshly planted field and came."
+  - who: lawyer
+    t: "ಮೊದಲ ವರ್ಷ ಹೀಗೇ, ಮಹದೇವ ಅವರೇ. ಬೇಸರ ಮಾಡ್ಕೋಬೇಡಿ — ನಿಮ್ಮ ವಕೀಲರಿಗೂ ನನಗೂ ಇದು ಹೊಸದಲ್ಲ. ಆದ್ರೆ ಒಂದು ಗಮನಿಸಿದೆ: ಇವತ್ತು ನೀವಿಬ್ರೂ ಒಂದೇ ಬೈಕಲ್ಲಿ ಬಂದ್ರಿ."
+    tr: "Modala varṣa hīgē, Mahadēva avarē. Bēsara māḍkōbēḍi — nimma vakīlarigū nanagū idu hosadalla. Ādre ondu gamaniside: ivattu nīvibbrū ondē baikalli bandri."
+    en: "The first year goes like this, Mr Mahadeva. Don't be disheartened — it's nothing new to your lawyer or to me. But I noticed one thing: today the two of you came on one motorbike."
+  - who: suresh
+    t: "ಬಸ್ಸು ತಪ್ಪಿತು ಸಾರ್, ಅಷ್ಟೇ."
+    tr: "Bassu tappitu sār, aṣṭē."
+    en: "(a little embarrassed) I missed the bus, sir, that's all."
+  - who: lawyer
+    t: "ಇಪ್ಪತ್ತೆರಡು ವರ್ಷದಲ್ಲಿ ಎಷ್ಟೋ ಜನ ‘ಬಸ್ಸು ತಪ್ಪಿತು’ ಅಂತ ಶುರು ಮಾಡಿ ರಾಜಿ ಆಗಿದಾರೆ. ಯೋಚನೆ ಮಾಡಿ. ಮುಂದಿನ ದಿನಾಂಕಕ್ಕೆ ಮುಂಚೆ ಮೂರೂ ಜನ ಒಪ್ಪಿ ಜಂಟಿ ಅರ್ಜಿ ಕೊಟ್ರೆ, ಕೋರ್ಟು ಕೇಸನ್ನ ಲೋಕ ಅದಾಲತ್‌ಗೆ ಕಳಿಸಬಹುದು."
+    tr: "Ippatteraḍu varṣadalli eṣṭō jana ‘bassu tappitu’ anta śuru māḍi rāji āgidāre. Yōcane māḍi. Mundina dināṅkakke mun̄ce mūrū jana oppi jaṇṭi arji koṭre, kōrṭu kēsanna Lōka Adālat-ge kaḷisabahudu."
+    en: "In twenty-two years I've seen plenty of people begin with 'I missed the bus' and end up settling. Think about it. If all three of you agree and file a joint application before the next date, the court can send the case to the Lok Adalat."
+  - scene: "Sunday, 16 August 2026, two in the morning. The canal water reached Bettahalli's branch channel on Friday; tonight is the family's turn. Torchlight, frogs, the sound of running water. The brothers stand ankle-deep in the transplanted paddy."
+  - who: mahadeva
+    t: "ಆ ಕಡೆ ಬದು ಒಡೆದಿದೆ ಅಣ್ಣ, ನೀರು ಪಕ್ಕದವರ ಗದ್ದೆಗೆ ಹೋಗ್ತಿದೆ! ಮಣ್ಣು ಹಾಕು, ಬೇಗ!"
+    tr: "Ā kaḍe badu oḍedide aṇṇa, nīru pakkadavara gaddege hōgtide! Maṇṇu hāku, bēga!"
+    en: "The bund's broken over there, Anna — the water's running into the neighbour's field! Throw some earth on it, quick!"
+  - who: suresh
+    t: "ಆಯ್ತು… ನಿಂತ್ಕೊಳ್ತು. ರಾತ್ರಿ ಎರಡು ಗಂಟೆಗೆ ನೀರು ಕಟ್ಟೋದು — ಇದನ್ನ ನೀನು ಇಪ್ಪತ್ತು ವರ್ಷ ಮಾಡಿದ್ಯಾ?"
+    tr: "Āytu… nintkoḷtu. Rātri eraḍu gaṇṭege nīru kaṭṭōdu — idanna nīnu ippattu varṣa māḍidyā?"
+    en: "Done… it's holding. Watering at two in the morning — you did this for twenty years?"
+  - who: mahadeva
+    t: "ನಮ್ಮ ಸರತಿ ರಾತ್ರಿ ಬಂದ್ರೆ ರಾತ್ರಿ, ಮಧ್ಯಾಹ್ನ ಬಂದ್ರೆ ಮಧ್ಯಾಹ್ನ. ನಾಲೆ ನಮ್ಮ ನಿದ್ದೆ ಕೇಳಲ್ಲ. ಸರತಿ ತಪ್ಪಿದ್ರೆ ಮುಂದಿನ ಕಟ್ಟು ಬರೋವರೆಗೆ ಪೈರು ಬಾಯಿ ಬಿಟ್ಕಂಡು ಕಾಯ್ಬೇಕು."
+    tr: "Namma sarati rātri bandre rātri, madhyāhna bandre madhyāhna. Nāle namma nidde kēḷalla. Sarati tappidre mundina kaṭṭu barōvarege pairu bāyi biṭkaṇḍu kāybēku."
+    en: "If our turn comes at night, it's night; if it comes at noon, it's noon. The canal doesn't ask about our sleep. Miss your turn, and the crop has to wait with its mouth open till the next rotation."
+  - who: suresh
+    t: "ಬೋರ್‌ವೆಲ್‌ನಲ್ಲಿ ನೀರು ಸಿಕ್ಕಿದ್ರೆ ಈ ಕಾಯೋದು ತಪ್ಪುತ್ತಿತ್ತು ಅಂತ ಅನ್ಕೊಂಡಿದ್ದೆ. … ಆರುನೂರಾ ಐವತ್ತು ಅಡಿ, ಮಹದೇವ. ಒಂದು ಹನಿ ನೀರೂ ಬರ್ಲಿಲ್ಲ. ಬರೀ ಧೂಳು."
+    tr: "Bōrvel-nalli nīru sikkidre ī kāyōdu tapputtittu anta ankoṇḍidde. … Ārunūrā aivattu aḍi, Mahadēva. Ondu hani nīrū barlilla. Barī dhūḷu."
+    en: "I'd thought that if the borewell struck water, all this waiting would end. … Six hundred and fifty feet, Mahadeva. Not one drop of water came up. Only dust."
+  - who: mahadeva
+    t: "ನಾನು ಮೊದಲೇ ಹೇಳಿದ್ದೆ. ಆ ಹೊಲದ ಕೆಳಗೆ ಕಲ್ಲು. ಪಕ್ಕದ ಫಾರ್ಮ್‌ಹೌಸ್‌ನವರು ಏಳುನೂರು ಅಡಿ ಕೊರೆಸಿದಾಗಲೇ ನಮ್ಮ ಹಳೇ ಬಾವಿ ಬತ್ತೋಯ್ತು. ಭೂಮಿತಾಯಿ ‘ಇಲ್ಲ’ ಅಂದ್ರೆ ಇಲ್ಲ, ಅಣ್ಣ. ಒಂದು ಲಕ್ಷದ ಹತ್ತಿರ ನಿನ್ನ ದುಡ್ಡು ಮಣ್ಣಲ್ಲಿ ಹೋಯ್ತು."
+    tr: "Nānu modalē hēḷidde. Ā holada keḷage kallu. Pakkada phārm-haus-navaru ēḷunūru aḍi koresidāgalē namma haḷē bāvi battōytu. Bhūmitāyi ‘illa’ andre illa, aṇṇa. Ondu lakṣada hattira ninna duḍḍu maṇṇalli hōytu."
+    en: "I told you beforehand. Under that field there's rock. When the farmhouse people next door drilled seven hundred feet, our old well dried up. When Mother Earth says 'no', it's no, Anna. Close to a lakh of your money has gone into the ground."
+  - who: suresh
+    t: "ದುಡ್ಡು ಹೋಯ್ತು, ಹೋಗ್ಲಿ. ನೀನು ‘ಬೇಡ’ ಅಂದಾಗ ನಾನು ಕೇಳಿಸ್ಕೊಳ್ಳಲಿಲ್ಲ — ಅದು ನನ್ನ ತಪ್ಪು. ಬ್ಯಾಂಕಲ್ಲಿ ಕೂತು ‘ನಾನೇ ಸರಿ’ ಅನ್ನೋ ಅಭ್ಯಾಸ, ಅದನ್ನ ಹೊಲಕ್ಕೂ ತಂದೆ."
+    tr: "Duḍḍu hōytu, hōgli. Nīnu ‘bēḍa’ andāga nānu kēḷiskoḷḷalilla — adu nanna tappu. Byāṅkalli kūtu ‘nānē sari’ annō abhyāsa, adanna holakkū tande."
+    en: "The money's gone — let it go. When you said 'don't', I didn't listen — that was my mistake. The habit of sitting in a bank thinking 'I'm always right' — I brought that to the field too."
+  - who: mahadeva
+    t: "ಅಣ್ಣ… ನೀನು ತಪ್ಪು ಒಪ್ಪಿಕೊಳ್ಳೋದು ನಾನು ನೋಡ್ತಿರೋದು ಇದು ಎರಡನೇ ಸಲ. ಮೊದಲನೇದು ಪಂಚಾಯ್ತಿ ರಾತ್ರಿ, ಶೋಭಾ ಮದುವೆ ವಿಷಯದಲ್ಲಿ."
+    tr: "Aṇṇa… nīnu tappu oppikoḷḷōdu nānu nōḍtirōdu idu eraḍanē sala. Modalanēdu pan̄cāyti rātri, Śōbhā maduve viṣayadalli."
+    en: "Anna… this is only the second time I've seen you admit a mistake. The first was the night of the panchayati, over Shobha's wedding."
+  - who: suresh
+    t: "ಮೂರನೇದೂ ಇದೆ. ಶುಕ್ರವಾರ ಆ ಕೆಂಪು ಶಾಯಿಯ ಒಂದು ಪದ ನೋಡಿದ ಮೇಲೆ ಅರ್ಥ ಆಯ್ತು — ನಾಗೇಂದ್ರ ಅವರು ಹೇಳಿದ ಹಾಗೇ ಆಗ್ತಿದೆ. ವರ್ಷಕ್ಕೆ ಮೂರು ದಿನಾಂಕ, ಹತ್ತು ವರ್ಷಕ್ಕೆ ಮೂವತ್ತು. ಮಹದೇವ, ನಾನು ಆ ಕೇಸಲ್ಲಿ ಸುಮ್ನೆ ನಿಂತಿದ್ದೇ ತಪ್ಪು. ಅಣ್ಣ ಆಗಿ ನಾನು ಮೊದಲೇ ನಿಮ್ಮಿಬ್ರನ್ನೂ ಕೂರಿಸ್ಬೇಕಿತ್ತು."
+    tr: "Mūranēdū ide. Śukravāra ā kempu śāyiya ondu pada nōḍida mēle artha āytu — Nāgēndra avaru hēḷida hāgē āgtide. Varṣakke mūru dināṅka, hattu varṣakke mūvattu. Mahadēva, nānu ā kēsalli sumne nintiddē tappu. Aṇṇa āgi nānu modalē nimmibbrannū kūrisbēkittu."
+    en: "There's a third, too. After seeing that one word in red ink on Friday, I understood — it's going exactly the way Nagendra said. Three dates a year; thirty in ten years. Mahadeva, my just standing by silently in that case was itself a mistake. As the eldest, I should have sat the two of you down long ago."
+  - who: mahadeva
+    t: "ಅಣ್ಣ, ನಾನೊಂದು ಹೇಳ್ಲಾ? ಮೂರು ತಿಂಗಳಿಂದ ನೀನು ಪ್ರತಿ ಶನಿವಾರ ಬರ್ತಿದೀಯ. ಕಳೆ ಕಿತ್ತೆ, ನಾಟಿ ಮಾಡ್ದೆ, ಬೋರ್‌ಗೆ ದುಡ್ಡು ಹಾಕ್ದೆ, ಈಗ ರಾತ್ರಿ ಎರಡು ಗಂಟೆಗೆ ಕೆಸರಲ್ಲಿ ನಿಂತಿದೀಯ. ಯಾರಿಗಾಗಿ? ಪಾಲಿಗಾಗಿ ಅಲ್ಲ ಅಂತ ನನಗೀಗ ಗೊತ್ತು."
+    tr: "Aṇṇa, nānondu hēḷlā? Mūru tiṅgaḷinda nīnu prati Śanivāra bartidīya. Kaḷe kitte, nāṭi māḍde, bōr-ge duḍḍu hākde, īga rātri eraḍu gaṇṭege kesaralli nintidīya. Yārigāgi? Pāligāgi alla anta nanagīga gottu."
+    en: "Anna, may I say something? For three months you've come every Saturday. You pulled weeds, you transplanted, you put money into the borewell, and now you're standing in the mud at two in the morning. For whom? Now I know it isn't for a share."
+  - who: suresh
+    t: "ಅಪ್ಪನ ದಿನಚರಿ ಓದಿದ ಮೇಲೆ ನನಗೆ ಒಂದು ಅರ್ಥ ಆಯ್ತು, ಮಹದೇವ. ‘ಜಮೀನು ಮಾರಲ್ಲ’ ಅಂತ ಅಪ್ಪ ನಡುವಿನ ಯಾವುದೋ ಪುಟದಲ್ಲಿ ಬರೆದಿದ್ರು. ಆದ್ರೆ ‘ಮೂರೂ ಮಕ್ಕಳು ಒಟ್ಟಿಗೆ ಉಣ್ಣಬೇಕು’ ಅಂತ ಕೊನೇ ಪುಟದಲ್ಲಿ ಬರೆದಿದ್ರು. ಕೊನೇ ಪುಟದಲ್ಲಿ ಬರೆಯೋದೇ ಮನುಷ್ಯನ ಕೊನೇ ಆಸೆ."
+    tr: "Appana dinacari ōdida mēle nanage ondu artha āytu, Mahadēva. ‘Jamīnu māralla’ anta appa naḍuvina yāvudō puṭadalli baredidru. Ādre ‘mūrū makkaḷu oṭṭige uṇṇabēku’ anta konē puṭadalli baredidru. Konē puṭadalli bareyōdē manuṣyana konē āse."
+    en: "After reading Appa's diary I understood one thing, Mahadeva. Appa wrote 'I will not sell the land' somewhere in the middle pages. But on the very last page he wrote that all three children must eat together. What a man writes on the last page is his last wish."
+  - who: mahadeva
+    t: "… ಮೇ ತಿಂಗಳಲ್ಲಿ ಜಡ್ಜ್ ಸಾಹೇಬ್ರು ‘ಮಧ್ಯಸ್ಥಿಕೆಗೆ ಹೋಗ್ತೀರಾ’ ಅಂತ ಕೇಳಿದಾಗ ‘ಈಗ ಬೇಡ’ ಅಂದಿದ್ದು ನನ್ನ ಕಡೆಯವರು. ಆಗ ನಂಗೆ ಹೆದರಿಕೆ ಇತ್ತು — ರಾಜಿ ಅಂದ್ರೆ ನಾನು ಸೋತೆ ಅಂತ. … ಲೋಕ ಅದಾಲತ್ ಅಂತ ನಾಗೇಂದ್ರ ಅವರು ಹೇಳಿದ್ರಲ್ಲ? ಅಲ್ಲಿಗೆ ಹೋಗೋಣ ಅಣ್ಣ. ಶೋಭಾ ಒಪ್ಪಿದ್ರೆ."
+    tr: "… Mē tiṅgaḷalli jaḍj sāhēbru ‘madhyasthikege hōgtīrā’ anta kēḷidāga ‘īga bēḍa’ andiddu nanna kaḍeyavaru. Āga naṅge hedarike ittu — rāji andre nānu sōte anta. … Lōka Adālat anta Nāgēndra avaru hēḷidralla? Allige hōgōṇa aṇṇa. Śōbhā oppidre."
+    en: "(after a long silence) … In May, when the judge asked 'will you go to mediation?', it was my side that said 'not now'. Back then I was afraid — that a compromise meant I'd lost. … That Lok Adalat Nagendra talked about? Let's go there, Anna. If Shobha agrees."
+  - who: suresh
+    t: "ಇದನ್ನ ಹೇಳೋಕೆ ರಾತ್ರಿ ಎರಡು ಗಂಟೆ, ಮೊಣಕಾಲುವರೆಗೂ ಕೆಸರು ಬೇಕಾಯ್ತು ನೋಡು."
+    tr: "Idanna hēḷōke rātri eraḍu gaṇṭe, moṇakāluvaregū kesaru bēkāytu nōḍu."
+    en: "(laughing softly) Look at that — it took two in the morning and mud up to our knees for you to say it."
+  - who: mahadeva
+    t: "ಹಗಲಲ್ಲಿ ಹೇಳಿದ್ರೆ ಊರೆಲ್ಲಾ ಕೇಳುತ್ತೆ. ರಾತ್ರಿ ಕಪ್ಪೆಗಳು ಮಾತ್ರ. ನಾಳೆ ಶೋಭಂಗೆ ನೀನೇ ಫೋನ್ ಮಾಡು. ನಾನು ಮಾಡಿದ್ರೆ ಮತ್ತೆ ಜಗಳ ಆಗುತ್ತೆ."
+    tr: "Hagalalli hēḷidre ūrellā kēḷutte. Rātri kappegaḷu mātra. Nāḷe Śōbhaṅge nīnē phōn māḍu. Nānu māḍidre matte jagaḷa āgutte."
+    en: "Say it in daylight and the whole village hears. At night there are only the frogs. Tomorrow you phone Shobha. If I do it, we'll only end up fighting again."
+  - scene: "Monday evening. Shobha, just off her shift, calls back from the bus stop outside her hospital in Mysuru."
+  - who: shobha
+    t: "ಲೋಕ ಅದಾಲತ್? ಮಹದೇವಾನೇ ಹೇಳಿದ್ನಾ? … ಅಣ್ಣ, ನನಗೆ ಬೇಕಾಗಿದ್ದು ಗೆಲುವಲ್ಲ, ನನ್ನ ಹೆಸರು. ಆ ಹೆಸರು ಕಾಗದದಲ್ಲಿ ಉಳಿಯೋ ಹಾಗಿದ್ರೆ ನಾನು ಬರ್ತೀನಿ. ನಾಗೇಂದ್ರ ಅವರಿಗೆ ಹೇಳ್ತೀನಿ — ಮುಂದಿನ ದಿನಾಂಕದಲ್ಲಿ ಮೂರೂ ಜನ ಸೇರಿ ಜಂಟಿ ಅರ್ಜಿ ಹಾಕೋಣ ಅಂತ."
+    tr: "Lōka Adālat? Mahadēvānē hēḷidnā? … Aṇṇa, nanage bēkāgiddu geluvalla, nanna hesaru. Ā hesaru kāgadadalli uḷiyō hāgidre nānu bartīni. Nāgēndra avarige hēḷtīni — mundina dināṅkadalli mūrū jana sēri jaṇṭi arji hākōṇa anta."
+    en: "The Lok Adalat? Mahadeva himself said that? … Anna, what I wanted was never victory — it was my name. If that name stays on the paper, I'll come. I'll tell Nagendra — at the next date, let the three of us file a joint application together."
+
+  - section: "Milk before sunrise"
+    learn: "dairy words: hālu kare, karu, gabba, hālina saṅgha, phyāṭ nōḍi bele, prōtsāhadhana · frequency: hadinaidu dinakkondsala, varṣakkondsala · naming: nīnē iḍu, mommaga iṭṭa hesaru · habitual past: hāḍu hēḷtidru, nintkaḷtittu"
+  - scene: "Saturday, 24 October 2026, quarter past five in the morning. Dasara is just over. In the cattle shed Rakshith, in a sweater, sits on a low stool beside Gauri while Mahadeva shows him how to milk. The calf, ten months old now, nudges the boy's shoulder."
+  - who: mahadeva
+    t: "ಮೊದ್ಲು ಕರುಗೆ ಸ್ವಲ್ಪ ಕುಡಿಯೋಕೆ ಬಿಡು. ಕರು ಮೊಲೆಗೆ ಬಾಯಿ ಹಾಕಿದ್ರೆ ಹಸು ಹಾಲು ಇಳಿಸುತ್ತೆ. ಆಮೇಲೆ ಕರುನ ಕಟ್ಟು, ನೀನು ಕರೆ."
+    tr: "Modlu karuge svalpa kuḍiyōke biḍu. Karu molege bāyi hākidre hasu hālu iḷisutte. Āmēle karuna kaṭṭu, nīnu kare."
+    en: "First let the calf drink a little. When the calf puts its mouth to the udder, the cow lets her milk down. Then tie up the calf, and you milk."
+  - who: rakshith
+    t: "ಚಿಕ್ಕಪ್ಪ, ಹೆಬ್ಬೆರಳು ಮತ್ತೆ ಮೊದಲ ಬೆರಳಿಂದ ಒತ್ತಿ ಕೆಳಗೆ ಎಳೆಯೋದಾ? … ಬಂತು! ಬಂತು!"
+    tr: "Cikkappa, hebberaḷu matte modala beraḷinda otti keḷage eḷeyōdā? … Bantu! Bantu!"
+    en: "Chikkappa, you squeeze with your thumb and first finger and pull down? … It's coming! It's coming!"
+  - who: mahadeva
+    t: "ಕೂಗಬೇಡ, ಗೌರಿ ಹೆದರ್ಕೊಳ್ಳುತ್ತೆ. ಹಸುಗೆ ಗಲಾಟೆ ಆಗಲ್ಲ. ನಿಮ್ಮ ತಾತ ಹಾಲು ಕರೆಯೋವಾಗ ಹಾಡು ಹೇಳ್ತಿದ್ರು — ಮೆತ್ತಗೆ. ಹಸು ಕಣ್ಣು ಮುಚ್ಕಂಡು ನಿಂತ್ಕಳ್ತಿತ್ತು."
+    tr: "Kūgabēḍa, Gauri hedarkoḷḷutte. Hasuge galāṭe āgalla. Nimma tāta hālu kareyōvāga hāḍu hēḷtidru — mettage. Hasu kaṇṇu muckaṇḍu nintkaḷtittu."
+    en: "Don't shout, Gauri will take fright. Cows can't stand noise. Your Thatha used to sing while he milked — softly. The cow would stand there with her eyes closed."
+  - who: rakshith
+    t: "ದಿನಕ್ಕೆ ಎಷ್ಟು ಲೀಟರ್ ಬರುತ್ತೆ? ಡೈರಿಯವರು ಎಷ್ಟು ಕೊಡ್ತಾರೆ?"
+    tr: "Dinakke eṣṭu līṭar barutte? Ḍairiyavaru eṣṭu koḍtāre?"
+    en: "How many litres does she give a day? How much does the dairy pay?"
+  - who: mahadeva
+    t: "ಗೌರಿ ಎರಡು ಹೊತ್ತು ಸೇರಿ ಹತ್ತು-ಹನ್ನೆರಡು ಲೀಟರ್. ಇನ್ನೊಂದು ಹಸು ಈಗ ಗಬ್ಬ, ಹಾಲು ನಿಂತಿದೆ. ಊರಿನ ಹಾಲಿನ ಸಂಘದಲ್ಲಿ ಫ್ಯಾಟ್ ನೋಡಿ ಲೀಟರಿಗೆ ಬೆಲೆ. ಸರ್ಕಾರದ ಪ್ರೋತ್ಸಾಹಧನ ಬೇರೆ — ಅದು ಕೆಲವು ಸಲ ತಿಂಗಳುಗಟ್ಲೆ ತಡ. ಆದ್ರೆ ಸಂಘದ ಹಣ ಹದಿನೈದು ದಿನಕ್ಕೊಂದ್ಸಲ ಬರುತ್ತೆ. ಕಬ್ಬು ವರ್ಷಕ್ಕೊಂದ್ಸಲ ಬಾಗಿಲು ತಟ್ಟುತ್ತೆ, ಹಸು ಹದಿನೈದು ದಿನಕ್ಕೊಂದ್ಸಲ. ಮನೆ ನಡೆಯೋದು ಹಸುವಿಂದ."
+    tr: "Gauri eraḍu hottu sēri hattu-hanneraḍu līṭar. Innondu hasu īga gabba, hālu nintide. Ūrina hālina saṅghadalli phyāṭ nōḍi līṭarige bele. Sarkārada prōtsāhadhana bēre — adu kelavu sala tiṅgaḷugaṭle taḍa. Ādre saṅghada haṇa hadinaidu dinakkondsala barutte. Kabbu varṣakkondsala bāgilu taṭṭutte, hasu hadinaidu dinakkondsala. Mane naḍeyōdu hasuvinda."
+    en: "Gauri gives ten or twelve litres, morning and evening together. The other cow is in calf and has gone dry. At the village milk society the price per litre depends on the fat. The government's incentive comes separately — and sometimes that's months late. But the society pays every fifteen days. Cane knocks on the door once a year; the cow, every fifteen days. It's the cow that keeps the house running."
+  - who: rakshith
+    t: "ಈ ಕರುಗೆ ಹೆಸರೇ ಇಲ್ಲ ಅಲ್ವಾ? ಹತ್ತು ತಿಂಗಳಾಯ್ತು. ತಾತ ಹೋದ ವಾರಾನೇ ಹುಟ್ಟಿದ್ದು."
+    tr: "Ī karuge hesarē illa alvā? Hattu tiṅgaḷāytu. Tāta hōda vārānē huṭṭiddu."
+    en: "This calf doesn't even have a name, does she? It's been ten months. She was born the very week Thatha died."
+  - who: mahadeva
+    t: "ಆ ಗದ್ದಲದಲ್ಲಿ ಯಾರಿಗೆ ಹೆಸರು ನೆನಪಾಗುತ್ತೆ? ನೀನೇ ಇಡು. ಮೊಮ್ಮಗ ಇಟ್ಟ ಹೆಸರು."
+    tr: "Ā gaddaladalli yārige hesaru nenapāgutte? Nīnē iḍu. Mommaga iṭṭa hesaru."
+    en: "In all that turmoil, who'd have thought of a name? You give her one. A name from the grandson."
+  - who: rakshith
+    t: "ಕಾವೇರಿ. ನಾಲೆ ನೀರಿಗೆ ನಾವೆಲ್ಲಾ ಕಾಯ್ತಿದ್ವಲ್ಲ — ಅದಕ್ಕೆ."
+    tr: "Kāvēri. Nāle nīrige nāvellā kāytidvalla — adakke."
+    en: "Kaveri. Because all of us kept waiting for the canal water."
+  - who: avva
+    t: "ಕಾವೇರಿ… ಒಳ್ಳೆ ಹೆಸರು. ನಮ್ಮ ಮನೆ ಮಗಳ ಹಾಗೆ — ಬಂದ್ರೆ ಬೆಳೆ, ಬರ್ದಿದ್ರೆ ಕಾಯೋದು."
+    tr: "Kāvēri… oḷḷe hesaru. Namma mane magaḷa hāge — bandre beḷe, bardidre kāyōdu."
+    en: "(from the doorway) Kaveri… a good name. Like a daughter of our house — when she comes, there's a harvest; when she doesn't, there's waiting."
+
+  - section: "The harvester and the weighbridge"
+    learn: "labour shortage: āḷugaḷu siklē ilvā, muṅgaḍa tagoṇḍu hōdru, kūli koṭrū baralla · hiring a machine: kaṭāvu yantra, guttigedāra, ṭannige iṣṭu anta bāḍige · the queue: tūkada cīṭi, rasa oṇagutte, tūka iḷiyutte · estimating: ekarege nalavattu bandre, āgabahudu, andkoṇḍrū"
+  - scene: "Wednesday, 28 October 2026. The harvest order has come. Suresh has taken three days' leave. At dawn a hired cane harvester — a huge green machine on tracks — crawls down the cart track, followed by two tractors with trailers."
+  - who: suresh
+    t: "ಆಳುಗಳು ಸಿಕ್ಲೇ ಇಲ್ವಾ, ಮಹದೇವ?"
+    tr: "Āḷugaḷu siklē ilvā, Mahadēva?"
+    en: "Couldn't you find any cutters at all, Mahadeva?"
+  - who: mahadeva
+    t: "ಬೆಳಗಾವಿ ಕಡೆಯಿಂದ ಒಂದು ಗ್ಯಾಂಗ್ ಬರ್ತೀವಿ ಅಂದಿದ್ರು. ಮುಂಗಡ ತಗೊಂಡು ಬೇರೆ ಊರಿಗೆ ಹೋದ್ರು. ನಮ್ಮೂರಲ್ಲಿ ಕಬ್ಬು ಕಡಿಯೋರು ನಾಲ್ಕು ಜನ ಇದಾರೆ, ಎಲ್ರೂ ಅರವತ್ತು ದಾಟಿದೋರು. ದಿನಕ್ಕೆ ಆರುನೂರು-ಏಳುನೂರು ಕೂಲಿ ಕೊಟ್ರೂ ಹುಡುಗರು ಬರಲ್ಲ. ಅದಕ್ಕೇ ಈ ಯಂತ್ರ."
+    tr: "Beḷagāvi kaḍeyinda ondu gyāṅg bartīvi andidru. Muṅgaḍa tagoṇḍu bēre ūrige hōdru. Nammūralli kabbu kaḍiyōru nālku jana idāre, ellrū aravattu dāṭidōru. Dinakke ārunūru-ēḷunūru kūli koṭrū huḍugaru baralla. Adakkē ī yantra."
+    en: "A gang from the Belagavi side said they'd come. They took an advance and went to another village. In our village there are four men who can cut cane, all past sixty. Even at six or seven hundred a day, the young lads won't come. That's why this machine."
+  - who: rakshith
+    t: "ಇದು ಒಂದು ಕೋಟಿ ರೂಪಾಯಿ ಯಂತ್ರ ಅಂತ ಡ್ರೈವರ್ ಹೇಳಿದ್ರು! ಯಾರದು ಇದು?"
+    tr: "Idu ondu kōṭi rūpāyi yantra anta ḍraivar hēḷidru! Yāradu idu?"
+    en: "The driver said this is a one-crore machine! Whose is it?"
+  - who: mahadeva
+    t: "ಮದ್ದೂರಿನ ಒಬ್ಬ ಗುತ್ತಿಗೆದಾರರದ್ದು. ನಮ್ಮಂಥೋರು ಕೊಳ್ಳೋಕಾಗುತ್ತಾ? ಟನ್ನಿಗೆ ಇಷ್ಟು ಅಂತ ಬಾಡಿಗೆ. ಯಂತ್ರ ಒಂದು ದಿನದಲ್ಲಿ ಮುಗಿಸುತ್ತೆ, ಆಳುಗಳಿಗೆ ಒಂದು ವಾರ. ಆದ್ರೆ ಯಂತ್ರ ಬುಡಾನ ಸ್ವಲ್ಪ ಎತ್ತರದಲ್ಲಿ ಕಡಿಯುತ್ತೆ, ಕೂಳೆಗೆ ಅಷ್ಟು ಒಳ್ಳೇದಲ್ಲ ಅಂತಾರೆ. ಏನು ಮಾಡೋದು — ಆಳು ಇಲ್ದಿದ್ರೆ ಯಂತ್ರ, ಯಂತ್ರ ಇಲ್ದಿದ್ರೆ ಕಬ್ಬು ಗದ್ದೆಯಲ್ಲೇ ಒಣಗುತ್ತೆ."
+    tr: "Maddūrina obba guttigedāraraddu. Nammanthōru koḷḷōkāguttā? Ṭannige iṣṭu anta bāḍige. Yantra ondu dinadalli mugisutte, āḷugaḷige ondu vāra. Ādre yantra buḍāna svalpa ettaradalli kaḍiyutte, kūḷege aṣṭu oḷḷēdalla antāre. Ēnu māḍōdu — āḷu ildidre yantra, yantra ildidre kabbu gaddeyallē oṇagutte."
+    en: "It belongs to a contractor in Maddur. Can people like us buy one? He charges so much a tonne. The machine finishes in a day; labourers would take a week. But it cuts the stumps a bit high, and they say that isn't so good for the ratoon. What can you do — no labour, then the machine; no machine, then the cane dries in the field."
+  - scene: "Afternoon. The weighbridge outside the factory gate. A long line of tractors and a few bullock carts heaped with cane stretches down the road. Suresh and Mahadeva wait beside their trailer."
+  - who: suresh
+    t: "ಎಷ್ಟು ಹೊತ್ತಿಂದ ಈ ಸಾಲಲ್ಲಿ ನಿಂತಿದೀವಿ? ಐದು ಗಂಟೆ!"
+    tr: "Eṣṭu hottinda ī sālalli nintidīvi? Aidu gaṇṭe!"
+    en: "How long have we been standing in this line? Five hours!"
+  - who: mahadeva
+    t: "ಇದು ಕಮ್ಮಿ. ಬಾಯ್ಲರ್ ಕೆಟ್ಟಾಗ ಮೂರು ದಿನ ನಿಂತಿದ್ದೆ, ಟ್ರ್ಯಾಕ್ಟರ್ ಕೆಳಗೆ ಮಲಗಿ. ಕಬ್ಬು ಕಡಿದ ಮೇಲೆ ಪ್ರತಿ ಗಂಟೆಗೂ ರಸ ಒಣಗುತ್ತೆ, ತೂಕ ಇಳಿಯುತ್ತೆ. ಕಾಯೋದು ನಾವು, ನಷ್ಟಾನೂ ನಮ್ಗೇ."
+    tr: "Idu kammi. Bāylar keṭṭāga mūru dina nintidde, ṭryākṭar keḷage malagi. Kabbu kaḍida mēle prati gaṇṭegū rasa oṇagutte, tūka iḷiyutte. Kāyōdu nāvu, naṣṭānū namgē."
+    en: "This is nothing. When the boiler broke down I stood here three days, sleeping under the tractor. Once cane is cut, every hour the juice dries and the weight drops. We do the waiting, and the loss is ours as well."
+  - who: suresh
+    t: "ತೂಕದ ಚೀಟಿ ಕೊಡು, ನೋಡ್ತೀನಿ. … ಈ ಟ್ರಾಲಿ ಹನ್ನೆರಡು ಟನ್ನು. ಎರಡೂವರೆ ಎಕರೆಗೆ ಒಟ್ಟು ಎಷ್ಟು ಆಗಬಹುದು?"
+    tr: "Tūkada cīṭi koḍu, nōḍtīni. … Ī ṭrāli hanneraḍu ṭannu. Eraḍūvare ekarege oṭṭu eṣṭu āgabahudu?"
+    en: "Give me the weighbridge slip, let me see. … This trailer's twelve tonnes. How much might the two and a half acres come to altogether?"
+  - who: mahadeva
+    t: "ಎಕರೆಗೆ ನಲವತ್ತು ಬಂದ್ರೆ ನೂರು ಟನ್. ಈ ಸಲ ಮಳೆ ಚೆನ್ನಾಗಿತ್ತು, ನಾಲೆ ನೀರೂ ಬಂತು — ನೂರಾ ಹತ್ತು ಆಗಬಹುದು. ಟನ್ನಿಗೆ ಮೂರೂವರೆ ಸಾವಿರ ಅಂದ್ಕೊಂಡ್ರೂ ನಾಲ್ಕು ಲಕ್ಷದ ಹತ್ತಿರ. ಕಟಾವು, ಸಾಗಣೆ, ಗೊಬ್ಬರ, ಸಾಲ ಎಲ್ಲಾ ಕಳೆದ ಮೇಲೆ ಕೈಗೆ ಎಷ್ಟು ಉಳಿಯುತ್ತೆ ಅಂತ ನೀನೇ ಲೆಕ್ಕ ಹಾಕು, ಬ್ಯಾಂಕ್ ಮ್ಯಾನೇಜರೇ."
+    tr: "Ekarege nalavattu bandre nūru ṭan. Ī sala maḷe cennāgittu, nāle nīrū bantu — nūrā hattu āgabahudu. Ṭannige mūrūvare sāvira andkoṇḍrū nālku lakṣada hattira. Kaṭāvu, sāgaṇe, gobbara, sāla ellā kaḷeda mēle kaige eṣṭu uḷiyutte anta nīnē lekka hāku, byāṅk myānējarē."
+    en: "If it's forty an acre, a hundred tonnes. The rain was good this time and the canal water came too — it might be a hundred and ten. Even at three and a half thousand a tonne, that's close to four lakh. After harvesting, transport, fertiliser and the loan, you work out what's left in hand, Mr Bank Manager."
+  - who: suresh
+    t: "ಲೆಕ್ಕ ಹಾಕೋದು ಸುಲಭ. ಇಡೀ ವರ್ಷ ಕಾಯೋದು ಕಷ್ಟ. ಮೀನಾ ಮಾರ್ಚ್‌ನಲ್ಲಿ ಬರೆದ ಅಂಕಿಗಳು ಸರಿ ಇದ್ವು, ಮಹದೇವ. ಆದ್ರೆ ಆ ಅಂಕಿಗಳಲ್ಲಿ ಈ ಐದು ಗಂಟೆಯ ಸಾಲು ಇರ್ಲಿಲ್ಲ."
+    tr: "Lekka hākōdu sulabha. Iḍī varṣa kāyōdu kaṣṭa. Mīnā Mārc-nalli bareda aṅkigaḷu sari idvu, Mahadēva. Ādre ā aṅkigaḷalli ī aidu gaṇṭeya sālu irlilla."
+    en: "Doing the sums is easy. Waiting a whole year is hard. The figures Meena wrote down in March were right, Mahadeva. But this five-hour queue wasn't in them."
+
+  - section: "The money comes"
+    learn: "payment: khātege jame āgide, ippattamūru dinakke bantu · clearing a debt: sāla tīristīni, bēbāki pramāṇapatra · a changed refusal: kōpadinda alla · a mother's comparison: āru tiṅgaḷa hinde … ivattu … · counterfactual praise: nimmappa iddidre … antidru"
+  - scene: "Friday, 20 November 2026, evening. Suresh, Meena and Rakshith have come for the weekend. As the family sits down to eat on the veranda, a message beeps on Mahadeva's old phone."
+  - who: mahadeva
+    t: "ಅಣ್ಣ… ನೋಡು. ‘ನಿಮ್ಮ ಖಾತೆಗೆ ಮೂರು ಲಕ್ಷದ ಎಂಬತ್ತೆರಡು ಸಾವಿರ ರೂಪಾಯಿ ಜಮೆ ಆಗಿದೆ.’ ಕಾರ್ಖಾನೆ ಹಣ! ಇಪ್ಪತ್ತಮೂರು ದಿನಕ್ಕೆ ಬಂತು."
+    tr: "Aṇṇa… nōḍu. ‘Nimma khātege mūru lakṣada embatteraḍu sāvira rūpāyi jame āgide.’ Kārkhāne haṇa! Ippattamūru dinakke bantu."
+    en: "Anna… look. 'Three lakh eighty-two thousand rupees has been credited to your account.' The factory money! It came in twenty-three days."
+  - who: meena
+    t: "ಕಾನೂನು ಹದಿನಾಲ್ಕು ದಿನ ಅನ್ನುತ್ತೆ, ನಾವು ಇಪ್ಪತ್ತಮೂರು ದಿನಕ್ಕೆ ಬಂತು ಅಂತ ಖುಷಿ ಪಡ್ತಿದೀವಿ. ಹೀಗೇ ಅಭ್ಯಾಸ ಮಾಡಿಸ್ಬಿಟ್ಟಿದಾರೆ ನೋಡಿ."
+    tr: "Kānūnu hadinālku dina annutte, nāvu ippattamūru dinakke bantu anta khuṣi paḍtidīvi. Hīgē abhyāsa māḍisbiṭṭidāre nōḍi."
+    en: "The law says fourteen days, and here we are celebrating because it came in twenty-three. That's how well they've trained us, you see."
+  - who: mahadeva
+    t: "ಕಳೆದ ಸಲದ್ದು ಏಳು ತಿಂಗಳಿಗೆ ಬಂದಿತ್ತು, ಅತ್ತಿಗೆ. ಇದು ಹಬ್ಬ. … ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಮೊದ್ಲು ಸಂಘಕ್ಕೆ ಹೋಗಿ ಅಪ್ಪನ ಹೆಸರಲ್ಲಿರೋ ಆ ಒಂದು ಲಕ್ಷದ ಅರವತ್ತು ಸಾವಿರ ಸಾಲ ತೀರಿಸ್ತೀನಿ. ಬೇಬಾಕಿ ಪ್ರಮಾಣಪತ್ರ ತಗೊಂಡು ಅಪ್ಪನ ಫೋಟೋ ಮುಂದೆ ಇಡ್ತೀನಿ."
+    tr: "Kaḷeda saladdu ēḷu tiṅgaḷige bandittu, attige. Idu habba. … Nāḷe beḷigge modlu saṅghakke hōgi appana hesarallirō ā ondu lakṣada aravattu sāvira sāla tīristīni. Bēbāki pramāṇapatra tagoṇḍu appana phōṭō munde iḍtīni."
+    en: "The last lot took seven months, Attige. This is a festival. … Tomorrow morning, first thing, I'll go to the society and clear that one lakh sixty thousand loan in Appa's name. I'll get the no-dues certificate and put it in front of Appa's photo."
+  - who: suresh
+    t: "ಆ ಸಾಲ ನಾಲ್ಕು ಜನದ್ದು ಅಂತ ನಾನು ಡಿಸೆಂಬರ್‌ನಲ್ಲಿ ಹೇಳಿದ್ದೆ. ನೆನಪಿದೆಯಾ? ಅರ್ಧ ನಾನು ಕೊಡ್ತೀನಿ."
+    tr: "Ā sāla nālku janaddu anta nānu Ḍisembar-nalli hēḷidde. Nenapideyā? Ardha nānu koḍtīni."
+    en: "Back in December I said that loan belonged to all four of us. Remember? I'll pay half."
+  - who: mahadeva
+    t: "ಬೇಡ ಅಣ್ಣ. ಅವತ್ತು ಆ ಮಾತು ಕೇಳಿ ನಂಗೆ ತುಂಬಾ ಕೋಪ ಬಂದಿತ್ತು — ‘ಸಾಲ ತೀರಿಸೋದು ನಾನು, ಜಮೀನು ಮಾತ್ರ ನಾಲ್ಕು ಜನದ್ದಾ’ ಅಂತ. ಈ ಸಲಾನೂ ತೀರಿಸೋದು ನಾನೇ. ಆದ್ರೆ ಕೋಪದಿಂದ ಅಲ್ಲ. ಈ ಕಬ್ಬಲ್ಲಿ ನಿನ್ನ ಗುಳ್ಳೆ ಬಂದ ಕೈನೂ ಇದೆ. ಅಷ್ಟು ಸಾಕು."
+    tr: "Bēḍa aṇṇa. Avattu ā mātu kēḷi naṅge tumbā kōpa bandittu — ‘sāla tīrisōdu nānu, jamīnu mātra nālku janaddā’ anta. Ī salānū tīrisōdu nānē. Ādre kōpadinda alla. Ī kabballi ninna guḷḷe banda kainū ide. Aṣṭu sāku."
+    en: "No, Anna. Back then, hearing that made me furious — 'I repay the loan, but the land belongs to all four?' This time too, I'm the one who'll repay it. But not out of anger. Your blistered hand is in this cane as well. That's enough for me."
+  - who: meena
+    t: "ಶೋಭಾಗೂ ಹೇಳು ಮಹದೇವ. ಒಪ್ಪಿಗೆ ಪತ್ರ ಕೊಟ್ಟಿದ್ದು ಅವಳೇ ತಾನೇ?"
+    tr: "Śōbhāgū hēḷu Mahadēva. Oppige patra koṭṭiddu avaḷē tānē?"
+    en: "Tell Shobha too, Mahadeva. She's the one who gave the consent letter, isn't she?"
+  - who: mahadeva
+    t: "‘ಕಬ್ಬಿನ ಹಣ ಬಂತು. ಸಾಲ ನಾಳೆ ತೀರುತ್ತೆ. ಮಹದೇವ.’ … ಕಳಿಸಿದೆ. … ಉತ್ತರ ಬಂತು: ‘ಒಳ್ಳೆ ಸುದ್ದಿ. ಅವ್ವನಿಗೆ ಒಂದು ಸೀರೆ ತಗೊಂಡು ಹೋಗು. ಹಣ ನಾನು ಕೊಡ್ತೀನಿ.’"
+    tr: "‘Kabbina haṇa bantu. Sāla nāḷe tīrutte. Mahadēva.’ … Kaḷiside. … Uttara bantu: ‘Oḷḷe suddi. Avvanige ondu sīre tagoṇḍu hōgu. Haṇa nānu koḍtīni.’"
+    en: "(typing slowly, reading aloud) 'Cane money has come. Loan gets cleared tomorrow. Mahadeva.' … Sent. … (a minute later) A reply: 'Good news. Buy Avva a sari. I'll pay for it.'"
+  - who: avva
+    t: "ಮಹದೇವ, ಸುರೇಶ — ಇಲ್ಲಿ ಕೂರಿ, ಊಟ ಮಾಡಿ. ಆರು ತಿಂಗಳ ಹಿಂದೆ ನೀವಿಬ್ರು ಒಂದೇ ಬದುವಿನ ಮೇಲೆ ಆರಡಿ ದೂರ ನಡೀತಿದ್ರಿ. ಇವತ್ತು ಅಕ್ಕಪಕ್ಕ ಎಲೆ ಹಾಕ್ಕಂಡು ಕೂತಿದೀರಿ. ನಿಮ್ಮಪ್ಪ ಇದ್ದಿದ್ರೆ ‘ಕಬ್ಬಿಗಿಂತ ಸಿಹಿ ಬೆಳೆ ಬೆಳೆದ್ರಿ’ ಅಂತಿದ್ರು."
+    tr: "Mahadēva, Surēśa — illi kūri, ūṭa māḍi. Āru tiṅgaḷa hinde nīvibbru ondē baduvina mēle āraḍi dūra naḍītidri. Ivattu akkapakka ele hākkaṇḍu kūtidīri. Nimmappa iddidre ‘kabbiginta sihi beḷe beḷedri’ antidru."
+    en: "Mahadeva, Suresha — sit here and eat. Six months ago the two of you walked along the same bund six feet apart. Today you're sitting with your leaves side by side. If your father were here, he'd have said, 'You've grown a crop sweeter than cane.'"
+  - who: rakshith
+    t: "ಅಜ್ಜಿ, ನಾನು ಈ ಆರು ತಿಂಗಳಲ್ಲಿ ಏನು ಕಲಿತೆ ಗೊತ್ತಾ? ಕೂಳೆ, ಕಟ್ಟು ಪದ್ಧತಿ, ಫ್ಯಾಟ್, ರಿಕವರಿ… ಆದ್ರೆ ದೊಡ್ಡ ಪಾಠ ಅದಲ್ಲ. ಅಪ್ಪ ‘ನನ್ನ ತಪ್ಪು’ ಅಂತ ಹೇಳೋದು ಕಲಿತ. ಚಿಕ್ಕಪ್ಪ ‘ಬಾ’ ಅಂತ ಹೇಳೋದು ಕಲಿತ."
+    tr: "Ajji, nānu ī āru tiṅgaḷalli ēnu kalite gottā? Kūḷe, kaṭṭu paddhati, phyāṭ, rikavari… ādre doḍḍa pāṭha adalla. Appa ‘nanna tappu’ anta hēḷōdu kalita. Cikkappa ‘bā’ anta hēḷōdu kalita."
+    en: "Ajji, do you know what I learnt in these six months? Ratoon, canal rotation, milk fat, recovery… but that's not the big lesson. Appa learnt to say 'my mistake'. Chikkappa learnt to say 'come'."
+  - who: mahadeva
+    t: "ಏಯ್, ದೊಡ್ಡವರ ಬಗ್ಗೆ ಹಿಂಗೆ ಮಾತಾಡ್ತಾರಾ? … ತಿನ್ನು. ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಐದಕ್ಕೆ ಕಾವೇರಿಗೆ ಹುಲ್ಲು ಹಾಕ್ಬೇಕು ನೀನು."
+    tr: "Ēy, doḍḍavara bagge hiṅge mātāḍtārā? … Tinnu. Nāḷe beḷigge aidakke Kāvērige hullu hākbēku nīnu."
+    en: "(trying not to smile) Hey, is that any way to talk about your elders? … Eat. Tomorrow at five you've got to give Kaveri her hay."
+  - who: meena
+    t: "ಮುಂದಿನ ಶುಕ್ರವಾರ ಕೋರ್ಟಲ್ಲಿ ಜಂಟಿ ಅರ್ಜಿ ಕೊಡ್ತೀವಿ. ನಾಗೇಂದ್ರ ಅವರು ಹೇಳಿದ್ರು — ಡಿಸೆಂಬರ್‌ನಲ್ಲಿ ರಾಷ್ಟ್ರೀಯ ಲೋಕ ಅದಾಲತ್ ಇದೆಯಂತೆ, ಅದಕ್ಕೆ ಹಾಕಿಸ್ತಾರಂತೆ. ಅದರ ಮಧ್ಯೆ ಭಾನುವಾರ ಜಾತ್ರೆ. ಶೋಭಾ ಬರ್ತಾಳಂತೆ, ಅವ್ವ."
+    tr: "Mundina Śukravāra kōrṭalli jaṇṭi arji koḍtīvi. Nāgēndra avaru hēḷidru — Ḍisembar-nalli rāṣṭrīya Lōka Adālat ideyante, adakke hākistārante. Adara madhye Bhānuvāra jātre. Śōbhā bartāḷante, avva."
+    en: "Next Friday we give the joint application in court. Nagendra says there's a National Lok Adalat in December, and he'll get the case listed there. In between, the jatre is on Sunday. Shobha says she's coming, Avva."
+  - who: avva
+    t: "ಬರ್ತಾಳಾ? … ಹಾಗಾದ್ರೆ ನಾನು ಅಮ್ಮನಿಗೆ ಹರಕೆ ತೀರಿಸ್ತೀನಿ. ಅವರು ಹೋದ ರಾತ್ರಿ ಹೊತ್ತ ಹರಕೆ — ‘ನನ್ನ ಮೂರೂ ಮಕ್ಳು ಒಟ್ಟಿಗೆ ನಿನ್ನ ತೇರು ಎಳೆಯೋ ಹಾಗೆ ಮಾಡು ತಾಯಿ’ ಅಂತ."
+    tr: "Bartāḷā? … Hāgādre nānu ammanige harake tīristīni. Avaru hōda rātri hotta harake — ‘nanna mūrū makḷu oṭṭige ninna tēru eḷeyō hāge māḍu tāyi’ anta."
+    en: "She's coming? … Then I'll fulfil my vow to the Goddess. The vow I made the night he died — 'Mother, let all three of my children pull your chariot together.'"
+
+  - chapter: "Chapter 8 — The jatre"
+  - section: "The chariot"
+    learn: "the jatre: tēru, hagga, davana, bāḷehaṇṇu esītāre, tamaṭe, ḍoḷḷu, pūjā kuṇita, prasāda · a vow: harake hottidde, harake tīristīni · mourning: varṣa tumbilla, sūtaka · awkward greetings: … bandyā · teasing: appana haṭha pūrti ninagē bandide · pulling together: ellrū ondē kaḍe eḷībēku"
+  - scene: "Sunday, 29 November 2026. The jatre of Bettadamma, Bettahalli's village goddess. Since morning the lanes have been full: tamate and dollu drums, bangle stalls, a giant wheel by the tank, families home from Bengaluru and Mysuru. The tall wooden chariot stands before the temple, hung with flowers and coloured cloth; thick ropes lie on the ground in front of it. Shobha steps off the Mysuru bus at the crossroads, where Avva, Meena and Rakshith are waiting."
+  - who: shobha
+    t: "ಅವ್ವಾ! ಎಷ್ಟು ಜನ! ನಾನು ಕೊನೆಯ ಸಲ ಜಾತ್ರೆಗೆ ಬಂದಿದ್ದು ಮದುವೆಗೆ ಮುಂಚೆ — ಹದಿನಾರು ವರ್ಷ ಆಯ್ತು."
+    tr: "Avvā! Eṣṭu jana! Nānu koneya sala jātrege bandiddu maduvege mun̄ce — hadināru varṣa āytu."
+    en: "Avva! So many people! The last time I came to the jatre was before my wedding — sixteen years ago."
+  - who: avva
+    t: "ಬಾ ಕಣವ್ವ. ಬಸ್ಸಲ್ಲಿ ನಿಂತ್ಕಂಡೇ ಬಂದ್ಯಾ? ಮುಖ ಬಾಡೋಗಿದೆ. … ನೋಡು, ಆ ಬಳೆ ಅಂಗಡಿ ಇನ್ನೂ ಅಲ್ಲೇ ಇದೆ. ಚಿಕ್ಕೋಳಿದ್ದಾಗ ನೀನು ಅಲ್ಲಿ ಹಸಿರು ಬಳೆಗೆ ಅತ್ತು ಗಲಾಟೆ ಮಾಡಿದ್ದೆ."
+    tr: "Bā kaṇavva. Bassalli nintkaṇḍē bandyā? Mukha bāḍōgide. … Nōḍu, ā baḷe aṅgaḍi innū allē ide. Cikkōḷiddāga nīnu alli hasiru baḷege attu galāṭe māḍidde."
+    en: "Come, my girl. Did you stand all the way on the bus? Your face has wilted. … Look, that bangle stall is still in the same spot. When you were little you cried and made a scene there for green bangles."
+  - who: shobha
+    t: "ನೆನಪಿದೆ. ಅಪ್ಪ ಕೊನೆಗೆ ಎರಡು ಡಜನ್ ಕೊಡಿಸಿದ್ರು. … ಮಹದೇವ ಎಲ್ಲಿ?"
+    tr: "Nenapide. Appa konege eraḍu ḍajan koḍisidru. … Mahadēva elli?"
+    en: "I remember. In the end Appa bought me two dozen. … Where's Mahadeva?"
+  - who: avva
+    t: "ತೇರಿನ ಹತ್ರ. ಊರಿನ ಹುಡುಗರ ಜೊತೆ ಹಗ್ಗ ಸರಿ ಮಾಡ್ತಿದಾನೆ. ಪ್ರತಿ ವರ್ಷ ಮುಂದಿನ ಹಗ್ಗ ಹಿಡಿಯೋದು ನಮ್ಮ ಮನೆಯವರು — ನಿಮ್ಮ ತಾತನ ಕಾಲದಿಂದ."
+    tr: "Tērina hatra. Ūrina huḍugara jote hagga sari māḍtidāne. Prati varṣa mundina hagga hiḍiyōdu namma maneyavaru — nimma tātana kāladinda."
+    en: "By the chariot. He's setting the ropes right with the village lads. Every year it's our family that holds the front rope — since your grandfather's time."
+  - who: rakshith
+    t: "ಅಜ್ಜಿ, ಆ ಜನ ತೇರಿನ ಮೇಲೆ ಬಾಳೆಹಣ್ಣು ಯಾಕೆ ಎಸೀತಿದಾರೆ? ಮತ್ತೆ ಆ ಹಸಿರು ಎಲೆ ಏನು?"
+    tr: "Ajji, ā jana tērina mēle bāḷehaṇṇu yāke esītidāre? Matte ā hasiru ele ēnu?"
+    en: "Ajji, why are those people throwing bananas at the chariot? And what's that green leaf?"
+  - who: avva
+    t: "ಅದು ದವನ, ಕಂದ. ಘಮ ಘಮ ಅನ್ನುತ್ತೆ. ಹರಕೆ ಹೊತ್ತೋರು, ಬೆಳೆ ಚೆನ್ನಾಗಿ ಬಂದೋರು ತೇರಿಗೆ ಬಾಳೆಹಣ್ಣು, ದವನ ಎಸೀತಾರೆ — ‘ತಾಯಿ, ನೀನು ಕೊಟ್ಟಿದ್ದರಲ್ಲಿ ಒಂದು ಪಾಲು ನಿನಗೆ’ ಅಂತ. ಕೆಳಗೆ ಬಿದ್ದ ಹಣ್ಣು ಪ್ರಸಾದ, ಮಕ್ಕಳು ಆರಿಸ್ಕಂಡು ತಿಂತಾರೆ."
+    tr: "Adu davana, kanda. Ghama ghama annutte. Harake hottōru, beḷe cennāgi bandōru tērige bāḷehaṇṇu, davana esītāre — ‘tāyi, nīnu koṭṭiddaralli ondu pālu ninage’ anta. Keḷage bidda haṇṇu prasāda, makkaḷu āriskaṇḍu tintāre."
+    en: "That's davana, child. Smell how fragrant it is. People who made vows, people whose crops did well, throw bananas and davana at the chariot — 'Mother, of what you gave us, a share for you.' The fruit that falls is prasada; the children pick it up and eat it."
+  - who: rakshith
+    t: "ದೇವಿಗೂ ಪಾಲು! ಈ ಊರಲ್ಲಿ ಎಲ್ಲಾ ಮಾತೂ ಕೊನೆಗೆ ಪಾಲಿಗೇ ಬಂದು ನಿಲ್ಲುತ್ತೆ."
+    tr: "Dēvigū pālu! Ī ūralli ellā mātū konege pāligē bandu nillutte."
+    en: "A share for the Goddess too! In this village every conversation ends up at shares."
+  - who: meena
+    t: "ರಕ್ಷಿತ್!"
+    tr: "Rakṣit!"
+    en: "(warning) Rakshith!"
+  - who: avva
+    t: "ಇರ್ಲಿ ಬಿಡವ್ವ, ಹುಡುಗ ಸರಿಯಾಗೇ ಹೇಳಿದ. ಪಾಲು ಕೊಡೋದು ಕಲಿತ್ರೆ ಪಾಲು ಕೇಳೋ ಜಗಳ ಕಮ್ಮಿ ಆಗುತ್ತೆ."
+    tr: "Irli biḍavva, huḍuga sariyāgē hēḷida. Pālu koḍōdu kalitre pālu kēḷō jagaḷa kammi āgutte."
+    en: "Let him be, dear — the boy's right. Learn to give a share, and there are fewer fights over asking for one."
+  - scene: "In front of the chariot. The drummers beat the tamate; a pooja kunitha dancer turns slowly, a tall decorated frame balanced on his head without his hands. Mahadeva, a towel tied round his head, straightens up from the rope when he sees Shobha."
+  - who: mahadeva
+    t: "… ಬಂದ್ಯಾ."
+    tr: "… Bandyā."
+    en: "… You came."
+  - who: shobha
+    t: "ಬಂದೆ. ಅವ್ವನ ಹರಕೆ ಅಂತ ಅಣ್ಣ ಹೇಳಿದ. … ಸಾಲ ತೀರಿಸಿದ್ಯಂತೆ. ಒಳ್ಳೇದಾಯ್ತು."
+    tr: "Bande. Avvana harake anta aṇṇa hēḷida. … Sāla tīrisidyante. Oḷḷēdāytu."
+    en: "I came. Anna said it was Avva's vow. … I hear you've cleared the loan. That's good."
+  - who: mahadeva
+    t: "ಅವ್ವನ ಸೀರೆ ಇನ್ನೂ ತಗೊಂಡಿಲ್ಲ. ನೀನೇ ಆರಿಸು, ಇಲ್ಲೇ ಜಾತ್ರೆಯಲ್ಲಿ. ನನಗೆ ಬಣ್ಣ ಗೊತ್ತಾಗಲ್ಲ."
+    tr: "Avvana sīre innū tagoṇḍilla. Nīnē ārisu, illē jātreyalli. Nanage baṇṇa gottāgalla."
+    en: "I haven't bought Avva's sari yet. You choose it, here at the fair. I'm no good with colours."
+  - who: shobha
+    t: "ಸರಿ. ಆದ್ರೆ ದುಡ್ಡು ನಾನೇ ಕೊಡೋದು. ಹೇಳಿದೀನಲ್ಲ."
+    tr: "Sari. Ādre duḍḍu nānē koḍōdu. Hēḷidīnalla."
+    en: "All right. But I'm paying. I said so, didn't I?"
+  - who: mahadeva
+    t: "ಅದೇ — ಆ ಹಠ. ಅಪ್ಪನ ಹಠ ಪೂರ್ತಿ ನಿನಗೇ ಬಂದಿದೆ."
+    tr: "Adē — ā haṭha. Appana haṭha pūrti ninagē bandide."
+    en: "There it is — that stubbornness. You got every bit of Appa's stubbornness."
+  - who: shobha
+    t: "ಮತ್ತೆ ನಿನಗೆ? ಅಪ್ಪನ ಹಠ ಅರ್ಧ, ಅವ್ವನ ಹಠ ಅರ್ಧ."
+    tr: "Matte ninage? Appana haṭha ardha, avvana haṭha ardha."
+    en: "And you? Half Appa's stubbornness, half Avva's."
+  - scene: "Avva laughs for the first time in months. The priest comes down the temple steps with a brass plate of burning camphor. He sees Avva and stops."
+  - who: priest
+    t: "ಪುಟ್ಟಮ್ಮನವರೇ, ಬನ್ನಿ. ಗೌಡ್ರು ಹೋದ ಮೇಲೆ ಇದು ಮೊದಲ ಜಾತ್ರೆ. ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಇನ್ನೂ ವರ್ಷ ತುಂಬಿಲ್ಲ, ಹಬ್ಬ ಮಾಡಲ್ಲ ಅಂತ ಗೊತ್ತು. ಆದ್ರೆ ಅಮ್ಮನ ಸೇವೆಗೆ ಸೂತಕ ಅಡ್ಡ ಬರಲ್ಲ ಅಂತ ನಮ್ಮ ಹಿರಿಯರು ಹೇಳ್ತಿದ್ರು. ಹರಕೆ ಹೊತ್ತಿದ್ರಂತಲ್ಲ?"
+    tr: "Puṭṭammanavarē, banni. Gauḍru hōda mēle idu modala jātre. Nimma maneyalli innū varṣa tumbilla, habba māḍalla anta gottu. Ādre ammana sēvege sūtaka aḍḍa baralla anta namma hiriyaru hēḷtidru. Harake hottidrantalla?"
+    en: "Come, Puttamma-avare. This is the first jatre since Gowdru passed away. I know the year isn't yet complete in your house, and you won't celebrate festivals. But our elders used to say mourning does not stand in the way of serving the Goddess. I hear you made a vow?"
+  - who: avva
+    t: "ಹೌದು ಸ್ವಾಮಿ. ಅವರು ಹೋದ ರಾತ್ರಿ ಅಮ್ಮನ ಹತ್ರ ಬೇಡ್ಕಂಡಿದ್ದೆ — ನನ್ನ ಮೂರು ಮಕ್ಳು ಒಟ್ಟಿಗೆ ತೇರು ಎಳೀಬೇಕು ಅಂತ. ಆಮೇಲೆ ಮಕ್ಳು ಕೋರ್ಟಿಗೆ ಹೋದ್ರು. ಹರಕೆ ತೀರೋದೇ ಇಲ್ಲ ಅನ್ಕೊಂಡಿದ್ದೆ."
+    tr: "Haudu svāmi. Avaru hōda rātri ammana hatra bēḍkaṇḍidde — nanna mūru makḷu oṭṭige tēru eḷībēku anta. Āmēle makḷu kōrṭige hōdru. Harake tīrōdē illa ankoṇḍidde."
+    en: "Yes, Swami. The night he died, I begged the Goddess — that my three children should pull her chariot together. Then the children went to court. I thought the vow would never be fulfilled."
+  - who: priest
+    t: "ಹರಕೆ ತೀರೋದು ಕೈಗಳಿಂದ ಅಲ್ಲ ಅಮ್ಮ, ಮನಸ್ಸಿಂದ. … ಮಕ್ಕಳೇ, ಮುಂದಿನ ಹಗ್ಗದಲ್ಲಿ ಮೂರೂ ಜನ ಒಂದೇ ಕಡೆ ನಿಲ್ಲಿ. ಹಗ್ಗದ ಒಂದು ತುದಿ ಅಮ್ಮನ ತೇರಿಗೆ ಕಟ್ಟಿದೆ, ಇನ್ನೊಂದು ತುದಿ ಊರಿನ ಎಲ್ಲರ ಕೈಲಿದೆ. ಯಾರೂ ವಿರುದ್ಧ ಕಡೆಗೆ ಎಳೆಯಲ್ಲ — ತೇರು ಮುಂದೆ ಹೋಗೋದು ಹಾಗೇ."
+    tr: "Harake tīrōdu kaigaḷinda alla amma, manassinda. … Makkaḷē, mundina haggadalli mūrū jana ondē kaḍe nilli. Haggada ondu tudi ammana tērige kaṭṭide, innondu tudi ūrina ellara kailide. Yārū viruddha kaḍege eḷeyalla — tēru munde hōgōdu hāgē."
+    en: "A vow isn't fulfilled by the hands, Amma, but by the heart. … Children, stand together on the same side of the front rope. One end of the rope is tied to the Goddess's chariot; the other is in the hands of the whole village. Nobody pulls the opposite way — that's the only way a chariot moves forward."
+  - scene: "The priest breaks a coconut before the great wheel. A roar goes up from the crowd. The three siblings take the front rope side by side — Suresh, Shobha, Mahadeva — with Rakshith just behind. The chariot creaks, shudders and begins to roll. Bananas and davana rain down on it."
+  - who: mahadeva
+    t: "ಎಲ್ರೂ ಒಟ್ಟಿಗೆ — ಒಂದು, ಎರಡು, ಮೂರು — ಎಳೀರಿ!"
+    tr: "Ellrū oṭṭige — ondu, eraḍu, mūru — eḷīri!"
+    en: "Everyone together — one, two, three — pull!"
+  - who: rakshith
+    t: "ಉಘೇ ಉಘೇ ಬೆಟ್ಟದಮ್ಮ! … ಅಪ್ಪ, ಇದು ಎಷ್ಟು ಭಾರ! ಸಾವಿರ ಜನ ಎಳೀತಿದಾರೆ, ಆದ್ರೂ ನಿಧಾನವಾಗಿ ಹೋಗ್ತಿದೆ."
+    tr: "Ughē ughē Beṭṭadamma! … Appa, idu eṣṭu bhāra! Sāvira jana eḷītidāre, ādrū nidhānavāgi hōgtide."
+    en: "Ughe, ughe, Bettadamma! … Appa, it's so heavy! A thousand people are pulling, and still it moves slowly."
+  - who: suresh
+    t: "ಅದಕ್ಕೇ ಎಲ್ಲರೂ ಒಂದೇ ಕಡೆ ಎಳೀಬೇಕು ಅಂದ್ರು ಪೂಜಾರಿಗಳು. ಕುಟುಂಬಾನೂ ಹಾಗೇ, ಕಂದ — ಭಾರ, ನಿಧಾನ, ಆದ್ರೆ ಎಲ್ರೂ ಎಳೆದ್ರೆ ಮುಂದೆ ಹೋಗುತ್ತೆ."
+    tr: "Adakkē ellarū ondē kaḍe eḷībēku andru pūjārigaḷu. Kuṭumbānū hāgē, kanda — bhāra, nidhāna, ādre ellrū eḷedre munde hōgutte."
+    en: "That's why the priest said everyone must pull the same way. A family's like that too, son — heavy, slow, but if everyone pulls, it moves."
+  - who: shobha
+    t: "ಅವ್ವನ್ನ ನೋಡು — ಅಳ್ತಿದಾಳೆ."
+    tr: "Avvanna nōḍu — aḷtidāḷe."
+    en: "(glancing back) Look at Avva — she's crying."
+  - who: avva
+    t: "ಅಳ್ತಿಲ್ಲ ಕಣವ್ವ. ದವನದ ಘಾಟು ಕಣ್ಣಿಗೆ ಹೊಡೀತು. … ಎಳೀರಿ, ಎಳೀರಿ, ನಿಲ್ಲಿಸ್ಬೇಡಿ."
+    tr: "Aḷtilla kaṇavva. Davanada ghāṭu kaṇṇige hoḍītu. … Eḷīri, eḷīri, nillisbēḍi."
+    en: "(wiping her eyes with the end of her sari) I'm not crying, girl. The davana got into my eyes. … Pull, pull, don't stop."
+
+  - section: "Fire and prasada"
+    learn: "the fire-walk: koṇḍa, keṇḍa, upavāsa, vrata, pūjārigaḷa anumati, suṭṭa gāya · the priest's counsel: haṇa eṇisōdu sulabha, manassu eṇisōdu kaṣṭa · habitual past: modala bellada accu tandu koḍtidru · a married daughter's distance: tavarige atithi āgōdu nidhānavāgi āgutte · the fair: tiḷi baṇṇada hatti sīre, hasiru baḷe, jilēbi, kaḍlepuri"
+  - scene: "Evening. Behind the temple, in a fenced square, a long pit of embers glows — the konda, for the fire-walk at dawn. Men who have kept a vow and fasted are being blessed. The priest sits on the temple steps handing out prasada; Suresh, Mahadeva and Rakshith sit on the step below him."
+  - who: rakshith
+    t: "ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಜನ ಈ ಕೆಂಡದ ಮೇಲೆ ನಡೀತಾರಾ? ಚಿಕ್ಕಪ್ಪ, ನೀನು ಯಾವತ್ತಾದ್ರೂ ನಡೆದಿದ್ಯಾ?"
+    tr: "Nāḷe beḷigge jana ī keṇḍada mēle naḍītārā? Cikkappa, nīnu yāvattādrū naḍedidyā?"
+    en: "Tomorrow morning people walk over these embers? Chikkappa, have you ever done it?"
+  - who: mahadeva
+    t: "ಒಂದೇ ಸಲ. ಎರಡು ಸಾವಿರದ ಆರರಲ್ಲಿ ಅಪ್ಪನ ಕಾಲು ಮುರಿದಾಗ ಹರಕೆ ಹೊತ್ತಿದ್ದೆ. ಒಂದು ವಾರ ಉಪವಾಸ, ವ್ರತ. … ಆದ್ರೆ ನೀನು ಯಾವತ್ತೂ ಇದನ್ನ ಆಟಕ್ಕೆ ಮಾಡ್ಬಾರ್ದು. ವ್ರತ ಮಾಡಿದೋರು, ಪೂಜಾರಿಗಳ ಅನುಮತಿ ಇರೋರು ಮಾತ್ರ. ಪ್ರತಿ ವರ್ಷ ಯಾರಿಗಾದ್ರೂ ಸುಟ್ಟ ಗಾಯ ಆಗುತ್ತೆ."
+    tr: "Ondē sala. Eraḍu sāvirada āraralli appana kālu muridāga harake hottidde. Ondu vāra upavāsa, vrata. … Ādre nīnu yāvattū idanna āṭakke māḍbārdu. Vrata māḍidōru, pūjārigaḷa anumati irōru mātra. Prati varṣa yārigādrū suṭṭa gāya āgutte."
+    en: "Just once. In two thousand six, when Appa broke his leg, I made a vow. A week of fasting and observances. … But don't you ever do it for fun. Only those who've kept the vow and have the priest's permission. Every year somebody gets burnt."
+  - who: priest
+    t: "ಮಹದೇವ ಸರಿಯಾಗಿ ಹೇಳಿದ. ಕೊಂಡ ಧೈರ್ಯ ತೋರಿಸೋ ಜಾಗ ಅಲ್ಲ, ಶ್ರದ್ಧೆ ತೋರಿಸೋ ಜಾಗ. … ತಗೊಳ್ಳಿ, ಪ್ರಸಾದ. ಸುರೇಶ, ನಿಮ್ಮಪ್ಪ ಪ್ರತಿ ವರ್ಷ ಕೊಯ್ಲಾದ ಮೇಲೆ ಮೊದಲ ಬೆಲ್ಲದ ಅಚ್ಚು, ಮೊದಲ ರಾಗಿ ತೆನೆ ಅಮ್ಮನಿಗೆ ತಂದು ಕೊಡ್ತಿದ್ರು. ನಲವತ್ತು ವರ್ಷ ಒಂದ್ಸಲಾನೂ ತಪ್ಪಿಸಲಿಲ್ಲ."
+    tr: "Mahadēva sariyāgi hēḷida. Koṇḍa dhairya tōrisō jāga alla, śraddhe tōrisō jāga. … Tagoḷḷi, prasāda. Surēśa, nimmappa prati varṣa koylāda mēle modala bellada accu, modala rāgi tene ammanige tandu koḍtidru. Nalavattu varṣa ondsalānū tappisalilla."
+    en: "Mahadeva's right. The fire pit isn't a place to show courage; it's a place to show devotion. … Here, take the prasada. Suresha, every year after the harvest your father used to bring the Goddess the first block of jaggery and the first ear of ragi. In forty years he never once missed."
+  - who: mahadeva
+    t: "ಈ ಸಲ ರಾಗಿ ಕೊಯ್ಲು ಮುಂದಿನ ವಾರ ಸ್ವಾಮಿ. ಮೊದಲ ತೆನೆ ನಾನೇ ತರ್ತೀನಿ."
+    tr: "Ī sala rāgi koylu mundina vāra svāmi. Modala tene nānē tartīni."
+    en: "This year the ragi harvest is next week, Swami. I'll bring the first ear myself."
+  - who: priest
+    t: "ಒಳ್ಳೇದು. … ಒಂದು ಮಾತು ಹೇಳ್ಲಾ? ಊರಲ್ಲಿ ಸುದ್ದಿ ಇದೆ — ನೀವು ಲೋಕ ಅದಾಲತ್‌ಗೆ ಹೋಗ್ತಿದೀರಿ ಅಂತ. ನಾನು ಪೂಜಾರಿ, ನನಗೆ ಕಾನೂನು ಗೊತ್ತಿಲ್ಲ. ಆದ್ರೆ ಮೂವತ್ತು ವರ್ಷದಿಂದ ಈ ಮೆಟ್ಟಿಲ ಮೇಲೆ ಕೂತು ಎಷ್ಟೋ ಮನೆಗಳು ಒಡೆಯೋದು ನೋಡಿದೀನಿ. ಹಣ ಎಣಿಸೋದು ಸುಲಭ. ಮನಸ್ಸು ಎಣಿಸೋದು ಕಷ್ಟ. ಅಲ್ಲಿ ಹೋದಾಗ ಎಕರೆ-ಗುಂಟೆ ಜೊತೆಗೆ ಮನಸ್ಸನ್ನೂ ಅಳೀರಿ."
+    tr: "Oḷḷēdu. … Ondu mātu hēḷlā? Ūralli suddi ide — nīvu Lōka Adālat-ge hōgtidīri anta. Nānu pūjāri, nanage kānūnu gottilla. Ādre mūvattu varṣadinda ī meṭṭila mēle kūtu eṣṭō manegaḷu oḍeyōdu nōḍidīni. Haṇa eṇisōdu sulabha. Manassu eṇisōdu kaṣṭa. Alli hōdāga ekare-guṇṭe jotege manassannū aḷīri."
+    en: "Good. … May I say one thing? There's talk in the village that you're going to the Lok Adalat. I'm a priest; I don't know the law. But sitting on these steps for thirty years I've watched so many families break apart. Counting money is easy. Counting hearts is hard. When you go there, measure the hearts along with the acres and guntas."
+  - who: suresh
+    t: "ನೆನಪಿಟ್ಕೊಳ್ತೀವಿ ಸ್ವಾಮಿ."
+    tr: "Nenapiṭkoḷtīvi svāmi."
+    en: "We'll remember that, Swami."
+  - scene: "The fair, after dark. Under strings of bulbs, Shobha and Rakshith walk between the stalls. Shobha holds a folded sari up to the light; Rakshith carries a paper cone of kadlepuri and a packet of jilebi."
+  - who: shobha
+    t: "ಈ ತಿಳಿ ಬಣ್ಣದ ಹತ್ತಿ ಸೀರೆ ಅವ್ವನಿಗೆ ಹೇಗಿರುತ್ತೆ, ರಕ್ಷಿತ್? ಅವ್ವ ರೇಷ್ಮೆ ಉಡಲ್ಲ, ಹತ್ತಿಯೇ ಬೇಕು. ಹಸಿರು ಬಳೇನೂ ತಗೊಂಡೆ — ನಿಮ್ಮಮ್ಮನಿಗೊಂದು ಜೊತೆ, ನನಗೊಂದು ಜೊತೆ."
+    tr: "Ī tiḷi baṇṇada hatti sīre avvanige hēgirutte, Rakṣit? Avva rēṣme uḍalla, hattiyē bēku. Hasiru baḷēnū tagoṇḍe — nimmammanigondu jote, nanagondu jote."
+    en: "How will this pale cotton sari look on Avva, Rakshith? Avva doesn't wear silk; it has to be cotton. And I bought green bangles — a set for your mother, a set for me."
+  - who: rakshith
+    t: "ಅತ್ತೆ, ಹದಿನಾರು ವರ್ಷದಿಂದ ನೀನು ಜಾತ್ರೆಗೆ ಯಾಕೆ ಬರ್ಲಿಲ್ಲ?"
+    tr: "Atte, hadināru varṣadinda nīnu jātrege yāke barlilla?"
+    en: "Atte, why didn't you come to the jatre for sixteen years?"
+  - who: shobha
+    t: "ಮೊದಲು ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ರಜೆ ಸಿಗ್ತಿರ್ಲಿಲ್ಲ. ಆಮೇಲೆ ಅಭ್ಯಾಸ ಆಯ್ತು — ಬರದೇ ಇರೋದು. ಮದುವೆಯಾದ ಹೆಣ್ಣುಮಗಳು ತವರಿಗೆ ‘ಅತಿಥಿ’ ಆಗೋದು ನಿಧಾನವಾಗಿ ಆಗುತ್ತೆ, ರಕ್ಷಿತ್. ಯಾರೂ ಬಾಗಿಲು ಮುಚ್ಚಲ್ಲ. ನಾವೇ ಬರೋದು ಕಮ್ಮಿ ಮಾಡ್ತೀವಿ. ಆಮೇಲೆ ಒಂದು ದಿನ ಜಮೀನಿನ ಕಾಗದದಲ್ಲಿ ಹೆಸರೇ ಇರಲ್ಲ."
+    tr: "Modalu āspatreyalli raje sigtirlilla. Āmēle abhyāsa āytu — baradē irōdu. Maduveyāda heṇṇumagaḷu tavarige ‘atithi’ āgōdu nidhānavāgi āgutte, Rakṣit. Yārū bāgilu muccalla. Nāvē barōdu kammi māḍtīvi. Āmēle ondu dina jamīnina kāgadadalli hesarē iralla."
+    en: "At first I couldn't get leave from the hospital. Then it became a habit — not coming. A married daughter turns into a 'guest' in her parents' home slowly, Rakshith. Nobody shuts the door. We ourselves come less and less. And then one day your name isn't even on the land papers."
+  - who: rakshith
+    t: "ಅದಕ್ಕೇ ಕೇಸ್ ಹಾಕಿದ್ಯಾ?"
+    tr: "Adakkē kēs hākidyā?"
+    en: "Is that why you filed the case?"
+  - who: shobha
+    t: "ಅದಕ್ಕೇ. ಹಣಕ್ಕಲ್ಲ. ‘ನಾನೂ ಈ ಮನೆಯವಳು’ ಅಂತ ಬರೆದಿರೋ ಒಂದು ಕಾಗದಕ್ಕೆ. … ಜಿಲೇಬಿ ಕೊಡು, ತಣ್ಣಗಾಗ್ತಿದೆ."
+    tr: "Adakkē. Haṇakkalla. ‘Nānū ī maneyavaḷu’ anta baredirō ondu kāgadakke. … Jilēbi koḍu, taṇṇagāgtide."
+    en: "That's why. Not for money. For one piece of paper that says 'I belong to this house too'. … Give me a jilebi, they're getting cold."
+
+  - section: "A night in the yard"
+    learn: "night talk: nidde barlilvā, ellrū illi kūri · shared memories: nenapideyā … malagtidvi, hēḷtidda · saying what you want: nanage bēkāgiddu …, maṇṇu nanage bēḍa, haṇada rūpadalli · generosity: lekka sari māḍtidīni, ippattu varṣada bāki · a mother's terms: nānu irōvaregū nanna hesarallirali, uyilu barestīni · dictation: bari kaṇavva"
+  - scene: "Past midnight. The drums have stopped; only the generator of the giant wheel still hums down by the tank. In the yard of the house Avva sits on a mat under the open sky. One by one her children come out — none of them can sleep."
+  - who: avva
+    t: "ನಿದ್ದೆ ಬರ್ಲಿಲ್ವಾ? ಬನ್ನಿ, ಎಲ್ರೂ ಇಲ್ಲಿ ಕೂರಿ. ಇವತ್ತು ಮೂರೂ ಜನ ಒಟ್ಟಿಗೆ ಕೂತಿದೀರಿ — ಕೋರ್ಟಿನ ಬೆಂಚಲ್ಲ, ನಮ್ಮ ಅಂಗಳ."
+    tr: "Nidde barlilvā? Banni, ellrū illi kūri. Ivattu mūrū jana oṭṭige kūtidīri — kōrṭina beṇcalla, namma aṅgaḷa."
+    en: "Couldn't sleep? Come, all of you, sit here. Tonight the three of you are sitting together — not on a court bench, in our own yard."
+  - who: shobha
+    t: "ಅವ್ವ, ನೆನಪಿದೆಯಾ? ಬೇಸಿಗೆಯಲ್ಲಿ ನಾವು ಮೂವರೂ ಇಲ್ಲೇ ಚಾಪೆ ಹಾಸ್ಕೊಂಡು ಮಲಗ್ತಿದ್ವಿ. ಅಣ್ಣ ನಕ್ಷತ್ರಗಳ ಹೆಸರು ಹೇಳ್ತಿದ್ದ, ಮಹದೇವ ದೆವ್ವದ ಕಥೆ ಹೇಳಿ ನನ್ನ ಹೆದರಿಸ್ತಿದ್ದ."
+    tr: "Avva, nenapideyā? Bēsigeyalli nāvu mūvarū illē cāpe hāskoṇḍu malagtidvi. Aṇṇa nakṣatragaḷa hesaru hēḷtidda, Mahadēva devvada kathe hēḷi nanna hedaristidda."
+    en: "Avva, do you remember? In summer the three of us used to spread our mats right here and sleep. Anna would name the stars, and Mahadeva would tell ghost stories to frighten me."
+  - who: mahadeva
+    t: "ನೀನು ಹೆದರಿ ಅಪ್ಪನ ಹತ್ರ ಓಡೋಗ್ತಿದ್ದೆ. ಮಾರನೇ ದಿನ ಬೈಸ್ಕೊಳ್ತಿದ್ದಿದ್ದು ನಾನು."
+    tr: "Nīnu hedari appana hatra ōḍōgtidde. Māranē dina baiskoḷtiddiddu nānu."
+    en: "You'd get scared and run to Appa. And the next day I'd be the one getting scolded."
+  - who: avva
+    t: "ಅವತ್ತೂ ಹಂಗೇ, ಇವತ್ತೂ ಹಂಗೇ. … ಕೇಳಿ. ಹನ್ನೆರಡನೇ ತಾರೀಖು ನೀವು ಆ ಅದಾಲತ್‌ಗೆ ಹೋಗ್ತೀರಿ. ಅಲ್ಲಿ ವಕೀಲರು ಮಾತಾಡ್ತಾರೆ, ಜಡ್ಜ್ ಸಾಹೇಬ್ರು ಮಾತಾಡ್ತಾರೆ. ಅದಕ್ಕೂ ಮುಂಚೆ ಒಂದ್ಸಲ ಒಬ್ಬೊಬ್ಬರಾಗಿ ಹೇಳಿ — ನಿಜವಾಗ್ಲೂ ನಿಮಗೆ ಏನು ಬೇಕು? ವಕೀಲರ ಭಾಷೆಯಲ್ಲಿ ಅಲ್ಲ. ನಿಮ್ಮವ್ವನ ಭಾಷೆಯಲ್ಲಿ."
+    tr: "Avattū haṅgē, ivattū haṅgē. … Kēḷi. Hanneraḍanē tārīkhu nīvu ā Adālat-ge hōgtīri. Alli vakīlaru mātāḍtāre, jaḍj sāhēbru mātāḍtāre. Adakkū mun̄ce ondsala obbobbarāgi hēḷi — nijavāglū nimage ēnu bēku? Vakīlara bhāṣeyalli alla. Nimmavvana bhāṣeyalli."
+    en: "It was like that then, and it's like that now. … Listen. On the twelfth you go to that Adalat. There the lawyers will talk, the judge will talk. Before that, tell me once, one at a time — what do you truly want? Not in the lawyers' language. In your mother's."
+  - who: mahadeva
+    t: "ನಾನೇ ಮೊದಲು ಹೇಳ್ತೀನಿ. ನನಗೆ ಗದ್ದೆ ಬೇಕು, ಅವ್ವ — ಪೂರ್ತಿ ಮೂರೂವರೆ ಎಕರೆ, ತುಂಡು ಮಾಡದೆ. ಮತ್ತೆ ಈ ಮನೆ, ಕೊಟ್ಟಿಗೆ. ಗದ್ದೆ ತುಂಡಾದ್ರೆ ನಾಲೆ ನೀರು ಹಂಚೋದೇ ಜಗಳ ಆಗುತ್ತೆ. ಅದಕ್ಕೆ ಬದಲಾಗಿ ಏನು ಕೇಳಿದ್ರೂ ಕೊಡ್ತೀನಿ — ಸಾಲ ಇದ್ರೆ ಅದೂ ನನ್ನದು. ಆದ್ರೆ ನನ್ ಹತ್ರ ಲಕ್ಷಗಟ್ಲೆ ನಗದು ಇಲ್ಲ, ಅದು ಎಲ್ರಿಗೂ ಗೊತ್ತು."
+    tr: "Nānē modalu hēḷtīni. Nanage gadde bēku, avva — pūrti mūrūvare ekare, tuṇḍu māḍade. Matte ī mane, koṭṭige. Gadde tuṇḍādre nāle nīru han̄cōdē jagaḷa āgutte. Adakke badalāgi ēnu kēḷidrū koḍtīni — sāla idre adū nannadu. Ādre nan hatra lakṣagaṭle nagadu illa, adu ellrigū gottu."
+    en: "I'll say it first. I want the wet land, Avva — all three and a half acres, without cutting it up. And this house, and the cattle shed. If the wet land is split, even sharing out the canal water becomes a fight. In return I'll give whatever's asked — if there's any loan, that's mine too. But I don't have lakhs in cash; everybody knows that."
+  - who: shobha
+    t: "ನನಗೆ ಮೊದಲು ಬೇಕಾಗಿದ್ದು ನನ್ನ ಹೆಸರು. ಅದು ಪಹಣಿಯಲ್ಲಿ ಬಂತು. ಈಗ… ನಿಜ ಹೇಳ್ಬೇಕು ಅಂದ್ರೆ, ಮೈಸೂರಲ್ಲಿ ನಾವು ಹತ್ತು ವರ್ಷದಿಂದ ಬಾಡಿಗೆ ಮನೆಯಲ್ಲಿದೀವಿ. ಒಂದು ಸಣ್ಣ ಮನೆ ನಮ್ಮದು ಅಂತ ಆಗ್ಬೇಕು ಅನ್ನೋ ಆಸೆ ಇದೆ. ಮಣ್ಣು ನನಗೆ ಬೇಡ — ನಾನು ಬೇಸಾಯ ಮಾಡಲ್ಲ. ನನ್ನ ಪಾಲು ಹಣದ ರೂಪದಲ್ಲಿ ಬಂದ್ರೆ ಸಾಕು. ಆದ್ರೆ ಅದು ಮಹದೇವನ ಗದ್ದೆ ಮಾರಿ ಅಲ್ಲ."
+    tr: "Nanage modalu bēkāgiddu nanna hesaru. Adu pahaṇiyalli bantu. Īga… nija hēḷbēku andre, Maisūralli nāvu hattu varṣadinda bāḍige maneyallidīvi. Ondu saṇṇa mane nammadu anta āgbēku annō āse ide. Maṇṇu nanage bēḍa — nānu bēsāya māḍalla. Nanna pālu haṇada rūpadalli bandre sāku. Ādre adu Mahadēvana gadde māri alla."
+    en: "What I wanted first was my name. That's come into the RTC. Now… if I'm honest, in Mysuru we've lived in a rented house for ten years. I've always wished for one small house that's our own. I don't need soil — I won't farm. If my share comes as money, that's enough. But not by selling Mahadeva's wet land."
+  - who: suresh
+    t: "ನನ್ನ ಸರತಿ. ನನಗೆ ಏನೂ ಬೇಡ. ಬ್ಯಾಂಕ್ ಕೆಲಸ ಇದೆ, ಮನೆ ಇದೆ — ಸಾಲದ ಮನೆ ಆದ್ರೂ. ಅಪ್ಪ ನನ್ನ ಓದಿಗೆ ಎತ್ತು ಮಾರಿದ್ದೇ ನನ್ನ ಪಾಲು. ನನ್ನ ಭಾಗವನ್ನ ಅವ್ವನ ಹೆಸರಿಗೆ ಬರೆದುಬಿಡ್ತೀನಿ. ಅವ್ವ ಇರೋವರೆಗೂ ಅದು ಅವಳದು — ಯಾರ ಮುಂದೆಯೂ ಅವಳು ಕೈ ಚಾಚಬಾರದು."
+    tr: "Nanna sarati. Nanage ēnū bēḍa. Byāṅk kelasa ide, mane ide — sālada mane ādrū. Appa nanna ōdige ettu māriddē nanna pālu. Nanna bhāgavanna avvana hesarige baredubiḍtīni. Avva irōvaregū adu avaḷadu — yāra mundeyū avaḷu kai cācabāradu."
+    en: "My turn. I don't want anything. I have my bank job, I have a house — a house on a loan, but still. Appa selling the bullocks for my studies was my share. I'll write my portion over to Avva's name. As long as Avva lives, it's hers — she should never have to hold out her hand to anyone."
+  - who: mahadeva
+    t: "ಅಣ್ಣ… ಅದು ಜಾಸ್ತಿ ಆಯ್ತು."
+    tr: "Aṇṇa… adu jāsti āytu."
+    en: "Anna… that's too much."
+  - who: suresh
+    t: "ಜಾಸ್ತಿ ಅಲ್ಲ. ಲೆಕ್ಕ ಸರಿ ಮಾಡ್ತಿದೀನಿ. ಇಪ್ಪತ್ತು ವರ್ಷದ ಬಾಕಿ ಇದೆ."
+    tr: "Jāsti alla. Lekka sari māḍtidīni. Ippattu varṣada bāki ide."
+    en: "Not too much. I'm settling accounts. There are twenty years of arrears."
+  - who: shobha
+    t: "ಅಣ್ಣ, ಅತ್ತಿಗೆನ ಕೇಳಿದ್ಯಾ? ಅದು ರಕ್ಷಿತ್‌ನ ಪಾಲೂ ಹೌದು."
+    tr: "Aṇṇa, attigena kēḷidyā? Adu Rakṣit-na pālū haudu."
+    en: "Anna, did you ask Attige? It's Rakshith's share too."
+  - who: suresh
+    t: "ಕೇಳಿದೆ. ಮೀನಾ ಒಂದೇ ಮಾತು ಹೇಳಿದ್ಲು — ‘ಮಾರ್ಚ್‌ನಲ್ಲಿ ಅಂಕಿ ಬರೆದೋಳು ನಾನು. ಆ ಅಂಕಿಗಳಲ್ಲಿ ಅವ್ವನ ಮುಪ್ಪಿನ ಕಾಲ ಇರ್ಲಿಲ್ಲ. ಅದನ್ನ ಸೇರಿಸಿ.’ ರಕ್ಷಿತ್‌ನನ್ನೂ ಕೇಳಿದೆ. ‘ನಂಗೆ ಜಮೀನು ಬೇಡ, ಚಿಕ್ಕಪ್ಪನ ಮನೆಗೆ ಬರೋ ದಾರಿ ಮುಚ್ಚಬಾರದು, ಅಷ್ಟೇ’ ಅಂದ."
+    tr: "Kēḷide. Mīnā ondē mātu hēḷidlu — ‘Mārc-nalli aṅki baredōḷu nānu. Ā aṅkigaḷalli avvana muppina kāla irlilla. Adanna sērisi.’ Rakṣit-nannū kēḷide. ‘Naṅge jamīnu bēḍa, cikkappana manege barō dāri muccabāradu, aṣṭē’ anda."
+    en: "I did. Meena said just one thing: 'I'm the one who wrote the figures in March. Avva's old age wasn't in those figures. Put it in.' I asked Rakshith too. He said, 'I don't want land. Just don't let the road to Chikkappa's house close, that's all.'"
+  - who: avva
+    t: "ಈಗ ನನ್ನ ಮಾತು ಕೇಳಿ. ನನಗೆ ಜಮೀನು ಬೇಡ — ಎಪ್ಪತ್ತು ವರ್ಷದವಳು ಜಮೀನು ತಗೊಂಡು ಏನು ಮಾಡ್ಲಿ? ಆದ್ರೆ ಆ ಹುಣಸೆ ಮರದ ಹೊಲ… ನಿಮ್ಮಪ್ಪ ಅಲ್ಲಿ ಮಲಗಿದಾರೆ. ಆ ಭಾಗ ನಾನು ಇರೋವರೆಗೂ ನನ್ನ ಹೆಸರಲ್ಲಿರಲಿ. ಮಹದೇವ ಅಲ್ಲಿ ರಾಗಿ ಬೆಳೀಲಿ. ನಾನು ಹೋದ ಮೇಲೆ ಅದು ಯಾರಿಗೆ ಅಂತ ಉಯಿಲು ಬರೆಸ್ತೀನಿ — ನಿಮ್ಮಪ್ಪ ಬರೆಸಲಿಲ್ಲ, ಅದಕ್ಕೇ ಇಷ್ಟೆಲ್ಲಾ ಆಯ್ತು."
+    tr: "Īga nanna mātu kēḷi. Nanage jamīnu bēḍa — eppattu varṣadavaḷu jamīnu tagoṇḍu ēnu māḍli? Ādre ā huṇase marada hola… nimmappa alli malagidāre. Ā bhāga nānu irōvaregū nanna hesarallirali. Mahadēva alli rāgi beḷīli. Nānu hōda mēle adu yārige anta uyilu barestīni — nimmappa baresalilla, adakkē iṣṭellā āytu."
+    en: "Now listen to me. I don't want land — what would a woman of seventy do with land? But that field with the tamarind tree… your father lies there. Let that part stay in my name as long as I live. Let Mahadeva grow ragi on it. Who gets it after I'm gone, I'll have written in a will — your father never had one written, and that's why all this happened."
+  - who: shobha
+    t: "ಮತ್ತೆ ನನ್ನ ಹಣ ಎಲ್ಲಿಂದ? ಮಹದೇವನ ಹತ್ರ ನಗದು ಇಲ್ಲ."
+    tr: "Matte nanna haṇa ellinda? Mahadēvana hatra nagadu illa."
+    en: "Then where does my money come from? Mahadeva has no cash."
+  - who: mahadeva
+    t: "ಒಣ ಹೊಲದ ಅರ್ಧ — ಹುಣಸೆ ಮರ ಇಲ್ಲದ ಕಡೆ, ರಸ್ತೆ ಪಕ್ಕದ್ದು. ಪಕ್ಕದ ನಿಂಗೇಗೌಡ್ರು ಎರಡು ವರ್ಷದಿಂದ ಕೇಳ್ತಿದಾರೆ — ಅವರ ಹೊಲಕ್ಕೆ ಅಂಟ್ಕೊಂಡಿದೆ. ಅವರು ರೈತರು, ಬ್ರೋಕರ್ ಅಲ್ಲ, ಫಾರ್ಮ್‌ಹೌಸ್ ಕಟ್ಟಲ್ಲ. ಅದನ್ನ ಮಾರಿ ಬಂದ ಹಣ ಪೂರ್ತಿ ನಿನಗೆ."
+    tr: "Oṇa holada ardha — huṇase mara illada kaḍe, raste pakkaddu. Pakkada Niṅgēgauḍru eraḍu varṣadinda kēḷtidāre — avara holakke aṇṭkoṇḍide. Avaru raitaru, brōkar alla, phārm-haus kaṭṭalla. Adanna māri banda haṇa pūrti ninage."
+    en: "Half the dry field — the side without the tamarind tree, by the road. Our neighbour Ningegowda has been asking for it for two years — it adjoins his field. He's a farmer, not a broker; he won't build a farmhouse. Every rupee from selling it goes to you."
+  - who: shobha
+    t: "ಮಾರಾಟ? ‘ಜಮೀನು ಮಾರಲ್ಲ’ ಅಂತ ಅಪ್ಪ ಬರೆದಿದ್ರಲ್ಲ, ಮಹದೇವ? ಆ ಮಾತನ್ನ ಮೊದಲು ಹೇಳಿದ್ದೇ ನೀನು."
+    tr: "Mārāṭa? ‘Jamīnu māralla’ anta appa baredidralla, Mahadēva? Ā mātanna modalu hēḷiddē nīnu."
+    en: "Selling? Didn't Appa write 'I will not sell the land', Mahadeva? You were the first one to quote it."
+  - who: mahadeva
+    t: "ಹೌದು. ಅಪ್ಪ ಬದುಕಿದ್ದಾಗ ಮಾರ್ಲಿಲ್ಲ. ಆದ್ರೆ ಅಪ್ಪಾನೇ ನಿನ್ನ ಮದುವೆಗೆ ಸಾಲ ಮಾಡಿದ್ರು, ಅಣ್ಣನ ಓದಿಗೆ ಎತ್ತು ಮಾರಿದ್ರು. ಮಕ್ಕಳಿಗಾಗಿ ಕೊಡೋದು ಅಪ್ಪನಿಗೆ ಗೊತ್ತಿತ್ತು. ಒಂದೂಕಾಲು ಎಕರೆ ಹೋದ್ರೆ ಹೋಗ್ಲಿ — ತಂಗಿ ಕಣ್ಣೀರು ಹಾಕ್ಕೊಂಡು ಕೋರ್ಟಿಗೆ ಅಲೆಯೋದಕ್ಕಿಂತ ಅದು ಸಾವಿರ ಪಾಲು ವಾಸಿ."
+    tr: "Haudu. Appa badukiddāga mārlilla. Ādre appānē ninna maduvege sāla māḍidru, aṇṇana ōdige ettu māridru. Makkaḷigāgi koḍōdu appanige gottittu. Ondūkālu ekare hōdre hōgli — taṅgi kaṇṇīru hākkoṇḍu kōrṭige aleyōdakkinta adu sāvira pālu vāsi."
+    en: "Yes. While Appa lived, he didn't sell. But Appa himself borrowed for your wedding and sold the bullocks for Anna's studies. Appa knew how to give for his children. If one and a quarter acres goes, let it go — that's a thousand times better than my sister trailing round the courts in tears."
+  - who: shobha
+    t: "… ಮಹದೇವ."
+    tr: "… Mahadēva."
+    en: "(her voice breaking) … Mahadeva."
+  - who: avva
+    t: "ಸಾಕು, ಸಾಕು. ಇದನ್ನೆಲ್ಲಾ ಹನ್ನೆರಡನೇ ತಾರೀಖು ಜಡ್ಜ್ ಸಾಹೇಬ್ರ ಮುಂದೆ ಮತ್ತೆ ಹೇಳಿ. ಇವತ್ತು ರಾತ್ರಿ ಹೇಳಿದ್ದು ಅಮ್ಮನ ಮುಂದೆ ಹೇಳಿದ ಹಾಗೆ. … ನಿಮ್ಮಪ್ಪನ ದಿನಚರಿ ತಗೊಂಡು ಬಾ ಮಹದೇವ. ಇವತ್ತಿನ ದಿನ ಅದರಲ್ಲಿ ಬರೀಬೇಕು."
+    tr: "Sāku, sāku. Idannellā hanneraḍanē tārīkhu jaḍj sāhēbra munde matte hēḷi. Ivattu rātri hēḷiddu ammana munde hēḷida hāge. … Nimmappana dinacari tagoṇḍu bā Mahadēva. Ivattina dina adaralli barībēku."
+    en: "Enough, enough. Say all this again before the judge on the twelfth. What you said tonight, you've said as if before the Goddess. … Bring your father's diary, Mahadeva. Today has to be written in it."
+  - who: mahadeva
+    t: "ಯಾರು ಬರೀತಾರೆ, ಅವ್ವ? ನಿನಗೆ ಬರೆಯೋಕೆ ಬರಲ್ಲ."
+    tr: "Yāru barītāre, avva? Ninage bareyōke baralla."
+    en: "Who'll write it, Avva? You can't write."
+  - who: avva
+    t: "ನಾನು ಹೇಳ್ತೀನಿ, ಶೋಭಾ ಬರೀಲಿ. ಮನೆ ಮಗಳ ಕೈಬರಹ ಆ ಪುಸ್ತಕದಲ್ಲಿ ಒಂದು ಸಲನಾದ್ರೂ ಇರ್ಬೇಕು. … ಬರಿ ಕಣವ್ವ: ‘ಜಾತ್ರೆ ರಾತ್ರಿ. ಮೂರೂ ಮಕ್ಳು ಅಂಗಳದಲ್ಲಿ ಒಟ್ಟಿಗೆ ಕೂತಿದ್ರು. ಇನ್ನು ಒಟ್ಟಿಗೆ ಉಣ್ಣೋದು ಒಂದೇ ಬಾಕಿ.’"
+    tr: "Nānu hēḷtīni, Śōbhā barīli. Mane magaḷa kaibaraha ā pustakadalli ondu salanādrū irbēku. … Bari kaṇavva: ‘Jātre rātri. Mūrū makḷu aṅgaḷadalli oṭṭige kūtidru. Innu oṭṭige uṇṇōdu ondē bāki.’"
+    en: "I'll say it; let Shobha write. The daughter of the house must have her handwriting in that book at least once. … Write, my girl: 'Night of the jatre. All three children sat together in the yard. Only eating together still remains.'"
