@@ -1,0 +1,22 @@
+lang: kannada
+num: 6
+level: "B2 → C1 · ~1 h 30 min · finale"
+title:
+  t: "ಹಳೆ ಗೆಳೆಯರ ಪಯಣ"
+  tr: "Haḷe geḷeyara payaṇa"
+  en: "The old friends' trip"
+intro: "Eight engineering-college friends from the 2010 batch, now 34, take a road trip from Bengaluru to Chitradurga, Hampi, Dharwad and Gokarna in December 2026. Fast friends' Kannada with slang and Kanglish, six regional accents, cricket, cinema, politics, a divorce, a bounced cheque, old love and real apologies."
+speakers:
+  arjun: { name: "Arjun", voice: kn-IN-GaganNeural, pitch: "+0Hz", rate: "+4%" }
+  naveen: { name: "Naveen", voice: kn-IN-GaganNeural, pitch: "-6Hz", rate: "+8%" }
+  prakash: { name: "Prakash", voice: kn-IN-GaganNeural, pitch: "-12Hz", rate: "+2%" }
+  imran: { name: "Dr. Imran", voice: kn-IN-GaganNeural, pitch: "+6Hz", rate: "+2%" }
+  deepa: { name: "Deepa", voice: kn-IN-SapnaNeural, pitch: "+0Hz", rate: "+0%" }
+  ramya: { name: "Ramya", voice: kn-IN-SapnaNeural, pitch: "+6Hz", rate: "+6%" }
+  kaveri: { name: "Kaveri", voice: kn-IN-SapnaNeural, pitch: "-4Hz", rate: "-2%" }
+  shruti: { name: "Shruti", voice: kn-IN-SapnaNeural, pitch: "+10Hz", rate: "+4%" }
+  police: { name: "Police officer", voice: kn-IN-GaganNeural, pitch: "-16Hz", rate: "-4%" }
+  guide: { name: "Hampi guide", voice: kn-IN-GaganNeural, pitch: "-10Hz", rate: "-6%" }
+  amma: { name: "Prakash's mother", voice: kn-IN-SapnaNeural, pitch: "-16Hz", rate: "-10%" }
+  host: { name: "Homestay owner", voice: kn-IN-GaganNeural, pitch: "-4Hz", rate: "+6%" }
+  sam: { name: "Sam", voice: kn-IN-GaganNeural, pitch: "+0Hz", rate: "-5%" }

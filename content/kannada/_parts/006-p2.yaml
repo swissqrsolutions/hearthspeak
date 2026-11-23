@@ -1,0 +1,672 @@
+lines:
+  - chapter: "Chapter 6 — Dharwad"
+  - section: "Leaving Hampi"
+    learn: "loading the cars: ḍikki, nānē hāktēne, ninna kāru nōḍkō · noticing a chill: ēnō ide, eraḍu padakkinta jāsti mātāḍilla · Dharwad on the phone: elli muṭṭīri, lagūna barri, barākattāra · a doctor on leave: rajādāga adēni, ādrū phōn ettatēni"
+  - scene: "Sunday, 6 December 2026, seven in the morning. Outside a guesthouse in Hampi, mist on the boulders. The two cars are being loaded. Arjun reaches for Naveen's suitcase."
+  - who: arjun
+    t: "ಕೊಡು ಮಗಾ, ಆ ಸೂಟ್‌ಕೇಸ್ ನಾನು ಡಿಕ್ಕಿಗೆ ಹಾಕ್ತೀನಿ. ನಿನ್ನೆ ಕೊರಕಲ್‌ನಲ್ಲಿ ಹುಟ್ಟು ಹಾಕಿ ಭುಜ ನೋಯ್ತಿದೆ ಅಂದಿದ್ದೆ ಅಲ್ವಾ?"
+    tr: "Koḍu magā, ā sūṭkēs nānu ḍikkige hāktīni. Ninne korakal-nalli huṭṭu hāki bhuja nōytide andidde alvā?"
+    en: "Give it here, man, I'll put that suitcase in the boot. Didn't you say yesterday your shoulder hurt from rowing the coracle?"
+  - who: naveen
+    t: "ಬೇಡ. ನಾನೇ ಹಾಕ್ತೇನೆ. ನನ್ನ ಕಾರು, ನನ್ನ ಡಿಕ್ಕಿ. ನೀನು ನಿನ್ನ ಕಾರು ನೋಡ್ಕೋ ಮಾರಾಯ."
+    tr: "Bēḍa. Nānē hāktēne. Nanna kāru, nanna ḍikki. Nīnu ninna kāru nōḍkō mārāya."
+    en: "No. I'll do it myself. My car, my boot. You look after your own car, mārāya."
+  - who: ramya
+    t: "ಕಾವೇರಿ, ನೋಡಿದ್ಯಾ? ಮೂರು ದಿನದಿಂದ ನವೀನ್ ಅರ್ಜುನ್ ಜೊತೆ ಎರಡು ಪದಕ್ಕಿಂತ ಜಾಸ್ತಿ ಮಾತಾಡಿಲ್ಲ. ಏನೋ ಇದೆ."
+    tr: "Kāvēri, nōḍidyā? Mūru dinadinda Navīn Arjun jote eraḍu padakkinta jāsti mātāḍilla. Ēnō ide."
+    en: "Kaveri, did you see that? For three days Naveen hasn't said more than two words to Arjun. Something's up."
+  - who: kaveri
+    t: "ಇದ್ದರೂ ಅದು ಅವರಿಬ್ಬರ ವಿಷಯ, ರಮ್ಯಾ. ಮೊದಲು ಆ ಕ್ಯಾಮೆರಾ ಆಫ್ ಮಾಡು. ಎಲ್ಲವನ್ನೂ ವ್ಲಾಗ್‌ಗೆ ಹಾಕೋಕಾಗಲ್ಲ."
+    tr: "Iddarū adu avaribbara viṣaya, Ramyā. Modalu ā kyāmerā āph māḍu. Ellavannū vlāg-ge hākōkāgalla."
+    en: "Even if there is, it's between the two of them, Ramya. First switch that camera off. Not everything can go into a vlog."
+  - who: ramya
+    t: "ಆಫ್ ಆಯ್ತು, ವಕೀಲರೇ. ಆದ್ರೆ ಹನ್ನೆರಡು ವರ್ಷ ನ್ಯೂಸ್‌ರೂಮಲ್ಲಿ ಇದ್ದ ಮೂಗು ಇದು. ಸ್ಟೋರಿ ವಾಸನೆ ಬರ್ತಿದೆ ಮರ್ರೆ."
+    tr: "Āph āytu, vakīlarē. Ādre hanneraḍu varṣa nyūs-rūmalli idda mūgu idu. Sṭōri vāsane bartide marre."
+    en: "It's off, Counsel. But this nose spent twelve years in a newsroom. I can smell a story, marre."
+  - scene: "Arjun's car, on the Koppal road. Shruti in front, Prakash and Imran behind. Prakash's phone rings; he puts his mother on speaker."
+  - who: amma
+    t: "ಪ್ರಕಾಶಾ, ಎಲ್ಲಿಗೆ ಮುಟ್ಟೀರಿ? ರೊಟ್ಟಿ ಹಿಟ್ಟು ಕಲಸಿ ಇಟ್ಟೇನಿ. ಎಂಟು ಮಂದಿ ಅಂದಿ, ಖರೇನಾ?"
+    tr: "Prakāśā, ellige muṭṭīri? Roṭṭi hiṭṭu kalasi iṭṭēni. Eṇṭu mandi andi, kharēnā?"
+    en: "Prakasha, how far have you got? I've kneaded the rotti dough already. You said eight people, is that true?"
+  - who: prakash
+    t: "ಹೌದವ್ವಾ, ಎಂಟು ಮಂದಿ. ಈಗಷ್ಟೇ ಹಂಪಿ ಬಿಟ್ಟೇವಿ. ಕೊಪ್ಪಳ, ಗದಗ ದಾಟಿ ಒಂದು ಗಂಟೆಗೆ ಮನಿ ಮುಟ್ಟತೇವಿ. ಭಾಳ ಗಡಿಬಿಡಿ ಮಾಡಬ್ಯಾಡ, ಆರಾಮ ಇರು."
+    tr: "Haudavvā, eṇṭu mandi. Īgaṣṭē Hampi biṭṭēvi. Koppaḷa, Gadaga dāṭi ondu gaṇṭege mani muṭṭatēvi. Bhāḷa gaḍibiḍi māḍabyāḍa, ārāma iru."
+    en: "Yes, Avva, eight of us. We've only just left Hampi. We'll cross Koppal and Gadag and be home by one. Don't rush around too much, take it easy."
+  - who: amma
+    t: "ಗಡಿಬಿಡಿ ಏನ್ ಬಂತು? ನನ್ ಮಗನ ದೋಸ್ತರು ಮೊದಲನೇ ಸಲ ಮನಿಗೆ ಬರಾಕತ್ತಾರ. ಎಣ್ಣಗಾಯಿ ಮಾಡತೇನಿ, ಶೇಂಗಾ ಚಟ್ನಿ ಆಗ್ಲೇ ಕುಟ್ಟಿ ಇಟ್ಟೇನಿ. ಲಗೂನ ಬರ್ರಿ."
+    tr: "Gaḍibiḍi ēn bantu? Nan magana dōstaru modalanē sala manige barākattāra. Eṇṇagāyi māḍatēni, śēṅgā caṭni āglē kuṭṭi iṭṭēni. Lagūna barri."
+    en: "What rush? My son's friends are coming to our house for the first time. I'm making stuffed brinjal, and I've already pounded the peanut chutney. Come quickly."
+  - who: imran
+    t: "ಅವ್ವಾ, ನಾ ಇಮ್ರಾನ್ ರೀ, ಕಲಬುರಗಿಯಾಂವ. ಜೋಳದ ರೊಟ್ಟಿ ಅಂದ್ರ ನಾ ಎಲ್ಲಾರಕ್ಕಿಂತ ಮೊದಲು ಬರ್ತೇನಿ. ಖಡಕ್ ರೊಟ್ಟಿ ಐತಿ ಏನ್ರಿ?"
+    tr: "Avvā, nā Imrān rī, Kalaburagiyāṃva. Jōḷada roṭṭi andra nā ellārakkinta modalu bartēni. Khaḍak roṭṭi aiti ēnri?"
+    en: "Avva, it's Imran, the one from Kalaburagi. For jowar rotti I'll be the first to arrive. Is there crisp khadak rotti?"
+  - who: amma
+    t: "ಕಲಬುರಗಿಯವ್ರಾ? ಮತ್ತೇನ್, ಖಡಕ್ ರೊಟ್ಟಿನೂ ಐತಿ, ಮೆತ್ತನ್ನ ರೊಟ್ಟಿನೂ ಐತಿ. ನೀ ಡಾಕ್ಟ್ರು ಅಂತ ಪ್ರಕಾಶ ಹೇಳಿದ್ದ. ಬಾರಪ್ಪಾ, ನನ್ ಮೊಣಕಾಲು ನೋವಿಗೆ ಏನರೆ ಹೇಳುವಂತಿ."
+    tr: "Kalaburagiyavrā? Mattēn, khaḍak roṭṭinū aiti, mettanna roṭṭinū aiti. Nī ḍākṭru anta Prakāśa hēḷidda. Bārappā, nan moṇakālu nōvige ēnare hēḷuvanti."
+    en: "From Kalaburagi? Of course, there's crisp rotti and soft rotti both. Prakash told me you're a doctor. Come, son, you can tell me something for my knee pain."
+  - who: prakash
+    t: "ಆತು ಅವ್ವಾ, ಇಡು ಈಗ. ಡ್ರೈವ್ ಮಾಡೋವ್ರಿಗೆ ತೊಂದರಿ ಆಗ್ತದ."
+    tr: "Ātu avvā, iḍu īga. Ḍraiv māḍōvrige tondari āgtada."
+    en: "All right, Avva, hang up now. It's distracting for the driver."
+  - who: arjun
+    t: "ನಿಮ್ಮಮ್ಮ ಸಕ್ಕತ್ ಸ್ವೀಟ್ ಗುರು. ‘ಲಗೂನ ಬರ್ರಿ’ — ಕೇಳೋಕೇ ಎಷ್ಟು ಚೆನ್ನಾಗಿದೆ."
+    tr: "Nimmamma sakkat svīṭ guru. ‘Lagūna barri’ — kēḷōkē eṣṭu cennāgide."
+    en: "Your mother's really sweet, man. ‘Lagūna barri’ — it sounds so lovely."
+  - who: prakash
+    t: "ಹೂಂ. ಛಲೋ ಐತಿ."
+    tr: "Hūṃ. Chalō aiti."
+    en: "Hm. It's nice."
+  - scene: "A silence. Arjun looks at Prakash in the mirror; Prakash looks out of the window at the sunflower fields."
+  - who: imran
+    t: "ಏನಪಾ, ಏಸಿ ಆಫ್ ಮಾಡು. ಕಾರಿನ್ಯಾಗ ವಾತಾವರಣ ಆಗ್ಲೇ ಭಾಳ ತಣ್ಣಗ ಐತಿ."
+    tr: "Ēnapā, ēsi āph māḍu. Kārinyāga vātāvaraṇa āglē bhāḷa taṇṇaga aiti."
+    en: "Hey, switch the AC off. The atmosphere in this car is chilly enough already."
+  - who: shruti
+    t: "ಡಾಕ್ಟ್ರೇ, ನಿಮ್ ಡಯಾಗ್ನೋಸಿಸ್ ಯಾವಾಗ್ಲೂ ಕರೆಕ್ಟ್. ಅರ್ಜುನ್, ರೋಡ್ ನೋಡು, ಬೈಪಾಸ್‌ನಲ್ಲಿ ಲಾರಿಗಳು ಬೇಜಾನ್ ಇವೆ."
+    tr: "Ḍākṭrē, nim ḍayāgnōsis yāvāglū karekṭ. Arjun, rōḍ nōḍu, baipās-nalli lārigaḷu bējān ive."
+    en: "Doctor, your diagnosis is always right. Arjun, watch the road, there are loads of lorries on the bypass."
+  - scene: "Imran's phone buzzes. He answers at once, his voice changing into the ward voice."
+  - who: imran
+    t: "ಹಲೋ… ಹಾಂ ಸಿಸ್ಟರ್, ಹೇಳ್ರಿ. ಬೆಡ್ ನಂಬರ್ ಹನ್ನೆರಡು? ಸ್ಯಾಚುರೇಷನ್ ಎಷ್ಟು ಐತಿ? ತೊಂಬತ್ತೆರಡಾ? ಎರಡು ಲೀಟರ್ ಆಕ್ಸಿಜನ್ ಕೊಡ್ರಿ, ಡ್ಯೂಟಿ ಡಾಕ್ಟರ್‌ಗೆ ನಾ ಹೇಳೀನಿ ಅಂತ ಹೇಳ್ರಿ. ಏನರೆ ಆದ್ರ ಮತ್ತೆ ಕಾಲ್ ಮಾಡ್ರಿ."
+    tr: "Halō… hāṃ sisṭar, hēḷri. Beḍ nambar hanneraḍu? Syācurēṣan eṣṭu aiti? Tombatteraḍā? Eraḍu līṭar āksijan koḍri, ḍyūṭi ḍākṭar-ge nā hēḷīni anta hēḷri. Ēnare ādra matte kāl māḍri."
+    en: "Hello… yes, Sister, tell me. Bed number twelve? What's the saturation? Ninety-two? Give two litres of oxygen and tell the duty doctor I said so. If anything happens, call me again."
+  - who: shruti
+    t: "ರಜೆಯಲ್ಲೂ ಫೋನಾ? ಇಮ್ರಾನ್, ನಿನ್ನೆಯಿಂದ ಇದು ಐದನೇ ಕಾಲ್."
+    tr: "Rajeyallū phōnā? Imrān, ninneyinda idu aidanē kāl."
+    en: "Phone calls even on leave? Imran, this is the fifth call since yesterday."
+  - who: imran
+    t: "ಏನ್ ಮಾಡೂದು ಶ್ರುತಿ. ನಮ್ ಜಿಲ್ಲಾ ಆಸ್ಪತ್ರಿ ಮೆಡಿಸಿನ್ ವಾರ್ಡಿಗೆ ಇಬ್ರೇ ಡಾಕ್ಟರು. ನಾ ಎತ್ತಲಿಲ್ಲಂದ್ರ ಯಾರ ಎತ್ತತಾರ? ಬಿಡು, ಅದರ ಕತಿ ಆಮೇಲೆ."
+    tr: "Ēn māḍūdu Śruti. Nam jillā āspatri meḍisin vārḍige ibrē ḍākṭaru. Nā ettalillandra yāra ettatāra? Biḍu, adara kati āmēle."
+    en: "What can I do, Shruti? Our district hospital has only two doctors for the medicine ward. If I don't pick up, who will? Leave it, that story's for later."
+  - section: "Amma's kitchen"
+    learn: "a North Karnataka welcome: barri, kāl toḷakoṇḍu oḷaga barri, kundri, uṇri · the meal: jōḷada roṭṭi (khaḍak / mettanna), eṇṇagāyi, kāḷu palya, śēṅgā caṭni, uḷḷāgaḍḍi · Dharwad pedha and the GI tag · a guest is god: manige bandavru dēvru iddaṅga · a mother's proverb: saṇṇa uriyāga bēyisidranē ruci"
+  - scene: "One o'clock. Saptapur, Dharwad. An old two-storey house with a tulsi pot in the yard and a neem tree over the gate. Prakash's mother waits at the door with a plate of kumkum and a small lamp."
+  - who: amma
+    t: "ಬರ್ರಿ ಬರ್ರಿ! ಕಾರು ಇಲ್ಲೇ ನಿಲ್ಲಿಸ್ರಿ. ಕಾಲು ತೊಳಕೊಂಡು ಒಳಗ ಬರ್ರಿ. ಎವ್ವಾ, ಎಷ್ಟು ಮಂದಿ! ಮನಿ ತುಂಬಿ ಹೋತು."
+    tr: "Barri barri! Kāru illē nillisri. Kālu toḷakoṇḍu oḷaga barri. Evvā, eṣṭu mandi! Mani tumbi hōtu."
+    en: "Come in, come in! Park the car right here. Wash your feet and come inside. My goodness, so many of you! The house is full."
+  - who: deepa
+    t: "ನಮಸ್ಕಾರ ಆಂಟಿ. ನಾನು ದೀಪಾ, ಮೈಸೂರಿನವಳು. ಎಂಟು ಜನ ಒಟ್ಟಿಗೆ ಬಂದು ನಿಮಗೆ ತೊಂದರೆ ಕೊಡ್ತಿದೀವಿ, ಬೇಜಾರ್ ಮಾಡ್ಕೋಬೇಡಿ."
+    tr: "Namaskāra āṇṭi. Nānu Dīpā, Maisūrinavaḷu. Eṇṭu jana oṭṭige bandu nimage tondare koḍtidīvi, bējār māḍkōbēḍi."
+    en: "Namaskara, Auntie. I'm Deepa, from Mysuru. Eight of us turning up at once is a lot of trouble for you, please don't mind."
+  - who: amma
+    t: "ತೊಂದರಿ ಏನವ್ವಾ? ಮನಿಗೆ ಬಂದವ್ರು ದೇವ್ರು ಇದ್ದಂಗ. ಕುಂದ್ರರಿ, ಮೊದಲು ಉಣ್ರಿ, ಮಾತು ಆಮೇಲೆ."
+    tr: "Tondari ēnavvā? Manige bandavru dēvru iddaṅga. Kundrari, modalu uṇri, mātu āmēle."
+    en: "What trouble, dear? Whoever comes to the house is like God. Sit down, eat first, talk later."
+  - who: naveen
+    t: "ಅಮ್ಮಾ, ಇದು ಉಡುಪಿಯಿಂದ ತಂದ ಸ್ವಲ್ಪ ಗೋಡಂಬಿ ಉಂಟು. ನಮ್ಮ ಹೋಟೆಲ್ ಹತ್ತಿರದ ಫ್ಯಾಕ್ಟರಿಯದ್ದು. ನಿಮಗೆ."
+    tr: "Ammā, idu Uḍupiyinda tanda svalpa gōḍambi uṇṭu. Namma hōṭel hattirada phyākṭariyaddu. Nimage."
+    en: "Amma, here's a little cashew I brought from Udupi. From the factory near our hotel. For you."
+  - who: amma
+    t: "ಯಾಕಪ್ಪಾ ಇದೆಲ್ಲಾ? ಆದ್ರೂ ಛಲೋ ಮಾಡಿದಿ. ತಗೋ, ಮೊದಲು ಬಾಯಿ ಸಿಹಿ ಮಾಡ್ಕೋ. ಧಾರವಾಡ ಪೇಡೆ, ಠಾಕೂರರ ಅಂಗಡಿಂದ ನಿನ್ನೆನೇ ತರಿಸಿ ಇಟ್ಟೇನಿ."
+    tr: "Yākappā idellā? Ādrū chalō māḍidi. Tagō, modalu bāyi sihi māḍkō. Dhāravāḍa pēḍe, Ṭhākūrara aṅgaḍinda ninnenē tarisi iṭṭēni."
+    en: "Why all this, son? Still, that was kind of you. Here, sweeten your mouth first. Dharwad pedha — I had it fetched from Thakur's shop yesterday."
+  - who: ramya
+    t: "ಅಬ್ಬಾ! ಎಂತ ಮರ್ರೆ ಈ ಪೇಡೆ! ಬಾಯಿಗೆ ಹಾಕುದೇ ತಡ, ಕರಗಿ ಹೋಯ್ತ್. ಇನ್ನೊಂದು ಕೊಡಿ ಆಂಟಿ, ಕ್ಯಾಮೆರಾಕ್ಕೆ ಅಲ್ಲ, ನನಗೇ."
+    tr: "Abbā! Enta marre ī pēḍe! Bāyige hākudē taḍa, karagi hōyt. Innondu koḍi āṇṭi, kyāmerākke alla, nanagē."
+    en: "Wow! What a pedha, marre! The moment it touches your tongue, it melts. Give me another one, Auntie — not for the camera, for me."
+  - who: kaveri
+    t: "ಜಿಐ ಟ್ಯಾಗ್ ಸುಮ್ಮನೆ ಸಿಕ್ಕಿಲ್ಲ. ಎರಡು ಸಾವಿರದ ಏಳರಲ್ಲಿ ಬಂದಿದ್ದು, ಅಲ್ವಾ ಪ್ರಕಾಶ್?"
+    tr: "Ji-ai ṭyāg summane sikkilla. Eraḍu sāvirada ēḷaralli bandiddu, alvā Prakāś?"
+    en: "It didn't get the GI tag for nothing. That came in 2007, didn't it, Prakash?"
+  - who: prakash
+    t: "ಹೌದ್ರಿ. ನೋಡ್ರಿ, ಲಾಯರ್ ಮೇಡಂಗೆ ಪೇಡೆದೂ ಜಡ್ಜ್‌ಮೆಂಟ್ ಡೇಟ್ ಗೊತ್ತೈತಿ!"
+    tr: "Haudri. Nōḍri, lāyar mēḍaṃge pēḍedū jaḍjmeṇṭ ḍēṭ gottaiti!"
+    en: "Yes. Look at that — our lawyer madam even knows the judgment date for the pedha!"
+  - scene: "The friends sit on a long mat in the hall. Plates are set down. Amma serves, refusing all help."
+  - who: amma
+    t: "ಇದು ಖಡಕ್ ರೊಟ್ಟಿ, ಇದು ಬಿಸಿ ರೊಟ್ಟಿ. ಎಣ್ಣಗಾಯಿ, ಕಾಳು ಪಲ್ಯ, ಶೇಂಗಾ ಚಟ್ನಿ, ಮೊಸರು, ಉಳ್ಳಾಗಡ್ಡಿ. ನಾಚಿಕಿ ಮಾಡಬ್ಯಾಡ್ರಿ, ಕೈಯಿಂದ ಮುರಿದು ಉಣ್ರಿ."
+    tr: "Idu khaḍak roṭṭi, idu bisi roṭṭi. Eṇṇagāyi, kāḷu palya, śēṅgā caṭni, mosaru, uḷḷāgaḍḍi. Nāciki māḍabyāḍri, kaiyinda muridu uṇri."
+    en: "This is crisp rotti, this is hot rotti. Stuffed brinjal, sprouted-gram curry, peanut chutney, curd, raw onion. Don't be shy — break it with your hands and eat."
+  - who: arjun
+    t: "ಆಂಟಿ, ಎಣ್ಣಗಾಯಿ ಬೊಂಬಾಟ್! ಬೆಂಗಳೂರಲ್ಲಿ ನಾರ್ತ್ ಕರ್ನಾಟಕ ಮೆಸ್ ಅಂತ ಹೋಗ್ತೀವಿ, ಆದ್ರೆ ಈ ರುಚಿ ಎಲ್ಲೂ ಸಿಗಲ್ಲ."
+    tr: "Āṇṭi, eṇṇagāyi bombāṭ! Beṅgaḷūralli nārth Karnāṭaka mes anta hōgtīvi, ādre ī ruci ellū sigalla."
+    en: "Auntie, the brinjal is fantastic! In Bengaluru we go to 'North Karnataka mess' places, but you never get this taste."
+  - who: amma
+    t: "ಅಂದ್ರ ನೀನೇ ಅರ್ಜುನಾ? ದೊಡ್ಡ ಕಂಪನಿ ಮಾಡಿದಾಂವ? ಪ್ರಕಾಶ ನಿನ್ನ ಬಗ್ಗೆ ಭಾಳ ಹೇಳ್ತಿದ್ದ. ಕಾಲೇಜಿನ್ಯಾಗ ನೀನೇ ಅವಂಗ ಇಂಗ್ಲೀಷ್ ಮಾತಾಡೂದು ಕಲಿಸಿದಿ ಅಂತ."
+    tr: "Andra nīnē Arjunā? Doḍḍa kampani māḍidāṃva? Prakāśa ninna bagge bhāḷa hēḷtidda. Kālējinyāga nīnē avaṅga iṅglīṣ mātāḍūdu kalisidi anta."
+    en: "So you're Arjun? The one who built the big company? Prakash used to talk about you a lot. He said in college it was you who taught him to speak English."
+  - scene: "Arjun stops eating. Prakash keeps his eyes on his plate."
+  - who: arjun
+    t: "ಹಾಂ… ಹೌದು ಆಂಟಿ. ಆದ್ರೆ ನಿಜ ಹೇಳ್ಬೇಕು ಅಂದ್ರೆ, ಅವ್ನು ನನಗೆ ಕಲಿಸಿದ್ದೇ ಜಾಸ್ತಿ."
+    tr: "Hāṃ… haudu āṇṭi. Ādre nija hēḷbēku andre, avnu nanage kalisiddē jāsti."
+    en: "Uh… yes, Auntie. But to tell you the truth, he taught me far more."
+  - who: amma
+    t: "ಕಂಪನಿ ಹೆಂಗ ನಡದೈತಿ? ಎಷ್ಟು ಮಂದಿ ಕೆಲಸ ಮಾಡ್ತಾರ ನಿನ್ ಕೆಳಗ?"
+    tr: "Kampani heṅga naḍadaiti? Eṣṭu mandi kelasa māḍtāra nin keḷaga?"
+    en: "How is the company doing? How many people work under you?"
+  - who: arjun
+    t: "ನಡೀತಿದೆ ಆಂಟಿ… ಇಪ್ಪತ್ತು-ಇಪ್ಪತ್ತೈದು ಜನ ಇದ್ದಾರೆ."
+    tr: "Naḍītide āṇṭi… ippattu-ippattaidu jana iddāre."
+    en: "It's going, Auntie… there are twenty, twenty-five people."
+  - who: naveen
+    t: "ನಡೀತಿದೆ. ಹೇಗೆ ನಡೀತಿದೆ ಅಂತ ದೇವರಿಗೇ ಗೊತ್ತು."
+    tr: "Naḍītide. Hēge naḍītide anta dēvarigē gottu."
+    en: "It's going. How it's going, only God knows."
+  - scene: "Ramya and Kaveri exchange a look. Amma, not hearing the edge, turns to Deepa."
+  - who: amma
+    t: "ನೀನು ದೀಪಾ ಅಲ್ಲವ್ವಾ? ಮದುವಿ ಆಗೇತಿ? ಯಜಮಾನ್ರು ಬರಲಿಲ್ಲೇನು?"
+    tr: "Nīnu Dīpā allavvā? Maduvi āgēti? Yajamānru baralillēnu?"
+    en: "You're Deepa, aren't you, dear? Are you married? Didn't your husband come?"
+  - who: deepa
+    t: "ಅವರು… ಬರೋಕಾಗ್ಲಿಲ್ಲ ಆಂಟಿ. ಕೆಲಸ."
+    tr: "Avaru… barōkāglilla āṇṭi. Kelasa."
+    en: "He… couldn't come, Auntie. Work."
+  - who: shruti
+    t: "ಆಂಟಿ, ಈ ಚಟ್ನಿ ಹೇಗೆ ಮಾಡ್ತೀರಿ ಹೇಳಿ? ನಮ್ ಮನೇಲಿ ಶೇಂಗಾ ಹುರಿದ್ರೆ ಯಾವಾಗ್ಲೂ ಸೀದು ಹೋಗುತ್ತೆ."
+    tr: "Āṇṭi, ī caṭni hēge māḍtīri hēḷi? Nam manēli śēṅgā huridre yāvāglū sīdu hōgutte."
+    en: "Auntie, tell me how you make this chutney. At our place, whenever we roast peanuts they always burn."
+  - who: amma
+    t: "ಶೇಂಗಾ ಸಣ್ಣ ಉರಿಯಾಗ ಹುರೀಬೇಕವ್ವಾ. ಗಡಿಬಿಡಿ ಮಾಡಿದ್ರ ಸೀದು ಹೋಗ್ತದ. ಆಮೇಲೆ ಬೆಳ್ಳುಳ್ಳಿ, ಖಾರದ ಪುಡಿ, ಉಪ್ಪು ಹಾಕಿ ಒರಳಾಗ ಕುಟ್ಟಬೇಕು, ಮಿಕ್ಸಿ ಅಲ್ಲ. ಜೀವನನೂ ಹಂಗೇ. ಸಣ್ಣ ಉರಿಯಾಗ ಬೇಯಿಸಿದ್ರನೇ ರುಚಿ."
+    tr: "Śēṅgā saṇṇa uriyāga hurībēkavvā. Gaḍibiḍi māḍidra sīdu hōgtada. Āmēle beḷḷuḷḷi, khārada puḍi, uppu hāki oraḷāga kuṭṭabēku, miksi alla. Jīvananū haṅgē. Saṇṇa uriyāga bēyisidranē ruci."
+    en: "You must roast peanuts on a low flame, dear. Rush it and they burn. Then garlic, chilli powder, salt, and you pound it in the stone mortar — not the mixie. Life is the same. Only what's cooked on a low flame tastes good."
+  - who: deepa
+    t: "ಸಣ್ಣ ಉರಿಯಲ್ಲಿ… ನೆನಪಿಟ್ಕೋತೀನಿ ಆಂಟಿ."
+    tr: "Saṇṇa uriyalli… nenapiṭkōtīni āṇṭi."
+    en: "On a low flame… I'll remember that, Auntie."
+  - who: amma
+    t: "ನೀವಾದ್ರೂ ಇವಂಗ ಹೇಳ್ರಿ, ಇನ್ನೊಮ್ಮೆ ಕೆಎಎಸ್ ಬರೀಲಿ ಅಂತ. ಎರಡು ಸಲ ಆಗಲಿಲ್ಲ ಅಂತ ಪುಸ್ತಕ ಕಟ್ಟಿ ಮ್ಯಾಲೆ ಇಟ್ಟು ಕುಂತಾನ."
+    tr: "Nīvādrū ivaṅga hēḷri, innomme ke-e-es barīli anta. Eraḍu sala āgalilla anta pustaka kaṭṭi myāle iṭṭu kuntāna."
+    en: "At least you people tell him to sit the KAS once more. Because it didn't work out twice, he's tied up his books and put them up on the shelf."
+  - who: prakash
+    t: "ಅವ್ವಾ, ಊಟದ ಹೊತ್ತಿನ್ಯಾಗ ಅದ್ಯಾಕ? ನಾ ಮಾಸ್ತರ ಅದೇನಿ. ಅದೂ ಸರ್ಕಾರಿ ನೌಕರಿನೇ."
+    tr: "Avvā, ūṭada hottinyāga adyāka? Nā māstara adēni. Adū sarkāri naukarinē."
+    en: "Avva, why bring that up at mealtime? I'm a teacher. That's a government job too."
+  - who: amma
+    t: "ಮಾಸ್ತರ ಆಗಿದ್ದು ಹೆಮ್ಮೆನೇ ಪ್ಪಾ. ಆದ್ರ ನೀ ರಾತ್ರಿ ಎರಡು ಗಂಟೆತನಕ ದೀಪ ಹಚ್ಚಿ ಓದ್ತಿದ್ದದ್ದು ನಾ ನೋಡೇನಿ. ಆ ಕನಸು ನಿಂದು, ನಂದಲ್ಲ."
+    tr: "Māstara āgiddu hemmenē ppā. Ādra nī rātri eraḍu gaṇṭetanaka dīpa hacci ōdtiddaddu nā nōḍēni. Ā kanasu nindu, nandalla."
+    en: "Being a teacher is something to be proud of, son. But I've seen you studying with the lamp on till two in the morning. That dream is yours, not mine."
+  - who: imran
+    t: "ಅವ್ವಾ ಬರೋಬ್ಬರಿ ಹೇಳಿದ್ರು ನೋಡಪಾ. ಇದರ ಮ್ಯಾಲೆ ಅಪೀಲ್ ಇಲ್ಲ."
+    tr: "Avvā barōbbari hēḷidru nōḍapā. Idara myāle apīl illa."
+    en: "Avva's hit it spot on, you see. There's no appeal against that."
+  - section: "Girmit on the terrace"
+    learn: "evening snacks: girmiṭ, mirci bajji, oggaraṇe · the KPSC exam ladder: prilims, mēns, vyaktitva parīkṣe / iṇṭarvyū, gejeṭeḍ prōbeṣanars · near misses: mūru aṅkadinda tappitu, pāsāgalilla · fear of sounding rural: nan kannaḍa haḷḷi ansutta · a teacher's pride: nan sāli huḍugi, rāṅk"
+  - scene: "Five in the evening. The flat roof of the house. Prakash comes up the stairs with two newspaper cones of girmit and a packet of mirchi bajji from the stall at the corner."
+  - who: prakash
+    t: "ತಗೊಳ್ರಿ, ಗಿರ್ಮಿಟ್. ಮಂಡಕ್ಕಿಗೆ ಈರುಳ್ಳಿ, ಟೊಮ್ಯಾಟೋ, ಹುಣಿಸೆ ರಸ, ಮ್ಯಾಲೆ ಶೇವ್. ಜೊತಿಗೆ ಮಿರ್ಚಿ ಬಜ್ಜಿ. ಧಾರವಾಡದ ಸಂಜಿ ಅಂದ್ರ ಇದೇ."
+    tr: "Tagoḷri, girmiṭ. Maṇḍakkige īruḷḷi, ṭomyāṭō, huṇise rasa, myāle śēv. Jotige mirci bajji. Dhāravāḍada sañji andra idē."
+    en: "Here, take some girmit. Puffed rice with onion, tomato, tamarind water, sev on top. And mirchi bajji with it. This is what a Dharwad evening means."
+  - who: naveen
+    t: "ನಮ್ಮಲ್ಲಿ ಸಂಜೆ ಗೋಳಿಬಜೆ, ನಿಮ್ಮಲ್ಲಿ ಗಿರ್ಮಿಟ್. ಕರ್ನಾಟಕ ಒಂದೇ ರಾಜ್ಯ ಅಂತ ಹೇಳುವುದು ಸುಲಭ ಮಾರಾಯ, ಹೊಟ್ಟೆಗೆ ಮಾತ್ರ ಮೂವತ್ತು ರಾಜ್ಯ."
+    tr: "Nammalli sañje gōḷibaje, nimmalli girmiṭ. Karnāṭaka ondē rājya anta hēḷuvudu sulabha mārāya, hoṭṭege mātra mūvattu rājya."
+    en: "Back home our evening is goli baje, here it's girmit. It's easy to say Karnataka is one state, mārāya — for the stomach it's thirty."
+  - who: kaveri
+    t: "ಪ್ರಕಾಶ್, ಕೆಳಗೆ ಅಮ್ಮ ಹೇಳಿದ್ದು ನಿಜವಾ? ಎರಡು ಸಲ ಎಲ್ಲಿವರೆಗೆ ಹೋಗಿದ್ರಿ?"
+    tr: "Prakāś, keḷage amma hēḷiddu nijavā? Eraḍu sala ellivarege hōgidri?"
+    en: "Prakash, is what Amma said downstairs true? How far did you get, both times?"
+  - who: prakash
+    t: "ಮೊದಲನೇ ಸಲ ಪ್ರಿಲಿಮ್ಸ್ ಪಾಸ್ ಆದೆ, ಮೇನ್ಸ್‌ನ್ಯಾಗ ಎಸ್ಸೇ ಪೇಪರ್ ಹಾಳಾತು. ಎರಡನೇ ಸಲ ಮೇನ್ಸ್‌ನೂ ಪಾಸ್ ಆದೆ. ಕೊನೇ ಮೆಟ್ಟಿಲು, ವ್ಯಕ್ತಿತ್ವ ಪರೀಕ್ಷೆ — ಇಂಟರ್‌ವ್ಯೂ. ಅಲ್ಲಿ ಬಿದ್ದೆ."
+    tr: "Modalanē sala prilims pās āde, mēns-nyāga essē pēpar hāḷātu. Eraḍanē sala mēns-nū pās āde. Konē meṭṭilu, vyaktitva parīkṣe — iṇṭarvyū. Alli bidde."
+    en: "The first time I cleared the prelims and the essay paper in the mains went bad. The second time I cleared the mains too. The last step, the personality test — the interview. That's where I fell."
+  - who: ramya
+    t: "ಎರಡನೇ ಸಲ ಅಂದ್ರೆ ಎರಡು ಸಾವಿರದ ಇಪ್ಪತ್ನಾಲ್ಕರ ಪ್ರಿಲಿಮ್ಸಾ? ಕನ್ನಡ ಅನುವಾದದಲ್ಲಿ ತಪ್ಪುಗಳು ಅಂತ ಗಲಾಟೆ ಆಗಿ ಮತ್ತೆ ಪರೀಕ್ಷೆ ಮಾಡಿದ್ರಲ್ಲ, ಅದು? ನಮ್ ಚಾನೆಲ್‌ನಲ್ಲಿ ಒಂದು ವಾರ ಅದೇ ಸ್ಟೋರಿ."
+    tr: "Eraḍanē sala andre eraḍu sāvirada ippatnālkara prilimsā? Kannaḍa anuvādadalli tappugaḷu anta galāṭe āgi matte parīkṣe māḍidralla, adu? Nam cānel-nalli ondu vāra adē sṭōri."
+    en: "The second time means the 2024 prelims? The one where there was an uproar over errors in the Kannada translation and they held the exam again? Our channel ran that story for a whole week."
+  - who: prakash
+    t: "ಅದೇ. ಕನ್ನಡದಾಗ ಬರೆಯೋ ನಮ್ಮಂಥವರಿಗೆ ಪ್ರಶ್ನೆನೇ ಅರ್ಥ ಆಗಲಾರದಂಗ ಅನುವಾದ. ಅದನ್ನೂ ದಾಟಿದೆ. ಇಂಟರ್‌ವ್ಯೂನ್ಯಾಗ ಮೂರು-ನಾಕು ಅಂಕದಿಂದ ತಪ್ಪಿತು ಅಂತ ಆಮೇಲೆ ಗೊತ್ತಾತು."
+    tr: "Adē. Kannaḍadāga bareyō nammanthavarige praśnenē artha āgalāradaṅga anuvāda. Adannū dāṭide. Iṇṭarvyūnyāga mūru-nāku aṅkadinda tappitu anta āmēle gottātu."
+    en: "That one. A translation so bad that people like us who write in Kannada couldn't even understand the questions. I got past that too. Later I found out I missed it by three or four marks in the interview."
+  - who: shruti
+    t: "ಮೂರು-ನಾಲ್ಕು ಅಂಕ? ಅಯ್ಯೋ… ಇಂಟರ್‌ವ್ಯೂನಲ್ಲಿ ಏನಾಯ್ತು?"
+    tr: "Mūru-nālku aṅka? Ayyō… iṇṭarvyūnalli ēnāytu?"
+    en: "Three or four marks? Oh no… what happened in the interview?"
+  - who: prakash
+    t: "ಖರೇ ಹೇಳಲೇನು? ಬೋರ್ಡ್ ಮುಂದ ಕುಂತಾಗ ನನ್ ಮನಸ್ಸಿನ್ಯಾಗ ಒಂದೇ ಪ್ರಶ್ನೆ: ಇಂಗ್ಲೀಷ್‌ನ್ಯಾಗ ಉತ್ತರ ಕೊಡ್ಲಾ, ಕನ್ನಡದಾಗಾ? ಕನ್ನಡದಾಗ ಕೊಟ್ರ ನನ್ ಮಾತು ‘ಹಳ್ಳಿ’ ಅನ್ಸತೈತೇನೋ ಅಂತ ಭಯ. ಆ ಗೊಂದಲದಾಗೇ ಅರ್ಧ ಉತ್ತರ ಮರೆತೆ."
+    tr: "Kharē hēḷalēnu? Bōrḍ munda kuntāga nan manassinyāga ondē praśne: iṅglīṣ-nyāga uttara koḍlā, kannaḍadāgā? Kannaḍadāga koṭra nan mātu ‘haḷḷi’ ansataitēnō anta bhaya. Ā gondaladāgē ardha uttara marete."
+    en: "Shall I tell you the truth? Sitting in front of the board, there was one question in my head: do I answer in English or in Kannada? If I answer in Kannada, will my speech sound 'village'? I was afraid of that. In that confusion I forgot half my answers."
+  - scene: "Nobody looks at Arjun. Arjun looks at the girmit in his hand and says nothing."
+  - who: imran
+    t: "ಯಪ್ಪಾ, ಆ ಭಯ ನಂಗೂ ಗೊತ್ತೈತಿ. ಬೆಂಗಳೂರಿನ್ಯಾಗ ಪೀಜಿ ಮಾಡುವಾಗ ವಾರ್ಡ್ ರೌಂಡ್ಸ್‌ನ್ಯಾಗ ನಾ ಬಾಯಿ ತೆಗೆದ್ರ ಯಾರರೆ ನಗತಿದ್ರು. ಆಮೇಲೆ ಇಂಗ್ಲೀಷ್‌ನ್ಯಾಗೇ ಮಾತಾಡೂದು ಶುರು ಮಾಡಿದೆ. ಸೇಫ್ ಅನ್ನಿಸ್ತಿತ್ತು."
+    tr: "Yappā, ā bhaya naṅgū gottaiti. Beṅgaḷūrinyāga pīji māḍuvāga vārḍ rauṇḍs-nyāga nā bāyi tegedra yārare nagatidru. Āmēle iṅglīṣ-nyāgē mātāḍūdu śuru māḍide. Sēph annistittu."
+    en: "Man, I know that fear too. When I was doing my PG in Bengaluru, on ward rounds, the moment I opened my mouth someone would laugh. After that I started speaking only in English. It felt safe."
+  - who: kaveri
+    t: "ಭಾಷೆ ಸರಿ ಇತ್ತು, ಇಮ್ರಾನ್. ನಗ್ತಿದ್ದವರ ತಿಳುವಳಿಕೆ ಸರಿ ಇರ್ಲಿಲ್ಲ. ಎರಡೂ ಒಂದೇ ಅಲ್ಲ."
+    tr: "Bhāṣe sari ittu, Imrān. Nagtiddavara tiḷuvaḷike sari irlilla. Eraḍū ondē alla."
+    en: "There was nothing wrong with the language, Imran. What was wrong was the understanding of the people laughing. The two aren't the same."
+  - who: deepa
+    t: "ಪ್ರಕಾಶ್, ಮೂರನೇ ಸಲ ಬರೀತೀಯಾ? ಅಮ್ಮ ಹೇಳಿದ ಹಾಗೆ, ಆ ಕನಸು ನಿಂದು."
+    tr: "Prakāś, mūranē sala barītīyā? Amma hēḷida hāge, ā kanasu nindu."
+    en: "Prakash, will you write it a third time? Like Amma said, that dream is yours."
+  - who: prakash
+    t: "ಗೊತ್ತಿಲ್ಲ ದೀಪಾ. ಮೂವತ್ನಾಲ್ಕು ವರ್ಷ. ಸಾಲಿ, ಮನಿ, ಅವ್ವನ ಆರೋಗ್ಯ… ಮತ್ತೆ ಎರಡು ವರ್ಷ ರಾತ್ರಿ ಎರಡು ಗಂಟೆತನಕ ಓದೋ ಶಕ್ತಿ ಐತೇನೋ ನೋಡಬೇಕು."
+    tr: "Gottilla Dīpā. Mūvatnālku varṣa. Sāli, mani, avvana ārōgya… matte eraḍu varṣa rātri eraḍu gaṇṭetanaka ōdō śakti aitēnō nōḍabēku."
+    en: "I don't know, Deepa. I'm thirty-four. School, home, Avva's health… I have to see whether I still have the strength to study till two at night for another two years."
+  - who: shruti
+    t: "ಸರಿ, ಕೆಎಎಸ್ ಬಿಡು ಒಂದು ನಿಮಿಷ. ಮಾಸ್ತರ್ ಆಗಿ ನಿನಗೆ ಏನು ಖುಷಿ ಕೊಡುತ್ತೆ ಅದನ್ನ ಹೇಳು."
+    tr: "Sari, ke-e-es biḍu ondu nimiṣa. Māstar āgi ninage ēnu khuṣi koḍutte adanna hēḷu."
+    en: "OK, forget the KAS for a minute. Tell us what makes you happy as a teacher."
+  - who: prakash
+    t: "ಅದಾ? ನನ್ ಸಾಲಿ ಹುಡುಗಿ ಒಬ್ಬಾಕಿ, ಅಪ್ಪ ಗೌಂಡಿ ಕೆಲಸ ಮಾಡ್ತಾನ. ಈ ವರ್ಷ ಎಸ್ಸೆಸ್ಸೆಲ್ಸಿಯಾಗ ಗಣಿತಕ್ಕೆ ನೂರಕ್ಕೆ ನೂರು ತಗೊಂಡ್ಲು. ರಿಸಲ್ಟ್ ದಿನ ಆಕಿ ಅಪ್ಪ ಸಾಲಿಗೆ ಬಂದು ನನ್ ಕಾಲಿಗೆ ಬಿದ್ದ. ಆ ದಿನ ನಾ ಯಾವ ಸಾಹೇಬಗಿಂತ ಕಮ್ಮಿ ಅನ್ನಿಸಲಿಲ್ಲ."
+    tr: "Adā? Nan sāli huḍugi obbāki, appa gauṇḍi kelasa māḍtāna. Ī varṣa esses-elsiyāga gaṇitakke nūrakke nūru tagoṇḍlu. Risalṭ dina āki appa sālige bandu nan kālige bidda. Ā dina nā yāva sāhēbaginta kammi annisalilla."
+    en: "That? There's a girl in my school whose father is a mason. This year she got a hundred out of a hundred in maths in the SSLC. On result day her father came to the school and fell at my feet. That day I didn't feel smaller than any officer."
+  - who: arjun
+    t: "ಅದು… ಅದು ಸಕ್ಕತ್ ಆಗಿದೆ ಪ್ರಕಾಶ್. ನಿಜವಾಗ್ಲೂ."
+    tr: "Adu… adu sakkat āgide Prakāś. Nijavāglū."
+    en: "That's… that's really something, Prakash. Truly."
+  - who: prakash
+    t: "ಹೂಂ. ಥ್ಯಾಂಕ್ಸ್."
+    tr: "Hūṃ. Thyāṅks."
+    en: "Hm. Thanks."
+  - section: "Three in the morning"
+    learn: "a doctor's burnout: suttu dēhakkalla, manassige · symptoms people actually name: nidde bartilla, ede ḍhavaḍhava, kirikiri, yāvudrallū āsakti illa · asking the hard question gently: nēravāgi kēḷtīni, tappu tiḷkōbēḍa · getting help: kaunselar, manōvaidyaru, Ṭeli-Mānas ondu-nālku-nālku-ondu-āru · care from an elder: ariśiṇa hālu, ḍākṭrū manuṣyarē"
+  - scene: "Past three in the morning. Imran sits alone on the terrace steps, the phone face down beside him. Kaveri comes up with a file she couldn't stop reading; Deepa follows, a shawl around her shoulders."
+  - who: kaveri
+    t: "ಇಮ್ರಾನ್? ಮೂರು ಗಂಟೆ. ಇನ್ನೂ ಮಲಗಿಲ್ವಾ?"
+    tr: "Imrān? Mūru gaṇṭe. Innū malagilvā?"
+    en: "Imran? It's three o'clock. Still not asleep?"
+  - who: imran
+    t: "ನಿದ್ದಿ ಬರೂದಿಲ್ಲ ಕಾವೇರಿ. ಆರು ತಿಂಗಳಿಂದ ಹಿಂಗೇ. ಕಣ್ಣು ಮುಚ್ಚಿದ್ರ ವಾರ್ಡ್ ಕಾಣಿಸ್ತದ. ಮಾನಿಟರ್ ಬೀಪ್ ಕೇಳಿಸ್ತದ. ಫೋನ್ ಬಡಿದಿಲ್ಲಂದ್ರೂ ಬಡಿದಂಗ ಅನ್ನಿಸ್ತದ."
+    tr: "Niddi barūdilla Kāvēri. Āru tiṅgaḷinda hiṅgē. Kaṇṇu muccidra vārḍ kāṇistada. Māniṭar bīp kēḷistada. Phōn baḍidillandrū baḍidaṅga annistada."
+    en: "Sleep won't come, Kaveri. It's been like this for six months. When I close my eyes I see the ward. I hear the monitor beeping. Even when the phone isn't ringing, it feels like it is."
+  - who: deepa
+    t: "ಏನಾಯ್ತು ಹೇಳು, ಇಮ್ರಾನ್. ನಾವು ಯಾರೂ ಜಡ್ಜ್ ಮಾಡಲ್ಲ."
+    tr: "Ēnāytu hēḷu, Imrān. Nāvu yārū jaḍj māḍalla."
+    en: "Tell us what happened, Imran. None of us will judge."
+  - who: imran
+    t: "ದಿನಾ ಓಪಿಡಿಯಾಗ ನೂರೈವತ್ತು ಪೇಷಂಟ್. ಬ್ಯಾಸಿಗಿಯಾಗ ಬಿಸಿಲು ಹೊಡೆತ, ಮಳಿಗಾಲದಾಗ ಡೆಂಗಿ, ವರ್ಷಪೂರ್ತಿ ಕ್ರಿಮಿನಾಶಕ ಕುಡಿದ ರೈತರು. ಆಗಸ್ಟ್‌ನ್ಯಾಗ ಒಂದೇ ರಾತ್ರಿ ಇಬ್ರು ಹುಡುಗರು ಬಂದ್ರು, ಇಬ್ರೂ ಇಪ್ಪತ್ತರ ಆಸುಪಾಸು. ಒಬ್ಬನ್ನ ಉಳಿಸಿದೆ. ಇನ್ನೊಬ್ಬನ್ನ… ಆಗಲಿಲ್ಲ."
+    tr: "Dinā ōpiḍiyāga nūraivattu pēṣaṇṭ. Byāsigiyāga bisilu hoḍeta, maḷigāladāga ḍeṅgi, varṣapūrti krimināśaka kuḍida raitaru. Āgasṭ-nyāga ondē rātri ibru huḍugaru bandru, ibrū ippattara āsupāsu. Obbanna uḷiside. Innobbanna… āgalilla."
+    en: "A hundred and fifty patients in OPD every day. Heatstroke in summer, dengue in the rains, and all year round farmers who've drunk pesticide. In August two boys came in on the same night, both around twenty. I saved one. The other… I couldn't."
+  - who: kaveri
+    t: "ಅದು ನಿನ್ನ ತಪ್ಪಲ್ಲ, ಇಮ್ರಾನ್."
+    tr: "Adu ninna tappalla, Imrān."
+    en: "That wasn't your fault, Imran."
+  - who: imran
+    t: "ಗೊತ್ತು. ತಲೆಗೆ ಗೊತ್ತು. ಮನಸ್ಸಿಗೆ ಗೊತ್ತಿಲ್ಲ. ಅದರ ಮಾರನೇ ವಾರ ಒಬ್ಬ ಪೇಷಂಟ್ ಅವ್ವನ ಮ್ಯಾಲೆ ಜೋರಾಗಿ ಚೀರಿದೆ — ಆಕಿ ಪಾಪ, ಬರೇ ‘ರಿಪೋರ್ಟ್ ಯಾವಾಗ’ ಅಂತ ಕೇಳಿದ್ಲು. ಆಮೇಲೆ ವಾಷ್‌ರೂಮಿನ್ಯಾಗ ಹೋಗಿ ಹತ್ತು ನಿಮಿಷ ಅತ್ತೆ. ನಾ ಹಂಗಿದ್ದವ ಅಲ್ಲ ಕಾವೇರಿ."
+    tr: "Gottu. Talege gottu. Manassige gottilla. Adara māranē vāra obba pēṣaṇṭ avvana myāle jōrāgi cīride — āki pāpa, barē ‘ripōrṭ yāvāga’ anta kēḷidlu. Āmēle vāṣ-rūminyāga hōgi hattu nimiṣa atte. Nā haṅgiddava alla Kāvēri."
+    en: "I know. My head knows. My heart doesn't. The week after, I shouted at a patient's mother — poor woman, all she asked was 'when will the report come'. Then I went into the washroom and cried for ten minutes. I'm not that kind of person, Kaveri."
+  - who: deepa
+    t: "ಇಮ್ರಾನ್, ಒಂದು ಮಾತು ನೇರವಾಗಿ ಕೇಳ್ತೀನಿ, ತಪ್ಪು ತಿಳ್ಕೋಬೇಡ. ಯಾವತ್ತಾದ್ರೂ ನಿನಗೆ ನೀನೇ ಏನಾದ್ರೂ ಮಾಡ್ಕೋಬೇಕು ಅನ್ನಿಸಿದೆಯಾ?"
+    tr: "Imrān, ondu mātu nēravāgi kēḷtīni, tappu tiḷkōbēḍa. Yāvattādrū ninage nīnē ēnādrū māḍkōbēku annisideyā?"
+    en: "Imran, I'm going to ask you something straight out, don't take it wrongly. Have you ever felt like harming yourself?"
+  - who: imran
+    t: "ಇಲ್ಲ ದೀಪಾ. ಆ ತರ ಇಲ್ಲ, ಖರೇ ಹೇಳ್ತೇನಿ. ಆದ್ರ ಬೆಳಿಗ್ಗೆ ಏಳಾಕ ಕಾರಣ ಹುಡುಕಬೇಕಾಗ್ತದ. ಯಾವುದ್ರಾಗೂ ಆಸಕ್ತಿ ಇಲ್ಲ. ಕ್ರಿಕೆಟ್ ನೋಡಿ ಆರು ತಿಂಗಳಾತು — ಆರ್‌ಸಿಬಿ ಎರಡನೇ ಕಪ್ ಗೆದ್ದಾಗಲೂ ನಾ ನೈಟ್ ಡ್ಯೂಟಿಯಾಗ ಇದ್ದೆ, ಏನೂ ಅನ್ನಿಸಲಿಲ್ಲ."
+    tr: "Illa Dīpā. Ā tara illa, kharē hēḷtēni. Ādra beḷigge ēḷāka kāraṇa huḍukabēkāgtada. Yāvudrāgū āsakti illa. Krikeṭ nōḍi āru tiṅgaḷātu — Ār-si-bi eraḍanē kap geddāgalū nā naiṭ ḍyūṭiyāga idde, ēnū annisalilla."
+    en: "No, Deepa. Not like that, I'm telling you honestly. But I have to search for a reason to get up in the morning. Nothing interests me. I haven't watched cricket in six months — even when RCB won their second cup I was on night duty and felt nothing."
+  - who: kaveri
+    t: "ಇದು ಸುಸ್ತು ಮಾತ್ರ ಅಲ್ಲ, ಇಮ್ರಾನ್. ನೀನು ಡಾಕ್ಟರ್, ನಿನಗೇ ಗೊತ್ತು ಇದಕ್ಕೆ ಏನು ಹೆಸರು ಅಂತ."
+    tr: "Idu sustu mātra alla, Imrān. Nīnu ḍākṭar, ninagē gottu idakke ēnu hesaru anta."
+    en: "This isn't just tiredness, Imran. You're a doctor; you know yourself what this is called."
+  - who: imran
+    t: "ಬರ್ನ್‌ಔಟ್. ಡಿಪ್ರೆಷನ್ ಶುರು ಆಗಿರಬಹುದು. ನಗು ಬರ್ತದ ನೋಡು — ದಿನಾ ಪೇಷಂಟ್‌ಗಳಿಗೆ ಟೆಲಿ-ಮಾನಸ್ ನಂಬರ್ ಬರೆದು ಕೊಡ್ತೇನಿ, ಒಂದು-ನಾಲ್ಕು-ನಾಲ್ಕು-ಒಂದು-ಆರು. ನಾನೇ ಯಾರ ಜೊತೆನೂ ಮಾತಾಡಿಲ್ಲ."
+    tr: "Barn-auṭ. Ḍipreṣan śuru āgirabahudu. Nagu bartada nōḍu — dinā pēṣaṇṭ-gaḷige Ṭeli-Mānas nambar baredu koḍtēni, ondu-nālku-nālku-ondu-āru. Nānē yāra jotenū mātāḍilla."
+    en: "Burnout. Depression may be starting. It's funny, you know — every day I write the Tele-MANAS number down for patients: one-four-four-one-six. I've never talked to anyone myself."
+  - who: deepa
+    t: "ನಾನು ಆರು ತಿಂಗಳಿಂದ ಒಬ್ಬ ಕೌನ್ಸೆಲರ್ ಹತ್ರ ಹೋಗ್ತಿದೀನಿ. ವಾರಕ್ಕೊಂದ್ಸಲ. ಅದರಲ್ಲಿ ನಾಚಿಕೆ ಏನೂ ಇಲ್ಲ ಇಮ್ರಾನ್. ಅದಿಲ್ದಿದ್ರೆ ನಾನು ಈ ಟ್ರಿಪ್‌ಗೂ ಬರ್ತಿರ್ಲಿಲ್ಲ."
+    tr: "Nānu āru tiṅgaḷinda obba kaunselar hatra hōgtidīni. Vārakkondsala. Adaralli nācike ēnū illa Imrān. Adildidre nānu ī ṭrip-gū bartirlilla."
+    en: "I've been seeing a counsellor for six months. Once a week. There's nothing to be ashamed of in that, Imran. Without it I wouldn't even have come on this trip."
+  - who: imran
+    t: "ನೀನಾ? ಯಾಕ ದೀಪಾ?"
+    tr: "Nīnā? Yāka Dīpā?"
+    en: "You? Why, Deepa?"
+  - who: deepa
+    t: "ಅದು ಇನ್ನೊಂದು ದಿನ ಹೇಳ್ತೀನಿ. ಇವತ್ತು ನಿನ್ನ ಸರದಿ."
+    tr: "Adu innondu dina hēḷtīni. Ivattu ninna saradi."
+    en: "I'll tell you that another day. Tonight it's your turn."
+  - who: kaveri
+    t: "ಡಾಕ್ಟರ್‌ಗೂ ಡಾಕ್ಟರ್ ಬೇಕು. ಲಾಯರ್‌ಗೂ ಲಾಯರ್ ಬೇಕು. ಬೆಂಗಳೂರಲ್ಲಿ ನಿನ್ನ ಪೀಜಿ ಬ್ಯಾಚ್‌ನಲ್ಲಿ ಯಾರಾದ್ರೂ ಮನೋವೈದ್ಯರು ಇದ್ದಾರಾ?"
+    tr: "Ḍākṭar-gū ḍākṭar bēku. Lāyar-gū lāyar bēku. Beṅgaḷūralli ninna pīji byāc-nalli yārādrū manōvaidyaru iddārā?"
+    en: "A doctor needs a doctor too. A lawyer needs a lawyer. Is there a psychiatrist from your PG batch in Bengaluru?"
+  - who: imran
+    t: "ಅದಾಳ. ಸುನೀತಾ, ನಿಮ್ಹಾನ್ಸ್‌ನ್ಯಾಗ. ‘ಯಾವಾಗರೆ ಮಾತಾಡಬೇಕಂದ್ರ ಕಾಲ್ ಮಾಡು’ ಅಂತ ಎರಡು ವರ್ಷದಿಂದ ಹೇಳಾಕತ್ತಾಳ. ನಾ ‘ಆತು ಆತು’ ಅಂತ ಮುಂದ ಹಾಕ್ತಿದ್ದೆ."
+    tr: "Adāḷa. Sunītā, Nimhāns-nyāga. ‘Yāvāgare mātāḍabēkandra kāl māḍu’ anta eraḍu varṣadinda hēḷākattāḷa. Nā ‘ātu ātu’ anta munda hāktidde."
+    en: "There is. Sunita, at NIMHANS. For two years she's been saying, 'Call me whenever you need to talk.' I kept putting it off with 'yes, yes'."
+  - who: kaveri
+    t: "ಹಾಗಾದ್ರೆ ಬೆಂಗಳೂರಿಗೆ ವಾಪಸ್ ಹೋದ ಮೇಲೆ ಮೊದಲ ಕೆಲಸ ಅದು. ಪ್ರಾಮಿಸ್?"
+    tr: "Hāgādre Beṅgaḷūrige vāpas hōda mēle modala kelasa adu. Prāmis?"
+    en: "Then that's the first thing you do once we're back in Bengaluru. Promise?"
+  - who: imran
+    t: "ಆತು. ಪ್ರಾಮಿಸ್. ಮತ್ತ ರಜಾನೂ ಕೇಳ್ತೇನಿ — ಈ ಸಲ ಖರೇ ರಜಾ, ಫೋನ್ ಸಮೇತ ಬಂದ್."
+    tr: "Ātu. Prāmis. Matta rajānū kēḷtēni — ī sala kharē rajā, phōn samēta band."
+    en: "OK. Promise. And I'll ask for leave too — real leave this time, phone switched off and all."
+  - scene: "A door creaks below. Prakash's mother climbs the stairs slowly, holding three steel tumblers."
+  - who: amma
+    t: "ಯಾಕವ್ವಾ, ನಿದ್ದಿ ಬರವಲ್ತೇನು? ನಾ ಕೆಳಗ ಮಾತು ಕೇಳಿದೆ. ಅರಿಶಿಣ ಹಾಕಿ ಹಾಲು ಕಾಸೇನಿ, ಕುಡೀರಿ."
+    tr: "Yākavvā, niddi baravaltēnu? Nā keḷaga mātu kēḷide. Ariśiṇa hāki hālu kāsēni, kuḍīri."
+    en: "What is it, children, can't you sleep? I heard voices from downstairs. I've boiled milk with turmeric — drink it."
+  - who: imran
+    t: "ಅವ್ವಾ, ನೀವ್ಯಾಕ ಎದ್ದೀರಿ? ನಿಮ್ ಮೊಣಕಾಲು…"
+    tr: "Avvā, nīvyāka eddīri? Nim moṇakālu…"
+    en: "Avva, why did you get up? Your knee…"
+  - who: amma
+    t: "ಮೊಣಕಾಲು ನೋವು ನನ್ನದು, ಅದು ಹಳೇದು. ನಿನ್ನ ಮುಖದಾಗ ಇರೋ ನೋವು ಹೊಸದು ಪ್ಪಾ. ಡಾಕ್ಟ್ರೂ ಮನುಷ್ಯರೇ. ಮಂದಿನ್ನ ನೋಡ್ಕೊಳ್ಳೋ ಮೊದಲು ನಿನ್ನ ನೀ ನೋಡ್ಕೋ. ಕುಡಿ."
+    tr: "Moṇakālu nōvu nannadu, adu haḷēdu. Ninna mukhadāga irō nōvu hosadu ppā. Ḍākṭrū manuṣyarē. Mandinna nōḍkoḷḷō modalu ninna nī nōḍkō. Kuḍi."
+    en: "The knee pain is mine, and it's old. The pain on your face is new, son. Doctors are human too. Before you look after other people, look after yourself. Drink."
+  - scene: "Imran takes the tumbler with both hands. For the first time in months, he sleeps until eight."
+  - chapter: "Chapter 7 — The cheque"
+  - section: "Amma's send-off"
+    learn: "packing food for the road: butti, dāriyāga uṇri, ḍabbi obbobbarigondu · polite leave-taking: hōgi baratēvi (never just ‘hōgtīvi’), Kundapra hōy batte · a proverb about friendship: dōsti andra hagga iddaṅga, jaggidra gaṇṭu bīḷtada · a blessing: oḷḷēdāgli, artha ādra sāladu, māḍi tōrisu"
+  - scene: "Monday, 7 December 2026, half past six in the morning. The yard in Saptapur. The cars are packed. Prakash's mother comes out with a cloth bundle and a stack of pedha boxes."
+  - who: amma
+    t: "ಇದು ಬುತ್ತಿ. ಖಡಕ್ ರೊಟ್ಟಿ, ಶೇಂಗಾ ಚಟ್ನಿ, ಉಪ್ಪಿನಕಾಯಿ. ಘಟ್ಟದ ದಾರಿಯಾಗ ಹೋಟ್ಲಾ ಸಿಗಂಗಿಲ್ಲ, ಹಸಿವಾದ್ರ ದಾರಿಯಾಗ ಉಣ್ರಿ. ಪೇಡೆ ಡಬ್ಬಿ ಒಬ್ಬೊಬ್ಬರಿಗೊಂದು."
+    tr: "Idu butti. Khaḍak roṭṭi, śēṅgā caṭni, uppinakāyi. Ghaṭṭada dāriyāga hōṭlā sigaṅgilla, hasivādra dāriyāga uṇri. Pēḍe ḍabbi obbobbarigondu."
+    en: "This is a packed meal. Crisp rotti, peanut chutney, pickle. On the ghat road you won't find a hotel, so if you get hungry, eat on the way. One box of pedha each."
+  - who: deepa
+    t: "ಆಂಟಿ, ನೀವು ಎರಡು ದಿನ ನಮಗೋಸ್ಕರ ನಿಂತ್ಕೊಂಡೇ ಇದ್ರಿ. ಹೇಗೆ ಥ್ಯಾಂಕ್ಸ್ ಹೇಳೋದು ಅಂತಾನೇ ಗೊತ್ತಾಗ್ತಿಲ್ಲ."
+    tr: "Āṇṭi, nīvu eraḍu dina namagōskara nintkoṇḍē idri. Hēge thyāṅks hēḷōdu antānē gottāgtilla."
+    en: "Auntie, you were on your feet for us for two whole days. I don't even know how to thank you."
+  - who: amma
+    t: "ಥ್ಯಾಂಕ್ಸ್ ಗೀಂಕ್ಸ್ ಬ್ಯಾಡವ್ವಾ. ಮತ್ತೆ ಬರ್ರಿ, ಅಷ್ಟೇ ಸಾಕು. ‘ಹೋಗತೇವಿ’ ಅನಬ್ಯಾಡ್ರಿ, ‘ಹೋಗಿ ಬರತೇವಿ’ ಅನ್ರಿ."
+    tr: "Thyāṅks gīṅks byāḍavvā. Matte barri, aṣṭē sāku. ‘Hōgatēvi’ anabyāḍri, ‘hōgi baratēvi’ anri."
+    en: "No need for thanks and all that, dear. Just come again, that's enough. Don't say 'we're going' — say 'we'll go and come back'."
+  - who: ramya
+    t: "ಹೋಗಿ ಬತ್ತೇವೆ ಆಂಟಿ! ನಮ್ ಕುಂದಾಪ್ರದಲ್ಲೂ ಹಾಗೇ — ‘ಹೋಯ್ ಬತ್ತೆ’."
+    tr: "Hōgi battēve āṇṭi! Nam Kundāpradallū hāgē — ‘hōy batte’."
+    en: "We'll go and come back, Auntie! It's the same in our Kundapura — 'hoy batte'."
+  - scene: "Amma stops in front of Arjun, who is closing the boot. She has watched him for two days."
+  - who: amma
+    t: "ಅರ್ಜುನಾ, ಒಂದು ಮಾತು. ದೋಸ್ತಿ ಅಂದ್ರ ಹಗ್ಗ ಇದ್ದಂಗ ಪ್ಪಾ. ಜೋರಾಗಿ ಜಗ್ಗಿದ್ರ ಗಂಟು ಬೀಳ್ತದ. ಬಿಟ್ಟುಬಿಟ್ರ ಸಡಿಲ ಆಗ್ತದ. ಎರಡೂ ಕೈಯಾಗ ಹಿಡಕೊಂಡಿರಬೇಕು."
+    tr: "Arjunā, ondu mātu. Dōsti andra hagga iddaṅga ppā. Jōrāgi jaggidra gaṇṭu bīḷtada. Biṭṭubiṭra saḍila āgtada. Eraḍū kaiyāga hiḍakoṇḍirabēku."
+    en: "Arjun, one word. Friendship is like a rope, son. Pull it too hard and it knots. Let go and it goes slack. You have to hold it with both hands."
+  - who: arjun
+    t: "ಹೂಂ ಆಂಟಿ. ಅರ್ಥ ಆಯ್ತು."
+    tr: "Hūṃ āṇṭi. Artha āytu."
+    en: "Yes, Auntie. I understand."
+  - who: amma
+    t: "ಅರ್ಥ ಆದ್ರ ಸಾಲದು. ಮಾಡಿ ತೋರಿಸು. ಒಳ್ಳೇದಾಗ್ಲಿ, ಎಲ್ಲಾರಿಗೂ."
+    tr: "Artha ādra sāladu. Māḍi tōrisu. Oḷḷēdāgli, ellārigū."
+    en: "Understanding isn't enough. Show it by doing. May all go well for all of you."
+  - section: "Tea at Yellapur"
+    learn: "the ghat road: ghaṭṭa, tiruvu, guḍḍa kusita · a careless offer: ellā nandu, kampani kārḍ, jēbige kai hākbēḍi · the explosion: cek bauns āytu, memō, phaṇḍs in-saphiśiyeṇṭ, hadinēḷu dina ondu phōn illa · taking sides: nī yāvāglū avana para mātāḍti, modalu avana mātū kēḷi, adu anyāyada mātu"
+  - scene: "Ten in the morning. A tea shop at the edge of the teak forest near Yellapur. Both cars have stopped. Glasses of tea, banana buns in a glass jar, monkeys on the roof."
+  - who: naveen
+    t: "ಇಲ್ಲಿಂದ ಅಂಕೋಲಕ್ಕೆ ಘಟ್ಟ ಇಳಿಯುವುದು. ತಿರುವುಗಳು ಬಾರಿ ಉಂಟು. ಎರಡು ಸಾವಿರದ ಇಪ್ಪತ್ನಾಲ್ಕರ ಜುಲೈನಲ್ಲಿ ಶಿರೂರಿನ ಹತ್ರ ಗುಡ್ಡ ಕುಸಿದು ಹೈವೇ ಮೇಲೆ ಬಿದ್ದಿತ್ತಲ್ಲ, ನೆನಪುಂಟಾ? ಅದು ಇದೇ ಕಡೆ."
+    tr: "Illinda Aṅkōlakke ghaṭṭa iḷiyuvudu. Tiruvugaḷu bāri uṇṭu. Eraḍu sāvirada ippatnālkara Julainalli Śirūrina hatra guḍḍa kusidu haivē mēle biddittalla, nenapuṇṭā? Adu idē kaḍe."
+    en: "From here we go down the ghat to Ankola. Lots of hairpin bends. Remember in July 2024, near Shirur, a hill collapsed onto the highway? That's this side."
+  - who: ramya
+    t: "ನೆನಪಿಲ್ದೆ ಏನು? ಲಾರಿ ಡ್ರೈವರ್ ಅರ್ಜುನ್ ಅವರ ದೇಹ ತಿಂಗಳುಗಟ್ಟಲೆ ಆದ ಮೇಲೆ ಸಿಕ್ಕಿದ್ದು. ಆ ದಿನಗಳಲ್ಲಿ ನಮ್ ಓಬಿ ವ್ಯಾನ್ ಅಲ್ಲೇ ನಿಂತಿತ್ತು."
+    tr: "Nenapilde ēnu? Lāri ḍraivar Arjun avara dēha tiṅgaḷugaṭṭale āda mēle sikkiddu. Ā dinagaḷalli nam ōbi vyān allē nintittu."
+    en: "How could I forget? The lorry driver Arjun's body was found only months later. In those days our OB van was parked right there."
+  - who: arjun
+    t: "ಸರಿ ಸರಿ, ಸೀರಿಯಸ್ ಮಾತು ಸಾಕು. ಒಂದು ಅನೌನ್ಸ್‌ಮೆಂಟ್: ಗೋಕರ್ಣದ ಹೋಮ್‌ಸ್ಟೇ, ಡೀಸೆಲ್, ಟೋಲ್, ಇವತ್ತು ರಾತ್ರಿ ಫಿಶ್ ಥಾಲಿ — ಎಲ್ಲಾ ನಂದು. ಕಂಪನಿ ಕಾರ್ಡ್ ಇದೆ, ಯಾರೂ ಜೇಬಿಗೆ ಕೈ ಹಾಕ್ಬೇಡಿ."
+    tr: "Sari sari, sīriyas mātu sāku. Ondu anauns-meṇṭ: Gōkarṇada hōm-sṭē, ḍīsel, ṭōl, ivattu rātri phiś thāli — ellā nandu. Kampani kārḍ ide, yārū jēbige kai hākbēḍi."
+    en: "OK, OK, enough serious talk. An announcement: the Gokarna homestay, diesel, tolls, tonight's fish thali — all on me. I've got the company card, nobody put a hand in their pocket."
+  - scene: "Naveen puts his glass down on the bench. Hard."
+  - who: naveen
+    t: "ಕಂಪನಿ ಕಾರ್ಡಾ? ಯಾವ ಕಂಪನಿ ಮಾರಾಯ? ಯಾವ ಕಂಪನಿಯ ಚೆಕ್ ಹದಿನೇಳು ದಿನದ ಹಿಂದೆ ನನ್ನ ಬ್ಯಾಂಕಿನಲ್ಲಿ ಬೌನ್ಸ್ ಆಯ್ತೋ, ಅದೇ ಕಂಪನಿಯ ಕಾರ್ಡಾ?"
+    tr: "Kampani kārḍā? Yāva kampani mārāya? Yāva kampaniya cek hadinēḷu dinada hinde nanna byāṅkinalli bauns āytō, adē kampaniya kārḍā?"
+    en: "The company card? Which company, mārāya? The same company whose cheque bounced at my bank seventeen days ago — that company's card?"
+  - scene: "Silence. Even the tea-shop owner stops pouring."
+  - who: shruti
+    t: "ಏನು? ನವೀನ್, ಏನು ಹೇಳ್ತಿದೀಯಾ?"
+    tr: "Ēnu? Navīn, ēnu hēḷtidīyā?"
+    en: "What? Naveen, what are you saying?"
+  - who: naveen
+    t: "ಮಾರ್ಚ್‌ನಲ್ಲಿ ಇವನು ರಾತ್ರಿ ಹನ್ನೊಂದು ಗಂಟೆಗೆ ಫೋನ್ ಮಾಡಿದ. ‘ಮಗಾ, ಸ್ಯಾಲರಿ ಕೊಡೋಕೆ ಎಂಟು ಲಕ್ಷ ಕಮ್ಮಿ ಬಿದ್ದಿದೆ, ಆರು ತಿಂಗಳಲ್ಲಿ ವಾಪಸ್.’ ನಾನು ಯೋಚನೆ ಮಾಡ್ಲಿಲ್ಲ. ದುಬೈಯಲ್ಲಿ ಆರು ವರ್ಷ ಕೂಡಿಸಿದ ದುಡ್ಡು, ಮರುದಿನ ಬೆಳಿಗ್ಗೆ ಟ್ರಾನ್ಸ್‌ಫರ್ ಮಾಡಿದೆ."
+    tr: "Mārc-nalli ivanu rātri hannondu gaṇṭege phōn māḍida. ‘Magā, syālari koḍōke eṇṭu lakṣa kammi biddide, āru tiṅgaḷalli vāpas.’ Nānu yōcane māḍlilla. Dubaiyalli āru varṣa kūḍisida duḍḍu, marudina beḷigge ṭrānsphar māḍide."
+    en: "In March this man called me at eleven at night. 'Maga, I'm eight lakh short for salaries, you'll have it back in six months.' I didn't think twice. Money I'd saved over six years in Dubai — I transferred it the next morning."
+  - who: naveen
+    t: "ನವೆಂಬರ್ ಇಪ್ಪತ್ತರ ಡೇಟ್ ಹಾಕಿ ಕಂಪನಿ ಚೆಕ್ ಕೊಟ್ಟ. ಇಪ್ಪತ್ನಾಲ್ಕಕ್ಕೆ ಹಾಕಿದೆ. ಇಪ್ಪತ್ತಾರಕ್ಕೆ ಬ್ಯಾಂಕಿನಿಂದ ಮೆಮೋ — ‘ಫಂಡ್ಸ್ ಇನ್‌ಸಫಿಶಿಯೆಂಟ್.’ ಅವತ್ತಿಂದ ಇವತ್ತಿನವರೆಗೆ ಇವನಿಂದ ಒಂದು ಫೋನ್ ಇಲ್ಲ. ಒಂದು ಮೆಸೇಜ್ ಇಲ್ಲ. ಆಮೇಲೆ ಗ್ರೂಪ್‌ನಲ್ಲಿ ‘ಟ್ರಿಪ್ ಹೋಗುವ ಮಗಾ!’"
+    tr: "Navembar ippattara ḍēṭ hāki kampani cek koṭṭa. Ippatnālkakke hākide. Ippattārakke byāṅkininda memō — ‘phaṇḍs in-saphiśiyeṇṭ.’ Avattinda ivattinavarege ivaninda ondu phōn illa. Ondu mesēj illa. Āmēle grūp-nalli ‘ṭrip hōguva magā!’"
+    en: "He gave me a company cheque dated 20 November. I deposited it on the 24th. On the 26th, a memo from the bank: 'funds insufficient'. From that day to this, not one call from him. Not one message. And then on the group: 'Let's go on a trip, maga!'"
+  - who: arjun
+    t: "ನವೀನ್, ಒಂದ್ನಿಮಿಷ, ಕೇಳು. ಒಬ್ಬ ದೊಡ್ಡ ಕ್ಲೈಂಟ್ ಪೇಮೆಂಟ್ ಲೇಟ್ ಆಯ್ತು, ಅದಕ್ಕೆ ಅಕೌಂಟ್‌ನಲ್ಲಿ…"
+    tr: "Navīn, ondnimiṣa, kēḷu. Obba doḍḍa klaiṇṭ pēmeṇṭ lēṭ āytu, adakke akauṇṭ-nalli…"
+    en: "Naveen, one minute, listen. A big client's payment got delayed, so the account…"
+  - who: naveen
+    t: "ಕ್ಲೈಂಟ್ ಕತೆ ನನಗೆ ಬೇಡ! ಲೇಟ್ ಆದ್ರೆ ಫೋನ್ ಮಾಡಿ ಹೇಳುದಕ್ಕೆ ಎಷ್ಟು ಖರ್ಚಾಗ್ತದೆ? ಒಂದು ನಿಮಿಷ! ನಾನು ಉಡುಪಿಯಲ್ಲಿ ಬ್ಯಾಂಕ್ ಕೌಂಟರ್ ಮುಂದೆ ಆ ಮೆಮೋ ಹಿಡ್ಕೊಂಡು ನಿಂತಿದ್ದೆ, ಕ್ಯಾಶಿಯರ್ ನನ್ನ ಮುಖ ನೋಡ್ತಿದ್ದ. ನಮ್ಮಪ್ಪನಿಗೆ ಹೋಟೆಲ್ ರಿನೋವೇಷನ್ ಮುಂದಿನ ವರ್ಷ ಅಂತ ಸುಳ್ಳು ಹೇಳಿದೆ."
+    tr: "Klaiṇṭ kate nanage bēḍa! Lēṭ ādre phōn māḍi hēḷudakke eṣṭu kharcāgtade? Ondu nimiṣa! Nānu Uḍupiyalli byāṅk kauṇṭar munde ā memō hiḍkoṇḍu nintidde, kyāśiyar nanna mukha nōḍtidda. Nammappanige hōṭel rinōvēṣan mundina varṣa anta suḷḷu hēḷide."
+    en: "I don't want the client story! If it's late, what does it cost to phone and say so? One minute! I stood at the bank counter in Udupi holding that memo while the cashier stared at my face. I lied to my father that the hotel renovation would be next year."
+  - who: imran
+    t: "ಯಪ್ಪಾ… ಎಂಟು ಲಕ್ಷ ಅಂದ್ರ ಜುಜುಬಿ ಅಲ್ಲ ಅರ್ಜುನ್. ಮತ್ತ ಮೂರು ದಿನದಿಂದ ‘ಎಲ್ಲಾ ನಂದು’ ಅಂತ ಬಿಲ್ಡಪ್ ಕೊಡಾಕತ್ತಿದ್ದಿ?"
+    tr: "Yappā… eṇṭu lakṣa andra jujubi alla Arjun. Matta mūru dinadinda ‘ellā nandu’ anta bilḍap koḍākattiddi?"
+    en: "My God… eight lakh isn't small change, Arjun. And for three days you've been hyping yourself up with 'it's all on me'?"
+  - who: ramya
+    t: "ಅದಕ್ಕೇ ಮೂರು ದಿನದಿಂದ ಈ ಮೌನ! ನನಗೆ ಗೊತ್ತಿತ್ತು ಏನೋ ಇದೆ ಅಂತ. ಅರ್ಜುನ್, ಇದು ತುಂಬಾ ಚೀಪ್."
+    tr: "Adakkē mūru dinadinda ī mauna! Nanage gottittu ēnō ide anta. Arjun, idu tumbā cīp."
+    en: "So that's the reason for three days of silence! I knew something was up. Arjun, this is really cheap."
+  - who: shruti
+    t: "ಒಂದ್ ನಿಮಿಷ ಎಲ್ರೂ. ಇಲ್ಲೇ ಕೋರ್ಟ್ ಶುರು ಮಾಡೋಕೆ ಮುಂಚೆ ಅವನ ಮಾತೂ ಕೇಳಿ. ನಾವು ಎಲ್ರೂ ಒಟ್ಟಿಗೆ ಒಬ್ಬನ ಮೇಲೆ ಬಿದ್ರೆ ಅದು ನ್ಯಾಯ ಅಲ್ಲ."
+    tr: "Ond nimiṣa ellrū. Illē kōrṭ śuru māḍōke muñce avana mātū kēḷi. Nāvu ellrū oṭṭige obbana mēle bidre adu nyāya alla."
+    en: "One minute, everyone. Before you start a court right here, hear him out too. If all of us jump on one person together, that's not fair."
+  - who: imran
+    t: "ನೀ ಯಾವಾಗ್ಲೂ ಅವನ ಪರ ಮಾತಾಡ್ತಿ ಶ್ರುತಿ. ಕಾಲೇಜಿನಿಂದ."
+    tr: "Nī yāvāglū avana para mātāḍti Śruti. Kālējininda."
+    en: "You always take his side, Shruti. Ever since college."
+  - who: shruti
+    t: "ಅದು ಅನ್ಯಾಯದ ಮಾತು ಇಮ್ರಾನ್. ಕಾಲೇಜಿನಿಂದ ನನಗೆ ಇವನ ಮೇಲೆ ಎಷ್ಟು ಸಿಟ್ಟಿದೆ ಅಂತ ನಿನಗೆ ಗೊತ್ತಿಲ್ಲ. ಆದ್ರೂ ನವೀನ್‌ಗೆ ಅವನ ದುಡ್ಡು ವಾಪಸ್ ಬರಬೇಕು ಅಂದ್ರೆ, ಕೂಗಾಡೋದ್ರಿಂದ ಬರಲ್ಲ."
+    tr: "Adu anyāyada mātu Imrān. Kālējininda nanage ivana mēle eṣṭu siṭṭide anta ninage gottilla. Ādrū Navīn-ge avana duḍḍu vāpas barabēku andre, kūgāḍōdrinda baralla."
+    en: "That's unfair, Imran. You have no idea how angry I've been with him since college. But if Naveen is to get his money back, shouting won't bring it."
+  - who: deepa
+    t: "ನವೀನ್, ಕೂತ್ಕೋ ಸ್ವಲ್ಪ. ನೀರು ಕುಡಿ. ನಿನ್ನ ಸಿಟ್ಟು ಸರಿ. ಆದ್ರೆ ಈ ರಸ್ತೆ ಪಕ್ಕ ನಿಂತ್ಕೊಂಡು ಇದು ಮುಗಿಯಲ್ಲ."
+    tr: "Navīn, kūtkō svalpa. Nīru kuḍi. Ninna siṭṭu sari. Ādre ī raste pakka nintkoṇḍu idu mugiyalla."
+    en: "Naveen, sit down a bit. Drink some water. Your anger is right. But this won't be settled standing on the side of the road."
+  - who: arjun
+    t: "ನಾನು ಏನೂ ಸಮರ್ಥನೆ ಮಾಡ್ಕೊಳ್ತಿಲ್ಲ. ತಪ್ಪು ನಂದೇ. ಫೋನ್ ಮಾಡ್ಬೇಕಿತ್ತು. ಮಾಡ್ಲಿಲ್ಲ, ಯಾಕಂದ್ರೆ… ಅವನ ಧ್ವನಿ ಕೇಳೋಕೆ ಧೈರ್ಯ ಇರ್ಲಿಲ್ಲ."
+    tr: "Nānu ēnū samarthane māḍkoḷtilla. Tappu nandē. Phōn māḍbēkittu. Māḍlilla, yākandre… avana dhvani kēḷōke dhairya irlilla."
+    en: "I'm not defending myself. The fault is mine. I should have called. I didn't, because… I didn't have the courage to hear his voice."
+  - who: naveen
+    t: "ಧೈರ್ಯ ಇರಲಿಲ್ಲ. ಆದ್ರೆ ಟ್ರಿಪ್ ಪ್ಲಾನ್ ಮಾಡುವ ಧೈರ್ಯ ಉಂಟು. ನನ್ನ ಲಾಯರ್ ಸೆಕ್ಷನ್ ನೂರ ಮೂವತ್ತೆಂಟರ ನೋಟಿಸ್ ರೆಡಿ ಮಾಡಿ ಇಟ್ಟಿದ್ದಾರೆ ಗೊತ್ತುಂಟಾ? ‘ಕಳಿಸ್ಲಾ?’ ಅಂತ ಮೂರು ಸಲ ಕೇಳಿದ್ರು. ಮೂರು ಸಲಾನೂ ‘ಬೇಡ, ಅವನು ನನ್ನ ಫ್ರೆಂಡ್’ ಅಂದೆ."
+    tr: "Dhairya iralilla. Ādre ṭrip plān māḍuva dhairya uṇṭu. Nanna lāyar sekṣan nūra mūvatteṇṭara nōṭis reḍi māḍi iṭṭiddāre gottuṇṭā? ‘Kaḷislā?’ anta mūru sala kēḷidru. Mūru salānū ‘bēḍa, avanu nanna phreṇḍ’ ande."
+    en: "No courage. But courage enough to plan a trip. Do you know my lawyer has a Section 138 notice drafted and ready? Three times he asked me, 'Shall I send it?' All three times I said, 'No, he's my friend.'"
+  - section: "Section 138"
+    learn: "the law, carefully: Negōṣiyabal Insṭrumeṇṭs kāyde, sekṣan nūra mūvatteṇṭu · the clock: memō banda mūvattu dinadoḷage nōṭis, hadinaidu dina haṇa kaṭṭōke, āmēle ondu tiṅgaḷoḷage dūru · the penalty: eraḍu varṣadavarege jailu, cek mottada eraḍaraṣṭu daṇḍa · rāji māḍkoḷḷabahudāda aparādha · hedging like a lawyer: nānu yāra vakīlaḷū alla, dākhale nōḍade khacita alla"
+  - scene: "Everyone turns to Kaveri. She takes off her sunglasses and speaks slowly, the way she speaks to clients."
+  - who: kaveri
+    t: "ಮೊದಲು ಒಂದು ವಿಷಯ ಸ್ಪಷ್ಟ ಮಾಡ್ತೀನಿ. ನಾನು ಇಲ್ಲಿ ಇಬ್ಬರಲ್ಲಿ ಯಾರ ವಕೀಲಳೂ ಅಲ್ಲ. ಬ್ಯಾಂಕ್ ಮೆಮೋ, ಸಾಲದ ದಾಖಲೆ, ಚೆಕ್ ಯಾವುದನ್ನೂ ನೋಡಿಲ್ಲ. ಹಾಗಾಗಿ ನಾನು ಹೇಳೋದು ಸಾಮಾನ್ಯವಾಗಿ ಕಾನೂನು ಏನು ಅಂತ ಮಾತ್ರ. ಸರಿನಾ?"
+    tr: "Modalu ondu viṣaya spaṣṭa māḍtīni. Nānu illi ibbaralli yāra vakīlaḷū alla. Byāṅk memō, sālada dākhale, cek yāvudannū nōḍilla. Hāgāgi nānu hēḷōdu sāmānyavāgi kānūnu ēnu anta mātra. Sarinā?"
+    en: "Let me make one thing clear first. I'm not either one's lawyer here. I haven't seen the bank memo, the loan papers or the cheque. So all I'm telling you is what the law generally says. Agreed?"
+  - who: naveen
+    t: "ಸರಿ. ಹೇಳು."
+    tr: "Sari. Hēḷu."
+    en: "Fine. Tell us."
+  - who: kaveri
+    t: "ನೆಗೋಷಿಯಬಲ್ ಇನ್ಸ್ಟ್ರುಮೆಂಟ್ಸ್ ಕಾಯ್ದೆ, ಸೆಕ್ಷನ್ ನೂರ ಮೂವತ್ತೆಂಟು. ಚೆಕ್ ಬೌನ್ಸ್ ಆದ ಮೆಮೋ ಬಂದ ದಿನದಿಂದ ಮೂವತ್ತು ದಿನದೊಳಗೆ ಲೀಗಲ್ ನೋಟಿಸ್ ಕಳಿಸಬೇಕು. ನವೀನ್‌ಗೆ ಮೆಮೋ ಬಂದಿದ್ದು ಇಪ್ಪತ್ತಾರಕ್ಕೆ ಅಂದ್ರೆ, ಇನ್ನೂ ಸಮಯ ಇದೆ."
+    tr: "Negōṣiyabal insṭrumeṇṭs kāyde, sekṣan nūra mūvatteṇṭu. Cek bauns āda memō banda dinadinda mūvattu dinadoḷage līgal nōṭis kaḷisabēku. Navīn-ge memō bandiddu ippattārakke andre, innū samaya ide."
+    en: "The Negotiable Instruments Act, Section 138. A legal notice has to go within thirty days of the day the dishonour memo arrives. If Naveen got the memo on the 26th, there's still time."
+  - who: kaveri
+    t: "ನೋಟಿಸ್ ತಲುಪಿದ ಮೇಲೆ ಅರ್ಜುನ್‌ಗೆ ಹದಿನೈದು ದಿನ ಸಿಗುತ್ತೆ, ಹಣ ಕಟ್ಟೋಕೆ. ಕಟ್ಟದಿದ್ರೆ, ಆಮೇಲಿನ ಒಂದು ತಿಂಗಳೊಳಗೆ ನವೀನ್ ಮ್ಯಾಜಿಸ್ಟ್ರೇಟ್ ಕೋರ್ಟಲ್ಲಿ ದೂರು ಹಾಕಬಹುದು. ಇದು ಸಿವಿಲ್ ಕೇಸ್ ಅಲ್ಲ — ಕ್ರಿಮಿನಲ್ ಕೇಸ್."
+    tr: "Nōṭis talupida mēle Arjun-ge hadinaidu dina sigutte, haṇa kaṭṭōke. Kaṭṭadidre, āmēlina ondu tiṅgaḷoḷage Navīn myājisṭrēṭ kōrṭalli dūru hākabahudu. Idu sivil kēs alla — kriminal kēs."
+    en: "Once the notice reaches him, Arjun gets fifteen days to pay. If he doesn't, within one month after that Naveen can file a complaint in the magistrate's court. This isn't a civil case — it's a criminal case."
+  - who: prakash
+    t: "ಕ್ರಿಮಿನಲ್ಲಾ? ಅಂದ್ರ ಜೈಲು ಗಿಲು ಅದೇನ್ರಿ ಇದರಾಗ?"
+    tr: "Kriminallā? Andra jailu gilu adēnri idarāga?"
+    en: "Criminal? You mean there's jail and all that in this?"
+  - who: kaveri
+    t: "ಕಾನೂನಿನಲ್ಲಿ ಎರಡು ವರ್ಷದವರೆಗೆ ಜೈಲು, ಅಥವಾ ಚೆಕ್ ಮೊತ್ತದ ಎರಡರಷ್ಟು ದಂಡ, ಅಥವಾ ಎರಡೂ ಅಂತ ಇದೆ. ಆದ್ರೆ ಇದು ರಾಜಿ ಮಾಡ್ಕೊಳ್ಳಬಹುದಾದ ಅಪರಾಧ. ನಿಜ ಜೀವನದಲ್ಲಿ ಹೆಚ್ಚಿನ ಕೇಸ್‌ಗಳು ಹಣ ಕೊಟ್ಟು, ರಾಜಿ ಆಗಿ ಮುಗಿಯುತ್ತೆ."
+    tr: "Kānūninalli eraḍu varṣadavarege jailu, athavā cek mottada eraḍaraṣṭu daṇḍa, athavā eraḍū anta ide. Ādre idu rāji māḍkoḷḷabahudāda aparādha. Nija jīvanadalli heccina kēs-gaḷu haṇa koṭṭu, rāji āgi mugiyutte."
+    en: "The law says up to two years in jail, or a fine of up to twice the cheque amount, or both. But it's a compoundable offence — it can be settled. In real life most cases end with the money paid and a settlement."
+  - who: kaveri
+    t: "ಇನ್ನೊಂದು. ಕಳೆದ ವರ್ಷ ಸೆಪ್ಟೆಂಬರಲ್ಲಿ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಚೆಕ್ ಬೌನ್ಸ್ ಕೇಸ್‌ಗಳಿಗೆ ಹೊಸ ಮಾರ್ಗಸೂಚಿ ಕೊಟ್ಟಿದೆ — ಮೊದಲ ಹಂತದಲ್ಲೇ ಹಣ ಕೊಟ್ಟು ಮುಗಿಸಿದ್ರೆ ಖರ್ಚು ಕಮ್ಮಿ ಆಗೋ ಹಾಗೆ. ಎಷ್ಟು ಶೇಕಡಾ ಅಂತ ನನಗೆ ಈಗ ಖಚಿತವಾಗಿ ನೆನಪಿಲ್ಲ, ನೋಡಿ ಹೇಳ್ತೀನಿ."
+    tr: "Innondu. Kaḷeda varṣa Sepṭembaralli Suprīṃ Kōrṭ cek bauns kēs-gaḷige hosa mārgasūci koṭṭide — modala hantadallē haṇa koṭṭu mugisidre kharcu kammi āgō hāge. Eṣṭu śēkaḍā anta nanage īga khacitavāgi nenapilla, nōḍi hēḷtīni."
+    en: "One more thing. Last September the Supreme Court gave new guidelines for cheque-bounce cases — so that if you pay up at the very first stage, the costs are lower. I don't remember the exact percentage right now; I'll check and tell you."
+  - who: deepa
+    t: "ಕಂಪನಿ ಚೆಕ್ ಆಗಿರೋದ್ರಿಂದ ಏನಾದ್ರೂ ವ್ಯತ್ಯಾಸ ಇದೆಯಾ? ಅರ್ಜುನ್ ಸ್ವಂತ ಚೆಕ್ ಅಲ್ಲ ಅಲ್ವಾ?"
+    tr: "Kampani cek āgirōdrinda ēnādrū vyatyāsa ideyā? Arjun svanta cek alla alvā?"
+    en: "Does it make a difference that it's a company cheque? It's not Arjun's personal cheque, is it?"
+  - who: kaveri
+    t: "ಸಾಮಾನ್ಯವಾಗಿ ಕಂಪನಿ ಮೇಲೂ, ಆ ಸಮಯದಲ್ಲಿ ಕಂಪನಿಯ ವ್ಯವಹಾರಕ್ಕೆ ಜವಾಬ್ದಾರರಾಗಿದ್ದ ಡೈರೆಕ್ಟರ್‌ಗಳ ಮೇಲೂ ಕೇಸ್ ಆಗಬಹುದು. ಅರ್ಜುನ್ ಫೌಂಡರ್, ಚೆಕ್‌ಗೆ ಸಹಿ ಹಾಕಿದ್ದು ಅವನೇ ಆದ್ರೆ… ತಪ್ಪಿಸ್ಕೊಳ್ಳೋದು ಕಷ್ಟ. ಆದ್ರೆ ಮತ್ತೆ ಹೇಳ್ತೀನಿ: ದಾಖಲೆ ನೋಡದೆ ಯಾವುದೂ ಖಚಿತ ಅಲ್ಲ."
+    tr: "Sāmānyavāgi kampani mēlū, ā samayadalli kampaniya vyavahārakke javābdārarāgidda ḍairekṭar-gaḷa mēlū kēs āgabahudu. Arjun phauṇḍar, cek-ge sahi hākiddu avanē ādre… tappiskoḷḷōdu kaṣṭa. Ādre matte hēḷtīni: dākhale nōḍade yāvudū khacita alla."
+    en: "Generally a case can be filed against the company, and also against the directors who were in charge of its business at the time. Arjun is the founder; if he's the one who signed the cheque… it's hard to escape. But again: without seeing the papers, nothing is certain."
+  - who: kaveri
+    t: "ನನ್ನ ಸಲಹೆ ಕೇಳಿದ್ರೆ — ಕೋರ್ಟ್ ಅಂದ್ರೆ ವರ್ಷಗಟ್ಟಲೆ ಡೇಟ್ ಮೇಲೆ ಡೇಟ್. ನವೀನ್‌ಗೆ ಬೇಕಾಗಿರೋದು ದುಡ್ಡು, ಅರ್ಜುನ್‌ಗೆ ಜೈಲಲ್ಲ. ಬರವಣಿಗೆಯಲ್ಲಿ ಒಂದು ರಾಜಿ ಒಪ್ಪಂದ: ಎಷ್ಟು, ಯಾವಾಗ, ತಪ್ಪಿದ್ರೆ ಏನು. ಅದನ್ನ ನಾನು ಡ್ರಾಫ್ಟ್ ಮಾಡ್ಕೊಡ್ತೀನಿ, ಫೀಸ್ ಇಲ್ಲದೆ."
+    tr: "Nanna salahe kēḷidre — kōrṭ andre varṣagaṭṭale ḍēṭ mēle ḍēṭ. Navīn-ge bēkāgirōdu duḍḍu, Arjun-ge jailalla. Baravaṇigeyalli ondu rāji oppanda: eṣṭu, yāvāga, tappidre ēnu. Adanna nānu ḍrāphṭ māḍkoḍtīni, phīs illade."
+    en: "If you ask my advice — court means years of 'date after date'. What Naveen needs is his money, not Arjun in jail. A written settlement agreement: how much, when, and what happens if a payment is missed. I'll draft it for you, free of charge."
+  - who: ramya
+    t: "ವಕೀಲರು ಫೀಸ್ ಇಲ್ಲದೆ? ಇದನ್ನ ಬ್ರೇಕಿಂಗ್ ನ್ಯೂಸ್ ಮಾಡ್ಬೇಕು."
+    tr: "Vakīlaru phīs illade? Idanna brēkiṅg nyūs māḍbēku."
+    en: "A lawyer working for free? That should be breaking news."
+  - who: kaveri
+    t: "ರಮ್ಯಾ. ಈಗ ಅಲ್ಲ."
+    tr: "Ramyā. Īga alla."
+    en: "Ramya. Not now."
+  - who: prakash
+    t: "ನಮ್ ಕಡೆ ಒಂದು ಮಾತು ಐತಿ: ಸಾಲ ಕೊಟ್ಟವನ ಸಿಟ್ಟು ಖರೇ, ಸಾಲ ತಗೊಂಡವನ ನಾಚಿಕಿನೂ ಖರೇ. ಎರಡೂ ಖರೇ ಇದ್ದಾಗ, ನಡುವೆ ನಿಂತವರು ಕೂಗಬಾರದು, ಕೇಳಬೇಕು."
+    tr: "Nam kaḍe ondu mātu aiti: sāla koṭṭavana siṭṭu kharē, sāla tagoṇḍavana nācikinū kharē. Eraḍū kharē iddāga, naḍuve nintavaru kūgabāradu, kēḷabēku."
+    en: "We have a saying back home: the lender's anger is real, and the borrower's shame is real too. When both are real, the people standing in between shouldn't shout — they should listen."
+  - who: imran
+    t: "ಹೂಂ… ಬರೋಬ್ಬರಿ. ನಾ ಜರಾ ಜಾಸ್ತಿ ಮಾತಾಡಿದೆ. ಸಾರಿ ಶ್ರುತಿ."
+    tr: "Hūṃ… barōbbari. Nā jarā jāsti mātāḍide. Sāri Śruti."
+    en: "Hm… that's right. I said a bit too much. Sorry, Shruti."
+  - who: shruti
+    t: "ಪರವಾಗಿಲ್ಲ. ನಾವೆಲ್ಲಾ ಸುಸ್ತಾಗಿದೀವಿ."
+    tr: "Paravāgilla. Nāvellā sustāgidīvi."
+    en: "It's fine. We're all worn out."
+  - section: "Down the ghat"
+    learn: "a forced conversation: ibbarū ondē kārinalli, ōḍi hōgbēḍi · deep apology: ‘sāri’ aṣṭē andre sākāgalla anta gottu · ā nambikege drōha māḍde · kṣamisu anta kēḷōkū mukha illa, ādrū kēḷtidīni · what really hurt: ondu phōnigū bēḍadavanāde · a first repayment: ephḍi brēk māḍtīni, sañjeyoḷage mūru lakṣa · not yet forgiving: kṣamisiddēne anta īga hēḷudilla, Gōkarṇadalli nōḍuva"
+  - scene: "Kaveri takes Naveen's car keys out of his hand and gives them to Arjun."
+  - who: kaveri
+    t: "ಇವತ್ತು ಸ್ವಲ್ಪ ಬದಲಾವಣೆ. ಅರ್ಜುನ್ ಕಾರಿನಲ್ಲಿ ನಾವು ಆರು ಜನ ಹೋಗ್ತೀವಿ, ಶ್ರುತಿ ಡ್ರೈವ್ ಮಾಡ್ತಾಳೆ. ನವೀನ್ ಕಾರಿನಲ್ಲಿ ನೀವಿಬ್ಬರೇ. ಅಂಕೋಲದವರೆಗೆ ಒಂದೂವರೆ ಗಂಟೆ. ಮಾತಾಡಿ, ಇಲ್ಲಾ ಸುಮ್ಮನಿರಿ — ಆದ್ರೆ ಓಡಿ ಹೋಗ್ಬೇಡಿ."
+    tr: "Ivattu svalpa badalāvaṇe. Arjun kārinalli nāvu āru jana hōgtīvi, Śruti ḍraiv māḍtāḷe. Navīn kārinalli nīvibbarē. Aṅkōladavarege ondūvare gaṇṭe. Mātāḍi, illā summaniri — ādre ōḍi hōgbēḍi."
+    en: "A small change today. Six of us go in Arjun's car, Shruti drives. In Naveen's car it's just the two of you. An hour and a half to Ankola. Talk, or stay silent — but don't run away."
+  - who: naveen
+    t: "ಕಾವೇರಿ, ಇದು ಮದುವೆ ಕೌನ್ಸೆಲಿಂಗ್ ಅಲ್ಲ ಮಾರಾಯ್ತಿ."
+    tr: "Kāvēri, idu maduve kaunseliṅg alla mārāyti."
+    en: "Kaveri, this isn't marriage counselling, mārāyti."
+  - who: kaveri
+    t: "ಹದಿನಾಲ್ಕು ವರ್ಷದ ದೋಸ್ತಿ ಮದುವೆಗಿಂತ ಕಮ್ಮಿನಾ? ಹೊರಡಿ."
+    tr: "Hadinālku varṣada dōsti maduveginta kamminā? Horaḍi."
+    en: "Is a fourteen-year friendship worth less than a marriage? Get going."
+  - scene: "Naveen's car, going down the ghat. Hairpin bends, a lorry crawling in front. For twenty minutes neither says a word. Arjun drives. Naveen looks at the valley."
+  - who: arjun
+    t: "ನವೀನ್. ನಾನು ಮಾತಾಡ್ತೀನಿ, ನೀನು ಉತ್ತರ ಕೊಡ್ಬೇಕು ಅಂತಿಲ್ಲ."
+    tr: "Navīn. Nānu mātāḍtīni, nīnu uttara koḍbēku antilla."
+    en: "Naveen. I'll talk; you don't have to answer."
+  - who: naveen
+    t: "ಹೇಳು."
+    tr: "Hēḷu."
+    en: "Say it."
+  - who: arjun
+    t: "‘ಸಾರಿ’ ಅಷ್ಟೇ ಅಂದ್ರೆ ಸಾಕಾಗಲ್ಲ ಅಂತ ಗೊತ್ತು. ನೀನು ಯೋಚನೆ ಮಾಡದೆ ನನ್ನ ನಂಬಿದೆ. ನಾನು ಆ ನಂಬಿಕೆಗೆ ದ್ರೋಹ ಮಾಡ್ದೆ. ದುಡ್ಡು ಲೇಟ್ ಆಗಿದ್ದು ಒಂದು ತಪ್ಪು. ಹದಿನೇಳು ದಿನ ಮುಖ ತಪ್ಪಿಸ್ಕೊಂಡಿದ್ದು ಅದಕ್ಕಿಂತ ದೊಡ್ಡ ತಪ್ಪು."
+    tr: "‘Sāri’ aṣṭē andre sākāgalla anta gottu. Nīnu yōcane māḍade nanna nambide. Nānu ā nambikege drōha māḍde. Duḍḍu lēṭ āgiddu ondu tappu. Hadinēḷu dina mukha tappiskoṇḍiddu adakkinta doḍḍa tappu."
+    en: "I know just saying 'sorry' isn't enough. You trusted me without a second thought. I betrayed that trust. The money being late was one wrong. Hiding my face from you for seventeen days was a bigger one."
+  - who: naveen
+    t: "ಹೌದು. ಅದೇ. ನಿನಗೆ ಅರ್ಥ ಆಗ್ತದಾ ಅರ್ಜುನ್? ಎಂಟು ಲಕ್ಷ ಹೋದ ನೋವಿಗಿಂತ, ನಾನು ನಿನಗೆ ಒಂದು ಫೋನಿಗೂ ಬೇಡದವನಾದೆ ಅನ್ನುವ ನೋವು ಜಾಸ್ತಿ. ಕಾಲೇಜಿನಲ್ಲಿ ನಿನ್ನ ಎಕ್ಸಾಮ್ ಫೀಸ್ ಕಟ್ಟುವುದಕ್ಕೆ ನನ್ನ ಬೈಕ್ ಮಾರಿದ್ದೆ, ನೆನಪುಂಟಾ?"
+    tr: "Haudu. Adē. Ninage artha āgtadā Arjun? Eṇṭu lakṣa hōda nōviginta, nānu ninage ondu phōnigū bēḍadavanāde annuva nōvu jāsti. Kālējinalli ninna eksām phīs kaṭṭuvudakke nanna baik māridde, nenapuṇṭā?"
+    en: "Yes. That's it. Do you understand, Arjun? It hurts less that eight lakh is gone than that I became someone not worth even one phone call to you. In college I sold my bike to pay your exam fees — do you remember?"
+  - who: arjun
+    t: "ನೆನಪಿದೆ. ಹೀರೋ ಹೋಂಡಾ, ಕೆಂಪು ಬಣ್ಣ. ಹದಿನೆಂಟು ಸಾವಿರ. ನಾನು ಅದನ್ನ ಮೂರು ತಿಂಗಳಲ್ಲಿ ವಾಪಸ್ ಕೊಟ್ಟಿದ್ದೆ."
+    tr: "Nenapide. Hīrō Hōṇḍā, kempu baṇṇa. Hadineṇṭu sāvira. Nānu adanna mūru tiṅgaḷalli vāpas koṭṭidde."
+    en: "I remember. A Hero Honda, red. Eighteen thousand. I paid that back in three months."
+  - who: naveen
+    t: "ಕೊಟ್ಟಿದ್ದೆ. ಅವತ್ತಿನ ಅರ್ಜುನ್ ಕೊಡ್ತಿದ್ದ. ಇವತ್ತಿನ ಅರ್ಜುನ್ ಯಾರು ಅಂತ ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+    tr: "Koṭṭidde. Avattina Arjun koḍtidda. Ivattina Arjun yāru anta nanage gottilla."
+    en: "You did. That Arjun used to pay back. I don't know who today's Arjun is."
+  - scene: "A long bend. Arjun pulls into a lay-by above the valley and switches off the engine."
+  - who: arjun
+    t: "ಕ್ಷಮಿಸು ಅಂತ ಕೇಳೋಕೂ ನನಗೆ ಮುಖ ಇಲ್ಲ, ನವೀನ್. ಆದ್ರೂ ಕೇಳ್ತಿದೀನಿ. ಮತ್ತೆ ಬರೀ ಮಾತಲ್ಲ, ಕೆಲಸ: ನನ್ನ ಸ್ವಂತ ಎಫ್‌ಡಿ ಒಂದಿದೆ. ಈಗಲೇ ಫೋನಲ್ಲಿ ಬ್ರೇಕ್ ಮಾಡ್ತೀನಿ. ಇವತ್ತು ಸಂಜೆಯೊಳಗೆ ಮೂರು ಲಕ್ಷ ನಿನ್ನ ಅಕೌಂಟ್‌ಗೆ ಬರುತ್ತೆ."
+    tr: "Kṣamisu anta kēḷōkū nanage mukha illa, Navīn. Ādrū kēḷtidīni. Matte barī mātalla, kelasa: nanna svanta eph-ḍi ondide. Īgalē phōnalli brēk māḍtīni. Ivattu sañjeyoḷage mūru lakṣa ninna akauṇṭ-ge barutte."
+    en: "I don't even have the face to ask you to forgive me, Naveen. But I'm asking anyway. And not just words — action: I have a personal FD. I'll break it on my phone right now. Three lakh will reach your account by this evening."
+  - who: naveen
+    t: "ಮತ್ತೆ ಉಳಿದ ಐದು?"
+    tr: "Matte uḷida aidu?"
+    en: "And the remaining five?"
+  - who: arjun
+    t: "ಉಳಿದ ಐದು ಲಕ್ಷಕ್ಕೆ ಕಾವೇರಿ ಹೇಳಿದ ಹಾಗೆ ಬರವಣಿಗೆಯಲ್ಲಿ ಒಪ್ಪಂದ. ತಿಂಗಳು ತಿಂಗಳು. ನೀನು ಹೇಳೋ ಕಂಡೀಶನ್ ಎಲ್ಲಾ ಒಪ್ಪಿಕೊಳ್ತೀನಿ. ನೋಟಿಸ್ ಕಳಿಸ್ಬೇಕು ಅನ್ನಿಸಿದ್ರೆ ಕಳಿಸು. ನಾನು ತಡೆಯಲ್ಲ, ಕೋಪಾನೂ ಮಾಡ್ಕೊಳ್ಳಲ್ಲ."
+    tr: "Uḷida aidu lakṣakke Kāvēri hēḷida hāge baravaṇigeyalli oppanda. Tiṅgaḷu tiṅgaḷu. Nīnu hēḷō kaṇḍīśan ellā oppikoḷtīni. Nōṭis kaḷisbēku annisidre kaḷisu. Nānu taḍeyalla, kōpānū māḍkoḷḷalla."
+    en: "For the remaining five lakh, a written agreement like Kaveri said. Month by month. I'll accept every condition you set. If you feel you must send the notice, send it. I won't stop you, and I won't be angry either."
+  - who: naveen
+    t: "ಒಂದು ಪ್ರಶ್ನೆ. ನಿಜ ಹೇಳು. ನಿನ್ನ ಕಂಪನಿ ಹೇಗುಂಟು? ಒಂದು ಕ್ಲೈಂಟ್ ಲೇಟ್ ಆದ್ರೆ ಎಂಟು ಲಕ್ಷದ ಚೆಕ್ ಬೌನ್ಸ್ ಆಗುವ ಕಂಪನಿ — ಅದನ್ನ ‘ನಡೀತಿದೆ’ ಅಂತ ಅಮ್ಮನ ಮುಂದೆ ಹೇಳ್ದೆಯಲ್ಲ."
+    tr: "Ondu praśne. Nija hēḷu. Ninna kampani hēguṇṭu? Ondu klaiṇṭ lēṭ ādre eṇṭu lakṣada cek bauns āguva kampani — adanna ‘naḍītide’ anta ammana munde hēḷdeyalla."
+    en: "One question. Tell me the truth. How is your company really? A company where one late client makes an eight-lakh cheque bounce — and you told Amma 'it's going'."
+  - scene: "Arjun grips the steering wheel. A long pause."
+  - who: arjun
+    t: "ಕಷ್ಟದಲ್ಲಿದೆ. ನೀನು ಅಂದ್ಕೊಂಡಿರೋದಕ್ಕಿಂತ ಜಾಸ್ತಿ. ಆದ್ರೆ ಎಲ್ಲಾ ಈಗ ಹೇಳೋಕಾಗಲ್ಲ, ನವೀನ್. ಒಂದು ದಿನ ಕೊಡು. ಎಲ್ಲರ ಮುಂದೆ, ಒಟ್ಟಿಗೇ ಹೇಳ್ತೀನಿ. ಬೇರೆ ಬೇರೆ ಜನಕ್ಕೆ ಬೇರೆ ಬೇರೆ ಕತೆ ಹೇಳೋ ಶಕ್ತಿ ಇನ್ನು ನನಗಿಲ್ಲ."
+    tr: "Kaṣṭadallide. Nīnu andkoṇḍirōdakkinta jāsti. Ādre ellā īga hēḷōkāgalla, Navīn. Ondu dina koḍu. Ellara munde, oṭṭigē hēḷtīni. Bēre bēre janakke bēre bēre kate hēḷō śakti innu nanagilla."
+    en: "It's in trouble. More than you think. But I can't tell it all now, Naveen. Give me one day. I'll tell everyone, all together. I don't have the strength any more to tell different stories to different people."
+  - who: naveen
+    t: "ಮತ್ತೆ ಮುಚ್ಚಿಡುವುದಾ?"
+    tr: "Matte mucciḍuvudā?"
+    en: "Hiding things again?"
+  - who: arjun
+    t: "ಇಲ್ಲ. ಮುಚ್ಚಿಟ್ಟಿದ್ದು ಸಾಕು. ಒಂದೇ ಒಂದು ದಿನ."
+    tr: "Illa. Mucciṭṭiddu sāku. Ondē ondu dina."
+    en: "No. I've hidden enough. Just one day."
+  - scene: "Arjun opens his banking app and breaks the deposit. He shows Naveen the screen: transfer initiated, three lakh rupees. Naveen looks at it for a long time."
+  - who: naveen
+    t: "ಕ್ಷಮಿಸಿದ್ದೇನೆ ಅಂತ ಈಗ ಹೇಳುದಿಲ್ಲ. ಸುಳ್ಳು ಆಗ್ತದೆ. ನೋಟಿಸ್ ಕಳಿಸುದಿಲ್ಲ ಅಂತನೂ ಹೇಳುದಿಲ್ಲ, ಕಳಿಸ್ತೇನೆ ಅಂತನೂ ಹೇಳುದಿಲ್ಲ. ಗೋಕರ್ಣದಲ್ಲಿ ನೋಡುವ. ಗಾಡಿ ಸ್ಟಾರ್ಟ್ ಮಾಡು. ಅವರು ಅಂಕೋಲದಲ್ಲಿ ಕಾಯ್ತಿದ್ದಾರೆ."
+    tr: "Kṣamisiddēne anta īga hēḷudilla. Suḷḷu āgtade. Nōṭis kaḷisudilla antanū hēḷudilla, kaḷistēne antanū hēḷudilla. Gōkarṇadalli nōḍuva. Gāḍi sṭārṭ māḍu. Avaru Aṅkōladalli kāytiddāre."
+    en: "I won't say I've forgiven you now. It would be a lie. I won't say I won't send the notice, and I won't say I will. Let's see at Gokarna. Start the car. They're waiting at Ankola."
+  - section: "Meanwhile, in the other car"
+    learn: "gossip and its limits: lē-āph āda mēle phaṇḍiṅg sikkilla ante · ante-kante bēḍa · a doctor's eye: mūru rātri eraḍu gaṇṭege bālkaniyalli · seeing both sides: sāiḍ tagoḷḷōdu sulabha, eraḍū kaḍe nillōdu kaṣṭa · a journalist's choice: ā vīḍiyō ḍilīṭ māḍde"
+  - scene: "Arjun's car, the same ghat, two bends behind. Shruti drives. Six people, and for a while only the sound of the engine braking on the curves."
+  - who: ramya
+    t: "ಒಂದು ವಿಷಯ ಹೇಳ್ಲಾ? ಸ್ಟಾರ್ಟಪ್ ಬೀಟ್ ನೋಡೋ ನನ್ನ ಕೊಲೀಗ್ ಹೇಳ್ತಿದ್ದ — ಅರ್ಜುನ್ ಕಂಪನಿಗೆ ಲೇಆಫ್ ಆದ ಮೇಲೆ ಮುಂದಿನ ರೌಂಡ್ ಫಂಡಿಂಗ್ ಸಿಕ್ಕಿಲ್ಲ ಅಂತೆ."
+    tr: "Ondu viṣaya hēḷlā? Sṭārṭap bīṭ nōḍō nanna kolīg hēḷtidda — Arjun kampanige lē-āph āda mēle mundina rauṇḍ phaṇḍiṅg sikkilla ante."
+    en: "Shall I tell you something? A colleague of mine who covers the startup beat was saying — after the layoffs, Arjun's company apparently didn't get its next round of funding."
+  - who: kaveri
+    t: "‘ಅಂತೆ.’ ಅಂತೆ-ಕಂತೆ ಬೇಡ ರಮ್ಯಾ. ಅವನೇ ಹೇಳ್ತೀನಿ ಅಂದಿದ್ದಾನೆ. ಅವನ ಬಾಯಿಂದಲೇ ಕೇಳೋಣ."
+    tr: "‘Ante.’ Ante-kante bēḍa Ramyā. Avanē hēḷtīni andiddāne. Avana bāyindalē kēḷōṇa."
+    en: "'Apparently.' No hearsay, Ramya. He said he'll tell us himself. Let's hear it from his own mouth."
+  - who: imran
+    t: "ನಾ ಒಂದು ನೋಡೀನಿ, ಅದು ಅಂತೆ ಅಲ್ಲ. ಮೂರು ರಾತ್ರಿ ಎರಡು ಗಂಟೆಗೆ ಅಂವ ಬಾಲ್ಕನಿಯಾಗ ಕುಂತು ಫೋನ್ ನೋಡಾಕತ್ತಿದ್ದ. ಇ-ಮೇಲ್, ಎಕ್ಸೆಲ್ ಶೀಟ್. ನನಗೂ ನಿದ್ದಿ ಇರಲಿಲ್ಲ, ಅದಕ್ಕೇ ಗೊತ್ತು."
+    tr: "Nā ondu nōḍīni, adu ante alla. Mūru rātri eraḍu gaṇṭege aṃva bālkaniyāga kuntu phōn nōḍākattidda. I-mēl, eksel śīṭ. Nanagū niddi iralilla, adakkē gottu."
+    en: "I saw something myself, and that's not hearsay. Three nights running, at two in the morning, he was sitting on the balcony looking at his phone. Emails, Excel sheets. I wasn't sleeping either — that's how I know."
+  - who: prakash
+    t: "ಖರೇ ಹೇಳ್ತೇನಿ. ಚಿತ್ರದುರ್ಗದಾಗ ನನ್ ಮಾತಿಗೆ ನಕ್ಕಾಂವ ಅಂವ. ಇನ್ನೂ ಆ ಸಿಟ್ಟು ಐತಿ. ಆದ್ರ ಇವತ್ತು ಆ ಟೀ ಅಂಗಡಿ ಮುಂದ ಅವನ ಮುಖ ನೋಡಿದ್ರ ಪಾಪ ಅನ್ನಿಸ್ತು. ಮನುಷ್ಯ ಒಳಗಿಂದ ಮುರಿದಾನ."
+    tr: "Kharē hēḷtēni. Citradurgadāga nan mātige nakkāṃva aṃva. Innū ā siṭṭu aiti. Ādra ivattu ā ṭī aṅgaḍi munda avana mukha nōḍidra pāpa annistu. Manuṣya oḷaginda muridāna."
+    en: "I'll be honest. He's the one who laughed at the way I talk, at Chitradurga. I'm still angry about that. But seeing his face in front of that tea shop today, I felt sorry for him. The man's broken inside."
+  - who: shruti
+    t: "ಅರ್ಜುನ್ ಯಾವಾಗ್ಲೂ ಹೀಗೇ. ಕಷ್ಟ ಬಂದಾಗ ಸಹಾಯ ಕೇಳಲ್ಲ, ಎಲ್ಲರಿಂದ ದೂರ ಓಡ್ತಾನೆ. ಎರಡು ಸಾವಿರದ ಹನ್ನೆರಡರಲ್ಲೂ ಹಾಗೇ ಮಾಡಿದ್ದ."
+    tr: "Arjun yāvāglū hīgē. Kaṣṭa bandāga sahāya kēḷalla, ellarinda dūra ōḍtāne. Eraḍu sāvirada hanneraḍarallū hāgē māḍidda."
+    en: "Arjun's always been like this. When trouble comes he doesn't ask for help — he runs away from everyone. He did the same thing in 2012."
+  - who: ramya
+    t: "ಎರಡು ಸಾವಿರದ ಹನ್ನೆರಡು ಅಂದ್ರೆ… ಪುಣೆ? ಶ್ರುತಿ, ನೀನು ಯಾವತ್ತೂ ಅದರ ಬಗ್ಗೆ…"
+    tr: "Eraḍu sāvirada hanneraḍu andre… Puṇe? Śruti, nīnu yāvattū adara bagge…"
+    en: "2012 means… Pune? Shruti, you've never once talked about…"
+  - who: shruti
+    t: "ಅದು ಸಮುದ್ರದ ಹತ್ರ, ರಮ್ಯಾ. ಈಗ ಅಲ್ಲ. ಈಗ ರೋಡ್ ನೋಡೋಕೆ ಬಿಡಿ, ಮುಂದೆ ಹೇರ್‌ಪಿನ್ ಇದೆ."
+    tr: "Adu samudrada hatra, Ramyā. Īga alla. Īga rōḍ nōḍōke biḍi, munde hēr-pin ide."
+    en: "That's for the sea, Ramya. Not now. Now let me watch the road, there's a hairpin coming."
+  - who: deepa
+    t: "ದುಡ್ಡಿನ ವಿಷಯದಲ್ಲಿ ಮೌನ ಎಷ್ಟು ನೋವು ಕೊಡುತ್ತೆ ಅಂತ ನನಗೆ ಗೊತ್ತು. ಜಾಯಿಂಟ್ ಅಕೌಂಟ್‌ನಿಂದ ದುಡ್ಡು ಹೋಗ್ತಿರುತ್ತೆ, ಯಾರೂ ಏನೂ ಹೇಳಲ್ಲ… ನವೀನ್‌ನ ಸಿಟ್ಟು ನನಗೆ ಅರ್ಥ ಆಗುತ್ತೆ."
+    tr: "Duḍḍina viṣayadalli mauna eṣṭu nōvu koḍutte anta nanage gottu. Jāyiṇṭ akauṇṭ-ninda duḍḍu hōgtirutte, yārū ēnū hēḷalla… Navīn-na siṭṭu nanage artha āgutte."
+    en: "I know how much silence about money hurts. Money keeps going out of a joint account and nobody says a word… I understand Naveen's anger."
+  - scene: "Prakash and Imran glance at each other. Kaveri, beside Deepa, quietly takes her hand."
+  - who: imran
+    t: "ದೀಪಾ, ನೀ ರಾತ್ರಿ ‘ಇನ್ನೊಂದು ದಿನ ಹೇಳ್ತೀನಿ’ ಅಂದಿದ್ದು… ಇದೇನಾ?"
+    tr: "Dīpā, nī rātri ‘innondu dina hēḷtīni’ andiddu… idēnā?"
+    en: "Deepa, what you said last night — 'I'll tell you another day'… is it this?"
+  - who: deepa
+    t: "ಇದೂ ಹೌದು. ಇನ್ನೊಂದು ದಿನ, ಇಮ್ರಾನ್. ಪ್ರಾಮಿಸ್."
+    tr: "Idū haudu. Innondu dina, Imrān. Prāmis."
+    en: "This too, yes. Another day, Imran. Promise."
+  - who: kaveri
+    t: "ನೋಡಿ, ಸೈಡ್ ತಗೊಳ್ಳೋದು ಸುಲಭ. ಎರಡೂ ಕಡೆ ನಿಲ್ಲೋದು ಕಷ್ಟ. ಫ್ರೆಂಡ್ಸ್ ಅಂದ್ರೆ ಎರಡನೇದು. ನವೀನ್ ಜೊತೆ ನ್ಯಾಯ ನಿಲ್ಲುತ್ತೆ. ಅರ್ಜುನ್ ಜೊತೆ ನಾವು ನಿಲ್ಲಬೇಕು."
+    tr: "Nōḍi, sāiḍ tagoḷḷōdu sulabha. Eraḍū kaḍe nillōdu kaṣṭa. Phreṇḍs andre eraḍanēdu. Navīn jote nyāya nillutte. Arjun jote nāvu nillabēku."
+    en: "Look, taking sides is easy. Standing on both sides is hard. Friends do the second. Justice will stand with Naveen. We have to stand with Arjun."
+  - who: ramya
+    t: "ಸರಿ. ಮತ್ತೆ ಒಂದು ವಿಷಯ, ವಕೀಲರೇ — ಆ ಟೀ ಅಂಗಡಿಯಲ್ಲಿ ನಡೆದಿದ್ದೆಲ್ಲಾ ನನ್ನ ಫೋನಲ್ಲಿ ರೆಕಾರ್ಡ್ ಆಗಿತ್ತು. ಈಗಷ್ಟೇ ಡಿಲೀಟ್ ಮಾಡ್ದೆ."
+    tr: "Sari. Matte ondu viṣaya, vakīlarē — ā ṭī aṅgaḍiyalli naḍediddellā nanna phōnalli rekārḍ āgittu. Īgaṣṭē ḍilīṭ māḍde."
+    en: "OK. And one more thing, Counsel — everything that happened at the tea shop was recorded on my phone. I've just deleted it."
+  - who: kaveri
+    t: "ಗುಡ್. ಹೆಮ್ಮೆ ಆಯ್ತು."
+    tr: "Guḍ. Hemme āytu."
+    en: "Good. I'm proud of you."
+  - who: ramya
+    t: "ಹನ್ನೆರಡು ವರ್ಷದಲ್ಲಿ ಮೊದಲ ಸಲ ಕೈಗೆ ಸಿಕ್ಕಿದ ಸ್ಟೋರಿಗೆ ‘ಬೇಡ’ ಅಂದೆ. ಏನೋ ಒಂದು ತರ ಆಗ್ತಿದೆ… ಆದ್ರೆ ಒಳ್ಳೇ ತರ."
+    tr: "Hanneraḍu varṣadalli modala sala kaige sikkida sṭōrige ‘bēḍa’ ande. Ēnō ondu tara āgtide… ādre oḷḷē tara."
+    en: "For the first time in twelve years I said 'no' to a story that fell into my hands. I feel strange… but a good kind of strange."
+  - who: imran
+    t: "ಶ್ರುತಿ, ಜರಾ ಹಾಡು ಹಾಕು. ಇಷ್ಟು ಗಂಭೀರ ಇದ್ರ ಘಟ್ಟ ಮುಗಿಯೂದ್ರಾಗ ನನ್ ಬಿಪಿ ಏರ್ತದ."
+    tr: "Śruti, jarā hāḍu hāku. Iṣṭu gambhīra idra ghaṭṭa mugiyūdrāga nan bipi ērtada."
+    en: "Shruti, put on some music. If it stays this serious, my BP will be up before the ghat's over."
+  - who: shruti
+    t: "ಸರಿ, ಡಾಕ್ಟರ್ ಆರ್ಡರ್. ‘ಮುಂಗಾರು ಮಳೆ’ ಹಾಕ್ಲಾ?"
+    tr: "Sari, ḍākṭar ārḍar. ‘Muṅgāru Maḷe’ hāklā?"
+    en: "All right, doctor's orders. Shall I put on 'Mungaru Male'?"
+  - who: ramya
+    t: "ಬೇಡ ಮರ್ರೆ! ಆ ಹಾಡು ಹಾಕಿದ್ರೆ ಈ ಕಾರಲ್ಲಿ ಎಲ್ರೂ ಅಳ್ತಾರೆ. ಏನಾದ್ರೂ ಕುಣಿಯೋ ಹಾಡು ಹಾಕು."
+    tr: "Bēḍa marre! Ā hāḍu hākidre ī kāralli ellrū aḷtāre. Ēnādrū kuṇiyō hāḍu hāku."
+    en: "No, marre! Put that song on and everyone in this car will cry. Put on something you can dance to."
+  - scene: "Ankola, a junction by the highway. The six are standing beside Arjun's car eating Amma's rotti out of the cloth bundle. Naveen's car pulls in. Naveen gets out first."
+  - who: ramya
+    t: "ಎಂತ ಆಯ್ತ್ ಮರ್ರೆ? ಇಬ್ರೂ ಜೀವಂತ ಇದ್ರಿ, ಸದ್ಯಕ್ಕೆ ಅಷ್ಟು ಸಾಕು."
+    tr: "Enta āyt marre? Ibrū jīvanta idri, sadyakke aṣṭu sāku."
+    en: "So what happened, marre? You're both alive — that's enough for now."
+  - who: naveen
+    t: "ಜೀವಂತ ಉಂಟು. ಮೂರು ಲಕ್ಷ ಬರ್ತಾ ಉಂಟು, ಐದು ಬಾಕಿ. ಮಾತು ಇನ್ನೂ ಬಾಕಿ. ಆ ರೊಟ್ಟಿ ಸ್ವಲ್ಪ ಕೊಡಿ, ಹಸಿವಾಗ್ತಿದೆ."
+    tr: "Jīvanta uṇṭu. Mūru lakṣa bartā uṇṭu, aidu bāki. Mātu innū bāki. Ā roṭṭi svalpa koḍi, hasivāgtide."
+    en: "Alive, yes. Three lakh is on its way, five is pending. The talking's still pending too. Give me some of that rotti — I'm hungry."
+  - who: prakash
+    t: "ತಗೊಳ್ರಿ. ಅವ್ವ ಹೇಳಿದ್ದು ಖರೇ ಆತು — ಘಟ್ಟದಾಗ ಹೋಟ್ಲಾ ಸಿಗಲಿಲ್ಲ, ಅವಳ ರೊಟ್ಟಿನೇ ಗತಿ."
+    tr: "Tagoḷri. Avva hēḷiddu kharē ātu — ghaṭṭadāga hōṭlā sigalilla, avaḷa roṭṭinē gati."
+    en: "Here, take it. What Avva said came true — no hotel on the ghat, her rotti is all we've got."
+  - who: arjun
+    t: "ಪ್ರಕಾಶ್… ನಿಮ್ಮಮ್ಮ ಬೆಳಿಗ್ಗೆ ಹೇಳಿದ ಹಗ್ಗದ ಮಾತು. ಅದು ನನಗೇ ಅಂತ ಗೊತ್ತಿತ್ತು ಅವರಿಗೆ, ಅಲ್ವಾ?"
+    tr: "Prakāś… nimmamma beḷigge hēḷida haggada mātu. Adu nanagē anta gottittu avarige, alvā?"
+    en: "Prakash… what your mother said this morning about the rope. She knew it was meant for me, didn't she?"
+  - who: prakash
+    t: "ನನ್ ಅವ್ವಗ ಎಲ್ಲಾ ಗೊತ್ತಾಗ್ತದ. ಯಾರೂ ಹೇಳಬೇಕಾಗಿಲ್ಲ."
+    tr: "Nan avvaga ellā gottāgtada. Yārū hēḷabēkāgilla."
+    en: "My mother knows everything. Nobody has to tell her."
